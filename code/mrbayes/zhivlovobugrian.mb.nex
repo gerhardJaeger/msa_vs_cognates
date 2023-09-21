@@ -6,7 +6,7 @@ Begin MrBayes;
     prset brlenspr = clock:uniform;
     prset clockvarpr=igr;
     lset coding=all;
-    mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/zhivlovobugrian samplefreq=1000 printfreq=1000;
+    mcmcp stoprule=no burninfrac=0.25 stopval=0.01 filename=output/zhivlovobugrian samplefreq=1000 printfreq=1000;
     mcmc ngen=20000000 nchains=2 nruns=2;
     sumt;
     sump;
