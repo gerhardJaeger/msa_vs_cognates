@@ -34,3 +34,12 @@ for fn in vstat_files
 end
 
 ##
+
+fn = not_converged[1]
+vdf = @pipe CSV.File(
+        fn,
+        delim="\t",
+        header=2,
+        missingstring="NA") |> 
+            DataFrame |>
+            dropmissing(_, :PSRF)
