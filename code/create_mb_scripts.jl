@@ -67,73 +67,61 @@ end
 
 mkpath("../data/combined/")
 
-ds = rand(datasets)
-
-ds_name = split(split(ds, "/")[end], ".")[1]
-
-phylip_correspondences = open("../data/correspondences_phylip/$ds_name.phy") do f
-    readlines(f)
-end
-
-n_correspondences = parse(Int, split(phylip_correspondences[1])[2])
-
-phylip_cognates = open("../data/cognate_classes_phylip/$ds_name.phy") do f
-    readlines(f)
-end
-
-n_cognates = parse(Int, split(phylip_cognates[1])[2])
-
-correspondences_dict = Dict(split.(phylip_correspondences)[2:end])
-cognates_dict = Dict(split.(phylip_cognates)[2:end])
-
-taxa = string.(intersect(keys(correspondences_dict), keys(cognates_dict)))
-n_taxa = length(taxa)
-n_characters = n_correspondences + n_cognates
-
-pad = maximum(length.(taxa))+5
-
-nex = """
-#Nexus
-BEGIN DATA;
-DIMENSIONS ntax=$(n_taxa) nchar = $(n_characters);
-FORMAT DATATYPE=Restriction GAP=? MISSING=- interleave=no;
-MATRIX
-
-"""
-
-for l in taxa
-    nex *= rpad(l, pad) * " " * correspondences_dict[l] * cognates_dict[l] * "\n"
-end
-nex *= """;
-END
-"""
-
-nexus_file = "../data/combined/$ds_name.nex"
-
-write(nexus_file, nex)
-
-nm = ds_name*"_combined"
-
-mb = """
+for ds in datasets
+    ds_name = split(split(ds, "/")[end], ".")[1]
+    phylip_correspondences = open("../data/correspondences_phylip/$ds_name.phy") do f
+        readlines(f)
+    end
+    n_correspondences = parse(Int, split(phylip_correspondences[1])[2])
+    phylip_cognates = open("../data/cognate_classes_phylip/$ds_name.phy") do f
+        readlines(f)
+    end
+    n_cognates = parse(Int, split(phylip_cognates[1])[2])
+    correspondences_dict = Dict(split.(phylip_correspondences)[2:end])
+    cognates_dict = Dict(split.(phylip_cognates)[2:end])
+    taxa = string.(intersect(keys(correspondences_dict), keys(cognates_dict)))
+    n_taxa = length(taxa)
+    n_characters = n_correspondences + n_cognates
+    pad = maximum(length.(taxa))+5
+    nex = """
     #Nexus
-    Begin MrBayes;
-        execute ../$nexus_file;
-        charset correspondences = 1-$(n_correspondences);
-        charset cognates = $(n_correspondences + 1)-$(n_characters);
-        partition dtype = 2:correspondences, cognates;
-        set partition = dtype;
-        prset brlenspr = clock:uniform;
-        prset applyto=(all) clockvarpr = igr;
-        lset applyto=(all) rates=gamma;
-        unlink Statefreq=(all) shape=(all) igrvar=(all) rate=(all);
-        prset applyto=(all) ratepr=Dirichlet(1, 1);
-        prset applyto=(2) clockratepr=exp(1.0); [for partition 2]
-        lset applyto=(all) coding=noabsencesites;
-        mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000;
-        mcmc ngen=100000000 nchains=4 nruns=4;
-        sumt;
-        sump;
-        q;
-    end;
+    BEGIN DATA;
+    DIMENSIONS ntax=$(n_taxa) nchar = $(n_characters);
+    FORMAT DATATYPE=Restriction GAP=? MISSING=- interleave=no;
+    MATRIX
+
     """
-    write("mrbayes/$nm.mb.nex", mb)
+
+    for l in taxa
+        nex *= rpad(l, pad) * " " * correspondences_dict[l] * cognates_dict[l] * "\n"
+    end
+    nex *= """;
+    END
+    """
+    nexus_file = "../data/combined/$ds_name.nex"
+    write(nexus_file, nex)
+    nm = ds_name*"_combined"
+    mb = """
+        #Nexus
+        Begin MrBayes;
+            execute ../$nexus_file;
+            charset correspondences = 1-$(n_correspondences);
+            charset cognates = $(n_correspondences + 1)-$(n_characters);
+            partition dtype = 2:correspondences, cognates;
+            set partition = dtype;
+            prset brlenspr = clock:uniform;
+            prset applyto=(all) clockvarpr = igr;
+            lset applyto=(all) rates=gamma;
+            unlink Statefreq=(all) shape=(all) igrvar=(all) rate=(all);
+            prset applyto=(all) ratepr=Dirichlet(1, 1);
+            prset applyto=(2) clockratepr=exp(1.0); [for partition 2]
+            lset applyto=(all) coding=noabsencesites;
+            mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000;
+            mcmc ngen=100000000 nchains=4 nruns=4;
+            sumt;
+            sump;
+            q;
+        end;
+        """
+        write("mrbayes/$nm.mb.nex", mb)
+end
