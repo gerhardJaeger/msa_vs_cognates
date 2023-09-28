@@ -19,11 +19,9 @@ glottologTrees = readdir("../data/glottolog_trees")
 
 datasets = first.(split.(glottologTrees, "_"))
 
+datasets = filter(x -> x != "walworthpolynesian", datasets)
+
 ##
-
-
-
-ds = rand(datasets)
 
 
 function gqd_correspondences(ds)

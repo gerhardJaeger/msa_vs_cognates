@@ -14,16 +14,16 @@ datasets <-
 dir.create("../data/posterior_trees", showWarnings = FALSE)
 
 for (ds in datasets) {
-    if (ds != "houchinese_correspondences") {
-        print(ds)
-        tree_list <- 
-            list(
-                read.nexus(paste0("mrbayes/output/", ds, ".run1.t")),
-                read.nexus(paste0("mrbayes/output/", ds, ".run2.t")),
-                read.nexus(paste0("mrbayes/output/", ds, ".run3.t")),
-                read.nexus(paste0("mrbayes/output/", ds, ".run4.t"))
-            ) 
-        trees <- NULL
+    print(ds)
+    tree_list <- 
+        list(
+            read.nexus(paste0("mrbayes/output/", ds, ".run1.t")),
+            read.nexus(paste0("mrbayes/output/", ds, ".run2.t")),
+            read.nexus(paste0("mrbayes/output/", ds, ".run3.t")),
+            read.nexus(paste0("mrbayes/output/", ds, ".run4.t"))
+        ) 
+    trees <- NULL
+    if (length(tree_list[[1]]) > 333) {
         for (i in 1:length(tree_list)) {
             trees_i <- tree_list[[i]]
             bi <- ceiling(length(trees_i)/4)

@@ -33,6 +33,9 @@ for fn in mcmc_files
     end
 end
 
-@info not_converged
+for x in not_converged
+    @info x
+end
+
 
 ##
