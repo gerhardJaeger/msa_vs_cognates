@@ -6,7 +6,7 @@ Begin MrBayes;
     prset brlenspr = clock:uniform;
     prset clockvarpr=igr;
     lset coding=all;
-    mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/walworthpolynesian_correspondences samplefreq=1000 printfreq=1000;
+    mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/walworthpolynesian_correspondences samplefreq=1000 printfreq=1000 append=no;
     mcmc ngen=1000000000 nchains=4 nruns=4;
     sumt;
     sump;

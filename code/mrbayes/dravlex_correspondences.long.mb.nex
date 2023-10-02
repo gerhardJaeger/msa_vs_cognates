@@ -1,0 +1,14 @@
+#Nexus
+Begin MrBayes;
+    execute ../../data/correspondences_nexus/dravlex.nex;
+    prset brlenspr = clock:uniform;
+    lset rates=gamma;
+    prset brlenspr = clock:uniform;
+    prset clockvarpr=igr;
+    lset coding=all;
+    mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/dravlex_correspondences samplefreq=1000 printfreq=1000 append=yes;
+    mcmc ngen=200000000 nchains=4 nruns=4;
+    sumt;
+    sump;
+    q;
+end;
