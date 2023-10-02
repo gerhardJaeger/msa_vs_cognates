@@ -105,19 +105,11 @@ for ds in datasets
         #Nexus
         Begin MrBayes;
             execute ../$nexus_file;
-            charset correspondences = 1-$(n_correspondences);
-            charset cognates = $(n_correspondences + 1)-$(n_characters);
-            partition dtype = 2:correspondences, cognates;
-            set partition = dtype;
             prset brlenspr = clock:uniform;
-            prset applyto=(all) clockvarpr = igr;
-            lset applyto=(all) rates=gamma;
-            unlink Statefreq=(all) shape=(all) igrvar=(all) rate=(all);
-            prset applyto=(all) ratepr=Dirichlet(1, 1);
-            prset applyto=(2) clockratepr=exp(1.0); [for partition 2]
-            lset applyto=(all) coding=noabsencesites;
-            mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000;
-            mcmc ngen=100000000 nchains=4 nruns=4;
+            prset clockvarpr = igr;
+            lset rates=gamma;
+            mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000 append=no;
+            mcmc ngen=1000000000 nchains=4 nruns=2;
             sumt;
             sump;
             q;
