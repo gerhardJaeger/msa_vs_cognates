@@ -136,3 +136,5 @@ dmypy.json
 **/*~
 
 code/mrbayes/output/
+
+**/*.aux **/*.log **/*.out **/*.toc **/*.gz **/*.bbl **/*.blg **/*.synctex.gz **/*.fls **/*.fdb_latexmk **/*.xdv

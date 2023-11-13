@@ -11,6 +11,8 @@ using StatsPlots
 using ProgressMeter
 using Statistics
 using Pipe
+using Printf
+using PrettyTables
 plotlyjs()
 
 ##
@@ -146,5 +148,30 @@ savefig("gqd.pdf")
 @pipe df |>
     groupby(_, [:dataset, :method]) |>
     combine(_, :gqd => median => :gqd) |>
+    groupby(_, :method) |>
+    combine(_, :gqd => median => :gqd)
+
+##
+
+format_number(x::Float64) = @sprintf("%.3f", x)
+format_number(x::Missing) = missing  # Handle missing values
+
+
+@pipe df |>
+    groupby(_, [:dataset, :method]) |>
+    combine(_, :gqd => median => :gqd) |>
+    unstack(_, :method, :gqd) |>
+    transform(_, 
+        :correspondences => (x -> format_number.(x)) => :correspondences,
+        :cognates => (x -> format_number.(x)) => :cognates,
+        :combined => (x -> format_number.(x)) => :combined
+    ) |>
+    select(_, :dataset, :cognates, :correspondences, :combined) |>
+    pretty_table(_, backend=Val(:latex))
+    
+
+##
+
+@pipe df |>
     groupby(_, :method) |>
     combine(_, :gqd => median => :gqd)
