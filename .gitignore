@@ -137,4 +137,8 @@ dmypy.json
 
 code/mrbayes/output/
 
+code/ml/bin/
+code/ml/predictors/
+data/pythia
+
 **/*.aux **/*.log **/*.out **/*.toc **/*.gz **/*.bbl **/*.blg **/*.synctex.gz **/*.fls **/*.fdb_latexmk **/*.xdv
