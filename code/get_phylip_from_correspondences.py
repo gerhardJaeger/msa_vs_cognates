@@ -4,7 +4,6 @@ import numpy as np
 import os
 
 #%%
-
 def get_char_mtx(db):
     d = pd.read_table("../data/correspondences/"+db)
     languages = d.columns[3:-2]
@@ -13,19 +12,18 @@ def get_char_mtx(db):
 
     for c in d.index:
         char = d.iloc[c,:]
-        valueTokens = char.values[3:-2].astype('unicode')
-        valueTypes = pd.unique(valueTokens)
-        valueTypes = pd.Series([s for s in valueTypes if s != 'Ø'])
-        cMtx = np.repeat(
-            np.transpose(
+        if char.FREQUENCY > 2:
+            valueTokens = char.values[3:-2].astype('unicode')
+            valueTypes = pd.unique(valueTokens)
+            valueTypes = pd.Series([s for s in valueTypes if s != 'Ø'])
+            cMtx = np.transpose(
                 np.vstack([valueTokens == s for s in valueTypes], dtype=int)
-                ),
-            int(char.FREQUENCY),
-            axis=1,
-        )
-        cMtx[valueTokens == 'Ø',:] = -1
-        matrices.append(cMtx)
+                )
+            cMtx[valueTokens == 'Ø',:] = -1
+            matrices.append(cMtx)
     return pd.DataFrame(np.hstack(matrices), index=languages)
+
+
 #%%
 def cm_to_phy(charMtx):
     characters = np.array(['0', '1', '-'])
