@@ -23,7 +23,7 @@ for nexus_file in datasets
         prset clockvarpr=igr;
         lset coding=all;
         mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000;
-        mcmc ngen=100000000 nchains=4 nruns=4;
+        mcmc ngen=100000000 nchains=2 nruns=2;
         sumt;
         sump;
         q;
@@ -109,7 +109,7 @@ for ds in datasets
             prset clockvarpr = igr;
             lset rates=gamma;
             mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000 append=no;
-            mcmc ngen=1000000000 nchains=4 nruns=2;
+            mcmc ngen=1000000000 nchains=2 nruns=2;
             sumt;
             sump;
             q;
