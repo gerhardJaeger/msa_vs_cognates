@@ -159,8 +159,8 @@ For each dataset, phylogenetic inference was performed on three character matric
 We considered three hypotheses:
 
 \begin{itemize}
-  \item \textbf{Hypothesis 1:} Phylogenetic inference based on sound correspondences is more accurate than phylogenetic inference based on cognate classes.
-  \item \textbf{Hypothesis 2:} Phylogenetic inference based on sound correspondences is more accurate than phylogenetic inference based on cognate classes and sound correspondences combined.
+  \item \textbf{Hypothesis 1:} Phylogenetic inference based on cognate classes is more accurate than phylogenetic inference based on sound correspondences.
+  \item \textbf{Hypothesis 2:} Phylogenetic inference based on sound correspondences is more accurate than phylogenetic inference based on cognate classes.
   \item \textbf{Hypothesis 3:} Both character types capture the same signal.
 \end{itemize}
 
@@ -176,22 +176,23 @@ To evaluate the quality of the inferred phylogenies, we used the classifications
   \begin{tabular}{lccc}
     \toprule
     \textbf{dataset}   & \textbf{cognate classes} & \textbf{sound correspondences} & \textbf{combined} \\\midrule
-    constenlachibchan  & \textbf{0.269}    & 0.355                    & 0.352             \\
-    crossandean        & \textbf{0.148}    & 0.561                    & 0.494             \\
-    dravlex            & \textbf{0.323}    & 0.409                    & 0.326             \\
-    felekesemitic      & \textbf{0.083}    & 0.119                    & 0.103             \\
-    hattorijaponic     & 0.585             & \textbf{0.388}           & 0.511             \\
-    houchinese         & \textbf{0.240}    & 0.428                    & 0.441             \\
-    leekoreanic        & \textbf{0.215}    & 0.298                    & 0.253             \\
-    robinsonap         & 0.424             & \textbf{0.348}           & 0.359             \\
-    walworthpolynesian & \textbf{0.179}    & 0.328                    & 0.331             \\
-    zhivlovobugrian    & \textbf{0.330}    & 0.356                    & 0.356             \\\midrule
-    \emph{median}      & \textbf{0.254}    & 0.356                    & 0.354             \\\bottomrule
+    constenlachibchan  & 0.269                    & 0.437                          & \textbf{0.206}    \\
+    crossandean        & \textbf{0.148}           & 0.401                          & 0.189             \\
+    dravlex            & \textbf{0.323}           & 0.382                          & 0.326             \\
+    felekesemitic      & \textbf{0.083}           & 0.146                          & 0.113             \\
+    hattorijaponic     & 0.585                    & 0.601                          & \textbf{0.527}    \\
+    houchinese         & \textbf{0.240}           & 0.550                          & 0.377             \\
+    leekoreanic        & 0.215                    & 0.386                          & \textbf{0.176}    \\
+    robinsonap         & 0.424                    & 0.457                          & \textbf{0.359}    \\
+    walworthpolynesian & 0.179                    & 0.237                          & \textbf{0.164}    \\
+    zhivlovobugrian    & 0.330                    & 0.356                          & \textbf{0.316}    \\\midrule
+    \emph{median}      & 0.252                    & 0.387                          & \textbf{0.251}    \\\bottomrule
   \end{tabular}\label{tab:4}\caption{Generalized quartet distances (posterior medians) for the three character types. The best result for each dataset is highlighted in bold.}%
 \end{table*}
 
-The results of the evaluation are shown in Table~\ref{tab:4}. As can be seen from the table, phylogenetic inference from cognate class characters outperforms the other two options for eight out of ten datasets. On average, cognate classes evidently provide the best result. This provides strong evidence for Hypothesis 1, and against the other two hypotheses.
+The results of the evaluation are shown in Table~\ref{tab:4}. As can be seen from the table, phylogenetic inference based on cognate classes and based on combined data provide results that are about equally good, with a slight advantage for combined data. Phylogenetic inference based on sound correspondences, however, provides results that are clearly worse than the other two options. The combined dataset provides the best results for six out of ten datasets, while in four cases, the cognate class dataset provides the best results. The sound correspondence dataset never provides the best results.
 
+These results provide clear evidence in favor of Hypothesis 1 and against Hypothesis 2. The decision about Hypothesis 3 is somewhat equivocal.
 
 \section{Implementation}
 
