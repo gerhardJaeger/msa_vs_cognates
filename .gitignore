@@ -139,6 +139,8 @@ code/mrbayes/output/
 
 code/ml/bin/
 code/ml/predictors/
+code/ml/plots/
 data/pythia
+data/pythia_fr
 
 **/*.aux **/*.log **/*.out **/*.toc **/*.gz **/*.bbl **/*.blg **/*.synctex.gz **/*.fls **/*.fdb_latexmk **/*.xdv
