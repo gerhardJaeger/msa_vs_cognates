@@ -334,7 +334,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	GLOTTOCODE	LATITUDE	LONGITUDE	COG
 1810	SanBlasKuna	father	papa	papa	p a p a		965	sanb1242	9.16	-78.31	1368	p a p a	C V C V	p a p a -	p a p a	C V C V
 1798	Ulwa	father	papaŋ	papaŋ	p a p a		965	ulwa1239	12.93	-83.58	1368	p a p a	C V C V	p a p a ŋ	p a p a ŋ	C V C V C
 1812	Arhuaco	father	'kakɨ	'kakɨ	'k/k a k ɨ		971	arhu1242	10.70	-73.64	1375	'k/k a k ɨ	C V C V	'k/k a k ɨ	'k/k a k ɨ	C V C V
-1814	Atanque	father	káke	káke	k á/a k e		971	kank1244	10.75	-73.36	1375	k á/a k e	C V C V	k á/a k e	k á/a k e	C V C V
 1805	Cabecar	father	kákà	kákà	k á/a k à/a		971	cabe1245	9.67	-83.41	1375	k á/a k à/a	C V C V	k á/a k à/a	k á/a k à/a	C V C V
 1806	Teribe	father	kʰók	kʰók	kʰ ó/o k		971	teri1250	9.06	-82.96	1375	kʰ ó/o k -	C V C	kʰ ó/o k -	kʰ ó/o k	C V C
 2024	Dorasque	feather	shũl	shũl	s h ũ l		1080	dora1242	8.57	-82.38	90	s h ũ l	C C V C	s - h ũ l	s h ũ l	C C V C
@@ -499,7 +498,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	COG	GLOTTOCODE	LATITUDE	LONGITUDE	COG
 1390	LencaHonduras	hand	kulala	kulala	k u l a l a		739	lenc1243	13.67	-88.11	1121	k u l a l a	C V C V C V	k u l a l a	k u l a l a	C V C V C V
 1389	LencaSalvador	hand	koʃaka	koʃaka	k o ʃ a k a		739	lenc1242	13.56	-87.50	1121	k o ʃ a k a	C V C V C V	k o ʃ a k a	k o ʃ a k a	C V C V C V
 1407	Arhuaco	hand	'gunnɨ	'gunnɨ	'g/g u n ɨ		745	arhu1242	10.70	-73.64	1128	'g/g u n ɨ	C V C V	'g/g u n ɨ -	'g/g u n ɨ	C V C V
-1409	Atanque	hand	gúna	gúna	g ú/u n a		745	kank1244	10.75	-73.36	1128	g ú/u n a	C V C V	g ú/u n a -	g ú/u n a	C V C V
 1398	Boruca	hand	dʒùɾéʔ	dʒùɾéʔ	dʒ ù/u ɾ é/e		745	boru1252	8.88	-83.21	1128	dʒ ù/u ɾ é/e	C V C V	dʒ ù/u ɾ é/e ʔ	dʒ ù/u ɾ é/e ʔ	C V C V C
 1399	Bribri	hand	uɺa	uɺa	u ɺ a		745	brib1243	9.40	-83.05	1128	- u ɺ a	V C V	- u ɺ a -	u ɺ a	V C V
 1400	Cabecar	hand	huɺà	huɺà	h u ɺ à/a		745	cabe1245	9.67	-83.41	1128	h u ɺ à/a	C V C V	h u ɺ à/a -	h u ɺ à/a	C V C V
