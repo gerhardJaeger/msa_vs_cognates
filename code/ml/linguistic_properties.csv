@@ -1,0 +1,11 @@
+ds_id,Dataset,Concepts,Languages,Diversity,Distances,SoundsTotal,SoundsAverage,WordLength,WordLengthAverage,WordsPerLanguage
+hattorijaponic,1710,197,10,0.03,0.09,61,34.60,4.10,4.08,171.00
+houchinese,1816,139,15,0.05,0.17,113,42.53,5.57,5.53,121.07
+felekesemitic,2412,150,19,0.05,0.28,76,44.68,4.67,4.65,126.95
+constenlachibchan,1214,106,24,0.10,0.42,65,20.88,3.10,3.08,50.58
+zhivlovobugrian,1879,110,20,0.04,0.20,66,32.55,3.44,3.45,93.95
+dravlex,1341,100,20,0.06,0.24,68,35.90,3.93,3.82,67.05
+walworthpolynesian,6113,207,31,0.05,0.23,44,20.65,4.07,4.07,197.19
+robinsonap,1424,216,13,0.03,0.12,39,23.69,3.77,3.76,109.54
+leekoreanic,1960,205,14,0.01,0.06,40,36.71,3.91,3.91,140.00
+crossandean,2637,150,19,0.03,0.15,65,28.89,4.22,4.22,138.79

@@ -129,15 +129,6 @@ def modeltesting(ds_ids):
         plt.savefig(os.path.join(plots_dir, "relative_lhs_alpha_" + ling_type + '.png'))
         plt.clf()
 
-    print("alpha")
-    columns = ["ds_id", "cognate_classes", "correspondences", "combined"]
-    matrix = [[ds_id, alphas["cognate_classes"][i], alphas["correspondences"][i], alphas["combined"][i]] for i, ds_id in enumerate(ds_ids)]
-    df = pd.DataFrame(matrix, columns = columns)
-    print(df)
-
-
-
-
 
 def results(ds_ids, experiment):
     matrix = []
