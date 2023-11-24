@@ -4,13 +4,15 @@ import os
 import pandas as pd
 from scipy import stats
 import math
+from tabulate import tabulate
 
 results_dir = "../../data/"
 def prefix(experiment, ds_id, ling_type):
     return os.path.join(results_dir, experiment, ds_id, ling_type)
 
-df = pd.read_csv("linguistic_properties.csv")
-properties = df.columns[2:]
+df = pd.read_csv("../../data/info.csv")
+properties = df.columns[3:]
+result_table = []
 for ling_type in ["cognate_classes", "correspondences", "combined"]:
     alphas = []
     heterogenity = []
@@ -27,7 +29,7 @@ for ling_type in ["cognate_classes", "correspondences", "combined"]:
     df[h_col] = heterogenity
     for prop in properties:
         pearson = stats.pearsonr(df[alpha_col], df[prop])
+        result_table.append([alpha_col, prop, pearson[0], pearson[1]])
         #pearson_h = stats.pearsonr(df[h_col], df[prop])
-        print(alpha_col + " " + prop + " " + str(round(pearson[0], 3)) + " " + str(round(pearson[1], 3)))
-
+print(tabulate(result_table, tablefmt="pipe", floatfmt=".2f", headers = ["alpha", "property", "pearson correlation", "p-value"]))
 

@@ -2,6 +2,7 @@ from lingpy import *
 from glob import glob
 from tabulate import tabulate
 from collections import defaultdict
+import pandas as pd
 
 
 table = []
@@ -16,7 +17,6 @@ for ds in glob("trimmed/*.tsv"):
         print('problem with diversity in {0}'.format(ds))
     row = [ds.split("/")[1][:-4], len(wl), wl.height, wl.width, wl.diversity]
     try:
-        raise
         wl.calculate('distances', ref="cogid")
         dists = []
         for line in wl.distances:
@@ -44,6 +44,10 @@ for ds in glob("trimmed/*.tsv"):
             sum([sounds[x]["wpl"] for x in wl.cols]) / wl.width
             ])
     table += [row]
-print(tabulate(table, tablefmt="pipe", floatfmt=".2f", headers=[
-    "Dataset", "Concepts", "Languages", "Diversity", "Distances", "SoundsTotal",
-    "SoundsAverage", "WordLength", "WordLengthAverage", "WordsPerLanguage"]))
+headers=[ "Dataset", "Concepts", "Languages", "Diversity", "Distances", "SoundsTotal",
+    "SoundsAverage", "WordLength", "WordLengthAverage", "WordsPerLanguage"]
+print(tabulate(table, tablefmt="pipe", floatfmt=".2f", headers = headers))
+
+df = pd.DataFrame(table, columns = ["ds_id"] + headers)
+df.sort_values("ds_id")
+df.to_csv("data/info.csv")
