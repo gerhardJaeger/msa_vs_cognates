@@ -8,6 +8,7 @@ from Bio.AlignIO.PhylipIO import RelaxedPhylipWriter
 from Bio.SeqRecord import SeqRecord
 from Bio.Align import MultipleSeqAlignment
 from Bio.AlignIO.NexusIO import NexusIterator
+from tabulate import tabulate
 
 
 import matplotlib.pyplot as plt
@@ -150,10 +151,9 @@ def results(ds_ids, experiment):
             row_new.append(gq_distance(glottolog_tree_path, tree_path))
 
         matrix.append(row_new)
+    print(tabulate(matrix, tablefmt="pipe", floatfmt=".3f", headers = columns))
     df = pd.DataFrame(matrix, columns = columns)
     df = df.sort_values('dataset')
-    print(experiment)
-    print(df)
     print("method\t\tgqd(median)")
     print("correspondences\t" + str(df['correspondences'].median()))
     print("combined\t" + str(df['combined'].median()))
@@ -177,10 +177,9 @@ def difficulties(ds_ids, experiment):
         row_new.append(pythia.get_difficulty(prefix(experiment, ds_id, "combined")))
 
         matrix.append(row_new)
+    print(tabulate(matrix, tablefmt="pipe", floatfmt=".3f", headers = columns))
     df = pd.DataFrame(matrix, columns = columns)
     df = df.sort_values('dataset')
-    print(experiment)
-    print(df)
     print("method\t\tdifficulty(median)")
     print("correspondences\t" + str(df['correspondences'].median()))
     print("combined\t" + str(df['combined'].median()))
@@ -204,17 +203,10 @@ ds_ids = ["walworthpolynesian", "constenlachibchan", "crossandean", "robinsonap"
 #create_combined_msas(ds_ids)
 #run_raxmlng(ds_ids)
 #run_pythia(ds_ids)
-#results(ds_ids, "raxmlng_gamma")
+results(ds_ids, "raxmlng_gamma")
 #results(ds_ids, "raxmlng_nogamma")
 #results(ds_ids, "raxmlng_nogamma")
 #modeltesting(ds_ids)
 
 #difficulties(ds_ids, "pythia")
 #difficulties(ds_ids, "pythia_fr")
-
-
-
-
-
-
-
