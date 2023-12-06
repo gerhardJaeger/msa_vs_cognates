@@ -6,6 +6,9 @@ exe_path = "./bin/raxml-ng"
 def best_tree_path(prefix):
     return prefix + ".raxml.bestTree"
 
+def ml_trees_path(prefix):
+    return prefix + ".raxml.mlTrees"
+
 
 
 def alpha(prefix):
@@ -48,7 +51,3 @@ def run_inference(msa_path, model, prefix, args = ""):
     command += " --threads 2 --seed 2"
     command += " " + args
     os.system(command)
-
-
-
-
