@@ -1,5 +1,6 @@
 import pythia
 import wrapper as raxmlng
+import mptp
 import os
 import pandas as pd
 import math
@@ -77,6 +78,13 @@ def run_pythia(ds_ids):
         pythia.run(cognate_msa_path, prefix("pythia", ds_id, "cognate_classes"))
         if os.path.isfile(combined_msa_path):
             pythia.run(combined_msa_path,  prefix("pythia", ds_id, "combined"))
+
+
+def run_mptp(ds_ids):
+    for ds_id in ds_ids:
+        for ling_type in ling_types:
+            best_tree_path = raxmlng.best_tree_path(prefix("raxmlng_gamma", ds_id, ling_type))
+            mptp.run(best_tree_path, prefix("mptp_gamma", ds_id, ling_type))
 
 
 def gq_distance(tree_name1, tree_name2):
@@ -215,6 +223,7 @@ def difficulties(ds_ids, experiment):
 
 
 
+
 plots_dir = "plots/"
 results_dir = "../../data/"
 correspondence_dir = "../../data/correspondences_phylip/"
@@ -228,10 +237,6 @@ ds_ids = ["constenlachibchan", "crossandean", "dravlex", "felekesemitic", "hatto
 #create_combined_msas(ds_ids)
 #run_raxmlng(ds_ids)
 #run_pythia(ds_ids)
+#run_mptp(ds_ids)
 results(ds_ids, "raxmlng_gamma", "gq")
 results(ds_ids, "raxmlng_nogamma", "gq")
-#results(ds_ids, "raxmlng_nogamma")
-#modeltesting(ds_ids)
-
-#difficulties(ds_ids, "pythia")
-#difficulties(ds_ids, "pythia_fr")
