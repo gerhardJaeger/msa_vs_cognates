@@ -66,6 +66,23 @@ def run_raxmlng(ds_ids):
             raxmlng.run_inference(combined_msa_path, "BIN+G", prefix("raxmlng_gamma", ds_id, "combined"))
             raxmlng.run_inference(combined_msa_path, "BIN", prefix("raxmlng_nogamma", ds_id, "combined"))
 
+def run_raxmlng_with_constraint(ds_ids):
+    for ds_id in ds_ids:
+        print(ds_id)
+        correspondence_msa_path = os.path.join(correspondence_dir, ds_id + ".phy")
+        cognate_msa_path = os.path.join(cognate_dir, ds_id + ".phy")
+        combined_msa_path = os.path.join(combined_dir, ds_id + ".phy")
+        glottolog_tree_path = "../../data/glottolog_trees_modified/" + ds_id + "_glottolog.tre"
+        args = " --tree-constraint " + glottolog_tree_path
+
+        raxmlng.run_inference(correspondence_msa_path, "BIN+G", prefix("raxmlng_gamma_constraint", ds_id, "correspondences"), args)
+        raxmlng.run_inference(cognate_msa_path, "BIN+G", prefix("raxmlng_gamma_constraint", ds_id, "cognate_classes"), args)
+        raxmlng.run_inference(correspondence_msa_path, "BIN", prefix("raxmlng_nogamma_constraint", ds_id, "correspondences"), args)
+        raxmlng.run_inference(cognate_msa_path, "BIN", prefix("raxmlng_nogamma_constraint", ds_id, "cognate_classes"), args)
+        if os.path.isfile(combined_msa_path):
+            raxmlng.run_inference(combined_msa_path, "BIN+G", prefix("raxmlng_gamma_constraint", ds_id, "combined"), args)
+            raxmlng.run_inference(combined_msa_path, "BIN", prefix("raxmlng_nogamma_constraint", ds_id, "combined"), args)
+
 
 def run_pythia(ds_ids):
     for ds_id in ds_ids:
@@ -189,9 +206,28 @@ def results(ds_ids, experiment, metric):
     print(experiment)
     print(metric)
     print("best trees")
-    print(tabulate(best_matrix, tablefmt="latex_raw", floatfmt=".3f", headers = columns))
+    print(tabulate(best_matrix, tablefmt="pipe", floatfmt=".3f", headers = columns))
     print("average for all 20 ml trees")
-    print(tabulate(ml_avg_matrix, tablefmt="latex_raw", floatfmt=".3f", headers = columns))
+    print(tabulate(ml_avg_matrix, tablefmt="pipe", floatfmt=".3f", headers = columns))
+
+
+
+def llh_comparison(ds_ids, experiment1, experiment2):
+    matrix = []
+    for ds_id in ds_ids:
+        row = [ds_id]
+        for ling_type in ling_types:
+            row.append(raxmlng.final_llh(prefix(experiment1, ds_id, ling_type)))
+            row.append(raxmlng.final_llh(prefix(experiment2, ds_id, ling_type)))
+        matrix.append(row)
+    headers = ["ds_id"]
+    ex1_string = "_".join(experiment1.split("_")[1:])
+    ex2_string = "_".join(experiment2.split("_")[1:])
+    for ling_type in ling_types:
+        headers.append(ling_type + " " + ex1_string)
+        headers.append(ling_type + " " + ex2_string)
+    print("Final llhs")
+    print(tabulate(matrix, tablefmt="pipe", floatfmt=".3f", headers = headers))
 
 
 def difficulties(ds_ids, experiment):
@@ -236,7 +272,10 @@ if not os.path.isdir(combined_dir):
 ds_ids = ["constenlachibchan", "crossandean", "dravlex", "felekesemitic", "hattorijaponic", "houchinese", "leekoreanic", "robinsonap", "walworthpolynesian", "zhivlovobugrian"]
 #create_combined_msas(ds_ids)
 #run_raxmlng(ds_ids)
+#run_raxmlng_with_constraint(ds_ids)
 #run_pythia(ds_ids)
 #run_mptp(ds_ids)
-results(ds_ids, "raxmlng_gamma", "gq")
-results(ds_ids, "raxmlng_nogamma", "gq")
+results(ds_ids, "raxmlng_gamma_constraint", "gq")
+#results(ds_ids, "raxmlng_nogamma_constraint", "gq")
+#llh_comparison(ds_ids, "raxmlng_gamma", "raxmlng_gamma_constraint")
+#llh_comparison(ds_ids, "raxmlng_nogamma", "raxmlng_nogamma_constraint")
