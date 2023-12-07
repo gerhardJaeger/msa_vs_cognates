@@ -9,6 +9,7 @@ using DataFrames
 using Pipe
 using StatsPlots
 using Statistics
+plotlyjs()
 ##
 
 
@@ -47,5 +48,5 @@ posterior_alphas = DataFrame(vcat(posterior_alphas_...))
 @pipe posterior_alphas |>
     groupby(_, [:ds, :chartype]) |>
     combine(_, :alpha => mean => :alpha) |>
-    @df _ boxplot(:chartype, :alpha, group=:chartype, legend=false, ylabel="alpha", xlabel="chartype", title="Posterior alpha")
+    @df _ dotplot(:chartype, :alpha, group=:chartype, legend=false, ylabel="alpha", xlabel="chartype", title="Posterior alpha")
 
