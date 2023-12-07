@@ -32,4 +32,3 @@ for ling_type in ["cognate_classes", "correspondences", "combined"]:
         result_table.append([alpha_col, prop, pearson[0], pearson[1]])
         #pearson_h = stats.pearsonr(df[h_col], df[prop])
 print(tabulate(result_table, tablefmt="pipe", floatfmt=".2f", headers = ["alpha", "property", "pearson correlation", "p-value"]))
-
