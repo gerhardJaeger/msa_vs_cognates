@@ -18,6 +18,7 @@ for nexus_file in datasets
     Begin MrBayes;
         execute ../$nexus_file;
         prset brlenspr = clock:uniform;
+        prset shapepr=uniform(0.01, 100);
         lset rates=gamma;
         prset brlenspr = clock:uniform;
         prset clockvarpr=igr;
@@ -49,6 +50,7 @@ for nexus_file in datasets
     Begin MrBayes;
         execute ../$nexus_file;
         prset brlenspr = clock:uniform;
+        prset shapepr=uniform(0.01, 100);
         lset rates=gamma;
         prset brlenspr = clock:uniform;
         prset clockvarpr=igr;
@@ -106,6 +108,7 @@ for ds in datasets
         Begin MrBayes;
             execute ../$nexus_file;
             prset brlenspr = clock:uniform;
+            prset shapepr=uniform(0.01, 100);
             prset clockvarpr = igr;
             lset rates=gamma;
             mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000 append=no;
