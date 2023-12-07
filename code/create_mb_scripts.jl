@@ -21,7 +21,6 @@ for nexus_file in datasets
         prset shapepr=uniform(0.01, 100);
         lset rates=gamma;
         prset brlenspr = clock:uniform;
-        prset clockvarpr=igr;
         lset coding=all;
         mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000;
         mcmc ngen=1000000000 nchains=2 nruns=2;
@@ -53,7 +52,6 @@ for nexus_file in datasets
         prset shapepr=uniform(0.01, 100);
         lset rates=gamma;
         prset brlenspr = clock:uniform;
-        prset clockvarpr=igr;
         lset coding=all;
         mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm)_cc samplefreq=1000 printfreq=1000;
         mcmc ngen=100000000 nchains=4 nruns=4;
@@ -109,7 +107,6 @@ for ds in datasets
             execute ../$nexus_file;
             prset brlenspr = clock:uniform;
             prset shapepr=uniform(0.01, 100);
-            prset clockvarpr = igr;
             lset rates=gamma;
             mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/$(nm) samplefreq=1000 printfreq=1000 append=no;
             mcmc ngen=1000000000 nchains=2 nruns=2;
