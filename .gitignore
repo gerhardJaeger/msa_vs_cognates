@@ -143,5 +143,6 @@ code/ml/plots/
 data/pythia
 data/pythia_fr
 data/mptp*
+data/iqtree*
 
 **/*.aux **/*.log **/*.out **/*.toc **/*.gz **/*.bbl **/*.blg **/*.synctex.gz **/*.fls **/*.fdb_latexmk **/*.xdv

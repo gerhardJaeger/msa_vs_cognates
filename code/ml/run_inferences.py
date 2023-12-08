@@ -1,6 +1,7 @@
 import pythia
 import wrapper as raxmlng
 import mptp
+import iqtree
 import os
 import pandas as pd
 import math
@@ -102,6 +103,22 @@ def run_mptp(ds_ids):
         for ling_type in ling_types:
             best_tree_path = raxmlng.best_tree_path(prefix("raxmlng_gamma", ds_id, ling_type))
             mptp.run(best_tree_path, prefix("mptp_gamma", ds_id, ling_type))
+
+def run_iqtree_sigtest(ds_ids):
+    for ds_id in ds_ids:
+        msa_paths = {}
+        msa_paths["correspondences"] = os.path.join(correspondence_dir, ds_id + ".phy")
+        msa_paths["cognate_classes"] = os.path.join(cognate_dir, ds_id + ".phy")
+        msa_paths["combined"] = os.path.join(combined_dir, ds_id + ".phy")
+        for ling_type in ling_types:
+            p = prefix("iqtree_gamma", ds_id, ling_type)
+            unconstrained_tree_path = raxmlng.best_tree_path(prefix("raxmlng_gamma", ds_id, ling_type))
+            constrained_tree_path = raxmlng.best_tree_path(prefix("raxmlng_gamma_constraint", ds_id, ling_type))
+            iqtree.sigtests(msa_paths[ling_type], "GTR2+FO+G", unconstrained_tree_path, constrained_tree_path, p)
+            p = prefix("iqtree_nogamma", ds_id, ling_type)
+            unconstrained_tree_path = raxmlng.best_tree_path(prefix("raxmlng_nogamma", ds_id, ling_type))
+            constrained_tree_path = raxmlng.best_tree_path(prefix("raxmlng_nogamma_constraint", ds_id, ling_type))
+            iqtree.sigtests(msa_paths[ling_type], "GTR2+FO", unconstrained_tree_path, constrained_tree_path, p)
 
 
 def gq_distance(tree_name1, tree_name2):
@@ -229,6 +246,22 @@ def llh_comparison(ds_ids, experiment1, experiment2):
     print("Final llhs")
     print(tabulate(matrix, tablefmt="pipe", floatfmt=".3f", headers = headers))
 
+def get_iqtree_results(ds_ids, experiment):
+    tests = ['bp-RELL', 'p-KH', 'p-SH', 'p-WKH', 'p-WSH', 'c-ELW', 'p-AU']
+    headers = ["ds_id ling_type", "plausible", "deltaL"] + tests
+    matrix = []
+    for ds_id in ds_ids:
+        for ling_type in ling_types:
+            row = [ds_id + " " + ling_type]
+            p = prefix(experiment, ds_id, ling_type)
+            r = iqtree.get_results(p)[1]
+            row.append(r["plausible"])
+            row.append(r["deltaL"])
+            for test in tests:
+                row.append(str(r["tests"][test]["score"]) + "(" + str(r["tests"][test]["significant"]) + ")")
+            matrix.append(row)
+    print(tabulate(matrix, tablefmt="pipe", floatfmt=".3f", headers = headers))
+
 
 def difficulties(ds_ids, experiment):
     matrix = []
@@ -275,7 +308,10 @@ ds_ids = ["constenlachibchan", "crossandean", "dravlex", "felekesemitic", "hatto
 #run_raxmlng_with_constraint(ds_ids)
 #run_pythia(ds_ids)
 #run_mptp(ds_ids)
-results(ds_ids, "raxmlng_gamma_constraint", "gq")
+run_iqtree_sigtest(ds_ids)
+#results(ds_ids, "raxmlng_gamma_constraint", "gq")
 #results(ds_ids, "raxmlng_nogamma_constraint", "gq")
 #llh_comparison(ds_ids, "raxmlng_gamma", "raxmlng_gamma_constraint")
 #llh_comparison(ds_ids, "raxmlng_nogamma", "raxmlng_nogamma_constraint")
+get_iqtree_results(ds_ids, "iqtree_gamma")
+get_iqtree_results(ds_ids, "iqtree_nogamma")
