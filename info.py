@@ -16,7 +16,6 @@ for ds in glob("trimmed/*.tsv"):
         print('problem with diversity in {0}'.format(ds))
     row = [ds.split("/")[1][:-4], len(wl), wl.height, wl.width, wl.diversity]
     try:
-        raise
         wl.calculate('distances', ref="cogid")
         dists = []
         for line in wl.distances:
