@@ -6,6 +6,17 @@ exe_path = "./bin/raxml-ng"
 def best_tree_path(prefix):
     return prefix + ".raxml.bestTree"
 
+def ml_trees_path(prefix):
+    return prefix + ".raxml.mlTrees"
+
+
+def final_llh(prefix):
+    with open(prefix + ".raxml.log", "r") as logfile:
+        lines = logfile.readlines()
+    for line in lines:
+        if line.startswith("Final LogLikelihood:"):
+            return float(line.split(" ")[-1])
+    return float('nan')
 
 
 def alpha(prefix):
@@ -48,7 +59,3 @@ def run_inference(msa_path, model, prefix, args = ""):
     command += " --threads 2 --seed 2"
     command += " " + args
     os.system(command)
-
-
-
-

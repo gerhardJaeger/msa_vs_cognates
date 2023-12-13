@@ -2,9 +2,10 @@
 Begin MrBayes;
     execute ../../data/combined/zhivlovobugrian.nex;
     prset brlenspr = clock:uniform;
-    prset clockvarpr = igr;
+    prset shapepr=uniform(0.01, 100);
     lset rates=gamma;
     mcmcp stoprule=yes burninfrac=0.25 stopval=0.01 filename=output/zhivlovobugrian_combined samplefreq=1000 printfreq=1000 append=no;
+    set usebeagle=no;
     mcmc ngen=1000000000 nchains=2 nruns=2;
     sumt;
     sump;

@@ -6,19 +6,6 @@ do_job() {
     mpirun -np 8 mb-mpi "$f" &
 }
 
-# An array of your files
-files=(
-    "constenlachibchan_combined.mb.nex"
-    "dravlex_combined.mb.nex"
-    "hattorijaponic_combined.mb.nex"
-    "leekoreanic_combined.mb.nex"
-    "walworthpolynesian_combined.mb.nex"
-    "crossandean_combined.mb.nex"
-    "felekesemitic_combined.mb.nex"
-    "houchinese_combined.mb.nex"
-    "robinsonap_combined.mb.nex"
-    "zhivlovobugrian_combined.mb.nex"
-)
 
 # Run the jobs and ensure not more than 100 processes at a time
 counter=0
