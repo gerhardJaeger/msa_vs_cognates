@@ -9,7 +9,7 @@ using DataFrames
 using Pipe
 using StatsPlots
 using Statistics
-plotlyjs()
+#plotlyjs()
 ##
 
 
@@ -46,7 +46,21 @@ posterior_alphas = DataFrame(vcat(posterior_alphas_...))
 ##
 
 @pipe posterior_alphas |>
-    groupby(_, [:ds, :chartype]) |>
-    combine(_, :alpha => mean => :alpha) |>
+    # groupby(_, [:ds, :chartype]) |>
+    # combine(_, :alpha => mean => :alpha) |>
+    # groupby(_, :chartype) |>
+    # combine(_, :alpha => mean => :alpha) |>
+    sort(_, :alpha)
+
+##
+@pipe posterior_alphas |>
+    # groupby(_, [:ds, :chartype]) |>
+    # combine(_, :alpha => mean => :alpha) |>
     @df _ dotplot(:chartype, :alpha, group=:chartype, legend=false, ylabel="alpha", xlabel="chartype", title="Posterior alpha")
+
+##
+
+@pipe posterior_alphas |>
+    filter(x -> x.ds == "constenlachibchan") |>
+    @df _ dotplot(:chartype, :alpha, group=:chartype, legend=false, ylabel="alpha", xlabel="chartype", title="constenlachibchan: posterior alpha")
 
