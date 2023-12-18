@@ -203,8 +203,8 @@ if not os.path.isdir(combined_dir):
     os.makedirs(combined_dir)
 
 ds_ids = ["constenlachibchan", "crossandean", "dravlex", "felekesemitic", "hattorijaponic", "houchinese", "leekoreanic", "robinsonap", "walworthpolynesian", "zhivlovobugrian"]
-#create_combined_msas(ds_ids)
-#run_raxmlng(ds_ids)
+create_combined_msas(ds_ids)
+run_raxmlng(ds_ids)
 print_distances(ds_ids, "raxmlng_gamma", "gq")
 print_distances(ds_ids, "raxmlng_nogamma", "gq")
 print_alphas(ds_ids, "raxmlng_gamma")
