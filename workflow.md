@@ -54,14 +54,14 @@ All steps are executed in a linux environment as defined in `Dockerfile`.
 - extract $\alpha$-values for Bayesian analysis
 
   ```
-  julia evaluate_alpha.jl
+  > julia evaluate_alpha.jl
   ```
 
 - run maximum likelihood experiment (script includes execution of RAxML-NG, GQD computation and extraction of $\alpha$-values)
 
   ```
-  cd ml/
-  python ml_experiment.py
+  > cd ml/
+  > python ml_experiment.py
   ```
 
   
