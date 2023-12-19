@@ -18,7 +18,7 @@ All steps are executed in a linux environment as defined in `Dockerfile`.
   > python get_glottolog_trees.py
   ```
 
-- create *MrBayes* scripts
+- create *MrBayes* scripts and combined nexus files
 
   ```{shell}
   > cd code
@@ -57,7 +57,6 @@ All steps are executed in a linux environment as defined in `Dockerfile`.
   julia evaluate_alpha.jl
   ```
 
-  
 - run maximum likelihood experiment (script includes execution of RAxML-NG, GQD computation and extraction of $\alpha$-values)
 
   ```
