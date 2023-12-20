@@ -135,7 +135,7 @@ def gq_distance(tree_name1, tree_name2):
         return float('nan')
     if tree_name1 != tree_name1 or tree_name2 != tree_name2:
         return float("nan")
-    os.system("./bin/qdist " + tree_name1 + " " + tree_name2 + " >out.txt")
+    os.system("qdist " + tree_name1 + " " + tree_name2 + " >out.txt")
     lines = open("out.txt").readlines()
     if len(lines) < 2: #error occurred
         return float('nan')
@@ -192,7 +192,7 @@ def print_alphas(ds_ids, experiment):
 
 
 
-exe_path = "./bin/raxml-ng"
+exe_path = "raxml-ng"
 plots_dir = "plots/"
 results_dir = "../../data/"
 correspondence_dir = "../../data/correspondences_phylip/"
