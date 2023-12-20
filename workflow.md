@@ -2,6 +2,13 @@
 
 All steps are executed in a linux environment as defined in `Dockerfile`.
 
+- prepare the data, download original data (use the Makefile)
+  ```{bash}
+  make download
+  make preprocessing
+  make language-data
+  ```
+
 - create character matrix files
 
   ```{bash}
