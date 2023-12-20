@@ -9,7 +9,9 @@ using DataFrames
 using Pipe
 using StatsPlots
 using Statistics
-plotlyjs()
+using Printf
+using PrettyTables
+#plotlyjs()
 ##
 
 
@@ -47,6 +49,34 @@ posterior_alphas = DataFrame(vcat(posterior_alphas_...))
 
 @pipe posterior_alphas |>
     groupby(_, [:ds, :chartype]) |>
+    combine(_, :alpha => median => :alpha)
+
+##
+df = @pipe posterior_alphas |>
+    groupby(_, [:ds, :chartype]) |>
     combine(_, :alpha => mean => :alpha) |>
-    @df _ dotplot(:chartype, :alpha, group=:chartype, legend=false, ylabel="alpha", xlabel="chartype", title="Posterior alpha")
+    # groupby(_, :chartype) |>
+    # combine(_, :alpha => mean => :alpha) |>
+    sort(_, :alpha)
+
+##
+
+format_number(x::Float64) = @sprintf("%.3f", x)
+format_number(x::Missing) = missing  # Handle missing values
+
+##
+
+
+@pipe df |>
+    groupby(_, [:ds, :chartype]) |>
+    combine(_, :alpha => median => :alpha) |>
+    unstack(_, :chartype, :alpha) |>
+    transform(_, 
+        :correspondences => (x -> format_number.(x)) => :correspondences,
+        :cognate => (x -> format_number.(x)) => :cognate,
+        :combined => (x -> format_number.(x)) => :combined
+    ) |>
+    select(_, :ds, :cognate, :correspondences, :combined) |>
+    pretty_table(_, backend=Val(:latex))
+    
 
