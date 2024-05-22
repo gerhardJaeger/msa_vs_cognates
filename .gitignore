@@ -147,4 +147,4 @@ data/iqtree*
 
 **/*.aux **/*.log **/*.out **/*.toc **/*.gz **/*.bbl **/*.blg **/*.synctex.gz **/*.fls **/*.fdb_latexmk **/*.xdv
 
-**/Manifest.yaml
+**/Manifest.toml

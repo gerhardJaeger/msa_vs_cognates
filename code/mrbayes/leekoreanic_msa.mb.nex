@@ -7,7 +7,7 @@ Begin MrBayes;
     lset covarion=yes;
     prset clockratepr=exp(1.0);
     lset coding=noabsencesites;
-    mcmcp stoprule=yes stopval=0.01 filename=output/leekoreanic_msa samplefreq=1000;
+    mcmcp stoprule=no stopval=0.01 filename=output/leekoreanic_msa samplefreq=1000;
     mcmc ngen=10000000 nchains=2 nruns=2 append=no;
     sumt;
     sump;
