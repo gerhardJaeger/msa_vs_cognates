@@ -13,18 +13,12 @@ using Pipe
 using ArgCheck
 using Base.Threads
 using StatsBase
-using RCall
+
 
 
 
 ## Include external scripts
 include("needlemanWunsch.jl")
-
-### Conda and Python setup
-using Conda
-Conda.add("r-phangorn")
-ENV["R_HOME"] = "*"
-Pkg.build("RCall")
 
 ##
 
@@ -158,29 +152,28 @@ function createLibrary(words; pmiPar::NW=pmiPar)
     library = Dict{Tuple{String, String}, Tuple{Matrix{Int}, Float64}}()
     library_lock = ReentrantLock()
     uwords = unique(words)
+    
     @threads for w1 in uwords
         for w2 in uwords
-            if (w2, w1) in keys(library)
-                lock(library_lock)
-                try
+            lock(library_lock)  # Lock the critical section
+            try
+                if (w2, w1) in keys(library)
                     x = library[w2, w1]
                     library[w1, w2] = (Matrix{Int}(x[1]'), x[2])
-                finally
-                    unlock(library_lock)
-                end
-            else
-                al = nwAlign(w1, w2, pmiPar)[1]
-                lock(library_lock)
-                try
+                else
+                    unlock(library_lock)  # Unlock before performing time-consuming operations
+                    al = nwAlign(w1, w2, pmiPar)[1]
+                    lock(library_lock)  # Lock again before modifying the dictionary
                     library[w1, w2] = (algnMatrix(al), 1 - sHamming(al))
-                finally
-                    unlock(library_lock)
                 end
+            finally
+                unlock(library_lock)  # Ensure the lock is always released
             end
         end
     end
     return library
 end
+
 
 
 """
@@ -442,14 +435,7 @@ function compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
 end
 
 function build_tree(pmidists, languages)
-    R"""
-    library(phangorn)
-    dst = $pmidists
-    rownames(dst) <- colnames(dst) <- $languages
-    tree <- upgma(dst)
-    treeS <- write.tree(tree, file="")
-    """
-    return ParseNewick(@rget treeS)
+    tree = upgma(convert(Matrix{Float64}, pmidists), convert(Vector{String}, languages))
 end
 
 
@@ -546,7 +532,7 @@ end
 ##
 
 
-for db ∈ dbs[23:end]
+for db ∈ dbs
     @info "Processing $db"
     d = filter(x -> x.db == db, wl)
     languages = unique(d.Glottocode)
