@@ -3,7 +3,7 @@ using Pkg
 Pkg.activate(".")
 Pkg.instantiate()
 
-
+##
 # Julia Packages
 using CSV
 using DataFrames
@@ -17,22 +17,23 @@ using RCall
 
 
 
-# Include external scripts
+## Include external scripts
 include("needlemanWunsch.jl")
 
-# Conda and Python setup
+### Conda and Python setup
 using Conda
 Conda.add("r-phangorn")
 ENV["R_HOME"] = "*"
 Pkg.build("RCall")
 
+##
 
 wl = @pipe CSV.File("../data/lexibank_wordlist.csv") |> 
     DataFrame |>
     dropmissing(_, [:ASJP, :Cognateset_ID]) |>
     filter(x -> x.ASJP != "", _)
 
-# Load datasets
+## Load datasets
 dbs = unique(wl.db)
 
 function pmiStar(w1::Union{Missing,String}, w2::Union{Missing,String}, p::NW)
@@ -542,8 +543,10 @@ function write_mrbayes_file(db_name)
     end
 end
 
+##
 
-for db ∈ dbs
+
+for db ∈ dbs[23:end]
     @info "Processing $db"
     d = filter(x -> x.db == db, wl)
     languages = unique(d.Glottocode)
