@@ -29,6 +29,7 @@ for fn in mcmc_files
             DataFrame |>
             dropmissing(_, "AvgStdDev(s)")
     if vdf[end, "AvgStdDev(s)"] > 0.01
+        @info vdf[end, "AvgStdDev(s)"]
         push!(not_converged, fn)
     end
 end

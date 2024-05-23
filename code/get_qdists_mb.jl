@@ -26,6 +26,25 @@ datasets = first.(split.(glottologTrees, "_")) |> sort
 ##
 
 
+function gqd_msa(ds)
+    correspondence_trees = open("../data/posterior_trees/$(ds)_msa.trees") do f
+        readlines(f)
+    end
+    glot_tree = "../data/glottolog_trees/$(ds)_glottolog.tre"
+    gqd = Vector{Float64}(undef, length(correspondence_trees))
+    for (i, tree1) in enumerate(correspondence_trees)
+        fn1 = tempname()
+        write(fn1, tree1)
+        output = read(`qdist $fn1 $glot_tree`, String)
+        rm(fn1)
+        gqd[i] = 1 - parse(Float64, split(output, "\t")[end-2])
+    end
+    return gqd
+end
+
+##
+
+
 function gqd_correspondences(ds)
     correspondence_trees = open("../data/posterior_trees/$(ds)_correspondences.trees") do f
         readlines(f)

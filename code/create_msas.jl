@@ -12,12 +12,10 @@ using ProgressMeter
 using Pipe
 using ArgCheck
 using Base.Threads
-using StatsPlots
 using StatsBase
 using RCall
 
-# Plotting backend
-plotlyjs()
+
 
 # Include external scripts
 include("needlemanWunsch.jl")
@@ -25,16 +23,8 @@ include("needlemanWunsch.jl")
 # Conda and Python setup
 using Conda
 Conda.add("r-phangorn")
-Conda.pip_interop(true)
-Conda.pip("install", "asjp")
-ENV["PYTHON"] = ""
-Pkg.build("PyCall")
 ENV["R_HOME"] = "*"
 Pkg.build("RCall")
-using PyCall
-
-# Python package import
-pyasjp = pyimport("asjp")
 
 
 wl = @pipe CSV.File("../data/lexibank_wordlist.csv") |> 
