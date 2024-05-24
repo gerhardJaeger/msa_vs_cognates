@@ -18,7 +18,7 @@ using StatsBase
 
 
 ## Include external scripts
-include("needlemanWunsch.jl")
+include("alignment_functions.jl")
 
 ##
 
@@ -91,237 +91,6 @@ function dercPMI(
 end
 
 
-
-"""
-Takes two gapped strings and returns the hamming distance between
-them. Positions containing a gap in at least one string are ignored.
-"""
-function sHamming(al)
-    ds = []
-    for i in 1:size(al, 1)
-        s1, s2 = al[i, :]
-        if !ismissing(s1) && !ismissing(s2)
-            push!(
-                ds,
-                Int(s1 != s2)
-            )
-        end
-    end
-    mean(ds)
-end
-
-
-"""
-Takes a pairwise alignment (i.e. a pair of gapped strings with identical length)
-as input and returns a matrix representation M as output.
-The matrix M is defined as M[i,j] = 1 if x[i] is matched with y[j]
-in the alignment, 0 else (where x,y are the two ungapped strings to be aligned).
-"""
-
-function algnMatrix(al)
-    w1 = filter(x -> !ismissing(x), al[:, 1])
-    w2 = filter(x -> !ismissing(x), al[:, 2])
-    dm = zeros(Int, length(w1), length(w2))
-    i, j = 1, 1
-    for k in 1:size(al, 1)
-        s1, s2 = al[k, :]
-        if !ismissing(s1)
-            if !ismissing(s2)
-                dm[i, j] += 1
-                i += 1
-                j += 1
-            else
-                i += 1
-            end
-        else
-            j += 1
-        end
-    end
-    dm
-end
-
-
-"""
-Takes a list of sequences and returns a library in the sense of the
-T-Coffee algorithm. A library is a dictionary with sequence pairs
-as keys and pairwise alignments in matrix format as columns.
-"""
-
-
-function createLibrary(words; pmiPar::NW=pmiPar)
-    library = Dict{Tuple{String, String}, Tuple{Matrix{Int}, Float64}}()
-    library_lock = ReentrantLock()
-    uwords = unique(words)
-    
-    @threads for w1 in uwords
-        for w2 in uwords
-            lock(library_lock)  # Lock the critical section
-            try
-                if (w2, w1) in keys(library)
-                    x = library[w2, w1]
-                    library[w1, w2] = (Matrix{Int}(x[1]'), x[2])
-                else
-                    unlock(library_lock)  # Unlock before performing time-consuming operations
-                    al = nwAlign(w1, w2, pmiPar)[1]
-                    lock(library_lock)  # Lock again before modifying the dictionary
-                    library[w1, w2] = (algnMatrix(al), 1 - sHamming(al))
-                end
-            finally
-                unlock(library_lock)  # Ensure the lock is always released
-            end
-        end
-    end
-    return library
-end
-
-
-
-"""
-Takes a list of sequences and returns an extended library in the
-sense of the T-Coffee algorithm. An extended library is a dictionary with
-sequence pairs as keys and a score matrix as values.
-For a pair of sequences x,y and a corresponding score matrix M,
-M[i,j] is the score for aligning x[i] with y[j].
-"""
-
-
-function createExtendedLibrary(words; pmiPar::NW=pmiPar)
-    uwords = unique(words)
-    library = createLibrary(uwords; pmiPar=pmiPar)
-    extLibrary = Dict{Tuple{String, String}, Matrix{Float32}}()
-    extLibrary_lock = ReentrantLock()
-
-    # Precompute some values to avoid repeated computation in the loop
-    word_pairs = [(i, j, uwords[i], uwords[j]) for i in 1:length(uwords), j in 1:length(uwords) if i <= j]
-
-    @threads for (i, j, w1, w2) in word_pairs
-        n, m = length.(collect.([w1, w2]))
-        dm = zeros(Float32, n, m)
-        
-        for w3 in words
-            a1, s1 = library[w1, w3]
-            a2, s2 = library[w3, w2]
-            a1, a2 = Matrix{Float32}(a1), Matrix{Float32}(a2)
-            dm += (s1 + s2) * (a1 * a2)
-        end
-    
-        lock(extLibrary_lock)
-        try
-            extLibrary[w1, w2] = dm
-            extLibrary[w2, w1] = Matrix{Float32}(dm')
-        finally
-            unlock(extLibrary_lock)
-        end
-    end
-
-    return extLibrary
-end
-
-
-"""
-Returns the index of gappedString[i] in the
-ungapped version thereof.
-If gappedString[i] is a gap, returns -1
-"""
-
-function pos(alVector, i)
-    if ismissing(alVector[i])
-        return -1
-    end
-    return i - sum(ismissing.(alVector[1:i]))
-end
-
-
-"""
-Needleman-Wunsch alignment of two aligned blocks b1 and b2,
-using the scores in the extended library lib.
-"""
-function nwBlock(al1, al2, extLibrary)
-    # Prepare words1 and words2 using comprehensions
-    words1 = [join(filter(x -> !ismissing(x), al1[:, i]), "") for i in 1:size(al1, 2)]
-    words2 = [join(filter(x -> !ismissing(x), al2[:, i]), "") for i in 1:size(al2, 2)]
-
-    n, m = size(al1, 1), size(al2, 1)
-    dp = zeros(n + 1, m + 1)
-    pointers = zeros(Int, n + 1, m + 1)
-
-    # Initialize first row and column of pointers
-    pointers[1, 2:end] .= 3  # All deletions
-    pointers[2:end, 1] .= 2  # All insertions
-
-    match_cache = Dict{Tuple{Int, Int}, Float64}()
-
-    for i in 2:(n + 1)
-        for j in 2:(m + 1)
-            insert = dp[i-1, j]
-            delet = dp[i, j-1]
-            match = dp[i-1, j-1]
-
-            match_val = 0.0
-            for k in 1:length(words1)
-                for l in 1:length(words2)
-                    if !ismissing(al1[i-1, k]) && !ismissing(al2[j-1, l])
-                        pos1 = i - 1
-                        pos2 = j - 1
-                        w1, w2 = words1[k], words2[l]
-
-                        if haskey(match_cache, (pos1, pos2))
-                            match_val = match_cache[(pos1, pos2)]
-                        else
-                            if pos1 <= size(extLibrary[w1, w2], 1) && pos2 <= size(extLibrary[w1, w2], 2)
-                                match_val += extLibrary[w1, w2][pos1, pos2]
-                                match_cache[(pos1, pos2)] = match_val
-                            end
-                        end
-                    end
-                end
-            end
-
-            match += match_val
-
-            # Update dp and pointers
-            dp[i, j], pointers[i, j] = maximum([(match, 1), (insert, 2), (delet, 3)])
-        end
-    end
-
-    # Traceback to find the alignment path
-    i, j = n + 1, m + 1
-    indices = Vector{Tuple{Int, Int}}()
-    while i > 1 || j > 1
-        p = pointers[i, j]
-        if p == 1
-            i -= 1
-            j -= 1
-            pushfirst!(indices, (i, j))
-        elseif p == 2
-            i -= 1
-            pushfirst!(indices, (i, -1))
-        else
-            j -= 1
-            pushfirst!(indices, (-1, j))
-        end
-    end
-
-    # Initialize alNew array
-    alNew = Array{Union{Char, Missing}}(missing, length(indices), size(al1, 2) + size(al2, 2))
-
-    # Fill alNew with aligned sequences
-    for (k, (i, j)) in enumerate(indices)
-        if i == -1
-            x1 = fill(missing, size(al1, 2))
-        else
-            x1 = al1[i, :]
-        end
-        if j == -1
-            x2 = fill(missing, size(al2, 2))
-        else
-            x2 = al2[j, :]
-        end
-        alNew[k, :] = vcat(x1, x2)
-    end
-
-    alNew
-end
 
 
 function tCoffee(guide_tree; pmiPar::NW=pmiPar)
@@ -531,6 +300,27 @@ end
 
 ##
 
+db = "ratcliffearabic"
+d = filter(x -> x.db == db, wl)
+concepts = unique(d.Concepticon_Gloss)
+languages = unique(d.Glottocode)
+d_wide = unstack(d, :Glottocode, :Concepticon_Gloss, :ASJP, allowmissing=true, combine=x -> join(unique(x), "-"))
+ln2index = Dict(zip(d_wide.Glottocode, 1:size(d_wide, 1)))
+dMtx = Matrix(d_wide[:, 2:end])
+nconcepts = length(concepts)
+minSim = -sqrt(nconcepts)
+maxSim = (log(nconcepts * (nconcepts - 1) + 1) - 1) * sqrt(nconcepts)
+pmidists = compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
+tree = build_tree(pmidists, languages)
+
+c = concepts[1]
+data = filter(x -> x.Concepticon_Gloss == c, d)
+al = get_alignment(data; tree=tree)
+
+
+
+##
+mkpath("upgma_trees")
 
 for db ∈ dbs
     @info "Processing $db"
@@ -542,6 +332,7 @@ for db ∈ dbs
     end
     concepts = unique(d.Concepticon_Gloss)
     d_wide = unstack(d, :Glottocode, :Concepticon_Gloss, :ASJP, allowmissing=true, combine=x -> join(unique(x), "-"))
+    languages = d_wide.Glottocode
     ln2index = Dict(zip(d_wide.Glottocode, 1:size(d_wide, 1)))
     dMtx = Matrix(d_wide[:, 2:end])
     nconcepts = length(concepts)
@@ -549,6 +340,9 @@ for db ∈ dbs
     maxSim = (log(nconcepts * (nconcepts - 1) + 1) - 1) * sqrt(nconcepts)
     pmidists = compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
     tree = build_tree(pmidists, languages)
+    open(joinpath("upgma_trees", "($db)_upgma.tre"), "w") do f
+        write(f, newick(tree))
+    end
     alignments = get_alignments(concepts, d, tree)
     char_mtx = create_character_matrix(concepts, alignments)
     db_name = split(split(db, "/")[end], ".")[1]

@@ -292,57 +292,43 @@ Needleman-Wunsch alignment of two aligned blocks b1 and b2,
 using the scores in the extended library lib.
 """
 function nwBlock(al1, al2, extLibrary)
-    # Prepare words1 and words2 using comprehensions
-    words1 = [join(filter(x -> !ismissing(x), al1[:, i]), "") for i in 1:size(al1, 2)]
-    words2 = [join(filter(x -> !ismissing(x), al2[:, i]), "") for i in 1:size(al2, 2)]
-
+    words1 = []
+    for i in 1:size(al1, 2)
+        push!(
+            words1,
+            join(filter(x -> !ismissing(x), al1[:, i]))
+        )
+    end
+    words2 = []
+    for i in 1:size(al2, 2)
+        push!(
+            words2,
+            join(filter(x -> !ismissing(x), al2[:, i]))
+        )
+    end
     n, m = size(al1, 1), size(al2, 1)
     dp = zeros(n + 1, m + 1)
     pointers = zeros(Int, n + 1, m + 1)
-
-    # Initialize first row and column of pointers
-    pointers[1, 2:end] .= 3  # All deletions
-    pointers[2:end, 1] .= 2  # All insertions
-
-    match_cache = Dict{Tuple{Int, Int}, Float64}()
-
-    for i in 2:(n + 1)
-        for j in 2:(m + 1)
-            insert = dp[i-1, j]
-            delet = dp[i, j-1]
-            match = dp[i-1, j-1]
-
-            match_val = 0.0
-            for k in 1:length(words1)
-                for l in 1:length(words2)
-                    if !ismissing(al1[i-1, k]) && !ismissing(al2[j-1, l])
-                        pos1 = i - 1
-                        pos2 = j - 1
-                        w1, w2 = words1[k], words2[l]
-
-                        if haskey(match_cache, (pos1, pos2))
-                            match_val = match_cache[(pos1, pos2)]
-                        else
-                            if pos1 <= size(extLibrary[w1, w2], 1) && pos2 <= size(extLibrary[w1, w2], 2)
-                                match_val += extLibrary[w1, w2][pos1, pos2]
-                                match_cache[(pos1, pos2)] = match_val
-                            end
-                        end
-                    end
-                end
+    pointers[1, 2:end] .= 3
+    pointers[2:end, 1] .= 2
+    for i in 2:(n+1), j in 2:(m+1)
+        insert = dp[i-1, j]
+        delet = dp[i, j-1]
+        match = dp[i-1, j-1]
+        for k in 1:length(words1), l in 1:length(words2)
+            if !ismissing(al1[i-1, k]) && !ismissing(al2[j-1, l])
+                pos1 = pos(al1[:, k], i - 1)
+                pos2 = pos(al2[:, l], j - 1)
+                w1, w2 = words1[k], words2[l]
+                match += extLibrary[w1, w2][pos1, pos2]
             end
-
-            match += match_val
-
-            # Update dp and pointers
-            dp[i, j], pointers[i, j] = maximum([(match, 1), (insert, 2), (delet, 3)])
         end
+        dp[i, j] = maximum([insert, delet, match])
+        pointers[i, j] = argmax(([match, insert, delet]))
     end
-
-    # Traceback to find the alignment path
-    i, j = n + 1, m + 1
-    indices = Vector{Tuple{Int, Int}}()
-    while i > 1 || j > 1
+    i, j = size(dp)
+    indices = []
+    while maximum([i, j]) > 1
         p = pointers[i, j]
         if p == 1
             i -= 1
@@ -356,11 +342,11 @@ function nwBlock(al1, al2, extLibrary)
             pushfirst!(indices, (-1, j))
         end
     end
+    alNew = Array{Union{Char,Missing}}(
+        missing,
+        length(indices),
+        size(al1, 2) + size(al2, 2))
 
-    # Initialize alNew array
-    alNew = Array{Union{Char, Missing}}(missing, length(indices), size(al1, 2) + size(al2, 2))
-
-    # Fill alNew with aligned sequences
     for (k, (i, j)) in enumerate(indices)
         if i == -1
             x1 = fill(missing, size(al1, 2))
@@ -374,6 +360,5 @@ function nwBlock(al1, al2, extLibrary)
         end
         alNew[k, :] = vcat(x1, x2)
     end
-
     alNew
 end
