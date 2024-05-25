@@ -299,34 +299,14 @@ function write_mrbayes_file(db_name)
 end
 
 ##
-
-db = "ratcliffearabic"
-d = filter(x -> x.db == db, wl)
-concepts = unique(d.Concepticon_Gloss)
-languages = unique(d.Glottocode)
-d_wide = unstack(d, :Glottocode, :Concepticon_Gloss, :ASJP, allowmissing=true, combine=x -> join(unique(x), "-"))
-ln2index = Dict(zip(d_wide.Glottocode, 1:size(d_wide, 1)))
-dMtx = Matrix(d_wide[:, 2:end])
-nconcepts = length(concepts)
-minSim = -sqrt(nconcepts)
-maxSim = (log(nconcepts * (nconcepts - 1) + 1) - 1) * sqrt(nconcepts)
-pmidists = compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
-tree = build_tree(pmidists, languages)
-
-c = concepts[1]
-data = filter(x -> x.Concepticon_Gloss == c, d)
-al = get_alignment(data; tree=tree)
-
-
-
-##
 mkpath("upgma_trees")
+mkpath("msa")
 
 for db ∈ dbs
     @info "Processing $db"
     d = filter(x -> x.db == db, wl)
     languages = unique(d.Glottocode)
-    if length(languages) < 4
+    if length(languages) < 10
         @warn "Skipping $db: Not enough languages"
         continue
     end
@@ -340,15 +320,18 @@ for db ∈ dbs
     maxSim = (log(nconcepts * (nconcepts - 1) + 1) - 1) * sqrt(nconcepts)
     pmidists = compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
     tree = build_tree(pmidists, languages)
-    open(joinpath("upgma_trees", "($db)_upgma.tre"), "w") do f
+    open(joinpath("upgma_trees", "$(db)_upgma.tre"), "w") do f
         write(f, newick(tree))
     end
     alignments = get_alignments(concepts, d, tree)
+    mkpath(joinpath("msa", db))
+    for c in concepts
+        CSV.write(joinpath("msa", db, "$c.csv"), coalesce.(alignments[c], "-"))
+    end
     char_mtx = create_character_matrix(concepts, alignments)
-    db_name = split(split(db, "/")[end], ".")[1]
-    write_nexus_file(char_mtx, db_name)
-    write_phylip_file(char_mtx, db_name)
-    write_mrbayes_file(db_name)
+    write_nexus_file(char_mtx, db)
+    write_phylip_file(char_mtx, db)
+    write_mrbayes_file(db)
 end
 
 
