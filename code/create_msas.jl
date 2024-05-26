@@ -300,6 +300,7 @@ end
 
 ##
 mkpath("upgma_trees")
+mkpath("neighbour_joining_trees")
 mkpath("msa")
 
 for db ∈ dbs
@@ -320,8 +321,12 @@ for db ∈ dbs
     maxSim = (log(nconcepts * (nconcepts - 1) + 1) - 1) * sqrt(nconcepts)
     pmidists = compute_pmidists(languages, dMtx, pmiPar, maxSim, minSim)
     tree = build_tree(pmidists, languages)
+    njtree = neighbor_joining(convert(Matrix{Float64}, pmidists), convert(Vector{String}, languages))
     open(joinpath("upgma_trees", "$(db)_upgma.tre"), "w") do f
         write(f, newick(tree))
+    end
+    open(joinpath("neighbour_joining_trees", "$(db)_nj.tre"), "w") do f
+        write(f, newick(njtree))
     end
     alignments = get_alignments(concepts, d, tree)
     mkpath(joinpath("msa", db))
