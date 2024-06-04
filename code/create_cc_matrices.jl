@@ -22,6 +22,8 @@ dbs = unique(lxb.db)
 
 ##
 
+mkpath("phylip")
+
 @showprogress for db in dbs
     d = filter(x -> x.db == db, lxb)
     concepts = unique(d.Concepticon_Gloss)
