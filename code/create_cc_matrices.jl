@@ -12,7 +12,7 @@ using ProgressMeter
 
 ##
 
-lxb = @pipe CSV.File("../data/lexibank_wordlist.csv") |>
+lxb = @pipe CSV.File("../data/lexibank_wordlist_pruned.csv") |>
     DataFrame |>
     dropmissing(_, [:ASJP, :Cognateset_ID]) |>
     filter(x -> x.ASJP != "", _)
