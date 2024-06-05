@@ -22,7 +22,7 @@ include("alignment_functions.jl")
 
 ##
 
-wl = @pipe CSV.File("../data/lexibank_wordlist.csv") |> 
+wl = @pipe CSV.File("../data/lexibank_wordlist_pruned.csv") |> 
     DataFrame |>
     dropmissing(_, [:ASJP, :Cognateset_ID]) |>
     filter(x -> x.ASJP != "", _)
@@ -302,8 +302,9 @@ end
 mkpath("upgma_trees")
 mkpath("neighbour_joining_trees")
 mkpath("msa")
+mkpath("mrbayes")
 
-for db ∈ dbs
+for db ∈ dbs[39:end]
     @info "Processing $db"
     d = filter(x -> x.db == db, wl)
     languages = unique(d.Glottocode)

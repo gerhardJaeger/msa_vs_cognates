@@ -1,8 +1,6 @@
 language,x1,x2,x3,x4,x5,x6
-suri1265,-,-,p,-,e,5
-cent1989,-,-,p,-,e,5
 khmu1256,-,-,k,i,i,5
-monn1253,-,-,p,o,i,5
+cent1989,-,-,p,-,e,5
 semn1250,t,-,b,-,i,k
 temi1246,t,-,b,-,i,k
 temi1246,t,3,b,-,i,k
@@ -15,8 +13,8 @@ bate1262,s,-,b,-,e,m
 jeha1242,s,-,b,-,e,m
 jeha1242,s,-,b,-,e,m
 kens1248,h,-,b,-,u,5
-kens1248,p,-,-,-,3,h
-kint1239,p,-,-,-,3,h
+kens1248,-,-,p,-,3,h
+kint1239,-,-,p,-,3,h
 tong1308,h,a,b,-,u,5
 tong1308,-,-,b,-,E,m
 tong1308,h,-,b,-,u,5
