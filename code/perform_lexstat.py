@@ -2,7 +2,14 @@
 import lingpy
 import pandas as pd
 import numpy as np
-from concurrent.futures import ProcessPoolExecutor, as_completed
+import os
+import sys
+
+#%%
+directory_path = "../data/lexstat"
+if not os.path.exists(directory_path):
+    os.makedirs(directory_path)
+
 
 # %%
 
@@ -22,10 +29,10 @@ d.insert(
 # %%
 
 dbs = d.db.unique()
-
+db = dbs[int(sys.argv[1])]
 
 #%%
-def process_db(db):
+def process_db(db, d=d):
     df = d[d["db"] == db][["id", "Glottocode", "Concepticon_Gloss", "forms", "tokens"]]
     df.columns = ["id", "doculect", "concept", "forms", "tokens"]
 
@@ -56,26 +63,8 @@ def process_db(db):
         output.loc[i] = lex[i + 1]
     output = output[["id", "doculect", "concept", "forms", "lexstatid"]]
     output["db"] = db
+    output.to_csv(f"../data/lexstat/lexstat_{db}.csv", index=False)
 
-    return output
 # %%
 
-
-outputs = []
-
-# Run the processing in parallel
-with ProcessPoolExecutor() as executor:
-    futures = {executor.submit(process_db, db): db for db in dbs}
-    for future in as_completed(futures):
-        try:
-            result = future.result()
-            outputs.append(result)
-        except Exception as exc:
-            print(f'Generated an exception: {exc}')
-
-# Combine all outputs into a single DataFrame
-final_output = pd.concat(outputs, ignore_index=True)
-
-#%%
-
-final_output.to_csv("../data/lexstat_output.csv", index=False)
+process_db(db)
