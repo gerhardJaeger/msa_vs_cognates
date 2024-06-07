@@ -20,6 +20,7 @@ import distance
 import logging
 import time
 import math
+import os
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -355,26 +356,54 @@ def timeSince(since, percent):
     es = s / (percent)
     rs = es - s
     return '%s (- %s)' % (asMinutes(s), asMinutes(rs))
+#%%
+
+
+def save_checkpoint(state, filename="checkpoint.pth"):
+    torch.save(state, filename)
+    print(f"Checkpoint saved at {filename}")
+
+def load_checkpoint(filename, encoder, decoder, encoder_optimizer, decoder_optimizer):
+    checkpoint = torch.load(filename)
+    encoder.load_state_dict(checkpoint['encoder_state_dict'])
+    decoder.load_state_dict(checkpoint['decoder_state_dict'])
+    encoder_optimizer.load_state_dict(checkpoint['encoder_optimizer_state_dict'])
+    decoder_optimizer.load_state_dict(checkpoint['decoder_optimizer_state_dict'])
+    epoch = checkpoint['epoch']
+    loss = checkpoint['loss']
+    return epoch, loss
+
 
 
 #%%
+
+
+
 def trainIters(encoder=encoder, decoder=decoder):
     tb_dir = "tensorboard_logs/"
     shutil.rmtree(tb_dir, ignore_errors=True)
-    writer_training = SummaryWriter(tb_dir+"training/")
-    writer_validation = SummaryWriter(tb_dir+"validation/")
+    writer_training = SummaryWriter(tb_dir + "training/")
+    writer_validation = SummaryWriter(tb_dir + "validation/")
     
     encoder_optimizer = optim.SGD(encoder.parameters(), lr=lr)
     decoder_optimizer = optim.SGD(decoder.parameters(), lr=lr)
 
-    for epoch in range(epochs):
+    start_epoch = 0
+    best_val_loss = float('inf')
+
+    # Load checkpoint if available
+    checkpoint_path = "checkpoint.pth"
+    if os.path.exists(checkpoint_path):
+        start_epoch, best_val_loss = load_checkpoint(checkpoint_path, encoder, decoder, encoder_optimizer, decoder_optimizer)
+
+    for epoch in range(start_epoch, epochs):
         for iter, x in enumerate(train_loader):
-            x = x.view(-1,1).to(device)
+            x = x.view(-1, 1).to(device)
             
             train(x, x, encoder, decoder, encoder_optimizer, decoder_optimizer)
                     
             if (iter > 0) and (iter % 1000 == 0):
-                percentage = round(100 * iter/len(train_loader))
+                percentage = round(100 * iter / len(train_loader))
                 train_loss = loss_estimate(train_loader)
                 train_ldn = ldn_estimate(train_loader)
                 val_loss = loss_estimate(val_loader)
@@ -384,17 +413,25 @@ def trainIters(encoder=encoder, decoder=decoder):
                 writer_training.add_scalar("LDN", train_ldn, iter)
                 writer_validation.add_scalar("Loss", val_loss, iter)
                 writer_validation.add_scalar("LDN", val_ldn, iter)
-
+                
+                # Save checkpoint if validation loss has improved
+                if val_loss < best_val_loss:
+                    best_val_loss = val_loss
+                    save_checkpoint({
+                        'epoch': epoch,
+                        'encoder_state_dict': encoder.state_dict(),
+                        'decoder_state_dict': decoder.state_dict(),
+                        'encoder_optimizer_state_dict': encoder_optimizer.state_dict(),
+                        'decoder_optimizer_state_dict': decoder_optimizer.state_dict(),
+                        'loss': val_loss
+                    }, filename=checkpoint_path)
 
 # %%
 
-trainIters()
+#trainIters()
 
 #%%
-torch.save(encoder, "gru_encoder.pth")
-torch.save(decoder, "gru_decoder.pth")
 
-# %%
 training_results = [evWord(str(w)) for w in d.ASJP.iloc[train_dataset.indices]]
 validation_results = [evWord(str(w)) for w in d.ASJP.iloc[val_dataset.indices]]
 
