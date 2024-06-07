@@ -1,0 +1,2112 @@
+id,doculect,concept,forms,lexstatid,db
+152802,bada1257,I,n a,397,dravlex
+152803,bett1235,I,n aː ʋ ə,397,dravlex
+152804,brah1256,I,iː,398,dravlex
+152805,nort2702,I,n a nː a,397,dravlex
+152806,nucl1305,I,n aː n u,397,dravlex
+152807,koda1255,I,n aː n ə,397,dravlex
+152808,nort2699,I,n eː n u,397,dravlex
+152809,kota1263,I,aː n,399,dravlex
+152810,koya1251,I,n a nː a,397,dravlex
+152811,kuru1302,I,a eː n,399,dravlex
+152812,kuvi1243,I,n aː n u,397,dravlex
+152813,kuvi1243,I,m u,401,dravlex
+152814,mala1464,I,ɲ aː n,397,dravlex
+152815,saur1249,I,h eː n u,400,dravlex
+152816,pott1240,I,aː n,399,dravlex
+152817,duru1236,I,aː n,399,dravlex
+152818,telu1262,I,n eː n u,397,dravlex
+152819,toda1252,I,oː n,399,dravlex
+152820,tulu1258,I,j aː n u,397,dravlex
+152821,bada1257,ALL,e lː a,1,dravlex
+152822,nucl1305,ALL,e lː a,1,dravlex
+152823,koda1255,ALL,e lː a,1,dravlex
+152824,kota1263,ALL,e lː aː m,1,dravlex
+152825,mala1464,ALL,e lː a,1,dravlex
+152826,tami1289,ALL,e lː aː m,1,dravlex
+152827,koya1251,ALL,a n t aː,4,dravlex
+152828,telu1262,ALL,a n t a,4,dravlex
+152829,koya1251,ALL,m o tː a m,10,dravlex
+152830,telu1262,ALL,m o tː a m u,10,dravlex
+152831,toda1252,ALL,o ʋː o ɖ i m o,9,dravlex
+152832,telu1262,ALL,a nː i,12,dravlex
+152833,ravu1237,ALL,n a n g aː ɭ ə,7,dravlex
+152834,tulu1258,ALL,m aː t a,10,dravlex
+152835,bett1235,ALL,oː ʈ ə j a,2,dravlex
+152836,kuvi1243,ALL,h a r a,6,dravlex
+152837,brah1256,ALL,k u lː,3,dravlex
+152838,saur1249,ALL,g oː ʈ a h iː,8,dravlex
+152839,saur1249,ALL,g iː ʈ e n iː,11,dravlex
+152840,kuru1302,ALL,m a j i n,5,dravlex
+152841,nort2699,ALL,m aː k,5,dravlex
+152842,nort2702,ALL,b o tː i g,2,dravlex
+152843,mala1464,ASH,tʃ aː m b a l,18,dravlex
+152844,mala1464,ASH,tʃ aː ɾ a m,20,dravlex
+152845,tami1289,ASH,s aː m b a l,18,dravlex
+152846,bada1257,ASH,k o l a b uː d i,13,dravlex
+152847,bett1235,ASH,p iː d i,13,dravlex
+152848,nucl1305,ASH,b uː d i,13,dravlex
+152849,koda1255,ASH,b uː d i,13,dravlex
+152850,kota1263,ASH,p oː d u + a t u k ə,16,dravlex
+152851,koya1251,ASH,b uː ɖ i d a,13,dravlex
+152852,telu1262,ASH,b uː ɖ i d a,13,dravlex
+152853,toda1252,ASH,p uː d i,13,dravlex
+152854,ravu1237,ASH,b uː d i,13,dravlex
+152855,tulu1258,ASH,tʃ uː n j a,17,dravlex
+152856,tulu1258,ASH,tʃ oː n j a,17,dravlex
+152857,nort2702,ASH,n iː ɾ,15,dravlex
+152858,pott1240,ASH,n i ɖ,15,dravlex
+152859,duru1236,ASH,n iː d,15,dravlex
+152860,brah1256,ASH,h i s,14,dravlex
+152861,nort2699,ASH,b u gː i,19,dravlex
+152862,kuru1302,ASH,tʃ i n d,17,dravlex
+152863,bada1257,BARK,p a ʈː e,21,dravlex
+152864,koda1255,BARK,a ʈː e,21,dravlex
+152865,mala1464,BARK,p a ʈː a,21,dravlex
+152866,tami1289,BARK,p a ʈː e,21,dravlex
+152867,telu1262,BARK,p a ʈː a,21,dravlex
+152868,nucl1305,BARK,n aː r u,27,dravlex
+152869,kuru1302,BARK,oː ɖ a k,25,dravlex
+152870,koya1251,BARK,b e ɾ a ɖ u,21,dravlex
+152871,telu1262,BARK,b e ɾ a ɖ u,21,dravlex
+152872,koda1255,BARK,tʃ e kː e,21,dravlex
+152873,koya1251,BARK,d a n ʈ i,26,dravlex
+152874,nucl1305,BARK,t o g a ʈ i,30,dravlex
+152875,toda1252,BARK,p u ʈ k o ɾ i,28,dravlex
+152876,tulu1258,BARK,k e tː a,29,dravlex
+152877,nort2702,BARK,t oː l,22,dravlex
+152878,ravu1237,BARK,t oː l u,22,dravlex
+152879,bett1235,BARK,m e ɾ t oː l ə,22,dravlex
+152880,mala1464,BARK,m a ɾ a tː o l i,22,dravlex
+152881,brah1256,BARK,b u n d,23,dravlex
+152882,nort2699,BARK,ɖ a n ɖ i + m a ɖː a,26,dravlex
+152883,kota1263,BARK,k o lː u tʃ o,24,dravlex
+152884,mala1464,BELLY,ʋ a j a ɾ ə,32,dravlex
+152885,tami1289,BELLY,v a y i r̪ u,38,dravlex
+152886,toda1252,BELLY,p i ɾ,32,dravlex
+152887,tulu1258,BELLY,b a n dʒ i,36,dravlex
+152888,ravu1237,BELLY,b a i ɾ u,38,dravlex
+152889,ravu1237,BELLY,b aː ɾ ə,32,dravlex
+152890,bada1257,BELLY,o ʈː e,31,dravlex
+152891,bett1235,BELLY,p o ʈː i,31,dravlex
+152892,nucl1305,BELLY,h o ʈː e,31,dravlex
+152893,nucl1305,BELLY,h o ʈː a,31,dravlex
+152894,koda1255,BELLY,p o ʈː e,31,dravlex
+152895,saur1249,BELLY,p u ɖ aː,31,dravlex
+152896,duru1236,BELLY,p o ʈː a,31,dravlex
+152897,telu1262,BELLY,p o ʈː a,31,dravlex
+152898,telu1262,BELLY,k a ɖ u p u,39,dravlex
+152899,koya1251,BELLY,ɖ o kː a,34,dravlex
+152900,tami1289,BELLY,t o n t i,36,dravlex
+152901,tami1289,BELLY,t o pː a i,40,dravlex
+152902,kuru1302,BELLY,k uː l,35,dravlex
+152903,brah1256,BELLY,p e ɖʰ,32,dravlex
+152904,nort2702,BELLY,p iː ɾ,32,dravlex
+152905,pott1240,BELLY,p u d u g,31,dravlex
+152906,kuvi1243,BELLY,b a n ɖ i,36,dravlex
+152907,nort2699,BELLY,ʈ e ʈː e,37,dravlex
+152908,kota1263,BELLY,n a ɖ p eː ʈ g u,33,dravlex
+152909,nort2702,BIG,p e d d a,44,dravlex
+152910,koya1251,BIG,b e ɾ ɾ a,44,dravlex
+152911,kuvi1243,BIG,b eː ɾ,44,dravlex
+152912,saur1249,BIG,b eː ɖ o,44,dravlex
+152913,duru1236,BIG,b e r t o,44,dravlex
+152914,tami1289,BIG,p e ɾ i j a,44,dravlex
+152915,tami1289,BIG,p e r ə s ə,47,dravlex
+152916,telu1262,BIG,p e d d a,44,dravlex
+152917,koda1255,BIG,b a l j a d ə,45,dravlex
+152918,mala1464,BIG,ʋ a l u d ə,45,dravlex
+152919,ravu1237,BIG,b a l e j i,45,dravlex
+152920,bada1257,BIG,d o ɖː a d ə,41,dravlex
+152921,nucl1305,BIG,d o ɖː a d u,41,dravlex
+152922,tulu1258,BIG,m a lː a,48,dravlex
+152923,toda1252,BIG,i tː uː ɖ ə,41,dravlex
+152924,bett1235,BIG,d a pː u,42,dravlex
+152925,brah1256,BIG,b a lː u n,43,dravlex
+152926,kuru1302,BIG,k o h a,46,dravlex
+152927,pott1240,BIG,m u ɾ e,47,dravlex
+152928,kota1263,BIG,t o ɖ u t,41,dravlex
+152929,tami1289,BIRD,p a ɾ a ʋ a i,55,dravlex
+152930,toda1252,BIRD,p a ɾ a ʋ a i,55,dravlex
+152931,bett1235,BIRD,p i kː i,49,dravlex
+152932,nucl1305,BIRD,h a kː i,49,dravlex
+152933,nucl1305,BIRD,p a k ʂ i,49,dravlex
+152934,koda1255,BIRD,p a k ʂ i,49,dravlex
+152935,kota1263,BIRD,p a kː i g a ɭ,49,dravlex
+152936,mala1464,BIRD,p a k ʂ i,49,dravlex
+152937,telu1262,BIRD,p a k ʂ i,49,dravlex
+152938,tulu1258,BIRD,p a kː i,49,dravlex
+152939,ravu1237,BIRD,p a k tʃ i,49,dravlex
+152940,nort2702,BIRD,p i ʈː ə,51,dravlex
+152941,nort2699,BIRD,p i ʈː a,51,dravlex
+152942,koya1251,BIRD,p i ʈː eː k u,51,dravlex
+152943,telu1262,BIRD,p i tː a,51,dravlex
+152944,mala1464,BIRD,k i l i,56,dravlex
+152945,kuvi1243,BIRD,m i n u,53,dravlex
+152946,saur1249,BIRD,p u dʒ u d u,54,dravlex
+152947,brah1256,BIRD,tʃ o k,50,dravlex
+152948,kuru1302,BIRD,o ɖ a,52,dravlex
+152949,pott1240,BIRD,t i t ə,54,dravlex
+152950,bett1235,BITE,k a ɖ i,57,dravlex
+152951,brah1256,BITE,k a a t + k a nː i n g,58,dravlex
+152952,nucl1305,BITE,k a ɖ i,57,dravlex
+152953,koda1255,BITE,k a ɖ i,57,dravlex
+152954,kota1263,BITE,k a ɖ ə,57,dravlex
+152955,mala1464,BITE,k a d i kː u g a,57,dravlex
+152956,tami1289,BITE,k a ɖ i,57,dravlex
+152957,ravu1237,BITE,k a ɖ i,57,dravlex
+152958,toda1252,BITE,p a ɾ tʃ i ʈ tʃ i,63,dravlex
+152959,nort2699,BITE,a t e k a ʂ i n,60,dravlex
+152960,koya1251,BITE,k o ɾ a k a,59,dravlex
+152961,duru1236,BITE,k o r k,59,dravlex
+152962,telu1262,BITE,k o ɾ u k u,59,dravlex
+152963,bada1257,BITE,k a tʃː ə,57,dravlex
+152964,nort2702,BITE,k a s k,61,dravlex
+152965,nucl1305,BITE,k a tʃː u,57,dravlex
+152966,koya1251,BITE,k a tʃː aː,57,dravlex
+152967,kuru1302,BITE,kʰ a tʃː n a,57,dravlex
+152968,kuvi1243,BITE,k a tʃ i n e,57,dravlex
+152969,tulu1258,BITE,t i n aː ɾ a,64,dravlex
+152970,saur1249,BITE,k oː h i,62,dravlex
+152971,bada1257,BLACK,k a pː ə,65,dravlex
+152972,bett1235,BLACK,k a ɾ t ə n u + i p ə d ə,66,dravlex
+152973,nort2702,BLACK,k a ɾ ə,65,dravlex
+152974,nucl1305,BLACK,k a pː u,65,dravlex
+152975,koda1255,BLACK,k a ɾ t a d ə,68,dravlex
+152976,kota1263,BLACK,k a ɾ u pː ə,65,dravlex
+152977,koya1251,BLACK,k aː ʈ e,65,dravlex
+152978,mala1464,BLACK,k a ɾ u pː ə,65,dravlex
+152979,tami1289,BLACK,k a ɾ ə pː ə,65,dravlex
+152980,toda1252,BLACK,k a pː ə,65,dravlex
+152981,tulu1258,BLACK,k a pː u,65,dravlex
+152982,ravu1237,BLACK,k a ɾ t a j i,68,dravlex
+152983,koya1251,BLACK,n a lː a,71,dravlex
+152984,telu1262,BLACK,n a l u p u,71,dravlex
+152985,telu1262,BLACK,n a lː a,71,dravlex
+152986,kuvi1243,BLACK,k a d i a,65,dravlex
+152987,brah1256,BLACK,m aː o n,67,dravlex
+152988,kuru1302,BLACK,m o kʰ a ɾ o,69,dravlex
+152989,nucl1305,BLACK,k a r u,65,dravlex
+152990,saur1249,BLACK,m a ɖ h a ɾ o,69,dravlex
+152991,nort2699,BLACK,ɖ aː ɾ i a t e,70,dravlex
+152992,bada1257,BLOOD,r a tː ə,72,dravlex
+152993,nucl1305,BLOOD,ɾ a k t a,72,dravlex
+152994,mala1464,BLOOD,ɾ e k t a m,72,dravlex
+152995,tami1289,BLOOD,ɾ a tː a m,72,dravlex
+152996,telu1262,BLOOD,ɾ a k t a m u,72,dravlex
+152997,bada1257,BLOOD,n e tː u ɾ u,73,dravlex
+152998,bett1235,BLOOD,n ə tː ə ɾ ə,73,dravlex
+152999,brah1256,BLOOD,d i t a ɾ,73,dravlex
+153000,nort2702,BLOOD,n e tː u ɾ,73,dravlex
+153001,nort2699,BLOOD,n e tː u ɾ,73,dravlex
+153002,kota1263,BLOOD,n eː t u ɾ u,73,dravlex
+153003,koya1251,BLOOD,n e tː u ɾ,73,dravlex
+153004,kuvi1243,BLOOD,n e tː i r,73,dravlex
+153005,pott1240,BLOOD,n e tː i ɾ,73,dravlex
+153006,duru1236,BLOOD,n e t i r,73,dravlex
+153007,telu1262,BLOOD,n e tː u ɾ u,73,dravlex
+153008,tulu1258,BLOOD,n e tː a r ə,73,dravlex
+153009,kuru1302,BLOOD,kʰ eː n s,75,dravlex
+153010,koda1255,BLOOD,tʃ oː ɾ ə,74,dravlex
+153011,mala1464,BLOOD,tʃ oː ɾ a,74,dravlex
+153012,ravu1237,BLOOD,tʃ oː ɾ e,74,dravlex
+153013,toda1252,BLOOD,p oː kʰ ə,77,dravlex
+153014,saur1249,BLOOD,ɾ a s a d u,76,dravlex
+153015,bada1257,BONE,i l ə,78,dravlex
+153016,bett1235,BONE,j a l ə ʋ ə,79,dravlex
+153017,nucl1305,BONE,j e l u b u,79,dravlex
+153018,kota1263,BONE,j e l u ʋ ə,79,dravlex
+153019,mala1464,BONE,e lː ə,78,dravlex
+153020,tami1289,BONE,e l u m b ə,79,dravlex
+153021,telu1262,BONE,j e m u k a,84,dravlex
+153022,toda1252,BONE,e l f,85,dravlex
+153023,tulu1258,BONE,e lː ə,78,dravlex
+153024,nort2702,BONE,b o kː a,83,dravlex
+153025,nort2699,BONE,b o kː a,83,dravlex
+153026,koya1251,BONE,b uː l aː,81,dravlex
+153027,koya1251,BONE,b uː l k,83,dravlex
+153028,duru1236,BONE,b uː l a,81,dravlex
+153029,telu1262,BONE,b o kː a,83,dravlex
+153030,saur1249,BONE,oː tʃ u l d iː,82,dravlex
+153031,nucl1305,BONE,m uː ɭ e,78,dravlex
+153032,koda1255,BONE,m uː ɭ e,78,dravlex
+153033,ravu1237,BONE,m uː ɭ e,78,dravlex
+153034,mala1464,BONE,a s t i,86,dravlex
+153035,kuru1302,BONE,kʰ o tʃ o l,82,dravlex
+153036,brah1256,BONE,a ɖː ə,80,dravlex
+153037,bada1257,BREAST,m aː ɾ ə,87,dravlex
+153038,mala1464,BREAST,m aː r̪ u,87,dravlex
+153039,tami1289,BREAST,m aː ɾ b ə,99,dravlex
+153040,tami1289,BREAST,m aː ɾ ə,87,dravlex
+153041,nucl1305,BREAST,e d e,96,dravlex
+153042,koya1251,BREAST,e d d a m,91,dravlex
+153043,duru1236,BREAST,e d r a m,90,dravlex
+153044,telu1262,BREAST,g u n d e,100,dravlex
+153045,toda1252,BREAST,n i dʒ i k u ɖ i,101,dravlex
+153046,koda1255,BREAST,m e l e,87,dravlex
+153047,kota1263,BREAST,m eː l,87,dravlex
+153048,mala1464,BREAST,m u l a,87,dravlex
+153049,ravu1237,BREAST,m e l e,87,dravlex
+153050,nucl1305,BREAST,s tʰ a n a,103,dravlex
+153051,mala1464,BREAST,s t a n a m,103,dravlex
+153052,telu1262,BREAST,s tʰ a n a m u,103,dravlex
+153053,tulu1258,BREAST,t i g a l a,102,dravlex
+153054,bett1235,BREAST,k u j n d i g i,88,dravlex
+153055,brah1256,BREAST,x a d,89,dravlex
+153056,saur1249,BREAST,d a i b u k u,98,dravlex
+153057,kuru1302,BREAST,j e ʋ a kʰ,92,dravlex
+153058,nort2699,BREAST,s aː tː i,94,dravlex
+153059,nort2702,BREAST,d u d o,95,dravlex
+153060,pott1240,BREAST,p a l g i l,97,dravlex
+153061,kuvi1243,BREAST,s i p a d a k i,93,dravlex
+153062,bett1235,BURN,b j aː ɭ,105,dravlex
+153063,telu1262,BURN,k aː l u,115,dravlex
+153064,nucl1305,BURN,s u ɖ u,107,dravlex
+153065,koda1255,BURN,tʃ uː ɖ ə,107,dravlex
+153066,ravu1237,BURN,tʃ uː ɖ ə,107,dravlex
+153067,tami1289,BURN,e ɾ i,114,dravlex
+153068,bada1257,BURN,k i tʃ iː k d ə,104,dravlex
+153069,bett1235,BURN,k a tː u,108,dravlex
+153070,kota1263,BURN,k aː t o,108,dravlex
+153071,mala1464,BURN,k a t i kː u g a,111,dravlex
+153072,toda1252,BURN,t iː kː u + k aː tː i t i,116,dravlex
+153073,koya1251,BURN,m a ɳ ɖ u,109,dravlex
+153074,telu1262,BURN,m a ɳ ɖ u,109,dravlex
+153075,tulu1258,BURN,p o tː a ʋ a ɾ a,117,dravlex
+153076,brah1256,BURN,x aː x a ɾ + t i nː i n g,106,dravlex
+153077,nort2702,BURN,n i ɾ u s,113,dravlex
+153078,saur1249,BURN,m eː d a,109,dravlex
+153079,kuru1302,BURN,o l n a,110,dravlex
+153080,nort2699,BURN,g o n ɖ k a,112,dravlex
+153081,mala1464,CLAW,n a kʰ a m,124,dravlex
+153082,tami1289,CLAW,n a g a m,124,dravlex
+153083,bada1257,CLAW,u g i l ə,118,dravlex
+153084,brah1256,CLAW,h o ɾ + a d,120,dravlex
+153085,nort2702,CLAW,g o ɾ k,122,dravlex
+153086,nucl1305,CLAW,u g a ɾ u,119,dravlex
+153087,koda1255,CLAW,ʋ o j i,121,dravlex
+153088,nort2699,CLAW,g oː ɾ,122,dravlex
+153089,koya1251,CLAW,g oː ɾ k,122,dravlex
+153090,kuru1302,CLAW,o ɾ o kʰ,123,dravlex
+153091,kuvi1243,CLAW,g a ɾ k a,122,dravlex
+153092,saur1249,CLAW,o ɾ u g d u,127,dravlex
+153093,duru1236,CLAW,g eː r i,119,dravlex
+153094,telu1262,CLAW,g oː ɾ u,122,dravlex
+153095,toda1252,CLAW,j uː r,128,dravlex
+153096,tulu1258,CLAW,u g u ɾ u,119,dravlex
+153097,ravu1237,CLAW,u mː i,126,dravlex
+153098,bett1235,CLAW,k iː j ə gː ə ɾ ə,119,dravlex
+153099,kota1263,CLAW,k a i j oː ɾ u,119,dravlex
+153100,brah1256,CLAW,z e e l,129,dravlex
+153101,pott1240,CLAW,k a ʂ ʋ a n ɖ e,125,dravlex
+153102,nucl1305,CLOUD,m eː g h a,133,dravlex
+153103,kota1263,CLOUD,m eː g a m,133,dravlex
+153104,mala1464,CLOUD,m e kʰ a m,133,dravlex
+153105,tami1289,CLOUD,m eː g a m,133,dravlex
+153106,telu1262,CLOUD,m eː gʱ a m u,133,dravlex
+153107,toda1252,CLOUD,m eː g a m,133,dravlex
+153108,duru1236,CLOUD,m a l g u r,133,dravlex
+153109,nort2702,CLOUD,m a bː u,130,dravlex
+153110,koya1251,CLOUD,m a bː u,130,dravlex
+153111,telu1262,CLOUD,m a bː u,130,dravlex
+153112,bett1235,CLOUD,m oː ɖ ə,131,dravlex
+153113,nucl1305,CLOUD,m oː ɖ a,131,dravlex
+153114,koda1255,CLOUD,m oː ɖ a,131,dravlex
+153115,telu1262,CLOUD,m oː ɖ a m u,131,dravlex
+153116,tulu1258,CLOUD,m oː ɖ a,131,dravlex
+153117,ravu1237,CLOUD,m oː ɖ a,131,dravlex
+153118,bada1257,CLOUD,m a n dʒ u,130,dravlex
+153119,kuru1302,CLOUD,b a d aː l i,134,dravlex
+153120,saur1249,CLOUD,b a d l iː,134,dravlex
+153121,brah1256,CLOUD,dʒ a mː a ɾ,132,dravlex
+153122,nort2699,CLOUD,aː b a r,136,dravlex
+153123,kuvi1243,CLOUD,h aː g u,135,dravlex
+153124,kuvi1243,CLOUD,d u n ɖ a ɾ a,137,dravlex
+153125,nucl1305,COLD,t a ɳ ɳ i g e,145,dravlex
+153126,koda1255,COLD,t a l i n dʒ a d ə,142,dravlex
+153127,mala1464,COLD,t a ɳ u pː ə,144,dravlex
+153128,ravu1237,COLD,t a ɳ i dʒ e,145,dravlex
+153129,tami1289,COLD,k u ɭ i ɾ tʃ i,146,dravlex
+153130,nort2702,COLD,s a lː a g,143,dravlex
+153131,koya1251,COLD,s a lː aː,143,dravlex
+153132,telu1262,COLD,tʃ a lː a,143,dravlex
+153133,tulu1258,COLD,tʃ a pː a,143,dravlex
+153134,nort2699,COLD,p a n i,141,dravlex
+153135,saur1249,COLD,p a n i j aː,141,dravlex
+153136,duru1236,COLD,p a ɲ i l,141,dravlex
+153137,koda1255,COLD,k oː ʈ a,147,dravlex
+153138,toda1252,COLD,k o ɾ t i,138,dravlex
+153139,bett1235,COLD,s ə j l i j ə,139,dravlex
+153140,bada1257,COLD,k o ɾ u ʋ ə,138,dravlex
+153141,kota1263,COLD,k o ɾ ʋ ə,138,dravlex
+153142,kuru1302,COLD,k iː ɾ n a,138,dravlex
+153143,saur1249,COLD,k i ʋ a,148,dravlex
+153144,brah1256,COLD,j a kʰ,140,dravlex
+153145,brah1256,COLD,j a x,140,dravlex
+153146,bada1257,COME,p a pː a,149,dravlex
+153147,bett1235,COME,b aː ɾ,149,dravlex
+153148,brah1256,COME,b a nː i n g,150,dravlex
+153149,nort2702,COME,ʋ a,151,dravlex
+153150,nucl1305,COME,b a r u,149,dravlex
+153151,nucl1305,COME,b aː,149,dravlex
+153152,koda1255,COME,b aː,149,dravlex
+153153,nort2699,COME,ʋ a,151,dravlex
+153154,koya1251,COME,ʋ a,151,dravlex
+153155,koya1251,COME,ʋ aː d a ɖ a m,151,dravlex
+153156,kuru1302,COME,b a ɾ n a,149,dravlex
+153157,mala1464,COME,ʋ a ɾ u g a,152,dravlex
+153158,saur1249,COME,b a ɾ ə aː,149,dravlex
+153159,pott1240,COME,ʋ a,151,dravlex
+153160,duru1236,COME,v e r,151,dravlex
+153161,tami1289,COME,ʋ aː,151,dravlex
+153162,telu1262,COME,ʋ a tʃː u,151,dravlex
+153163,telu1262,COME,ɾ a,153,dravlex
+153164,toda1252,COME,p aː ɾ t i,149,dravlex
+153165,tulu1258,COME,b a ɾ a ɾ a,152,dravlex
+153166,ravu1237,COME,b aː,149,dravlex
+153167,bada1257,DIE,s aː ʋ a d ə,154,dravlex
+153168,brah1256,DIE,k a h i n g,156,dravlex
+153169,nort2702,DIE,h aː,157,dravlex
+153170,nucl1305,DIE,s aː j i,163,dravlex
+153171,koda1255,DIE,tʃː ɭ a,158,dravlex
+153172,kuru1302,DIE,kʰ e n a,160,dravlex
+153173,saur1249,DIE,k e ə aː n aː k e ə i d aː h,164,dravlex
+153174,duru1236,DIE,c a y,157,dravlex
+153175,tami1289,DIE,tʃ aː,158,dravlex
+153176,tami1289,DIE,s a tː ə + p o,168,dravlex
+153177,telu1262,DIE,tʃ a tʃː i p oː ʋ u,165,dravlex
+153178,tulu1258,DIE,s a j j a ɾ a,167,dravlex
+153179,ravu1237,DIE,tʃ aː ɭ a,158,dravlex
+153180,bett1235,DIE,m a ɾ d oː g,155,dravlex
+153181,mala1464,DIE,m a ɾ i kː u g a,161,dravlex
+153182,koya1251,DIE,ɖ o lː a t a m,159,dravlex
+153183,toda1252,DIE,k e ɖ u o i s i,166,dravlex
+153184,nort2699,DIE,t i g t eː n,162,dravlex
+153185,kota1263,DIE,t aː ʋ ə,158,dravlex
+153186,bada1257,DOG,n e,169,dravlex
+153187,bett1235,DOG,n aː j ə,169,dravlex
+153188,nort2702,DOG,n e j,169,dravlex
+153189,nucl1305,DOG,n aː j i,169,dravlex
+153190,koda1255,DOG,n aː j i,169,dravlex
+153191,nort2699,DOG,aː t e,169,dravlex
+153192,kota1263,DOG,n aː j i,169,dravlex
+153193,koya1251,DOG,n e j,169,dravlex
+153194,mala1464,DOG,n aː j a,169,dravlex
+153195,pott1240,DOG,n e,169,dravlex
+153196,duru1236,DOG,n e tː a,169,dravlex
+153197,tami1289,DOG,n aː j i,169,dravlex
+153198,toda1252,DOG,n o i,169,dravlex
+153199,tulu1258,DOG,n aː j i,169,dravlex
+153200,ravu1237,DOG,n aː j i,169,dravlex
+153201,telu1262,DOG,k u kː a,172,dravlex
+153202,mala1464,DOG,p a ʈː i,173,dravlex
+153203,kuru1302,DOG,a lː a,171,dravlex
+153204,brah1256,DOG,k u tʃ a k,170,dravlex
+153205,saur1249,DOG,k u tʃː o,170,dravlex
+153206,bada1257,DRINK,k u ɖ a p ə,174,dravlex
+153207,bett1235,DRINK,k u ɖ i,174,dravlex
+153208,nucl1305,DRINK,k u ɖ i,174,dravlex
+153209,nucl1305,DRINK,k u d i j oː d u,174,dravlex
+153210,koda1255,DRINK,k u ɖ i p a,174,dravlex
+153211,mala1464,DRINK,k u ʈ i,174,dravlex
+153212,mala1464,DRINK,k u d i kː u g a,174,dravlex
+153213,tami1289,DRINK,k u ɖ i,174,dravlex
+153214,ravu1237,DRINK,k u ɖ i p ə,174,dravlex
+153215,telu1262,DRINK,t aː g u,179,dravlex
+153216,brah1256,DRINK,k u n i n g,175,dravlex
+153217,nort2702,DRINK,u n,176,dravlex
+153218,kota1263,DRINK,u n a t u k ə,177,dravlex
+153219,koya1251,DRINK,u nː u,176,dravlex
+153220,kuru1302,DRINK,o nː a,176,dravlex
+153221,saur1249,DRINK,h oː n aː,176,dravlex
+153222,pott1240,DRINK,u n,176,dravlex
+153223,duru1236,DRINK,u n,176,dravlex
+153224,toda1252,DRINK,u ʈː u d i,180,dravlex
+153225,tulu1258,DRINK,p a ɾ i j a ɾ a,181,dravlex
+153226,nort2699,DRINK,a n i ɾ u s aː t,178,dravlex
+153227,tami1289,DRY,u l a r n t a,194,dravlex
+153228,ravu1237,DRY,u n a k u,185,dravlex
+153229,telu1262,DRY,e ɳ ɖ u,186,dravlex
+153230,kota1263,DRY,k a n ʈ i k o,186,dravlex
+153231,kuru1302,DRY,kʰ a j k a,188,dravlex
+153232,saur1249,DRY,aː i k aː,193,dravlex
+153233,tami1289,DRY,k a i n d a d ə,186,dravlex
+153234,tami1289,DRY,k aː n dʒ ə,186,dravlex
+153235,brah1256,DRY,b aː ɾ u n,184,dravlex
+153236,nort2702,DRY,ʋ a ʈː a,191,dravlex
+153237,nucl1305,DRY,b a tː i d a,192,dravlex
+153238,koya1251,DRY,a ɾ t aː d,187,dravlex
+153239,mala1464,DRY,v a r a ɳ ʈ a,189,dravlex
+153240,bada1257,DRY,o ɳ i k i l a d ə,182,dravlex
+153241,nucl1305,DRY,o ɳ a g i d u,185,dravlex
+153242,koda1255,DRY,o ɳ a n g i n a,185,dravlex
+153243,mala1464,DRY,u ɳ a n g i j a,185,dravlex
+153244,toda1252,DRY,o ɳ i k i s i,182,dravlex
+153245,tulu1258,DRY,n u n g u d u n a,185,dravlex
+153246,koya1251,DRY,p o ɖ i,192,dravlex
+153247,telu1262,DRY,p o ɖ i,192,dravlex
+153248,bett1235,DRY,a j n g ə n u + i p ə d ə,183,dravlex
+153249,nort2699,DRY,aː t i ɾ,190,dravlex
+153250,bada1257,EAR,k i ʋ i,195,dravlex
+153251,bett1235,EAR,k i ʋ i j a,196,dravlex
+153252,brah1256,EAR,x a f,195,dravlex
+153253,nort2702,EAR,k e ʋ u,195,dravlex
+153254,nucl1305,EAR,k i ʋ i,195,dravlex
+153255,koda1255,EAR,k e m i,195,dravlex
+153256,nort2699,EAR,k e ʋ,195,dravlex
+153257,kota1263,EAR,k e ʋ ə,195,dravlex
+153258,koya1251,EAR,k e ʋ,195,dravlex
+153259,koya1251,EAR,k e ʋ k,195,dravlex
+153260,kuru1302,EAR,kʰ e b d a,198,dravlex
+153261,kuvi1243,EAR,k i ɾ i j u,196,dravlex
+153262,mala1464,EAR,tʃ e ʋ i,195,dravlex
+153263,pott1240,EAR,k e k a l,197,dravlex
+153264,duru1236,EAR,k e k o l,197,dravlex
+153265,telu1262,EAR,tʃ e ʋ i,195,dravlex
+153266,toda1252,EAR,k i l i,195,dravlex
+153267,tulu1258,EAR,k e b i,195,dravlex
+153268,ravu1237,EAR,k e m i,195,dravlex
+153269,mala1464,EAR,k aː t u,198,dravlex
+153270,tami1289,EAR,k aː d ə,198,dravlex
+153271,saur1249,EAR,d a ɾ t iː,199,dravlex
+153272,nort2702,EARTH (SOIL),m a nː ə,203,dravlex
+153273,nucl1305,EARTH (SOIL),m a ɳ ɳ u,203,dravlex
+153274,koda1255,EARTH (SOIL),m a nː ə,203,dravlex
+153275,mala1464,EARTH (SOIL),m a nː ə,203,dravlex
+153276,tami1289,EARTH (SOIL),m a nː ə,203,dravlex
+153277,telu1262,EARTH (SOIL),m a nː u,203,dravlex
+153278,tulu1258,EARTH (SOIL),m a nː ə,203,dravlex
+153279,pott1240,EARTH (SOIL),t u k u d,202,dravlex
+153280,duru1236,EARTH (SOIL),t uː k,202,dravlex
+153281,kuru1302,EARTH (SOIL),kʰ e kʰ e l,206,dravlex
+153282,toda1252,EARTH (SOIL),k o ɖ ə,207,dravlex
+153283,koya1251,EARTH (SOIL),m a ʈː i,205,dravlex
+153284,telu1262,EARTH (SOIL),m a ʈː i,205,dravlex
+153285,bett1235,EARTH (SOIL),b uː m i,200,dravlex
+153286,nort2699,EARTH (SOIL),bʱ uː m i,200,dravlex
+153287,kota1263,EARTH (SOIL),bʱ u l oː g a m,204,dravlex
+153288,kuvi1243,EARTH (SOIL),bʱ u m i,200,dravlex
+153289,saur1249,EARTH (SOIL),bʱ u m i,200,dravlex
+153290,kuvi1243,EARTH (SOIL),i ɾ aː,208,dravlex
+153291,brah1256,EARTH (SOIL),ɖ a g aː ɾ,201,dravlex
+153292,bada1257,EAT,t i m b ə,209,dravlex
+153293,bett1235,EAT,t i nː,210,dravlex
+153294,nucl1305,EAT,t i nː u,210,dravlex
+153295,koda1255,EAT,t i n ə,210,dravlex
+153296,kota1263,EAT,t i n + a t e j,212,dravlex
+153297,koya1251,EAT,t i nː u,210,dravlex
+153298,kuvi1243,EAT,t i n u,210,dravlex
+153299,mala1464,EAT,t i nː u g a,210,dravlex
+153300,pott1240,EAT,t i n,210,dravlex
+153301,duru1236,EAT,t i n,210,dravlex
+153302,telu1262,EAT,t i n u,210,dravlex
+153303,ravu1237,EAT,t i nː oː,210,dravlex
+153304,tami1289,EAT,s aː p ə d ə,217,dravlex
+153305,tulu1258,EAT,u ɳ aː ɾ a,218,dravlex
+153306,kuru1302,EAT,m o kʰ n a,213,dravlex
+153307,toda1252,EAT,t o ɾ t i n,210,dravlex
+153308,brah1256,EAT,k u n i n g,211,dravlex
+153309,saur1249,EAT,dʒ aː g oː l p a h,216,dravlex
+153310,saur1249,EAT,l a p a h,219,dravlex
+153311,nort2699,EAT,aː n t i s a t u n,214,dravlex
+153312,nort2702,EAT,dʒ e ʋ i,215,dravlex
+153313,bada1257,EGG,m o ʈː e,220,dravlex
+153314,nucl1305,EGG,m o ʈː e,220,dravlex
+153315,koda1255,EGG,m u ʈː e,220,dravlex
+153316,kota1263,EGG,m o o ʈ ə,220,dravlex
+153317,mala1464,EGG,m u ʈː a,220,dravlex
+153318,tami1289,EGG,m u ʈː e,220,dravlex
+153319,toda1252,EGG,m u ʈː e,220,dravlex
+153320,ravu1237,EGG,m u ʈː e,220,dravlex
+153321,telu1262,EGG,g u ɖː u,229,dravlex
+153322,nucl1305,EGG,t a tː i,231,dravlex
+153323,tulu1258,EGG,k e tː i,229,dravlex
+153324,koya1251,EGG,g a ɾ b a m,223,dravlex
+153325,pott1240,EGG,k a ɾ b ə,223,dravlex
+153326,bett1235,EGG,m u j ɾ g i,221,dravlex
+153327,brah1256,EGG,x u a h a e,222,dravlex
+153328,brah1256,EGG,b a ɛ d ɛ,230,dravlex
+153329,saur1249,EGG,ɾ a ɾ a p aː n d u,228,dravlex
+153330,kuru1302,EGG,b iː,224,dravlex
+153331,nort2699,EGG,s a n k u,226,dravlex
+153332,nort2702,EGG,m iː n dʒ,227,dravlex
+153333,kuvi1243,EGG,t a l a,225,dravlex
+153334,bada1257,EYE,k a ɳ ɳ ə,232,dravlex
+153335,bett1235,EYE,k a ɳ ɳ u,232,dravlex
+153336,brah1256,EYE,x a n,232,dravlex
+153337,nucl1305,EYE,k a ɳ ɳ ə,232,dravlex
+153338,koda1255,EYE,k a ɳ ɳ ə,232,dravlex
+153339,nort2699,EYE,k a n,232,dravlex
+153340,kota1263,EYE,k a ɳ ɳ ə,232,dravlex
+153341,koya1251,EYE,k o ɳ ɖ,232,dravlex
+153342,kuru1302,EYE,kʰ a nː,232,dravlex
+153343,kuvi1243,EYE,k a n u,232,dravlex
+153344,mala1464,EYE,k a ɳ ɳ ə,232,dravlex
+153345,saur1249,EYE,aː n d u,234,dravlex
+153346,pott1240,EYE,k a ɳ u l,232,dravlex
+153347,duru1236,EYE,k a n,232,dravlex
+153348,tami1289,EYE,k a ɳ ɳ ə,232,dravlex
+153349,telu1262,EYE,k a nː u,232,dravlex
+153350,toda1252,EYE,k a ɳ,232,dravlex
+153351,tulu1258,EYE,k a ɳ ɳ u,232,dravlex
+153352,ravu1237,EYE,k a ɳ ɳ ə,232,dravlex
+153353,mala1464,EYE,n eː t ɾ a m,235,dravlex
+153354,nort2702,EYE,k ə ɖ ə,233,dravlex
+153355,bada1257,FAT (FROM ANIMALS),k o ɭ ə pː ə,236,dravlex
+153356,nort2702,FAT (FROM ANIMALS),k o ɾ o n dʒ,241,dravlex
+153357,nucl1305,FAT (FROM ANIMALS),k o bː u,236,dravlex
+153358,kota1263,FAT (FROM ANIMALS),k o ɭ u p u,236,dravlex
+153359,koya1251,FAT (FROM ANIMALS),k o d o ʋ oː s,239,dravlex
+153360,mala1464,FAT (FROM ANIMALS),k o ɻ u pː ə,236,dravlex
+153361,duru1236,FAT (FROM ANIMALS),k o ɽ u k u ɖ,236,dravlex
+153362,tami1289,FAT (FROM ANIMALS),k o ɻ u pː ə,236,dravlex
+153363,telu1262,FAT (FROM ANIMALS),k o ʋː u,236,dravlex
+153364,toda1252,FAT (FROM ANIMALS),k o ɻ ə pː ə,236,dravlex
+153365,koya1251,FAT (FROM ANIMALS),l aː ʋ,244,dravlex
+153366,telu1262,FAT (FROM ANIMALS),l aː ʋ u,244,dravlex
+153367,kuru1302,FAT (FROM ANIMALS),n e ʈ a,240,dravlex
+153368,brah1256,FAT (FROM ANIMALS),tʃ a ɾ p iː,238,dravlex
+153369,koda1255,FAT (FROM ANIMALS),tʃ e ɾ a b i,238,dravlex
+153370,tulu1258,FAT (FROM ANIMALS),tʃ e ɾ a b i,238,dravlex
+153371,ravu1237,FAT (FROM ANIMALS),tʃ i ɾ a b i,238,dravlex
+153372,bett1235,FAT (FROM ANIMALS),t a nː i ʋ i,237,dravlex
+153373,bett1235,FAT (FROM ANIMALS),t e ɾ i j a,243,dravlex
+153374,saur1249,FAT (FROM ANIMALS),n e dʒː a,240,dravlex
+153375,pott1240,FAT (FROM ANIMALS),m eː n,242,dravlex
+153376,bada1257,FEATHER,ɾ a kː e,245,dravlex
+153377,kota1263,FEATHER,ɾ eː k ə,245,dravlex
+153378,tami1289,FEATHER,ɾ e kː e,245,dravlex
+153379,toda1252,FEATHER,i ɾ a kː e,245,dravlex
+153380,mala1464,FEATHER,t uː ʋ a l ə,251,dravlex
+153381,nucl1305,FEATHER,g a r i,253,dravlex
+153382,telu1262,FEATHER,iː k a,255,dravlex
+153383,nucl1305,FEATHER,t u p a ʈ a,248,dravlex
+153384,koda1255,FEATHER,t o p a ʈ a,248,dravlex
+153385,ravu1237,FEATHER,t oː p ə ʈ aː,248,dravlex
+153386,koya1251,FEATHER,g e ɾ k,249,dravlex
+153387,tulu1258,FEATHER,h u ʋ i,256,dravlex
+153388,bett1235,FEATHER,t i ʋ i j a,246,dravlex
+153389,nort2702,FEATHER,b u ɾ a,247,dravlex
+153390,nort2699,FEATHER,b u lː,252,dravlex
+153391,brah1256,FEATHER,p a ɾ ɾ ɛ,247,dravlex
+153392,saur1249,FEATHER,p a k iː,254,dravlex
+153393,kuru1302,FEATHER,p e n tʃ o,250,dravlex
+153394,tami1289,FIRE,n e r u pː u,260,dravlex
+153395,telu1262,FIRE,n i pː u,260,dravlex
+153396,bett1235,FIRE,t i sː ə,257,dravlex
+153397,kota1263,FIRE,n i pː u,260,dravlex
+153398,mala1464,FIRE,t eː,257,dravlex
+153399,tami1289,FIRE,t eː,257,dravlex
+153400,ravu1237,FIRE,t iː,257,dravlex
+153401,nucl1305,FIRE,b e n k i,264,dravlex
+153402,telu1262,FIRE,m a ɳ ʈ a,268,dravlex
+153403,bada1257,FIRE,k i tʃː ə,257,dravlex
+153404,koda1255,FIRE,t i tː a,257,dravlex
+153405,nort2699,FIRE,k i sː,257,dravlex
+153406,koya1251,FIRE,k i s,261,dravlex
+153407,kuru1302,FIRE,tʃ i tʃː,257,dravlex
+153408,saur1249,FIRE,tʃ i tʃ a d u,257,dravlex
+153409,duru1236,FIRE,k i c,259,dravlex
+153410,toda1252,FIRE,t iː tː ə,257,dravlex
+153411,mala1464,FIRE,a g n i,267,dravlex
+153412,telu1262,FIRE,a gː i,267,dravlex
+153413,tulu1258,FIRE,t u ʋ u,265,dravlex
+153414,koya1251,FIRE,n e gː a ɖ,266,dravlex
+153415,brah1256,FIRE,x aː x a ɾ,258,dravlex
+153416,nort2702,FIRE,t a ɖ m i,263,dravlex
+153417,kuvi1243,FIRE,d a n k e ɾ e,262,dravlex
+153418,bada1257,FISH,m iː n ə,269,dravlex
+153419,bett1235,FISH,m iː n u,269,dravlex
+153420,nort2702,FISH,m iː n,269,dravlex
+153421,nucl1305,FISH,m iː n ə,269,dravlex
+153422,koda1255,FISH,m iː n ə,269,dravlex
+153423,kota1263,FISH,m iː n ə,269,dravlex
+153424,mala1464,FISH,m iː n,269,dravlex
+153425,saur1249,FISH,m iː n d u,269,dravlex
+153426,pott1240,FISH,m iː n,269,dravlex
+153427,tami1289,FISH,m iː n ə,269,dravlex
+153428,toda1252,FISH,m iː n,269,dravlex
+153429,tulu1258,FISH,m iː n ə,269,dravlex
+153430,ravu1237,FISH,m iː n ə,269,dravlex
+153431,koya1251,FISH,k iː k e,272,dravlex
+153432,duru1236,FISH,k e y,271,dravlex
+153433,telu1262,FISH,tʃ eː p a,274,dravlex
+153434,nucl1305,FISH,m a ts y a,270,dravlex
+153435,mala1464,FISH,m a l s j a m,275,dravlex
+153436,brah1256,FISH,m a tʃː iː,270,dravlex
+153437,nort2699,FISH,g u ɖː i,273,dravlex
+153438,kuru1302,FISH,i n dʒ o,269,dravlex
+153439,bada1257,FLY (MOVE THROUGH AIR),p a ɾ a pː ə,276,dravlex
+153440,bett1235,FLY (MOVE THROUGH AIR),p aː ɾ,276,dravlex
+153441,nort2702,FLY (MOVE THROUGH AIR),p a ɾ i,276,dravlex
+153442,nucl1305,FLY (MOVE THROUGH AIR),h aː ɾ u,276,dravlex
+153443,koda1255,FLY (MOVE THROUGH AIR),p aː ɾ a,276,dravlex
+153444,kota1263,FLY (MOVE THROUGH AIR),p aː ɾ ʋ u,276,dravlex
+153445,mala1464,FLY (MOVE THROUGH AIR),p a ɾ a kː u g a,276,dravlex
+153446,tami1289,FLY (MOVE THROUGH AIR),p a ɾ ə,276,dravlex
+153447,toda1252,FLY (MOVE THROUGH AIR),p oː ɾ tʃ,276,dravlex
+153448,tulu1258,FLY (MOVE THROUGH AIR),ɾ aː p a ɾ a,276,dravlex
+153449,telu1262,FLY (MOVE THROUGH AIR),e g u ɾ u,283,dravlex
+153450,koya1251,FLY (MOVE THROUGH AIR),t u lː a,278,dravlex
+153451,ravu1237,FLY (MOVE THROUGH AIR),m a nː ə,281,dravlex
+153452,kuru1302,FLY (MOVE THROUGH AIR),u ɖ i j a ɾ n a,279,dravlex
+153453,saur1249,FLY (MOVE THROUGH AIR),u ɖ aː ɾ i,282,dravlex
+153454,nort2699,FLY (MOVE THROUGH AIR),t u l s aː d,280,dravlex
+153455,brah1256,FLY (MOVE THROUGH AIR),b aː l + k a nː i n g,277,dravlex
+153456,nucl1305,FOOT,a ɖ i,290,dravlex
+153457,koya1251,FOOT,a ɖ u g u,287,dravlex
+153458,mala1464,FOOT,a ʈ i,290,dravlex
+153459,tami1289,FOOT,a ɖ i,290,dravlex
+153460,telu1262,FOOT,a ɖ u g u,287,dravlex
+153461,nucl1305,FOOT,p aː d a,289,dravlex
+153462,kuvi1243,FOOT,p aː d a m i,289,dravlex
+153463,mala1464,FOOT,p aː d a m,289,dravlex
+153464,pott1240,FOOT,p aː d a m,289,dravlex
+153465,tami1289,FOOT,p aː d a m,289,dravlex
+153466,telu1262,FOOT,p aː d a m u,289,dravlex
+153467,bett1235,FOOT,k aː l ə,284,dravlex
+153468,nort2702,FOOT,k aː l,284,dravlex
+153469,tami1289,FOOT,k a a l ə,284,dravlex
+153470,toda1252,FOOT,k oː l,284,dravlex
+153471,tulu1258,FOOT,k aː l ə,284,dravlex
+153472,ravu1237,FOOT,k aː l ə,284,dravlex
+153473,kuru1302,FOOT,kʰ e ɖ,288,dravlex
+153474,bada1257,FOOT,a n g aː l ə,284,dravlex
+153475,koda1255,FOOT,a n g aː l,284,dravlex
+153476,brah1256,FOOT,n a t,285,dravlex
+153477,saur1249,FOOT,ɾ a ɖ a d u,292,dravlex
+153478,nort2699,FOOT,dʒ e ʈː a,291,dravlex
+153479,kota1263,FOOT,t a p a ɖ,286,dravlex
+153480,toda1252,FULL,s oː kː a i j e,300,dravlex
+153481,bada1257,FULL,tʰ u m b e,293,dravlex
+153482,nucl1305,FULL,t u m b i d u,293,dravlex
+153483,koda1255,FULL,d u m b a,293,dravlex
+153484,ravu1237,FULL,d u m b a,293,dravlex
+153485,nort2702,FULL,n i ɳ ɖ,296,dravlex
+153486,nort2699,FULL,n i n ɖ u,296,dravlex
+153487,koya1251,FULL,n i n ɖ aː,296,dravlex
+153488,kuru1302,FULL,n i n d k a,296,dravlex
+153489,mala1464,FULL,n i ɾ a ɲ a,298,dravlex
+153490,saur1249,FULL,n i n d p aː,296,dravlex
+153491,tami1289,FULL,n i r̪ a i n t a,298,dravlex
+153492,telu1262,FULL,n i n ɖ u,296,dravlex
+153493,tami1289,FULL,m u ɭ u,302,dravlex
+153494,tulu1258,FULL,d i n dʒ i d u n ɖ u,301,dravlex
+153495,bett1235,FULL,f u lː ə,294,dravlex
+153496,brah1256,FULL,p u ɾ,295,dravlex
+153497,pott1240,FULL,p u n e ʈ,299,dravlex
+153498,kuvi1243,FULL,g u ɾ a,297,dravlex
+153499,bada1257,GIVE,k o ɖ u,303,dravlex
+153500,bett1235,GIVE,k o ɖ,303,dravlex
+153501,nucl1305,GIVE,k o ɖ u,303,dravlex
+153502,koda1255,GIVE,k o ɖ i,303,dravlex
+153503,mala1464,GIVE,k o ɖ u kː u g a,303,dravlex
+153504,tami1289,GIVE,k u ɖ ə,303,dravlex
+153505,tulu1258,GIVE,k o ɾ o,303,dravlex
+153506,ravu1237,GIVE,k o ɖ u,303,dravlex
+153507,brah1256,GIVE,t i nː i n g,304,dravlex
+153508,kota1263,GIVE,t e j,306,dravlex
+153509,kuvi1243,GIVE,t a a,309,dravlex
+153510,tami1289,GIVE,t aː,309,dravlex
+153511,nort2702,GIVE,h i,305,dravlex
+153512,nort2699,GIVE,s iː t aː n,310,dravlex
+153513,koya1251,GIVE,iː m,307,dravlex
+153514,koya1251,GIVE,iː d a t a m,314,dravlex
+153515,kuru1302,GIVE,tʃ i h n a,308,dravlex
+153516,saur1249,GIVE,tʃ i b aː h,311,dravlex
+153517,pott1240,GIVE,tʃ i,309,dravlex
+153518,duru1236,GIVE,c iː,305,dravlex
+153519,telu1262,GIVE,i tʃː u,312,dravlex
+153520,telu1262,GIVE,i ʋː a ɖ a m,314,dravlex
+153521,toda1252,GIVE,i tː ʃ a d t a,313,dravlex
+153522,bett1235,GOOD,n a lː,316,dravlex
+153523,koda1255,GOOD,n a lː a,316,dravlex
+153524,mala1464,GOOD,n a lː a,316,dravlex
+153525,tami1289,GOOD,n a lː a,316,dravlex
+153526,ravu1237,GOOD,n a lː ə,316,dravlex
+153527,bada1257,GOOD,o ɭː a j a d ə,315,dravlex
+153528,nucl1305,GOOD,o ɭː i j a d u,315,dravlex
+153529,kota1263,GOOD,o l u d ə,315,dravlex
+153530,koya1251,GOOD,m a n tʃ i d,318,dravlex
+153531,telu1262,GOOD,m a n tʃ i,318,dravlex
+153532,tulu1258,GOOD,e ɖː e d a n a,324,dravlex
+153533,toda1252,GOOD,u l t i,315,dravlex
+153534,saur1249,GOOD,h eː ɖ u,323,dravlex
+153535,brah1256,GOOD,dʒ u aː n,317,dravlex
+153536,saur1249,GOOD,ɾ a ɖ u,325,dravlex
+153537,kuru1302,GOOD,d aː ʋ,319,dravlex
+153538,nort2699,GOOD,s o b h a t a n,321,dravlex
+153539,nort2702,GOOD,a sː a l,322,dravlex
+153540,kuvi1243,GOOD,n e j u n,320,dravlex
+153541,bada1257,GREEN,p a tʃː e,326,dravlex
+153542,bett1235,GREEN,p a sː l aː n g i,327,dravlex
+153543,nort2702,GREEN,p a tʃː a d,326,dravlex
+153544,nucl1305,GREEN,h a s i r u,332,dravlex
+153545,koda1255,GREEN,p a tʃː e,326,dravlex
+153546,kota1263,GREEN,p a tʃː ə,326,dravlex
+153547,koya1251,GREEN,p a tʃː a,326,dravlex
+153548,kuvi1243,GREEN,aː k u p a tʃː a,330,dravlex
+153549,mala1464,GREEN,p a tʃː a,326,dravlex
+153550,duru1236,GREEN,p a y,326,dravlex
+153551,tami1289,GREEN,p a tʃː ə,326,dravlex
+153552,telu1262,GREEN,p a tʃː a,326,dravlex
+153553,toda1252,GREEN,p a tʃː a i,326,dravlex
+153554,tulu1258,GREEN,p a tʃː e,326,dravlex
+153555,ravu1237,GREEN,p a tʃː e,326,dravlex
+153556,kuru1302,GREEN,h a ɾ i j aː ɾ,329,dravlex
+153557,brah1256,GREEN,g u a n a kː i,328,dravlex
+153558,saur1249,GREEN,ɾ a n a l o,333,dravlex
+153559,nort2699,GREEN,n i g u ɾ,331,dravlex
+153560,nort2702,GREEN,h iː,335,dravlex
+153561,kuvi1243,GREEN,n i l i a,334,dravlex
+153562,kuvi1243,GREEN,k a s u l i,336,dravlex
+153563,mala1464,HAIR (HEAD),m u ɖ i,343,dravlex
+153564,tami1289,HAIR (HEAD),m u ɖ i,343,dravlex
+153565,nucl1305,HAIR (HEAD),k uː d a l u,342,dravlex
+153566,nucl1305,HAIR (HEAD),k uː d a l u,342,dravlex
+153567,tulu1258,HAIR (HEAD),k uː dʒ a l,342,dravlex
+153568,telu1262,HAIR (HEAD),v e ɳ ʈ ɾ u k a l u,348,dravlex
+153569,bada1257,HAIR (HEAD),o ɾ a m e,337,dravlex
+153570,mala1464,HAIR (HEAD),r oː m a m,350,dravlex
+153571,kota1263,HAIR (HEAD),m a n ɖ ə + m iː ɾ ə,341,dravlex
+153572,tami1289,HAIR (HEAD),m a i ɾ ə,351,dravlex
+153573,toda1252,HAIR (HEAD),m iː ɾ s,349,dravlex
+153574,koda1255,HAIR (HEAD),t e l a m i,340,dravlex
+153575,saur1249,HAIR (HEAD),t aː l i,347,dravlex
+153576,ravu1237,HAIR (HEAD),t i l a m i,340,dravlex
+153577,koya1251,HAIR (HEAD),dʒ u ʈː u l,342,dravlex
+153578,kuru1302,HAIR (HEAD),tʃ u ʈː i,343,dravlex
+153579,telu1262,HAIR (HEAD),dʒ u ʈː u,342,dravlex
+153580,nort2702,HAIR (HEAD),k e l,346,dravlex
+153581,koya1251,HAIR (HEAD),k e l k,346,dravlex
+153582,brah1256,HAIR (HEAD),p u ʒ ʒ ɛ,339,dravlex
+153583,bett1235,HAIR (HEAD),t aː k ə ɾ ə,338,dravlex
+153584,nort2699,HAIR (HEAD),t iː ɾ u,345,dravlex
+153585,pott1240,HAIR (HEAD),tʃ e n d i,343,dravlex
+153586,pott1240,HAIR (HEAD),t a l tʃ e n ʈ i,343,dravlex
+153587,kuvi1243,HAIR (HEAD),b a n a,344,dravlex
+153588,bada1257,HAND,k a j,352,dravlex
+153589,bett1235,HAND,k iː j a,353,dravlex
+153590,nort2702,HAND,k a j,353,dravlex
+153591,nucl1305,HAND,k a j,359,dravlex
+153592,koda1255,HAND,k a j,356,dravlex
+153593,nort2699,HAND,k e j u,357,dravlex
+153594,kota1263,HAND,k a i j,355,dravlex
+153595,koya1251,HAND,k a j,353,dravlex
+153596,kuru1302,HAND,kʰ e kʰː a,357,dravlex
+153597,kuvi1243,HAND,k e j u,353,dravlex
+153598,mala1464,HAND,k a j,358,dravlex
+153599,pott1240,HAND,k iː,355,dravlex
+153600,duru1236,HAND,k e y,355,dravlex
+153601,tami1289,HAND,k a j,362,dravlex
+153602,telu1262,HAND,tʃ e j j i,363,dravlex
+153603,toda1252,HAND,k o i,355,dravlex
+153604,tulu1258,HAND,k a i,355,dravlex
+153605,ravu1237,HAND,k a j,360,dravlex
+153606,brah1256,HAND,ɖ uː,354,dravlex
+153607,saur1249,HAND,ʈ e ʈ u,361,dravlex
+153608,nort2702,HEAD,t a lː a,366,dravlex
+153609,nucl1305,HEAD,t a l e,366,dravlex
+153610,nucl1305,HEAD,t a l e,366,dravlex
+153611,nort2699,HEAD,t a l,366,dravlex
+153612,koya1251,HEAD,t a l a k aː j,366,dravlex
+153613,kuvi1243,HEAD,t ɾ a j u n,368,dravlex
+153614,mala1464,HEAD,t a l a,366,dravlex
+153615,pott1240,HEAD,t aː l,366,dravlex
+153616,duru1236,HEAD,t e l,366,dravlex
+153617,tami1289,HEAD,t a l ə,366,dravlex
+153618,telu1262,HEAD,t a l a,366,dravlex
+153619,ravu1237,HEAD,t i l e,366,dravlex
+153620,bada1257,HEAD,m a n ɖ e,364,dravlex
+153621,bett1235,HEAD,m a ɳ ɖ i,364,dravlex
+153622,koda1255,HEAD,m a ɳ ɖ e,364,dravlex
+153623,kota1263,HEAD,m a n ɖ ə,364,dravlex
+153624,toda1252,HEAD,m a ʈː ə,364,dravlex
+153625,tulu1258,HEAD,m a n ɖ a,364,dravlex
+153626,kuru1302,HEAD,k u k,367,dravlex
+153627,saur1249,HEAD,k u k u d u,367,dravlex
+153628,mala1464,HEAD,ʂ i ɾ a s ə,369,dravlex
+153629,brah1256,HEAD,k aː ʈ u m,365,dravlex
+153630,bada1257,HEAR,k eː p ə,376,dravlex
+153631,bett1235,HEAR,k əː ɭ,376,dravlex
+153632,nort2702,HEAR,k e n dʒ,379,dravlex
+153633,nucl1305,HEAR,k eː ɭ u,376,dravlex
+153634,koda1255,HEAR,k eː ɭ ə,376,dravlex
+153635,kota1263,HEAR,k eː l ə,376,dravlex
+153636,mala1464,HEAR,k e l k u g a,376,dravlex
+153637,tami1289,HEAR,k eː ɭ ə,376,dravlex
+153638,toda1252,HEAR,k eː l,376,dravlex
+153639,tulu1258,HEAR,k e ɳ a ɾ a,381,dravlex
+153640,ravu1237,HEAR,k eː ɭ u,376,dravlex
+153641,koya1251,HEAR,k eː dʒ a,379,dravlex
+153642,brah1256,HEAR,b i n i n g,377,dravlex
+153643,nort2699,HEAR,ʋ i n t i,380,dravlex
+153644,kuru1302,HEAR,m e nː a,378,dravlex
+153645,saur1249,HEAR,m eː n a,378,dravlex
+153646,saur1249,HEAR,m eː n p o,382,dravlex
+153647,duru1236,HEAR,v e n,378,dravlex
+153648,telu1262,HEAR,ʋ i n u,380,dravlex
+153649,nucl1305,HEART,h r u d a y a,385,dravlex
+153650,koda1255,HEART,h r u d a j a,385,dravlex
+153651,mala1464,HEART,h ɾ u d a j a m,385,dravlex
+153652,tami1289,HEART,i d a j a m,385,dravlex
+153653,telu1262,HEART,h ɾ u d a j a m u,385,dravlex
+153654,nort2702,HEART,g u ɳ ɖ e,387,dravlex
+153655,nort2699,HEART,g u n ɖ e,387,dravlex
+153656,koya1251,HEART,g u ɳ ɖ e k aː j a,387,dravlex
+153657,telu1262,HEART,g u ɳ ɖ a,387,dravlex
+153658,kota1263,HEART,n e n dʒ u,386,dravlex
+153659,ravu1237,HEART,n e n dʒ i,386,dravlex
+153660,toda1252,HEART,m a n a s ə,391,dravlex
+153661,bett1235,HEART,j a d d i,383,dravlex
+153662,saur1249,HEART,h u g l iː,390,dravlex
+153663,nort2699,HEART,p aː n a m,392,dravlex
+153664,brah1256,HEART,u s t,384,dravlex
+153665,kuru1302,HEART,b u k a,388,dravlex
+153666,pott1240,HEART,dʒ i b e,389,dravlex
+153667,bada1257,HORN (ANATOMY),k o m b ə,393,dravlex
+153668,bett1235,HORN (ANATOMY),k o m bː ə,393,dravlex
+153669,nucl1305,HORN (ANATOMY),k o m b u,393,dravlex
+153670,koda1255,HORN (ANATOMY),k o m b ə,393,dravlex
+153671,nort2699,HORN (ANATOMY),k o mː u,393,dravlex
+153672,koya1251,HORN (ANATOMY),k o mː,393,dravlex
+153673,mala1464,HORN (ANATOMY),k o m p ə,393,dravlex
+153674,tami1289,HORN (ANATOMY),k o m b ə,393,dravlex
+153675,telu1262,HORN (ANATOMY),k o mː u,393,dravlex
+153676,tulu1258,HORN (ANATOMY),k o m b u,393,dravlex
+153677,ravu1237,HORN (ANATOMY),k o m b ə,393,dravlex
+153678,toda1252,HORN (ANATOMY),k uː ɾ,393,dravlex
+153679,brah1256,HORN (ANATOMY),m a ɾ gʱ,394,dravlex
+153680,kuru1302,HORN (ANATOMY),m a ɾ a g,395,dravlex
+153681,saur1249,HORN (ANATOMY),m a ɾ g a d u,395,dravlex
+153682,koya1251,HORN (ANATOMY),k oː kː u,393,dravlex
+153683,nort2702,HORN (ANATOMY),k o ɾ,393,dravlex
+153684,pott1240,HORN (ANATOMY),k a ɾ + g u tʃ u l,396,dravlex
+153685,nucl1305,KILL,k o lː u,402,dravlex
+153686,koda1255,KILL,k o lː ə,402,dravlex
+153687,mala1464,KILL,k o lː u g a,402,dravlex
+153688,tami1289,KILL,k o lː ə,402,dravlex
+153689,ravu1237,KILL,k o lː ə,402,dravlex
+153690,brah1256,KILL,k a s f i n g,404,dravlex
+153691,telu1262,KILL,tʃ a m p u,411,dravlex
+153692,toda1252,KILL,k e ɖ u k i s t i,412,dravlex
+153693,tulu1258,KILL,k e ɾ i j a ɾ a,413,dravlex
+153694,bada1257,KILL,k o pː ə,402,dravlex
+153695,nort2702,KILL,h a ʋ k a,409,dravlex
+153696,koya1251,KILL,a ʋ a k aː,406,dravlex
+153697,bett1235,KILL,k e n g aː ɭ,403,dravlex
+153698,saur1249,KILL,b a dʒ p o,410,dravlex
+153699,kota1263,KILL,t aː ʋ i ɾ,405,dravlex
+153700,nort2699,KILL,a l a n g ʈ aː n,408,dravlex
+153701,kuru1302,KILL,e ɖ a b n a,407,dravlex
+153702,nort2702,KILL,kʰ a t a m k i,414,dravlex
+153703,nucl1305,KNEE,m u ɳ a k aː l o,416,dravlex
+153704,kota1263,KNEE,m oː g aː l,416,dravlex
+153705,koya1251,KNEE,m oː k aː l,416,dravlex
+153706,kuru1302,KNEE,m u k a,416,dravlex
+153707,mala1464,KNEE,m u l̪ a ŋ k aː l,416,dravlex
+153708,saur1249,KNEE,m uː k a,416,dravlex
+153709,tami1289,KNEE,m u l̪ a ŋ k aː l,416,dravlex
+153710,telu1262,KNEE,m oː k aː l u,416,dravlex
+153711,ravu1237,KNEE,m uː l e k aː l ə,416,dravlex
+153712,nucl1305,KNEE,m a ɳ ɖ i,415,dravlex
+153713,koda1255,KNEE,m a ɳ ɖ i,415,dravlex
+153714,kuvi1243,KNEE,m e n d a j a,415,dravlex
+153715,bada1257,KNEE,m u ʈː i,415,dravlex
+153716,nort2699,KNEE,m u ɖ s u,415,dravlex
+153717,mala1464,KNEE,m u ʈː ə,415,dravlex
+153718,tami1289,KNEE,m u ʈː i,415,dravlex
+153719,tami1289,KNEE,m uː ʈ ə,415,dravlex
+153720,toda1252,KNEE,m u ʈː i,415,dravlex
+153721,koya1251,KNEE,b o ʈ m i ɳ ɖ aː,420,dravlex
+153722,tulu1258,KNEE,m e ɳ a k aː l ə g a n ʈ u,416,dravlex
+153723,bett1235,KNEE,m a nː g aː l ə,416,dravlex
+153724,nort2702,KNEE,t o n g ɾ a,418,dravlex
+153725,pott1240,KNEE,ʋ a n g u l,419,dravlex
+153726,brah1256,KNEE,g oː ɖ,417,dravlex
+153727,bada1257,KNOW,a ɾ a ʋ ə,421,dravlex
+153728,nucl1305,KNOW,a r i,425,dravlex
+153729,koda1255,KNOW,a ɾ i,425,dravlex
+153730,mala1464,KNOW,a ɾ a j u g a,429,dravlex
+153731,tami1289,KNOW,a r̪ i,425,dravlex
+153732,telu1262,KNOW,e r̪ aː g u,421,dravlex
+153733,toda1252,KNOW,a ɾ s p i n i,434,dravlex
+153734,ravu1237,KNOW,a ɾ i ʋ o,425,dravlex
+153735,duru1236,KNOW,p u n,424,dravlex
+153736,kuru1302,KNOW,a kʰ n a,428,dravlex
+153737,saur1249,KNOW,h aː h p o,433,dravlex
+153738,nucl1305,KNOW,t e l i d i k o,427,dravlex
+153739,koya1251,KNOW,t e l u s eː,427,dravlex
+153740,telu1262,KNOW,t e l u s u k o,427,dravlex
+153741,telu1262,KNOW,t e l u s u k o n u,427,dravlex
+153742,brah1256,KNOW,tʃ aː i n g,423,dravlex
+153743,tami1289,KNOW,t e ɾ i j u m,435,dravlex
+153744,tami1289,KNOW,t e r i n dʒ u k o,427,dravlex
+153745,tulu1258,KNOW,t e ɾ i j a ɾ a,435,dravlex
+153746,bett1235,KNOW,g o tː + u ɳ ɖ i,422,dravlex
+153747,bett1235,KNOW,g o tː aː g,436,dravlex
+153748,kota1263,KNOW,a s uː b e j,426,dravlex
+153749,saur1249,KNOW,b a ɖ e m i n p o,437,dravlex
+153750,saur1249,KNOW,s i k aː ɾ p o,438,dravlex
+153751,nort2699,KNOW,u ɾ t a n ɖ aː t,430,dravlex
+153752,pott1240,KNOW,s u n,432,dravlex
+153753,nort2702,KNOW,j e ɾ p a ʈ,431,dravlex
+153754,bada1257,LEAF,e l ə,439,dravlex
+153755,bett1235,LEAF,j a l i,439,dravlex
+153756,nucl1305,LEAF,j e l e,439,dravlex
+153757,koda1255,LEAF,e l a k a ɳ ɖ a,442,dravlex
+153758,kota1263,LEAF,eː l u,439,dravlex
+153759,mala1464,LEAF,i l a,439,dravlex
+153760,tami1289,LEAF,e l e,439,dravlex
+153761,toda1252,LEAF,e ɾ s,449,dravlex
+153762,tulu1258,LEAF,i ɾ a,450,dravlex
+153763,ravu1237,LEAF,e l e,439,dravlex
+153764,nort2702,LEAF,aː k i,443,dravlex
+153765,nort2699,LEAF,aː k,446,dravlex
+153766,koya1251,LEAF,aː k iː,443,dravlex
+153767,telu1262,LEAF,aː k u,443,dravlex
+153768,duru1236,LEAF,e v,441,dravlex
+153769,kuru1302,LEAF,a t kʰ a,444,dravlex
+153770,pott1240,LEAF,ʈ u n ɖ e,447,dravlex
+153771,saur1249,LEAF,h aː tʰ a,448,dravlex
+153772,brah1256,LEAF,p a nː,440,dravlex
+153773,kuvi1243,LEAF,p a t ɾ a,445,dravlex
+153774,mala1464,LIE (REST),k i ɖ a kː u g a,456,dravlex
+153775,saur1249,LIE (REST),k oː ɖ p o,460,dravlex
+153776,tami1289,LIE (REST),k e ɖ ə,461,dravlex
+153777,nucl1305,LIE (REST),m a l a g u,459,dravlex
+153778,nort2702,LIE (REST),m i ɳ ɖ s i,458,dravlex
+153779,nort2699,LIE (REST),l a b aː ɖ + m u ɖ s a t i,457,dravlex
+153780,duru1236,LIE (REST),m a ɖ,453,dravlex
+153781,koya1251,LIE (REST),u n dʒ a,454,dravlex
+153782,bada1257,LIE (REST),h a ɖ a ʋ ə,451,dravlex
+153783,toda1252,LIE (REST),p o a ʈ tʃ iː,451,dravlex
+153784,telu1262,LIE (REST),p a ɖ u k o n u,462,dravlex
+153785,toda1252,LIE (REST),p o kː u m,467,dravlex
+153786,bett1235,LIE (REST),b aː ɖ,451,dravlex
+153787,bett1235,LIE (REST),b aː ʈ ɳ u + iː ɾ,464,dravlex
+153788,koda1255,LIE (REST),b u d d a,451,dravlex
+153789,tami1289,LIE (REST),p a ɖ ə,451,dravlex
+153790,tulu1258,LIE (REST),b u ɾ oː n a ɾ a,463,dravlex
+153791,ravu1237,LIE (REST),b iː n d o,454,dravlex
+153792,brah1256,LIE (REST),d ɾ o gʱ + t a ɖ i n g,452,dravlex
+153793,kuru1302,LIE (REST),p a i h a,455,dravlex
+153794,kuru1302,LIE (REST),f a s i j aː r,465,dravlex
+153795,nort2702,LIE (REST),d o l s i,466,dravlex
+153796,nucl1305,LIVER,h iː r i,472,dravlex
+153797,kota1263,LIVER,iː r u,472,dravlex
+153798,mala1464,LIVER,iː r a l,472,dravlex
+153799,tami1289,LIVER,iː ɾ a ɭ,472,dravlex
+153800,nort2699,LIVER,k a l e j a,475,dravlex
+153801,koya1251,LIVER,k aː dʒ a m,473,dravlex
+153802,telu1262,LIVER,k aː l e j a m u,475,dravlex
+153803,nort2702,LIVER,t a ɾ k i,476,dravlex
+153804,pott1240,LIVER,t a ɖ i n g,477,dravlex
+153805,duru1236,LIVER,t a r u ŋ g,470,dravlex
+153806,mala1464,LIVER,k a ɾ a ɭ ə,480,dravlex
+153807,toda1252,LIVER,k u ɖ aː l,479,dravlex
+153808,koda1255,LIVER,t o m b e,471,dravlex
+153809,ravu1237,LIVER,t o m b e,471,dravlex
+153810,nucl1305,LIVER,m e d a dʒ iː ɾ i k a,481,dravlex
+153811,bett1235,LIVER,t ə d l ə,468,dravlex
+153812,brah1256,LIVER,dʒ a g a ɾ,469,dravlex
+153813,saur1249,LIVER,tʃ e d ɾ o,478,dravlex
+153814,kuru1302,LIVER,u m b a l kʰ o,474,dravlex
+153815,kota1263,LONG,n iː t a m,482,dravlex
+153816,mala1464,LONG,n iː n ɖ a,482,dravlex
+153817,mala1464,LONG,n iː l a m u ɭː a,491,dravlex
+153818,tami1289,LONG,n iː ɳ ʈ a,482,dravlex
+153819,tami1289,LONG,n iː ɭ a m,491,dravlex
+153820,tami1289,LONG,n iː ɭ a m aː n a,491,dravlex
+153821,ravu1237,LONG,n iː ʈ a,482,dravlex
+153822,bada1257,LONG,u tː a,482,dravlex
+153823,bett1235,LONG,u d d u,483,dravlex
+153824,nucl1305,LONG,u d d a,489,dravlex
+153825,koda1255,LONG,u d d ə,483,dravlex
+153826,tulu1258,LONG,u d a,482,dravlex
+153827,nort2699,LONG,p o ɖ aː m,487,dravlex
+153828,koya1251,LONG,p o ɖ a ʋ u ʈ aː d u,485,dravlex
+153829,telu1262,LONG,p o ɖ a ʋ u,485,dravlex
+153830,toda1252,LONG,n e ɾ t i,482,dravlex
+153831,brah1256,LONG,m u ɾ g u n,484,dravlex
+153832,kuru1302,LONG,d i g aː h,486,dravlex
+153833,saur1249,LONG,d i g a ɖ o,490,dravlex
+153834,nort2702,LONG,l aː m,488,dravlex
+153835,bett1235,HEAD LOUSE,p j aː n u,371,dravlex
+153836,nucl1305,HEAD LOUSE,h eː n u,371,dravlex
+153837,koda1255,HEAD LOUSE,p eː n ə,371,dravlex
+153838,nort2699,HEAD LOUSE,p aː n u,371,dravlex
+153839,kuru1302,HEAD LOUSE,p eː n,371,dravlex
+153840,mala1464,HEAD LOUSE,p eː n,371,dravlex
+153841,duru1236,HEAD LOUSE,p eː n i,371,dravlex
+153842,tami1289,HEAD LOUSE,p eː n ə,371,dravlex
+153843,telu1262,HEAD LOUSE,p eː n u,371,dravlex
+153844,tulu1258,HEAD LOUSE,p eː n,371,dravlex
+153845,ravu1237,HEAD LOUSE,p eː n ə,371,dravlex
+153846,toda1252,HEAD LOUSE,i ɾ s,375,dravlex
+153847,nort2702,HEAD LOUSE,p o ɾ k i,374,dravlex
+153848,koya1251,HEAD LOUSE,p o ɾ i k i,374,dravlex
+153849,bada1257,HEAD LOUSE,i l i,370,dravlex
+153850,bada1257,HEAD LOUSE,k i l i,370,dravlex
+153851,brah1256,HEAD LOUSE,b oː dʱ,372,dravlex
+153852,kota1263,HEAD LOUSE,p a i j i,373,dravlex
+153853,koda1255,MAN,aː n a a ɭ ə,495,dravlex
+153854,mala1464,MAN,aː ɳ ə,495,dravlex
+153855,tami1289,MAN,aː ɳ ə,495,dravlex
+153856,tami1289,MAN,aː ɳ,508,dravlex
+153857,nucl1305,MAN,p u r u ʂ a,501,dravlex
+153858,mala1464,MAN,p u ɾ u ʂ a n,501,dravlex
+153859,telu1262,MAN,p u ɾ u ʂ u ɖ u,501,dravlex
+153860,bett1235,MAN,g ə ɳ ɖ a ɭ ə,493,dravlex
+153861,nucl1305,MAN,g a n ɖ a s u,492,dravlex
+153862,kota1263,MAN,g a n m a g u,492,dravlex
+153863,koya1251,MAN,m a g a ʋ aː ɳ ɖ,496,dravlex
+153864,telu1262,MAN,m a g a ʋ aː ɖ u,496,dravlex
+153865,koya1251,MAN,p eː k aː l,506,dravlex
+153866,bada1257,MAN,k a n ɖ u m u g a,492,dravlex
+153867,ravu1237,MAN,p a n i j a,502,dravlex
+153868,kuvi1243,MAN,k a k a s i,498,dravlex
+153869,tami1289,MAN,aː m b ɭ e,509,dravlex
+153870,toda1252,MAN,aː l o m,504,dravlex
+153871,tulu1258,MAN,aː n dʒ ʋ u,505,dravlex
+153872,brah1256,MAN,n a ɾ e e n ə,494,dravlex
+153873,saur1249,MAN,m u ɖ s aː,503,dravlex
+153874,kuru1302,MAN,m eː t,497,dravlex
+153875,nort2699,MAN,m a n i ʂ aː n,499,dravlex
+153876,nort2702,MAN,m a n k a l,500,dravlex
+153877,kuvi1243,MAN,ɖ o l a,507,dravlex
+153878,kuvi1243,MAN,k o d o m i,492,dravlex
+153879,nucl1305,MANY,h a l a ʋ u,518,dravlex
+153880,mala1464,MANY,p a l a,510,dravlex
+153881,tami1289,MANY,p a l ə,510,dravlex
+153882,telu1262,MANY,n aː n aː,520,dravlex
+153883,koda1255,MANY,d u m b a,513,dravlex
+153884,ravu1237,MANY,t u m b a,513,dravlex
+153885,koya1251,MANY,tʃ aː l a,515,dravlex
+153886,telu1262,MANY,tʃ aː l a,515,dravlex
+153887,koya1251,MANY,b e tʃː oː k o,522,dravlex
+153888,bada1257,MANY,a pː a ɾ a,510,dravlex
+153889,mala1464,MANY,o tː i ɾ i,523,dravlex
+153890,tami1289,MANY,n e ɾ i j a,525,dravlex
+153891,toda1252,MANY,u pː uː m,521,dravlex
+153892,tulu1258,MANY,b aː ɾ i,510,dravlex
+153893,bett1235,MANY,k a j ɾ i j ə,511,dravlex
+153894,nort2699,MANY,p e ɾ e,510,dravlex
+153895,brah1256,MANY,b aː z,512,dravlex
+153896,saur1249,MANY,d iː k e h i,519,dravlex
+153897,saur1249,MANY,g aː ɖ e h i,519,dravlex
+153898,kuru1302,MANY,b a gː e,516,dravlex
+153899,nort2702,MANY,dʒ aː s t a,517,dravlex
+153900,nort2702,MANY,ʋ e lː e n,524,dravlex
+153901,kota1263,MANY,iː dʒ oː ɖ,514,dravlex
+153902,koda1255,MEAT,e ɾ a tʃ i,529,dravlex
+153903,mala1464,MEAT,i ɾ a tʃ i,529,dravlex
+153904,tami1289,MEAT,i r̪ a i c c i,529,dravlex
+153905,ravu1237,MEAT,i ɾ a tʃ i,529,dravlex
+153906,nucl1305,MEAT,b aː ɖ u,526,dravlex
+153907,nucl1305,MEAT,m aː m s a,535,dravlex
+153908,mala1464,MEAT,m aː m s a m,535,dravlex
+153909,telu1262,MEAT,m aː m s a m u,535,dravlex
+153910,tulu1258,MEAT,m aː s a,535,dravlex
+153911,tami1289,MEAT,k a ɾ i,536,dravlex
+153912,kota1263,MEAT,p o d u,526,dravlex
+153913,toda1252,MEAT,p iː t,526,dravlex
+153914,bada1257,MEAT,p aː ɖ ə,526,dravlex
+153915,bada1257,MEAT,p aː g ə,526,dravlex
+153916,koya1251,MEAT,a n g iː,530,dravlex
+153917,bett1235,MEAT,ə ɾ s i,527,dravlex
+153918,brah1256,MEAT,s uː,528,dravlex
+153919,nort2702,MEAT,h a ʋː i,533,dravlex
+153920,nort2699,MEAT,m u ɾ i j a,532,dravlex
+153921,saur1249,MEAT,m aː k ɖ u,534,dravlex
+153922,kuru1302,MEAT,a h ɖ aː,531,dravlex
+153923,kota1263,MEAT,k e t e ɾ i,536,dravlex
+153924,bada1257,MOON,t i n g u ʋ a,537,dravlex
+153925,nucl1305,MOON,c a n d r a,541,dravlex
+153926,nucl1305,MOON,tʃ e n d ɾ a,541,dravlex
+153927,koda1255,MOON,tʃ e n d ɾ a,541,dravlex
+153928,koya1251,MOON,s a n ɖ a m aː m a,542,dravlex
+153929,kuru1302,MOON,tʃ a n d o,541,dravlex
+153930,mala1464,MOON,tʃ e n d ɾ a n,541,dravlex
+153931,tami1289,MOON,c a n t i r a n̪,541,dravlex
+153932,telu1262,MOON,tʃ e n d ɾ u ɖ u,541,dravlex
+153933,tulu1258,MOON,tʃ e n d ɾ e,541,dravlex
+153934,nort2699,MOON,n e l a,540,dravlex
+153935,kota1263,MOON,n e l a v ə,540,dravlex
+153936,koya1251,MOON,n e lː a,540,dravlex
+153937,kuvi1243,MOON,l e n dʒ u,541,dravlex
+153938,pott1240,MOON,n e l i n g,540,dravlex
+153939,duru1236,MOON,n e l i ɲ,540,dravlex
+153940,tami1289,MOON,n i l a,540,dravlex
+153941,toda1252,MOON,n i l a,540,dravlex
+153942,ravu1237,MOON,n i l a tʃ i,540,dravlex
+153943,bett1235,MOON,p ə ɾ i,538,dravlex
+153944,saur1249,MOON,b i l p d u,543,dravlex
+153945,brah1256,MOON,ʈ uː b e,539,dravlex
+153946,nort2702,MOON,dʒ a n g o,537,dravlex
+153947,kota1263,MOON,u n aː ʋ ə,544,dravlex
+153948,koya1251,MOUNTAIN,g u b a l,549,dravlex
+153949,bett1235,MOUNTAIN,b ə ʈː ə,546,dravlex
+153950,nucl1305,MOUNTAIN,b e ʈː a,546,dravlex
+153951,koda1255,MOUNTAIN,k u n d ə,548,dravlex
+153952,telu1262,MOUNTAIN,k o n ɖ a,548,dravlex
+153953,ravu1237,MOUNTAIN,k u n d ə,548,dravlex
+153954,bada1257,MOUNTAIN,m a l e,545,dravlex
+153955,brah1256,MOUNTAIN,m a ʃ,547,dravlex
+153956,mala1464,MOUNTAIN,m a l a,545,dravlex
+153957,tami1289,MOUNTAIN,m a l a i,545,dravlex
+153958,nort2702,MOUNTAIN,m e ʈː a,547,dravlex
+153959,koya1251,MOUNTAIN,m e ʈː a,547,dravlex
+153960,mala1464,MOUNTAIN,p a ɾ ʋ a t a m,546,dravlex
+153961,telu1262,MOUNTAIN,p a ɾ ʋ a t a m u,546,dravlex
+153962,toda1252,MOUNTAIN,t i ʈː ə,553,dravlex
+153963,tulu1258,MOUNTAIN,d aː ɾ i,554,dravlex
+153964,saur1249,MOUNTAIN,b eː ɖ o + p a h aː ɖ i,552,dravlex
+153965,kuru1302,MOUNTAIN,p a ɾ t a,546,dravlex
+153966,nort2699,MOUNTAIN,d a n ɖ i m eː ʈ,550,dravlex
+153967,kota1263,MOUNTAIN,ʋ eː ʈ u m e,546,dravlex
+153968,pott1240,MOUNTAIN,k a pː e,551,dravlex
+153969,bett1235,MOUTH,b aː j ə,555,dravlex
+153970,brah1256,MOUTH,b aː,555,dravlex
+153971,nucl1305,MOUTH,b aː j i,555,dravlex
+153972,koda1255,MOUTH,b aː j i,555,dravlex
+153973,kota1263,MOUTH,ʋ aː j i,555,dravlex
+153974,kuru1302,MOUTH,b a j i,555,dravlex
+153975,mala1464,MOUTH,ʋ aː j a,555,dravlex
+153976,duru1236,MOUTH,v aː y,555,dravlex
+153977,tami1289,MOUTH,ʋ aː j i,555,dravlex
+153978,tami1289,MOUTH,ʋ aː,555,dravlex
+153979,toda1252,MOUTH,p oː i,555,dravlex
+153980,tulu1258,MOUTH,b aː j i,555,dravlex
+153981,ravu1237,MOUTH,b aː j i,555,dravlex
+153982,telu1262,MOUTH,n oː ɾ u,560,dravlex
+153983,koya1251,MOUTH,p a v uː ɾ,556,dravlex
+153984,bada1257,MOUTH,p e,555,dravlex
+153985,nort2702,MOUTH,t o ɖː i,558,dravlex
+153986,saur1249,MOUTH,t o ɾ o,559,dravlex
+153987,nort2699,MOUTH,m uː t i,557,dravlex
+153988,kuvi1243,MOUTH,g u ʈ i,557,dravlex
+153989,pott1240,MOUTH,tʃ aː l u,558,dravlex
+153990,bada1257,NAME,e s a ɾ ə,561,dravlex
+153991,bett1235,NAME,p j aː ɾ ə,562,dravlex
+153992,brah1256,NAME,p i n,562,dravlex
+153993,nort2702,NAME,p o ɾ o l,562,dravlex
+153994,nucl1305,NAME,h e s a r u,561,dravlex
+153995,koda1255,NAME,p e d a,562,dravlex
+153996,nort2699,NAME,p eː ɾ,562,dravlex
+153997,kota1263,NAME,p eː ɾ,562,dravlex
+153998,koya1251,NAME,p e d e ɾ,562,dravlex
+153999,kuvi1243,NAME,d o r u,564,dravlex
+154000,mala1464,NAME,p e ɾ ə,562,dravlex
+154001,duru1236,NAME,p i d i r,562,dravlex
+154002,tami1289,NAME,p eː ɾ ə,562,dravlex
+154003,telu1262,NAME,p eː ɾ u,562,dravlex
+154004,toda1252,NAME,p eː ɾ,562,dravlex
+154005,tulu1258,NAME,p u d a ɾ ə,562,dravlex
+154006,ravu1237,NAME,p eː ɾ u,562,dravlex
+154007,kuru1302,NAME,n aː m e,563,dravlex
+154008,saur1249,NAME,n aː m i,563,dravlex
+154009,bada1257,NECK,k a t ə,565,dravlex
+154010,kota1263,NECK,k a ɖ a t eː l,565,dravlex
+154011,mala1464,NECK,k a ɻ u t ə,565,dravlex
+154012,tami1289,NECK,k a ɭ u tː ə,565,dravlex
+154013,koya1251,NECK,m e ɖ a k aː j a,568,dravlex
+154014,telu1262,NECK,m e ɖ a,568,dravlex
+154015,toda1252,NECK,m a ɾ,573,dravlex
+154016,kuru1302,NECK,kʰ e s i r,569,dravlex
+154017,saur1249,NECK,a s a ɾ d u,572,dravlex
+154018,nucl1305,NECK,k u tʰ i g e,571,dravlex
+154019,koda1255,NECK,b oː ɭ e,566,dravlex
+154020,ravu1237,NECK,b oː ɭ e,566,dravlex
+154021,tulu1258,NECK,k e kː i l ə,574,dravlex
+154022,bett1235,NECK,k pː m aː ɭ i,566,dravlex
+154023,nort2699,NECK,m a k,570,dravlex
+154024,brah1256,NECK,l e x,567,dravlex
+154025,saur1249,NECK,ɖ oː n ɖ o,575,dravlex
+154026,pott1240,NECK,k a n ɖ,565,dravlex
+154027,nort2702,NECK,g u ɖ u n g a,571,dravlex
+154028,bada1257,NEW,o s t ə,576,dravlex
+154029,nort2699,NEW,k o t a,581,dravlex
+154030,koya1251,NEW,k o tː a d,581,dravlex
+154031,telu1262,NEW,k o tː a,581,dravlex
+154032,brah1256,NEW,p uː s k u n,578,dravlex
+154033,nort2702,NEW,p u n a,579,dravlex
+154034,nucl1305,NEW,h o s a d u,582,dravlex
+154035,koda1255,NEW,p u d i j a,580,dravlex
+154036,kota1263,NEW,p u d i j a d ə,580,dravlex
+154037,kuru1302,NEW,p uː n a,579,dravlex
+154038,kuvi1243,NEW,p u n i,579,dravlex
+154039,mala1464,NEW,p u d i j a,580,dravlex
+154040,saur1249,NEW,p uː n a,579,dravlex
+154041,duru1236,NEW,p u n,579,dravlex
+154042,tami1289,NEW,p u d u s ə,580,dravlex
+154043,tami1289,NEW,p u d u,580,dravlex
+154044,toda1252,NEW,p u d uː n,580,dravlex
+154045,tulu1258,NEW,p o s a tː a,582,dravlex
+154046,ravu1237,NEW,p u d i j a i,580,dravlex
+154047,bett1235,NEW,p ə j j m ə n,577,dravlex
+154048,pott1240,NEW,n i a,583,dravlex
+154049,bada1257,NIGHT,i ɾ ə,584,dravlex
+154050,kota1263,NIGHT,eː l u m a ɾ a m,588,dravlex
+154051,tami1289,NIGHT,i ɾ aː ʋ ə,584,dravlex
+154052,tami1289,NIGHT,ɾ aː ʋ ə,584,dravlex
+154053,nucl1305,NIGHT,ɾ aː t ɾ i,592,dravlex
+154054,mala1464,NIGHT,ɾ aː t ɾ i,592,dravlex
+154055,saur1249,NIGHT,ɾ aː t i,592,dravlex
+154056,tami1289,NIGHT,ɾ aː t ɾ i,592,dravlex
+154057,telu1262,NIGHT,ɾ aː t ɾ i,592,dravlex
+154058,tulu1258,NIGHT,ɾ aː t ɾ e,592,dravlex
+154059,kuru1302,NIGHT,m aː h a,590,dravlex
+154060,saur1249,NIGHT,m aː aː,590,dravlex
+154061,koya1251,NIGHT,m u l i p e,589,dravlex
+154062,koda1255,NIGHT,b a j i ʈ ə,587,dravlex
+154063,ravu1237,NIGHT,a n d i,595,dravlex
+154064,bett1235,NIGHT,ə d l ə,585,dravlex
+154065,toda1252,NIGHT,e kː aː ɖ ə,596,dravlex
+154066,nort2702,NIGHT,n a ɾ k a ɖ,594,dravlex
+154067,brah1256,NIGHT,n a m,586,dravlex
+154068,kuvi1243,NIGHT,l aː n,591,dravlex
+154069,nort2699,NIGHT,s i ɾ b e d i n,593,dravlex
+154070,bada1257,NOSE,m uː k ə,597,dravlex
+154071,bett1235,NOSE,m uː kː ə,597,dravlex
+154072,nucl1305,NOSE,m uː g ə,597,dravlex
+154073,koda1255,NOSE,m uː kː ə,597,dravlex
+154074,nort2699,NOSE,m uː kː,597,dravlex
+154075,kota1263,NOSE,m uː k ə,597,dravlex
+154076,kuru1302,NOSE,m uː j i,597,dravlex
+154077,kuvi1243,NOSE,m u n g e l i,597,dravlex
+154078,mala1464,NOSE,m uː k ə,597,dravlex
+154079,pott1240,NOSE,m u n g a n,597,dravlex
+154080,duru1236,NOSE,m u v ã ɖ,597,dravlex
+154081,tami1289,NOSE,m uː k ə,597,dravlex
+154082,telu1262,NOSE,m u kː u,597,dravlex
+154083,tulu1258,NOSE,m uː g u,597,dravlex
+154084,ravu1237,NOSE,m uː kː ə,597,dravlex
+154085,nort2702,NOSE,m o s o ɾ,599,dravlex
+154086,koya1251,NOSE,m o sː oː ɾ,599,dravlex
+154087,toda1252,NOSE,m i tː uː p,600,dravlex
+154088,saur1249,NOSE,m u s oː,597,dravlex
+154089,brah1256,NOSE,b aː m u s,598,dravlex
+154090,bett1235,NOT,i l a,601,dravlex
+154091,nort2702,NOT,h e lː e,601,dravlex
+154092,koda1255,NOT,i lː e,601,dravlex
+154093,kota1263,NOT,i lː a,601,dravlex
+154094,koya1251,NOT,i lː e,601,dravlex
+154095,mala1464,NOT,i lː a,601,dravlex
+154096,tami1289,NOT,i lː e,601,dravlex
+154097,telu1262,NOT,l eː d u,601,dravlex
+154098,ravu1237,NOT,i lː e,601,dravlex
+154099,nort2699,NOT,k aː d u,602,dravlex
+154100,telu1262,NOT,k aː d u,602,dravlex
+154101,bett1235,NOT,a l a,601,dravlex
+154102,nucl1305,NOT,a lː a,601,dravlex
+154103,bada1257,NOT,k u lː e,601,dravlex
+154104,toda1252,NOT,aː ɖ u d i,602,dravlex
+154105,tulu1258,NOT,aː t u,602,dravlex
+154106,kuru1302,NOT,m a l a,601,dravlex
+154107,saur1249,NOT,m a l aː,601,dravlex
+154108,brah1256,NOT,aː x a,601,dravlex
+154109,brah1256,NOT,n ɛ,603,dravlex
+154110,saur1249,NOT,h a m b i j a,604,dravlex
+154111,bada1257,ONE,o n d ə,605,dravlex
+154112,bett1235,ONE,ʋ a n d ə,605,dravlex
+154113,brah1256,ONE,a s i t,606,dravlex
+154114,nort2702,ONE,o n d i,605,dravlex
+154115,nucl1305,ONE,o n d u,605,dravlex
+154116,koda1255,ONE,o n d ə,605,dravlex
+154117,nort2699,ONE,o kː oː t,607,dravlex
+154118,kota1263,ONE,oː d i t,606,dravlex
+154119,koya1251,ONE,o ɾ ɾ oː ʈ,608,dravlex
+154120,kuru1302,ONE,oː n d,605,dravlex
+154121,kuvi1243,ONE,r a n ɖ i,605,dravlex
+154122,mala1464,ONE,o nː ə,605,dravlex
+154123,saur1249,ONE,oː n d,605,dravlex
+154124,pott1240,ONE,o k u ʈ i,607,dravlex
+154125,duru1236,ONE,o k,607,dravlex
+154126,tami1289,ONE,o nː ə,605,dravlex
+154127,telu1262,ONE,o k a ʈ i,607,dravlex
+154128,tulu1258,ONE,o n dʒ i,605,dravlex
+154129,ravu1237,ONE,o n dʒ u,605,dravlex
+154130,toda1252,ONE,u tː ə,605,dravlex
+154131,nucl1305,PERSON,m a n u s a,612,dravlex
+154132,koda1255,PERSON,m a n a s a,612,dravlex
+154133,nort2699,PERSON,m a n i ʂ aː n,612,dravlex
+154134,koya1251,PERSON,m a n s uː ɳ ɖ,612,dravlex
+154135,mala1464,PERSON,m a n u ʂ a n,612,dravlex
+154136,tami1289,PERSON,m a n̪ i t a n̪,612,dravlex
+154137,tami1289,PERSON,m a n u ʂ a n,612,dravlex
+154138,telu1262,PERSON,m a n i ʂ i,612,dravlex
+154139,tulu1258,PERSON,m a n u ʂ eː,612,dravlex
+154140,ravu1237,PERSON,m a n u tʃ e,612,dravlex
+154141,bada1257,PERSON,k a n ɖ ə,609,dravlex
+154142,toda1252,PERSON,k i nː uː ɖ ə,609,dravlex
+154143,bett1235,PERSON,aː ɭ ə,610,dravlex
+154144,kuru1302,PERSON,aː l,613,dravlex
+154145,nort2702,PERSON,l o k u ɾ,614,dravlex
+154146,saur1249,PERSON,m a l a h,615,dravlex
+154147,brah1256,PERSON,b a n d a g,611,dravlex
+154148,bada1257,RAIN (PRECIPITATION),m e,616,dravlex
+154149,bett1235,RAIN (PRECIPITATION),m a ɭ i,616,dravlex
+154150,nucl1305,RAIN (PRECIPITATION),m a ɭ e,616,dravlex
+154151,koda1255,RAIN (PRECIPITATION),m a ɭ e,616,dravlex
+154152,kota1263,RAIN (PRECIPITATION),m a i,616,dravlex
+154153,mala1464,RAIN (PRECIPITATION),m a ɻ a,616,dravlex
+154154,tami1289,RAIN (PRECIPITATION),m a ɻ a i,616,dravlex
+154155,toda1252,RAIN (PRECIPITATION),m e ɖ u tː i,616,dravlex
+154156,ravu1237,RAIN (PRECIPITATION),m a ɭ e,616,dravlex
+154157,telu1262,RAIN (PRECIPITATION),ʋ a r ʂ a m,617,dravlex
+154158,tulu1258,RAIN (PRECIPITATION),b a ɾ s a,617,dravlex
+154159,nort2699,RAIN (PRECIPITATION),ʋ aː n a,618,dravlex
+154160,koya1251,RAIN (PRECIPITATION),ʋ aː n a,618,dravlex
+154161,duru1236,RAIN (PRECIPITATION),v aː n i,618,dravlex
+154162,telu1262,RAIN (PRECIPITATION),ʋ aː n a,618,dravlex
+154163,brah1256,RAIN (PRECIPITATION),p ɛ ɾ,617,dravlex
+154164,nort2702,RAIN (PRECIPITATION),p i ɾ,617,dravlex
+154165,saur1249,RAIN (PRECIPITATION),dʒ a ɖ aː,620,dravlex
+154166,kuru1302,RAIN (PRECIPITATION),tʃ eː p,619,dravlex
+154167,kuvi1243,RAIN (PRECIPITATION),b e l a,617,dravlex
+154168,bada1257,RED,k e pː ə,621,dravlex
+154169,brah1256,RED,x iː s u n,623,dravlex
+154170,nucl1305,RED,k e m p u,621,dravlex
+154171,koda1255,RED,tʃ oː p ə,621,dravlex
+154172,kuru1302,RED,k h e s o,627,dravlex
+154173,mala1464,RED,tʃ u m a pː ə,621,dravlex
+154174,saur1249,RED,eː s o,627,dravlex
+154175,duru1236,RED,k e y,624,dravlex
+154176,tami1289,RED,c e + m,629,dravlex
+154177,tami1289,RED,s e ʋ a pː ə,621,dravlex
+154178,tami1289,RED,s e g a pː ə,621,dravlex
+154179,toda1252,RED,k e pː ə,621,dravlex
+154180,tulu1258,RED,k e m p u,621,dravlex
+154181,ravu1237,RED,tʃ oː p ə,621,dravlex
+154182,nort2702,RED,e ɾ ɾ a g,626,dravlex
+154183,nort2702,RED,j e ɾ ɾ a g,626,dravlex
+154184,nort2699,RED,j e r u ɖ i,628,dravlex
+154185,koya1251,RED,e ɾ ɾ a,626,dravlex
+154186,telu1262,RED,e ɾ u p u,630,dravlex
+154187,bett1235,RED,t i sː ə g a ɳ ɖ aː n g i,622,dravlex
+154188,kota1263,RED,n e t i ɾ,625,dravlex
+154189,kuvi1243,RED,n e t u ɾ i,625,dravlex
+154190,kuvi1243,RED,g a ɖ g a,631,dravlex
+154191,mala1464,ROAD,ʋ a ɻ i,632,dravlex
+154192,tami1289,ROAD,v a l̪ i,632,dravlex
+154193,nucl1305,ROAD,m aː r g a,637,dravlex
+154194,telu1262,ROAD,m aː ɾ g a m u,637,dravlex
+154195,saur1249,ROAD,p aː o d u,633,dravlex
+154196,duru1236,ROAD,p aː v,635,dravlex
+154197,bada1257,ROAD,t aː ɾ i,632,dravlex
+154198,nort2699,ROAD,d a a ɾ,636,dravlex
+154199,kota1263,ROAD,t aː ɾ i,632,dravlex
+154200,kuru1302,ROAD,ɖ a h a ɾ e,636,dravlex
+154201,telu1262,ROAD,d aː ɾ i,632,dravlex
+154202,bett1235,ROAD,b a ʈː i,633,dravlex
+154203,koda1255,ROAD,b aː t e,633,dravlex
+154204,telu1262,ROAD,b aː ʈ a,633,dravlex
+154205,nucl1305,ROAD,r a s t e,639,dravlex
+154206,koda1255,ROAD,ɾ a s t e,639,dravlex
+154207,pott1240,ROAD,r a s t a,638,dravlex
+154208,ravu1237,ROAD,r a s t e,639,dravlex
+154209,toda1252,ROAD,aː l a ɾ,632,dravlex
+154210,tulu1258,ROAD,p a ɾ v a t a,640,dravlex
+154211,brah1256,ROAD,s a ɖ a k,634,dravlex
+154212,nort2702,ROAD,h a ɾ ɾ i,632,dravlex
+154213,koya1251,ROAD,a ɾ ɾ i,632,dravlex
+154214,nort2699,ROAD,t aː ʋ u,641,dravlex
+154215,bada1257,ROOT,p eː ɾ ə,642,dravlex
+154216,bett1235,ROOT,b j aː ɾ ə,642,dravlex
+154217,nucl1305,ROOT,b eː ɾ u,642,dravlex
+154218,koda1255,ROOT,b eː ɾ ə,642,dravlex
+154219,nort2699,ROOT,ʋ eː ɾ k a m,642,dravlex
+154220,koya1251,ROOT,ʋ eː ɾ,642,dravlex
+154221,kuvi1243,ROOT,ʋ e ɾ,642,dravlex
+154222,mala1464,ROOT,ʋ eː ɾ ə,642,dravlex
+154223,duru1236,ROOT,v aː r,642,dravlex
+154224,tami1289,ROOT,ʋ eː ɾ ə,642,dravlex
+154225,telu1262,ROOT,ʋ eː ɾ u,642,dravlex
+154226,toda1252,ROOT,ʋ e ɾ,642,dravlex
+154227,tulu1258,ROOT,b eː ɾ u,642,dravlex
+154228,ravu1237,ROOT,b eː ɾ ə,642,dravlex
+154229,kuru1302,ROOT,p aː d a,644,dravlex
+154230,pott1240,ROOT,k u ɾ e,642,dravlex
+154231,saur1249,ROOT,b a n d aː,644,dravlex
+154232,brah1256,ROOT,ɾ oː t ɛ,643,dravlex
+154233,nort2702,ROOT,h iː ɾ,645,dravlex
+154234,nucl1305,ROUND,b a ʈː a,649,dravlex
+154235,kota1263,ROUND,ʋ a ʈ a m,649,dravlex
+154236,mala1464,ROUND,v a ʈː a,649,dravlex
+154237,tami1289,ROUND,ʋ a ʈː a m,649,dravlex
+154238,nort2702,ROUND,g u ɳ ɖ ɾ a l,650,dravlex
+154239,koya1251,ROUND,g u ɳ ɖ ɾ aː n,650,dravlex
+154240,kuru1302,ROUND,g u ʈ i ɳ ɖ a,650,dravlex
+154241,saur1249,ROUND,g u ɖ m e,652,dravlex
+154242,saur1249,ROUND,g u ɖ i j o,655,dravlex
+154243,telu1262,ROUND,g u ɳ ɖ ɾ a n i,650,dravlex
+154244,nucl1305,ROUND,d u ɳ ɖ a n e,654,dravlex
+154245,koda1255,ROUND,u ɾ u ʈ a,648,dravlex
+154246,mala1464,ROUND,u ɾ u n ɖ a,648,dravlex
+154247,tami1289,ROUND,u ɾ u n ɖ a i,648,dravlex
+154248,toda1252,ROUND,u ʈː i,653,dravlex
+154249,tulu1258,ROUND,u ɾ u ʈ ə,648,dravlex
+154250,ravu1237,ROUND,u ɾ u ʈ u,648,dravlex
+154251,bett1235,ROUND,b ə j n s a k ɾ a n g uː d ə,646,dravlex
+154252,brah1256,ROUND,g oː l + p e ɾ i,647,dravlex
+154253,nort2699,ROUND,b u bː a ɾ i,651,dravlex
+154254,bett1235,SAND,m a ɳ a l ə,657,dravlex
+154255,nucl1305,SAND,m a r a ɭ u,657,dravlex
+154256,koda1255,SAND,m a ɳ a,657,dravlex
+154257,mala1464,SAND,m a ɳ a l,657,dravlex
+154258,pott1240,SAND,m aː n,657,dravlex
+154259,duru1236,SAND,m a n,657,dravlex
+154260,tami1289,SAND,m a ɳ a l,657,dravlex
+154261,toda1252,SAND,m a n a l,657,dravlex
+154262,ravu1237,SAND,m a ɳ ə,657,dravlex
+154263,nort2702,SAND,u s k e,659,dravlex
+154264,nucl1305,SAND,u s u b u,663,dravlex
+154265,nort2699,SAND,u s u k a,659,dravlex
+154266,koya1251,SAND,i s i k e,659,dravlex
+154267,telu1262,SAND,i s u k a,659,dravlex
+154268,tulu1258,SAND,p o j j a,662,dravlex
+154269,bada1257,SAND,p a kː e,656,dravlex
+154270,brah1256,SAND,ɾ eː k,658,dravlex
+154271,kuru1302,SAND,tʃ a l k u ɾ u,660,dravlex
+154272,kuvi1243,SAND,b a l i,661,dravlex
+154273,saur1249,SAND,b aː l i,661,dravlex
+154274,tami1289,SAY,tʃ o lː ə,672,dravlex
+154275,tami1289,SAY,s o lː ə,672,dravlex
+154276,mala1464,SAY,p a ɾ a j u g a,670,dravlex
+154277,ravu1237,SAY,p a ɾ e,673,dravlex
+154278,nucl1305,SAY,h e ɭ u,672,dravlex
+154279,telu1262,SAY,tʃ e pː u,675,dravlex
+154280,nort2702,SAY,i n,671,dravlex
+154281,koda1255,SAY,a nː ə,667,dravlex
+154282,duru1236,SAY,e n,667,dravlex
+154283,bett1235,SAY,p əː ɭ,665,dravlex
+154284,koya1251,SAY,k e lː a,664,dravlex
+154285,bada1257,SAY,e g ə ʋ ə,664,dravlex
+154286,toda1252,SAY,aː ʋ a ɖ ə,676,dravlex
+154287,tulu1258,SAY,p a ɳ a ɾ a,673,dravlex
+154288,brah1256,SAY,p aː n i n g,666,dravlex
+154289,kuru1302,SAY,b a kʰ n a,669,dravlex
+154290,kota1263,SAY,p a i d u,668,dravlex
+154291,saur1249,SAY,h a u ɖ p o,674,dravlex
+154292,mala1464,SEE,k aː ɳ u k a,681,dravlex
+154293,tami1289,SEE,k aː ɳ,681,dravlex
+154294,bada1257,SEE,n oː ɖ ə,677,dravlex
+154295,bett1235,SEE,n oː ɖ,677,dravlex
+154296,nucl1305,SEE,n oː ɖ u,677,dravlex
+154297,koda1255,SEE,n oː ʈ ə,677,dravlex
+154298,kota1263,SEE,n oː ʈ ə,677,dravlex
+154299,toda1252,SEE,n uː ʈ,677,dravlex
+154300,ravu1237,SEE,n oː k u,681,dravlex
+154301,nort2702,SEE,h u ɖ a,679,dravlex
+154302,pott1240,SEE,tʃ u,679,dravlex
+154303,telu1262,SEE,tʃ uː ɖ u,679,dravlex
+154304,koya1251,SEE,uː ɖ a,679,dravlex
+154305,tami1289,SEE,p aː ɾ ə,685,dravlex
+154306,tulu1258,SEE,t u ʋ aː ɾ a,684,dravlex
+154307,kuru1302,SEE,j eː ɾ n a,680,dravlex
+154308,brah1256,SEE,u nː i n g,678,dravlex
+154309,saur1249,SEE,ʈ u n ɖ p o,683,dravlex
+154310,nort2699,SEE,t aː n a,682,dravlex
+154311,bada1257,SEED,p i tː ə,686,dravlex
+154312,bett1235,SEED,b i sː ə,686,dravlex
+154313,brah1256,SEED,b e dʒː,686,dravlex
+154314,nort2702,SEED,v i dʒː a,686,dravlex
+154315,nucl1305,SEED,b e d e,686,dravlex
+154316,nucl1305,SEED,b iː dʒ a,686,dravlex
+154317,nort2699,SEED,ʋ i tː a n a m,688,dravlex
+154318,kota1263,SEED,ʋ i t u,686,dravlex
+154319,kuru1302,SEED,b iː,686,dravlex
+154320,mala1464,SEED,v i t a,686,dravlex
+154321,duru1236,SEED,v i tː i d,686,dravlex
+154322,tami1289,SEED,ʋ e d ə,686,dravlex
+154323,telu1262,SEED,ʋ i tː a n a m,688,dravlex
+154324,telu1262,SEED,b iː dʒ a m,686,dravlex
+154325,toda1252,SEED,p i tː ə,686,dravlex
+154326,tulu1258,SEED,b iː dʒ a,686,dravlex
+154327,telu1262,SEED,g i n dʒ a,690,dravlex
+154328,kuru1302,SEED,g o ʈ a,686,dravlex
+154329,koda1255,SEED,k u ɾ u,687,dravlex
+154330,ravu1237,SEED,k u ɾ u,687,dravlex
+154331,nort2702,SEED,p e ɖ e,686,dravlex
+154332,koya1251,SEED,p eː ɳ ɖ k u,686,dravlex
+154333,mala1464,SEED,p a ɾ i pː ə,689,dravlex
+154334,tami1289,SIT,u kː aː ɾ ə,702,dravlex
+154335,mala1464,SIT,i ɾ i kː u g a,697,dravlex
+154336,toda1252,SIT,e ɾ a kː a ɾ,704,dravlex
+154337,ravu1237,SIT,i ɾ a i k u,697,dravlex
+154338,bada1257,SIT,k u ɭ ə ʋ ə,691,dravlex
+154339,nucl1305,SIT,k u ɭ i t i k o,699,dravlex
+154340,tulu1258,SIT,k u lː a ɾ a,691,dravlex
+154341,bett1235,SIT,k uː ɾ s u,692,dravlex
+154342,telu1262,SIT,k uː ɾ tʃ o,703,dravlex
+154343,kuru1302,SIT,o kʰ n a,696,dravlex
+154344,saur1249,SIT,h o k p o,701,dravlex
+154345,bett1235,SIT,k uː t n u + iː ɾ,705,dravlex
+154346,nucl1305,SIT,k uː t u k o,699,dravlex
+154347,koya1251,SIT,k u d d aː,695,dravlex
+154348,koda1255,SIT,a ɭ e,694,dravlex
+154349,nort2702,SIT,u d d a,695,dravlex
+154350,nort2699,SIT,u d ə,698,dravlex
+154351,pott1240,SIT,u n d u,700,dravlex
+154352,brah1256,SIT,t uː l i n g,693,dravlex
+154353,brah1256,SIT,z u n ɖ i n g,706,dravlex
+154354,bada1257,SKIN,t oː l ə,707,dravlex
+154355,bett1235,SKIN,t oː l ə,707,dravlex
+154356,nort2702,SKIN,t oː l,707,dravlex
+154357,nucl1305,SKIN,t o g a l u,707,dravlex
+154358,koda1255,SKIN,t oː l ə,707,dravlex
+154359,nort2699,SKIN,t oː l,707,dravlex
+154360,kota1263,SKIN,t oː l u,707,dravlex
+154361,koya1251,SKIN,t oː l,707,dravlex
+154362,mala1464,SKIN,t o l i,707,dravlex
+154363,pott1240,SKIN,t a l,707,dravlex
+154364,duru1236,SKIN,t oː l,707,dravlex
+154365,tami1289,SKIN,t oː l ə,707,dravlex
+154366,telu1262,SKIN,t oː l u,707,dravlex
+154367,toda1252,SKIN,t uː ɾ s,707,dravlex
+154368,ravu1237,SKIN,t oː l u,707,dravlex
+154369,nucl1305,SKIN,tʃ a ɾ m a,710,dravlex
+154370,mala1464,SKIN,tʃ e ɾ m a m,711,dravlex
+154371,telu1262,SKIN,tʃ a ɾ m a m u,710,dravlex
+154372,tulu1258,SKIN,tʃ e ɾ m a,710,dravlex
+154373,brah1256,SKIN,s i l,707,dravlex
+154374,saur1249,SKIN,tʃ aː n a,709,dravlex
+154375,kuru1302,SKIN,tʃ a p ʈ a,708,dravlex
+154376,bada1257,SLEEP,o ɾ ə g ə d ə,712,dravlex
+154377,bett1235,SLEEP,a ɾ g u,712,dravlex
+154378,koda1255,SLEEP,o ɾ a,715,dravlex
+154379,kota1263,SLEEP,o ɾ ə g ə,712,dravlex
+154380,mala1464,SLEEP,u ɾ a n g u g a,712,dravlex
+154381,tami1289,SLEEP,u r̪ a ŋ k u,712,dravlex
+154382,toda1252,SLEEP,o ɾ kʰ ə,712,dravlex
+154383,ravu1237,SLEEP,o ɾ a,715,dravlex
+154384,nucl1305,SLEEP,m a l a g u,720,dravlex
+154385,nucl1305,SLEEP,n i d r i s o,722,dravlex
+154386,telu1262,SLEEP,n i d ɾ a p o ʋ u,722,dravlex
+154387,nort2702,SLEEP,m iː ɳ ɖ a,719,dravlex
+154388,duru1236,SLEEP,m a ɖ,714,dravlex
+154389,kuru1302,SLEEP,k h a n d a ɾ n a,717,dravlex
+154390,saur1249,SLEEP,a n d a ɾ p o + k oː ɖ a,721,dravlex
+154391,tami1289,SLEEP,t uː n g ə,725,dravlex
+154392,koya1251,SLEEP,u n dʒ a ʈ a m,716,dravlex
+154393,tulu1258,SLEEP,dʒ i pː a ɾ a,723,dravlex
+154394,nort2699,SLEEP,iː m a n g s a t i,718,dravlex
+154395,brah1256,SLEEP,x a tʃ i n g,713,dravlex
+154396,saur1249,SLEEP,a n ə a,724,dravlex
+154397,koda1255,SMALL,tʃ e ɾ i j a d ə,729,dravlex
+154398,mala1464,SMALL,tʃ e ɾ i j a,729,dravlex
+154399,tami1289,SMALL,c i r̪ i y a,729,dravlex
+154400,ravu1237,SMALL,tʃ e ɾ i j a,729,dravlex
+154401,nucl1305,SMALL,tʃ i kː a d u,731,dravlex
+154402,brah1256,SMALL,tʃ u n a k,728,dravlex
+154403,nort2702,SMALL,tʃ i nː a,728,dravlex
+154404,nort2699,SMALL,s i nː a,728,dravlex
+154405,koya1251,SMALL,tʃ i nː a d,728,dravlex
+154406,kuru1302,SMALL,s a nː i,730,dravlex
+154407,duru1236,SMALL,c i n,728,dravlex
+154408,tami1289,SMALL,tʃ i nː a,728,dravlex
+154409,telu1262,SMALL,tʃ i nː a,728,dravlex
+154410,tulu1258,SMALL,k i ɲ a,728,dravlex
+154411,bada1257,SMALL,k u nː a d ə,726,dravlex
+154412,bada1257,SMALL,k i ʈː iː ʈ,733,dravlex
+154413,bett1235,SMALL,k i ɾ i,727,dravlex
+154414,toda1252,SMALL,k eː ɾ uː ɖ ə,726,dravlex
+154415,saur1249,SMALL,ɾ i k ʋ aː d i,732,dravlex
+154416,saur1249,SMALL,s a ɾ ʋ e,734,dravlex
+154417,kota1263,SMALL,g u n t ə,726,dravlex
+154418,pott1240,SMALL,k a n d eː k,726,dravlex
+154419,bada1257,SMOKE (EXHAUST),h o g e,735,dravlex
+154420,bett1235,SMOKE (EXHAUST),p ə gː i,735,dravlex
+154421,nort2702,SMOKE (EXHAUST),p o j a,735,dravlex
+154422,nucl1305,SMOKE (EXHAUST),h o g e,735,dravlex
+154423,koda1255,SMOKE (EXHAUST),p o g e,735,dravlex
+154424,nort2699,SMOKE (EXHAUST),p o g,735,dravlex
+154425,kota1263,SMOKE (EXHAUST),p e g u,735,dravlex
+154426,mala1464,SMOKE (EXHAUST),p u k a,735,dravlex
+154427,pott1240,SMOKE (EXHAUST),p o aː g,735,dravlex
+154428,tami1289,SMOKE (EXHAUST),p u k a i,735,dravlex
+154429,tami1289,SMOKE (EXHAUST),p u g a i,735,dravlex
+154430,telu1262,SMOKE (EXHAUST),p o g a,735,dravlex
+154431,toda1252,SMOKE (EXHAUST),p u k u ɖ t i,735,dravlex
+154432,tulu1258,SMOKE (EXHAUST),p o g a,735,dravlex
+154433,ravu1237,SMOKE (EXHAUST),p o g e,735,dravlex
+154434,koya1251,SMOKE (EXHAUST),k u m p oː ɖ,737,dravlex
+154435,brah1256,SMOKE (EXHAUST),m oː ʃ,736,dravlex
+154436,kuru1302,SMOKE (EXHAUST),m o s a g a,738,dravlex
+154437,saur1249,SMOKE (EXHAUST),m oː h a,739,dravlex
+154438,bada1257,STAND,n i pː ə,740,dravlex
+154439,nort2702,STAND,n i l,740,dravlex
+154440,nucl1305,STAND,n i n t i k o,743,dravlex
+154441,koda1255,STAND,n i n d ə,743,dravlex
+154442,nort2699,STAND,n iː m aː n,745,dravlex
+154443,kota1263,STAND,n i nː a t u k ə,743,dravlex
+154444,koya1251,STAND,n i lː a,740,dravlex
+154445,koya1251,STAND,n i lː i m a n,745,dravlex
+154446,kuru1302,STAND,i dʒː n a,744,dravlex
+154447,mala1464,STAND,n i l k u g a,740,dravlex
+154448,saur1249,STAND,h i l p o,746,dravlex
+154449,duru1236,STAND,n i l p,740,dravlex
+154450,tami1289,STAND,n i l,740,dravlex
+154451,telu1262,STAND,n i l tʃ o n u,747,dravlex
+154452,telu1262,STAND,n i l a b a ɖ u,740,dravlex
+154453,ravu1237,STAND,n i n dʒ o,743,dravlex
+154454,bett1235,STAND,əː ɭ,741,dravlex
+154455,bett1235,STAND,ə d d ə n u + iː ɾ,749,dravlex
+154456,toda1252,STAND,m u kː a ɖ u ɾ i l,748,dravlex
+154457,tulu1258,STAND,u n t a ɾ a,743,dravlex
+154458,brah1256,STAND,s a l i n g,742,dravlex
+154459,brah1256,STAND,dʒ eː k + s a l i n g,742,dravlex
+154460,bett1235,STAR,m iː n u,751,dravlex
+154461,kuru1302,STAR,b iː n k o,754,dravlex
+154462,saur1249,STAR,b iː n k a,754,dravlex
+154463,tami1289,STAR,m iː n̪,751,dravlex
+154464,brah1256,STAR,i s ʈ aː ɾ,752,dravlex
+154465,bada1257,STAR,n a tʃː a t ɾ a,750,dravlex
+154466,nucl1305,STAR,n a k ʂ a t ɾ,750,dravlex
+154467,koda1255,STAR,n a k ʂ a t ɾ a,750,dravlex
+154468,kota1263,STAR,n a k ʂ a ʈ i ɾ a m,750,dravlex
+154469,mala1464,STAR,n a k ʂ a t ɾ a m,750,dravlex
+154470,tami1289,STAR,n a tʃː a t i ɾ a m,750,dravlex
+154471,telu1262,STAR,n a k ʂ a t ɾ a m u,750,dravlex
+154472,toda1252,STAR,n a ʈ tʃ a t i ɾ a m,750,dravlex
+154473,tulu1258,STAR,n a k ʂ a t ɾ e,750,dravlex
+154474,ravu1237,STAR,n a tʃː a t i ɾ a,750,dravlex
+154475,nort2702,STAR,s u kː u,753,dravlex
+154476,nort2699,STAR,s u kː a,753,dravlex
+154477,koya1251,STAR,u kː a,753,dravlex
+154478,kuvi1243,STAR,h u k a,753,dravlex
+154479,duru1236,STAR,c u kː a,753,dravlex
+154480,telu1262,STAR,tʃ u kː a,753,dravlex
+154481,pott1240,STAR,p u ʈ,755,dravlex
+154482,bada1257,STAR,p aː n d m iː n ə,751,dravlex
+154483,bada1257,STONE,k a lː ə,756,dravlex
+154484,bett1235,STONE,k a lː ə,756,dravlex
+154485,brah1256,STONE,x a l,756,dravlex
+154486,nucl1305,STONE,k a lː u,756,dravlex
+154487,nucl1305,STONE,k a lː u,756,dravlex
+154488,koda1255,STONE,k a lː ə,756,dravlex
+154489,kota1263,STONE,k a l,756,dravlex
+154490,mala1464,STONE,k a lː ə,756,dravlex
+154491,pott1240,STONE,k a n ɖ,756,dravlex
+154492,duru1236,STONE,k e l,756,dravlex
+154493,tami1289,STONE,k a lː ə,756,dravlex
+154494,toda1252,STONE,k a ɾ s,756,dravlex
+154495,tulu1258,STONE,k a lː u,756,dravlex
+154496,ravu1237,STONE,k a lː u,756,dravlex
+154497,koya1251,STONE,ɾ aː j,757,dravlex
+154498,telu1262,STONE,ɾ aː j i,757,dravlex
+154499,kuvi1243,STONE,ʋ a l i,756,dravlex
+154500,nort2702,STONE,b a ɳ ɖ a,760,dravlex
+154501,nort2699,STONE,g u n ɖ ə,759,dravlex
+154502,saur1249,STONE,g u g a,761,dravlex
+154503,kuru1302,STONE,p a kʰ n a,758,dravlex
+154504,nucl1305,SUN,s uː r j a,764,dravlex
+154505,koda1255,SUN,s uː ɾ j a,764,dravlex
+154506,nort2699,SUN,s u ɾ i j a,764,dravlex
+154507,kota1263,SUN,s uː r i j a n,764,dravlex
+154508,mala1464,SUN,s uː ɾ j a n,764,dravlex
+154509,tami1289,SUN,s uː ɾ j a n,764,dravlex
+154510,telu1262,SUN,s uː ɾ j u ɖ u,764,dravlex
+154511,toda1252,SUN,s uː ɾ i j a n,764,dravlex
+154512,tulu1258,SUN,s uː ɾ j e,764,dravlex
+154513,ravu1237,SUN,tʃ uː r j a,764,dravlex
+154514,bett1235,SUN,p o tː ə,762,dravlex
+154515,nort2702,SUN,p o ɾ ə,767,dravlex
+154516,nort2699,SUN,p o d d u,762,dravlex
+154517,kota1263,SUN,p o ɖ u t ə,762,dravlex
+154518,koya1251,SUN,p o ɖ u d u,762,dravlex
+154519,telu1262,SUN,p o d d u,762,dravlex
+154520,kuru1302,SUN,b iː ɖ i,765,dravlex
+154521,saur1249,SUN,b eː ɾ d u,769,dravlex
+154522,bada1257,SUN,o tː ə,762,dravlex
+154523,brah1256,SUN,d e,763,dravlex
+154524,kuvi1243,SUN,ʋ e d a,766,dravlex
+154525,pott1240,SUN,ʋ e l e,768,dravlex
+154526,bada1257,SWIM,n iː n d ə,770,dravlex
+154527,bett1235,SWIM,n iː n ɖ ʒ u,770,dravlex
+154528,nucl1305,SWIM,iː dʒ o,773,dravlex
+154529,kota1263,SWIM,n iː tʃ a l,770,dravlex
+154530,koya1251,SWIM,iː t a,773,dravlex
+154531,mala1464,SWIM,n e e n t u g a,770,dravlex
+154532,tami1289,SWIM,n e e n t ə,770,dravlex
+154533,telu1262,SWIM,iː d u,773,dravlex
+154534,toda1252,SWIM,n iː tʃ a l,770,dravlex
+154535,kuru1302,SWIM,oː g n a,774,dravlex
+154536,saur1249,SWIM,h oː g p o,777,dravlex
+154537,koda1255,SWIM,m iː ɾ o d u,772,dravlex
+154538,ravu1237,SWIM,m a ɳ a,776,dravlex
+154539,tulu1258,SWIM,m iː n d a ɾ a,778,dravlex
+154540,nort2699,SWIM,p oː n i m,775,dravlex
+154541,nort2702,SWIM,p o h e m,775,dravlex
+154542,nort2702,SWIM,n a ɾ i,779,dravlex
+154543,brah1256,SWIM,b e ʂ o l i n g,771,dravlex
+154544,bada1257,TAIL,p aː l ə,780,dravlex
+154545,bett1235,TAIL,b aː l ə,780,dravlex
+154546,nucl1305,TAIL,b aː l a,780,dravlex
+154547,koda1255,TAIL,b aː l ə,780,dravlex
+154548,kota1263,TAIL,ʋ aː l ə,780,dravlex
+154549,mala1464,TAIL,ʋ aː l ə,780,dravlex
+154550,tami1289,TAIL,ʋ aː l ə,780,dravlex
+154551,telu1262,TAIL,v aː l a m u,780,dravlex
+154552,toda1252,TAIL,p oː ɾ s a m,785,dravlex
+154553,ravu1237,TAIL,b aː l u,780,dravlex
+154554,nort2702,TAIL,t o k o ɾ,782,dravlex
+154555,nort2699,TAIL,t oː k a,782,dravlex
+154556,koya1251,TAIL,t o k aː ɾ,782,dravlex
+154557,duru1236,TAIL,t oː k a,782,dravlex
+154558,telu1262,TAIL,t oː k a,782,dravlex
+154559,kuru1302,TAIL,kʰ o l a,783,dravlex
+154560,saur1249,TAIL,o l i,783,dravlex
+154561,tulu1258,TAIL,b iː l a,780,dravlex
+154562,brah1256,TAIL,l i ʈː i k,781,dravlex
+154563,pott1240,TAIL,k i n d i ɾ,784,dravlex
+154564,bada1257,THAT,a d ə,786,dravlex
+154565,bett1235,THAT,a d ə,786,dravlex
+154566,nort2702,THAT,a d u,786,dravlex
+154567,nucl1305,THAT,aː,788,dravlex
+154568,nucl1305,THAT,a dʱ u,786,dravlex
+154569,koda1255,THAT,a d ə,786,dravlex
+154570,nort2699,THAT,a d,786,dravlex
+154571,kota1263,THAT,a dʱ ə,786,dravlex
+154572,koya1251,THAT,a d d u,786,dravlex
+154573,kuru1302,THAT,h uː,789,dravlex
+154574,mala1464,THAT,aː,788,dravlex
+154575,mala1464,THAT,a d ə,786,dravlex
+154576,saur1249,THAT,aː d u,786,dravlex
+154577,saur1249,THAT,h aː d,786,dravlex
+154578,pott1240,THAT,a d ə,786,dravlex
+154579,duru1236,THAT,aː,788,dravlex
+154580,tami1289,THAT,a n t a,786,dravlex
+154581,tami1289,THAT,a dʱ ə,786,dravlex
+154582,telu1262,THAT,aː,788,dravlex
+154583,telu1262,THAT,a d i,786,dravlex
+154584,toda1252,THAT,a d ə,786,dravlex
+154585,tulu1258,THAT,a ʋ u,792,dravlex
+154586,ravu1237,THAT,a ʋ eː,791,dravlex
+154587,brah1256,THAT,a e,787,dravlex
+154588,kuvi1243,THAT,e t,790,dravlex
+154589,bada1257,THIS,i d ə,793,dravlex
+154590,bett1235,THIS,i d ə,793,dravlex
+154591,nort2702,THIS,i d,793,dravlex
+154592,nucl1305,THIS,i dʱ u,793,dravlex
+154593,koda1255,THIS,i d ə,793,dravlex
+154594,nort2699,THIS,i d,793,dravlex
+154595,kota1263,THIS,i dʱ ə,793,dravlex
+154596,koya1251,THIS,i d d u,793,dravlex
+154597,kuru1302,THIS,iː d,793,dravlex
+154598,kuvi1243,THIS,i d u,793,dravlex
+154599,mala1464,THIS,iː,795,dravlex
+154600,mala1464,THIS,i d ə,793,dravlex
+154601,saur1249,THIS,iː d u,793,dravlex
+154602,pott1240,THIS,i d ə,793,dravlex
+154603,duru1236,THIS,iː,795,dravlex
+154604,tami1289,THIS,i n t a,793,dravlex
+154605,tami1289,THIS,i dʱ ə,793,dravlex
+154606,telu1262,THIS,iː,795,dravlex
+154607,telu1262,THIS,i d i,793,dravlex
+154608,toda1252,THIS,i d ə,793,dravlex
+154609,ravu1237,THIS,i ʋ eː,793,dravlex
+154610,tulu1258,THIS,u n d u,793,dravlex
+154611,brah1256,THIS,d aː,794,dravlex
+154612,bada1257,THOU,n i,796,dravlex
+154613,bett1235,THOU,n iː j ə,796,dravlex
+154614,brah1256,THOU,n iː,796,dravlex
+154615,nort2702,THOU,n i mː e,796,dravlex
+154616,nucl1305,THOU,n iː n u,796,dravlex
+154617,koda1255,THOU,n iː n ə,796,dravlex
+154618,nort2699,THOU,n iː n u,796,dravlex
+154619,kota1263,THOU,n iː j a,796,dravlex
+154620,koya1251,THOU,n i mː a,796,dravlex
+154621,kuru1302,THOU,n iː n,796,dravlex
+154622,kuvi1243,THOU,n i n u,796,dravlex
+154623,mala1464,THOU,n i,796,dravlex
+154624,saur1249,THOU,n iː n,796,dravlex
+154625,saur1249,THOU,n iː n u,796,dravlex
+154626,pott1240,THOU,i n,796,dravlex
+154627,duru1236,THOU,iː n,796,dravlex
+154628,tami1289,THOU,n i,796,dravlex
+154629,telu1262,THOU,n iː ʋ u,796,dravlex
+154630,telu1262,THOU,n u ʋː u,796,dravlex
+154631,toda1252,THOU,n i,796,dravlex
+154632,tulu1258,THOU,i,797,dravlex
+154633,ravu1237,THOU,n i,796,dravlex
+154634,bada1257,TONGUE,n aː l a n g e,798,dravlex
+154635,bett1235,TONGUE,n e l g i,798,dravlex
+154636,nucl1305,TONGUE,n aː l i g e,798,dravlex
+154637,koda1255,TONGUE,n aː ʋ u,798,dravlex
+154638,nort2699,TONGUE,n aː l k a,798,dravlex
+154639,kota1263,TONGUE,n aː l g ə,798,dravlex
+154640,koya1251,TONGUE,n aː l i k e,798,dravlex
+154641,mala1464,TONGUE,n aː k ə,798,dravlex
+154642,pott1240,TONGUE,n aː n g,798,dravlex
+154643,duru1236,TONGUE,n e v ã ɖ,800,dravlex
+154644,tami1289,TONGUE,n aː kː ə,798,dravlex
+154645,telu1262,TONGUE,n aː l u k a,798,dravlex
+154646,toda1252,TONGUE,n oː f,805,dravlex
+154647,tulu1258,TONGUE,n aː l aː j i,798,dravlex
+154648,ravu1237,TONGUE,n aː ʋ u,798,dravlex
+154649,kuru1302,TONGUE,t a kː h a,801,dravlex
+154650,saur1249,TONGUE,t a ɖ t a,804,dravlex
+154651,nort2702,TONGUE,ʋ e n dʒ e ɾ,803,dravlex
+154652,kuvi1243,TONGUE,ʋ e n ɖ aː ɾ u,802,dravlex
+154653,brah1256,TONGUE,d u ʋ iː,799,dravlex
+154654,bada1257,TOOTH,h a lː ə,806,dravlex
+154655,bett1235,TOOTH,p a lː ə,806,dravlex
+154656,nort2702,TOOTH,p a l,806,dravlex
+154657,nucl1305,TOOTH,h a lː u,806,dravlex
+154658,koda1255,TOOTH,p a lː ə,806,dravlex
+154659,nort2699,TOOTH,p a l k u,806,dravlex
+154660,kota1263,TOOTH,p a l,806,dravlex
+154661,koya1251,TOOTH,p a l k,806,dravlex
+154662,kuru1302,TOOTH,p a lː,806,dravlex
+154663,kuvi1243,TOOTH,p a l u,806,dravlex
+154664,mala1464,TOOTH,p a lː ə,806,dravlex
+154665,saur1249,TOOTH,p aː l d u,806,dravlex
+154666,pott1240,TOOTH,p aː l k i lː,806,dravlex
+154667,duru1236,TOOTH,p e l,806,dravlex
+154668,tami1289,TOOTH,p a lː ə,806,dravlex
+154669,telu1262,TOOTH,p a nː u,806,dravlex
+154670,toda1252,TOOTH,p a ɾ s e,806,dravlex
+154671,ravu1237,TOOTH,p a lː u,806,dravlex
+154672,tulu1258,TOOTH,k uː l i,808,dravlex
+154673,brah1256,TOOTH,d a n d aː n,807,dravlex
+154674,brah1256,TOOTH,d a n t aː n,807,dravlex
+154675,bada1257,TREE,m o ɾ a,809,dravlex
+154676,bett1235,TREE,m e ɾ i,809,dravlex
+154677,nort2702,TREE,m a ɾ a,809,dravlex
+154678,nucl1305,TREE,m a r a,809,dravlex
+154679,koda1255,TREE,m a ɾ a,809,dravlex
+154680,nort2699,TREE,m aː k,813,dravlex
+154681,kota1263,TREE,m a ɾ a m,809,dravlex
+154682,koya1251,TREE,m aː ɾ a,809,dravlex
+154683,kuru1302,TREE,m a nː,811,dravlex
+154684,mala1464,TREE,m a ɾ a m,809,dravlex
+154685,duru1236,TREE,m e r i,809,dravlex
+154686,tami1289,TREE,m a ɾ a m,809,dravlex
+154687,toda1252,TREE,m eː n,811,dravlex
+154688,tulu1258,TREE,m a ɾ a,809,dravlex
+154689,ravu1237,TREE,m a ɾ a,809,dravlex
+154690,telu1262,TREE,tʃ e ʈː u,814,dravlex
+154691,mala1464,TREE,v r u k ʂ a m,815,dravlex
+154692,brah1256,TREE,d ɾ a h kʰ t,810,dravlex
+154693,kuvi1243,TREE,p a ʈ a,812,dravlex
+154694,bada1257,TWO,e ɾ a ɖ ə,816,dravlex
+154695,bett1235,TWO,ə d d u,816,dravlex
+154696,brah1256,TWO,i ɾ a t,816,dravlex
+154697,nort2702,TWO,ɾ e ɳ ɖ u,816,dravlex
+154698,nucl1305,TWO,j e ɾ a ɖ u,816,dravlex
+154699,koda1255,TWO,d a ɳ ɖ ə,816,dravlex
+154700,kota1263,TWO,e ɖ u,817,dravlex
+154701,koya1251,TWO,ɾ e ɳ ɖ,816,dravlex
+154702,kuru1302,TWO,iː r ə b,818,dravlex
+154703,kuvi1243,TWO,r i n ɖ a,816,dravlex
+154704,mala1464,TWO,ɾ e n d ə,816,dravlex
+154705,pott1240,TWO,i ɾ u ɖ u,816,dravlex
+154706,duru1236,TWO,i r,816,dravlex
+154707,tami1289,TWO,ɾ e n ɖ ə,816,dravlex
+154708,telu1262,TWO,ɾ e ɳ ɖ u,816,dravlex
+154709,toda1252,TWO,eː ɖ ə,817,dravlex
+154710,tulu1258,TWO,ɾ a ɖː u,816,dravlex
+154711,ravu1237,TWO,i ɾ a n d ə,816,dravlex
+154712,saur1249,TWO,p aː n ɖ a,816,dravlex
+154713,saur1249,TWO,m a k s a,820,dravlex
+154714,saur1249,TWO,dʒ oː ɖ s a,821,dravlex
+154715,nort2699,TWO,d u ɖ ə,819,dravlex
+154716,bada1257,WALK,n a ɖ ə ʋ a d ə,822,dravlex
+154717,bett1235,WALK,n a ɖ i,822,dravlex
+154718,nucl1305,WALK,n a ɖ ə,822,dravlex
+154719,koda1255,WALK,n a ɖ a,822,dravlex
+154720,kota1263,WALK,n a ɖ ʋ u,822,dravlex
+154721,koya1251,WALK,n a ɖ a m,822,dravlex
+154722,mala1464,WALK,n a ɖ a kː u g a,822,dravlex
+154723,tami1289,WALK,n a ɖ ə,822,dravlex
+154724,telu1262,WALK,n a ɖ u tʃ u,822,dravlex
+154725,toda1252,WALK,n a ɖ a ɾ ɾ ə,822,dravlex
+154726,toda1252,WALK,n a ɖ a n d ə,822,dravlex
+154727,tulu1258,WALK,n a ɖ a p a ɾ a,822,dravlex
+154728,ravu1237,WALK,n a ɖ a,822,dravlex
+154729,nort2699,WALK,n a ɖ u s,822,dravlex
+154730,kuru1302,WALK,eː kʰ n a,824,dravlex
+154731,saur1249,WALK,h eː k p o,826,dravlex
+154732,nort2702,WALK,t a k a,825,dravlex
+154733,brah1256,WALK,tʃ e ɾ ɾ i n g,823,dravlex
+154734,brah1256,WARM,b aː s u n,829,dravlex
+154735,nucl1305,WARM,b e tʃː a g e,827,dravlex
+154736,koda1255,WARM,b e kː e,827,dravlex
+154737,nort2699,WARM,ʋ e kː a,827,dravlex
+154738,koya1251,WARM,ʋ eː ɖ,827,dravlex
+154739,pott1240,WARM,ʋ e ʈ a l,827,dravlex
+154740,tami1289,WARM,ʋ e d ə ʋ e d ə pː ə,834,dravlex
+154741,telu1262,WARM,ʋ e tʃː a,827,dravlex
+154742,tulu1258,WARM,b e tʃː a,827,dravlex
+154743,ravu1237,WARM,b e kː i,827,dravlex
+154744,mala1464,WARM,u ʂ ɳ a,831,dravlex
+154745,bett1235,WARM,s uː ɖ ə,828,dravlex
+154746,tami1289,WARM,s uː ɖ ə,828,dravlex
+154747,bada1257,WARM,u pː e kː e,827,dravlex
+154748,bada1257,WARM,u pː e,827,dravlex
+154749,toda1252,WARM,k o r t i l i j e,835,dravlex
+154750,mala1464,WARM,tʃ e ɾ ə tʃ uː ɖ ə,837,dravlex
+154751,saur1249,WARM,k u ɖ n i,833,dravlex
+154752,nort2702,WARM,k aː s t a,832,dravlex
+154753,kuru1302,WARM,u d u m,830,dravlex
+154754,kuru1302,WARM,oː ɾ tʃ k a,836,dravlex
+154755,tami1289,WATER,t a ɳ ɳ i,843,dravlex
+154756,mala1464,WATER,ʋ e lː a m,841,dravlex
+154757,mala1464,WATER,j a l a m,844,dravlex
+154758,kuru1302,WATER,a mː,839,dravlex
+154759,saur1249,WATER,h a m d u,842,dravlex
+154760,bada1257,WATER,n iː ɾ ə,838,dravlex
+154761,bett1235,WATER,n iː ɾ ə,838,dravlex
+154762,brah1256,WATER,d iː r,838,dravlex
+154763,nucl1305,WATER,n iː ɾ u,838,dravlex
+154764,koda1255,WATER,n iː ɾ ə,838,dravlex
+154765,nort2699,WATER,iː ɾ,838,dravlex
+154766,kota1263,WATER,n iː ɾ,838,dravlex
+154767,koya1251,WATER,eː ɾ u,838,dravlex
+154768,pott1240,WATER,n iː r,838,dravlex
+154769,duru1236,WATER,n iː r,838,dravlex
+154770,tami1289,WATER,n iː ɾ ə,838,dravlex
+154771,telu1262,WATER,n iː ɾ u,838,dravlex
+154772,telu1262,WATER,n iː ɭː u,838,dravlex
+154773,toda1252,WATER,n iː ɾ,838,dravlex
+154774,tulu1258,WATER,n iː ɾ ə,838,dravlex
+154775,ravu1237,WATER,n iː ɾ u,838,dravlex
+154776,kuvi1243,WATER,e j u,840,dravlex
+154777,nort2702,WATER,j e ɾ,838,dravlex
+154778,bada1257,WE,n a n g a,845,dravlex
+154779,nucl1305,WE,n aː ʋ u,849,dravlex
+154780,koda1255,WE,n a n g a,845,dravlex
+154781,koya1251,WE,m a n aː ɖ u,846,dravlex
+154782,kuru1302,WE,n aː m,846,dravlex
+154783,mala1464,WE,n aː m,846,dravlex
+154784,saur1249,WE,n aː m u,846,dravlex
+154785,tami1289,WE,n aː m,846,dravlex
+154786,telu1262,WE,m a n a m u,846,dravlex
+154787,ravu1237,WE,n a n g a,845,dravlex
+154788,bett1235,WE,n a ɳ g ə,845,dravlex
+154789,bett1235,WE,j a ɳ g ə,845,dravlex
+154790,nort2702,WE,m a mː o ʈ,847,dravlex
+154791,nort2699,WE,a m d ə,848,dravlex
+154792,kota1263,WE,a mː e,846,dravlex
+154793,koya1251,WE,m a mː a,847,dravlex
+154794,kuvi1243,WE,m a m b u,847,dravlex
+154795,mala1464,WE,n a mː a l,846,dravlex
+154796,pott1240,WE,aː m,846,dravlex
+154797,duru1236,WE,aː m,846,dravlex
+154798,tami1289,WE,n aː n g a,845,dravlex
+154799,telu1262,WE,m eː m u,847,dravlex
+154800,toda1252,WE,oː m,850,dravlex
+154801,tulu1258,WE,j a n k u l u,845,dravlex
+154802,bada1257,WHAT,eː n ə,851,dravlex
+154803,bett1235,WHAT,a j i n d i,852,dravlex
+154804,brah1256,WHAT,a n t ə,852,dravlex
+154805,nort2702,WHAT,b a ʈː a l,853,dravlex
+154806,nucl1305,WHAT,j eː n u,851,dravlex
+154807,koda1255,WHAT,j e n t ə,852,dravlex
+154808,nort2699,WHAT,e m,855,dravlex
+154809,kota1263,WHAT,e t aː n ə,851,dravlex
+154810,koya1251,WHAT,b aː t a,853,dravlex
+154811,kuru1302,WHAT,j eː n d r a,854,dravlex
+154812,kuvi1243,WHAT,e n a,851,dravlex
+154813,mala1464,WHAT,e n d ə,852,dravlex
+154814,saur1249,WHAT,i n d i ɾ d u,856,dravlex
+154815,saur1249,WHAT,i n d ɾ aː n,854,dravlex
+154816,pott1240,WHAT,e nː aː ʈ,851,dravlex
+154817,duru1236,WHAT,n aː t o,851,dravlex
+154818,tami1289,WHAT,e nː e,851,dravlex
+154819,telu1262,WHAT,eː m i,855,dravlex
+154820,telu1262,WHAT,eː ɳ ʈ i,852,dravlex
+154821,telu1262,WHAT,eː m i ʈ i,855,dravlex
+154822,toda1252,WHAT,i nː o,851,dravlex
+154823,tulu1258,WHAT,e n tʃ i n a,852,dravlex
+154824,ravu1237,WHAT,e n t a i,852,dravlex
+154825,bada1257,WHITE,ʋ e ɭː e,857,dravlex
+154826,bett1235,WHITE,b ə ɭː u,857,dravlex
+154827,nucl1305,WHITE,b i ɭ i,857,dravlex
+154828,koda1255,WHITE,b o l t a d ə,859,dravlex
+154829,kota1263,WHITE,ʋ e lː ə,857,dravlex
+154830,mala1464,WHITE,ʋ e ɭ u pː ə,857,dravlex
+154831,duru1236,WHITE,v i l,857,dravlex
+154832,tami1289,WHITE,v e ɭː ə,857,dravlex
+154833,telu1262,WHITE,v e lː a,857,dravlex
+154834,toda1252,WHITE,p e l t i,859,dravlex
+154835,tulu1258,WHITE,b o l d u,858,dravlex
+154836,ravu1237,WHITE,b o l t a j i,859,dravlex
+154837,nort2702,WHITE,t e lː a g,860,dravlex
+154838,nort2699,WHITE,t e lː u ɖ i,860,dravlex
+154839,koya1251,WHITE,t e l u p,860,dravlex
+154840,telu1262,WHITE,t e l u p u,860,dravlex
+154841,kuru1302,WHITE,p a ɳ ɖ ɾ u,858,dravlex
+154842,kuvi1243,WHITE,p a n d i,858,dravlex
+154843,brah1256,WHITE,p iː u n,858,dravlex
+154844,saur1249,WHITE,s a d aː,861,dravlex
+154845,saur1249,WHITE,dʒ i n p ɾ o,863,dravlex
+154846,kuvi1243,WHITE,d u m d a,862,dravlex
+154847,kuvi1243,WHITE,k u m n ɖ i,864,dravlex
+154848,bett1235,WHO,d aː ɾ ə,865,dravlex
+154849,brah1256,WHO,d eː ɾ,865,dravlex
+154850,nort2702,WHO,b o ɾ,869,dravlex
+154851,nucl1305,WHO,j aː ɾ u,865,dravlex
+154852,koda1255,WHO,d aː ɾ ə,865,dravlex
+154853,kota1263,WHO,d aː ɾ ə,865,dravlex
+154854,kuru1302,WHO,n e,867,dravlex
+154855,mala1464,WHO,aː ɾ ə,865,dravlex
+154856,saur1249,WHO,n eː d u,867,dravlex
+154857,duru1236,WHO,e d,866,dravlex
+154858,tami1289,WHO,j a a r ə,865,dravlex
+154859,telu1262,WHO,e v a r u,870,dravlex
+154860,toda1252,WHO,o ɾ i,865,dravlex
+154861,tulu1258,WHO,j eː ɾ u,865,dravlex
+154862,ravu1237,WHO,j aː ɾ u,865,dravlex
+154863,bada1257,WHO,t aː ɾ a,865,dravlex
+154864,koya1251,WHO,b eː n o n ɖ u,867,dravlex
+154865,kuvi1243,WHO,d a a t,868,dravlex
+154866,bett1235,WOMAN,p ə ɳ a kː ə n,872,dravlex
+154867,nucl1305,WOMAN,h e n g a s u,878,dravlex
+154868,koda1255,WOMAN,p o nː aː ɭ ə,872,dravlex
+154869,kota1263,WOMAN,p e m a g u,874,dravlex
+154870,mala1464,WOMAN,p e ɳ ɳ ə,872,dravlex
+154871,tami1289,WOMAN,p e ɳ,872,dravlex
+154872,tami1289,WOMAN,p o ɳ ɳ ə,872,dravlex
+154873,tulu1258,WOMAN,p o n dʒ a,872,dravlex
+154874,nucl1305,WOMAN,s t r iː,881,dravlex
+154875,mala1464,WOMAN,s t ɾ iː,881,dravlex
+154876,telu1262,WOMAN,s t ɾ iː,881,dravlex
+154877,telu1262,WOMAN,aː ɖ a d i,884,dravlex
+154878,toda1252,WOMAN,t u s m oː g ə,874,dravlex
+154879,koya1251,WOMAN,n aː t a ʋ aː d,875,dravlex
+154880,koya1251,WOMAN,p iː k iː ɖ,882,dravlex
+154881,telu1262,WOMAN,m a h i ɭ a,886,dravlex
+154882,bada1257,WOMAN,e mː aː t i,871,dravlex
+154883,ravu1237,WOMAN,p a n i tʃ i,879,dravlex
+154884,brah1256,WOMAN,n j a a ɽ i,873,dravlex
+154885,saur1249,WOMAN,t e l d u,880,dravlex
+154886,kuru1302,WOMAN,m u kː a,874,dravlex
+154887,kuru1302,WOMAN,aː l i,876,dravlex
+154888,nort2699,WOMAN,b aː j i,872,dravlex
+154889,nort2702,WOMAN,m u ɾ t a d,877,dravlex
+154890,kuvi1243,WOMAN,ɖ o l i,876,dravlex
+154891,kuvi1243,WOMAN,aː n ʋ a n l i,883,dravlex
+154892,kuvi1243,WOMAN,k o d o g i + p a d a,885,dravlex
+154893,bada1257,YELLOW,m a n dʒ e,887,dravlex
+154894,bett1235,YELLOW,m a n dʒ ə l aː n g i,887,dravlex
+154895,koda1255,YELLOW,m a n dʒ a,887,dravlex
+154896,kota1263,YELLOW,m a n dʒ ə,887,dravlex
+154897,mala1464,YELLOW,m a ɲ a,887,dravlex
+154898,tami1289,YELLOW,m a n dʒ a ɭ,887,dravlex
+154899,tulu1258,YELLOW,m a n dʒ a l u,887,dravlex
+154900,ravu1237,YELLOW,m a n dʒ e,887,dravlex
+154901,nucl1305,YELLOW,h a l a d i,894,dravlex
+154902,koya1251,YELLOW,p a s a p,889,dravlex
+154903,telu1262,YELLOW,p a s u p u,889,dravlex
+154904,toda1252,YELLOW,a ɾ dʒ i n,895,dravlex
+154905,kuru1302,YELLOW,b aː l k a,890,dravlex
+154906,saur1249,YELLOW,b a l k e,890,dravlex
+154907,kuvi1243,YELLOW,h i n g e ɾ i,891,dravlex
+154908,brah1256,YELLOW,p uː ʃ k u n,888,dravlex
+154909,kuvi1243,YELLOW,t o g o ɾ i,896,dravlex
+154910,nort2702,YELLOW,p i v aː dʱ,893,dravlex
+154911,nort2702,YELLOW,k a m p a l,897,dravlex
+154912,nort2699,YELLOW,p i j u d a,892,dravlex

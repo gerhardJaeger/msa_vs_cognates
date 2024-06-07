@@ -1,0 +1,3501 @@
+id,doculect,concept,forms,lexstatid,db
+279380,megl1237,I,j o,113,saenkoromance
+279381,istr1245,I,j o,113,saenkoromance
+279382,arom1237,I,j o,113,saenkoromance
+279383,roma1327,I,j e w,114,saenkoromance
+279384,friu1240,I,j o,113,saenkoromance
+279385,piem1238,I,m i,115,saenkoromance
+279386,piem1238,I,m i,115,saenkoromance
+279387,piem1238,I,m i,115,saenkoromance
+279388,piem1238,I,m iː,115,saenkoromance
+279389,roma1328,I,m e,115,saenkoromance
+279390,emil1241,I,m i,115,saenkoromance
+279391,emil1241,I,m ˈɛ,115,saenkoromance
+279392,emil1241,I,m e,115,saenkoromance
+279393,ligu1248,I,m i,115,saenkoromance
+279394,ligu1248,I,m i,115,saenkoromance
+279395,vene1258,I,m i,115,saenkoromance
+279396,vene1258,I,m i,115,saenkoromance
+279397,vene1258,I,m i,115,saenkoromance
+279398,ital1282,I,ˈi o,116,saenkoromance
+279399,ital1282,I,ˈi o,116,saenkoromance
+279400,neap1235,I,ˈi j ə,113,saenkoromance
+279401,camp1261,I,d ˈɛ w,114,saenkoromance
+279402,sici1248,I,j ˈɔ,113,saenkoromance
+279403,sici1248,I,j u,113,saenkoromance
+279404,sici1248,I,j u,113,saenkoromance
+279405,stan1289,I,ʒ ˈɔ,117,saenkoromance
+279406,stan1289,I,j ˈɔ,113,saenkoromance
+279407,stan1289,I,ʒ ˈɔ,117,saenkoromance
+279408,stan1289,I,j ˈɔ,113,saenkoromance
+279409,stan1289,I,j ˈɔ,113,saenkoromance
+279410,stan1289,I,j ˈɔ,113,saenkoromance
+279411,megl1237,I,m i n i,115,saenkoromance
+279412,istr1245,I,m ˈi r e,115,saenkoromance
+279413,arom1237,I,m ˈi n e,115,saenkoromance
+279414,roma1327,I,m ˈi n e,115,saenkoromance
+279415,friu1240,I,m e,115,saenkoromance
+279416,ital1282,I,m e,115,saenkoromance
+279417,ital1282,I,m e,115,saenkoromance
+279418,neap1235,I,m e,115,saenkoromance
+279419,camp1261,I,m ˈɛ j,115,saenkoromance
+279420,sici1248,I,m i,115,saenkoromance
+279421,sici1248,I,m i,115,saenkoromance
+279422,sici1248,I,m i,115,saenkoromance
+279423,stan1289,I,m ə,115,saenkoromance
+279424,stan1289,I,m e,115,saenkoromance
+279425,stan1289,I,m ˈɛ,115,saenkoromance
+279426,stan1289,I,m e,115,saenkoromance
+279427,stan1289,I,m e,115,saenkoromance
+279428,stan1289,I,m e,115,saenkoromance
+279429,megl1237,ALL,t o t,1,saenkoromance
+279430,istr1245,ALL,t o t,1,saenkoromance
+279431,arom1237,ALL,t ˈu t + u,1,saenkoromance
+279432,roma1327,ALL,t o t,1,saenkoromance
+279433,friu1240,ALL,d u t,1,saenkoromance
+279434,piem1238,ALL,t y t,1,saenkoromance
+279435,piem1238,ALL,t y t,1,saenkoromance
+279436,piem1238,ALL,t y j t,1,saenkoromance
+279437,piem1238,ALL,t y tʃ,1,saenkoromance
+279438,roma1328,ALL,t o t,1,saenkoromance
+279439,emil1241,ALL,t u t,1,saenkoromance
+279440,emil1241,ALL,t u t,1,saenkoromance
+279441,emil1241,ALL,t o t,1,saenkoromance
+279442,ligu1248,ALL,t ˈy tː + u,1,saenkoromance
+279443,ligu1248,ALL,t ˈy tː + u,1,saenkoromance
+279444,vene1258,ALL,t ˈu t + o,1,saenkoromance
+279445,vene1258,ALL,t u t,1,saenkoromance
+279446,vene1258,ALL,t ˈu t + o,1,saenkoromance
+279447,ital1282,ALL,t ˈu tː + o,1,saenkoromance
+279448,ital1282,ALL,t ˈu tː + o,1,saenkoromance
+279449,neap1235,ALL,t ˈu tː + ə,1,saenkoromance
+279450,camp1261,ALL,t ˈo tː + u,1,saenkoromance
+279451,sici1248,ALL,t ˈu tː + u,1,saenkoromance
+279452,sici1248,ALL,t ˈu tː + u,1,saenkoromance
+279453,sici1248,ALL,t ˈu tː + u,1,saenkoromance
+279454,stan1289,ALL,t o t,1,saenkoromance
+279455,stan1289,ALL,t o t,1,saenkoromance
+279456,stan1289,ALL,t o t,1,saenkoromance
+279457,stan1289,ALL,t o t,1,saenkoromance
+279458,stan1289,ALL,t o t,1,saenkoromance
+279459,stan1289,ALL,t o t,1,saenkoromance
+279460,megl1237,ASH,tʃ ə n ˈu ʃ + ə,2,saenkoromance
+279461,istr1245,ASH,tʃ e r ˈu ʃ + e,2,saenkoromance
+279462,arom1237,ASH,tʃ i n ˈu ʃ + e,2,saenkoromance
+279463,roma1327,ASH,tʃ e n ˈu ʃ + ə,2,saenkoromance
+279464,friu1240,ASH,tʃ i n ˈi z + e,2,saenkoromance
+279465,piem1238,ASH,s ˈə n ˈɛ r,2,saenkoromance
+279466,piem1238,ASH,s ˈə n ˈɛ r,2,saenkoromance
+279467,piem1238,ASH,s ˈə n ˈɛ r,2,saenkoromance
+279468,piem1238,ASH,s ˈœ ŋ d r + i,3,saenkoromance
+279469,roma1328,ASH,ts ˈɛ n d r + a,3,saenkoromance
+279470,emil1241,ASH,ts ˈɛ n d a r,3,saenkoromance
+279471,emil1241,ASH,s ˈɛ n d r + a,3,saenkoromance
+279472,emil1241,ASH,s ˈɛ n d r + a,3,saenkoromance
+279473,ligu1248,ASH,s ˈe ŋ j + e,2,saenkoromance
+279474,ligu1248,ASH,s r ˈe nː + e,5,saenkoromance
+279475,vene1258,ASH,s ˈɛ n e r + i,2,saenkoromance
+279476,vene1258,ASH,θ ˈe ŋ d r + e,3,saenkoromance
+279477,vene1258,ASH,θ ˈe ŋ d r + o,3,saenkoromance
+279478,ital1282,ASH,tʃ ˈe n e r + e,2,saenkoromance
+279479,ital1282,ASH,tʃ ˈe n e r + e,2,saenkoromance
+279480,neap1235,ASH,ʃ ˈɛ nː ə r + ə,2,saenkoromance
+279481,camp1261,ASH,tʃ i n ˈi ʒ + u,2,saenkoromance
+279482,sici1248,ASH,tʃ ˈi nː i ɾ + i,2,saenkoromance
+279483,sici1248,ASH,tʃ ˈi nː i ɾ + i,2,saenkoromance
+279484,sici1248,ASH,tʃ ˈi nː i ɾ + i,2,saenkoromance
+279485,stan1289,ASH,s ˈɛ n d ɾ + ə s,3,saenkoromance
+279486,stan1289,ASH,s ˈɛ n d ɾ + e s,3,saenkoromance
+279487,stan1289,ASH,s ˈɛ n d ɾ + ə s,3,saenkoromance
+279488,stan1289,ASH,s ˈɛ n d ɾ + e s,3,saenkoromance
+279489,stan1289,ASH,s ˈɛ n d ɾ + e s,3,saenkoromance
+279490,stan1289,ASH,s ˈɛ n d ɾ + a,3,saenkoromance
+279491,megl1237,ASH,s k r u m,4,saenkoromance
+279492,arom1237,ASH,s k r ˈu m + u,4,saenkoromance
+279493,istr1245,BARK,k ˈo r + a,6,saenkoromance
+279494,arom1237,BARK,k ˈo v a ʒ + e,6,saenkoromance
+279495,roma1327,BARK,s k ˈo v a r ts + ə,6,saenkoromance
+279496,friu1240,BARK,s k ˈu s + e,6,saenkoromance
+279497,piem1238,BARK,p l ˈœ j + a,7,saenkoromance
+279498,piem1238,BARK,s k ˈɔ r s + a,6,saenkoromance
+279499,piem1238,BARK,s k ˈɔ r s + a,6,saenkoromance
+279500,piem1238,BARK,s k ˈɔ r s + a,6,saenkoromance
+279501,roma1328,BARK,s k ˈɔ a v r ts + a,6,saenkoromance
+279502,emil1241,BARK,k u r t ˈɛ tʃ + a,6,saenkoromance
+279503,emil1241,BARK,k u r t ˈɛ s + a,6,saenkoromance
+279504,emil1241,BARK,s k ˈɔː r s + a,6,saenkoromance
+279505,ligu1248,BARK,s k ˈɔ r s + a,6,saenkoromance
+279506,ligu1248,BARK,s k ˈɔː r s + a,6,saenkoromance
+279507,vene1258,BARK,s k ˈɔ r s + a,6,saenkoromance
+279508,vene1258,BARK,s k ˈɔ r θ + a,6,saenkoromance
+279509,vene1258,BARK,s k ˈɔ r θ + a,6,saenkoromance
+279510,ital1282,BARK,k o r t + ˈe tːʃ + a,6,saenkoromance
+279511,ital1282,BARK,b ˈu tːʃ + a,6,saenkoromance
+279512,neap1235,BARK,ʃ k ˈɔ r ts + ə,6,saenkoromance
+279513,camp1261,BARK,s k r ˈo ʒ + u,6,saenkoromance
+279514,sici1248,BARK,ʃ k ˈw ˈɔ ɾ tʃ + a,6,saenkoromance
+279515,sici1248,BARK,s k ˈɔ ɾ tʃ + a,6,saenkoromance
+279516,sici1248,BARK,ʃ k ˈɔ tːʃ + a,6,saenkoromance
+279517,stan1289,BARK,ə s k ˈɔ ɾ s + ə,6,saenkoromance
+279518,stan1289,BARK,a s k ˈɔ ɾ s + ˈɛ,6,saenkoromance
+279519,stan1289,BARK,ə s k ˈɔ ɾ s + ə,6,saenkoromance
+279520,stan1289,BARK,k r ˈɔ s t + a,8,saenkoromance
+279521,stan1289,BARK,a s k ˈɔ ɾ s + a,6,saenkoromance
+279522,stan1289,BARK,k ˈɔ ɾ f + a,6,saenkoromance
+279523,megl1237,BELLY,f ˈo̯a l + i,13,saenkoromance
+279524,istr1245,BELLY,t ə r b ˈu x,11,saenkoromance
+279525,arom1237,BELLY,p ˈɨ n t i k + u,9,saenkoromance
+279526,roma1327,BELLY,b ˈu r t + ə,10,saenkoromance
+279527,friu1240,BELLY,p ˈa n ts + e,10,saenkoromance
+279528,piem1238,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279529,piem1238,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279530,piem1238,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279531,piem1238,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279532,roma1328,BELLY,p ˈã n ts + a,10,saenkoromance
+279533,emil1241,BELLY,p ˈa n ts + a,10,saenkoromance
+279534,emil1241,BELLY,p ˈa n s + a,10,saenkoromance
+279535,emil1241,BELLY,p ˈaː n s + a,10,saenkoromance
+279536,ligu1248,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279537,ligu1248,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279538,vene1258,BELLY,p ˈa ŋ s + a,10,saenkoromance
+279539,vene1258,BELLY,p ˈa ŋ θ + a,10,saenkoromance
+279540,vene1258,BELLY,p ˈa ŋ θ + a,10,saenkoromance
+279541,ital1282,BELLY,v ˈɛ n t r + e,12,saenkoromance
+279542,ital1282,BELLY,p ˈa n tʃ + a,10,saenkoromance
+279543,neap1235,BELLY,p ˈa n ts + ə,10,saenkoromance
+279544,camp1261,BELLY,b r ˈɛ n t + i,10,saenkoromance
+279545,sici1248,BELLY,p ˈa n ts + a,10,saenkoromance
+279546,sici1248,BELLY,p ˈa n ts + a,10,saenkoromance
+279547,sici1248,BELLY,p ˈa n ts + a,10,saenkoromance
+279548,stan1289,BELLY,p ˈa ɲ ʃ + ə,10,saenkoromance
+279549,stan1289,BELLY,p ˈa ɲ tʃ + ˈɛ,10,saenkoromance
+279550,stan1289,BELLY,p ˈa ɲ ʃ + ə,10,saenkoromance
+279551,stan1289,BELLY,p ˈa ɲ tʃ + a,10,saenkoromance
+279552,stan1289,BELLY,p ˈa ɲ tʃ + a,10,saenkoromance
+279553,stan1289,BELLY,p ˈa ɲ tʃ + a,10,saenkoromance
+279554,megl1237,BIG,m ˈa r + i,14,saenkoromance
+279555,istr1245,BIG,m ˈɒ r + e,14,saenkoromance
+279556,arom1237,BIG,m ˈa r + e,14,saenkoromance
+279557,roma1327,BIG,m ˈa r + e,14,saenkoromance
+279558,friu1240,BIG,ɡ r a n t,15,saenkoromance
+279559,piem1238,BIG,ɡ r a ŋ d,15,saenkoromance
+279560,piem1238,BIG,ɡ r ˈɔ s,16,saenkoromance
+279561,piem1238,BIG,ɡ r a ŋ d,15,saenkoromance
+279562,piem1238,BIG,ɡ r ɔː s,16,saenkoromance
+279563,roma1328,BIG,ɡ r ˈã n d,15,saenkoromance
+279564,emil1241,BIG,ɡ r a n d,15,saenkoromance
+279565,emil1241,BIG,ɡ r ɔː s,16,saenkoromance
+279566,emil1241,BIG,ɡ r aː n d,15,saenkoromance
+279567,ligu1248,BIG,ɡ r ˈɔ sː + u,16,saenkoromance
+279568,ligu1248,BIG,ɡ r ˈɔː sː + u,16,saenkoromance
+279569,vene1258,BIG,ɡ r ˈa ŋ d + o,15,saenkoromance
+279570,vene1258,BIG,ɡ r a ŋ t,15,saenkoromance
+279571,vene1258,BIG,ɡ r a ŋ t,15,saenkoromance
+279572,ital1282,BIG,ɡ r ˈa n d + e,15,saenkoromance
+279573,ital1282,BIG,ɡ r ˈɔ sː + o,16,saenkoromance
+279574,neap1235,BIG,r ˈw o sː + ə,16,saenkoromance
+279575,camp1261,BIG,m ˈa nː + u,14,saenkoromance
+279576,sici1248,BIG,ɾ ˈa nː + i,15,saenkoromance
+279577,sici1248,BIG,ɾ ˈa nː + i,15,saenkoromance
+279578,sici1248,BIG,ɾ ˈa nː + i,15,saenkoromance
+279579,stan1289,BIG,ɡ ɾ a n,15,saenkoromance
+279580,stan1289,BIG,ɡ ɾ a n,15,saenkoromance
+279581,stan1289,BIG,ɡ ɾ ˈɔ s,16,saenkoromance
+279582,stan1289,BIG,ɡ ɾ a n,15,saenkoromance
+279583,stan1289,BIG,ɡ ɾ a n,15,saenkoromance
+279584,stan1289,BIG,ɡ ɾ a n,15,saenkoromance
+279585,megl1237,BIRD,p u ʎ,17,saenkoromance
+279586,istr1245,BIRD,p u ʎ,17,saenkoromance
+279587,arom1237,BIRD,p ˈu ʎ + u,17,saenkoromance
+279588,roma1327,BIRD,p ˈa s ə r + e,21,saenkoromance
+279589,friu1240,BIRD,u tʃ ˈɛ l,19,saenkoromance
+279590,piem1238,BIRD,u z ˈɛ l,19,saenkoromance
+279591,piem1238,BIRD,u z ˈɛ l,19,saenkoromance
+279592,piem1238,BIRD,u z ˈɛ l,19,saenkoromance
+279593,piem1238,BIRD,y z ˈɛ l,19,saenkoromance
+279594,roma1328,BIRD,u z ˈɛ a v l,19,saenkoromance
+279595,emil1241,BIRD,u z ˈɛ l,19,saenkoromance
+279596,emil1241,BIRD,u z ˈɛː l,19,saenkoromance
+279597,emil1241,BIRD,u z ˈɛ l,19,saenkoromance
+279598,ligu1248,BIRD,ˈɔ w ʒ ˈe lː + u,19,saenkoromance
+279599,ligu1248,BIRD,ɔː w ʒ + ˈeː,22,saenkoromance
+279600,vene1258,BIRD,o z ˈɛ + o,19,saenkoromance
+279601,vene1258,BIRD,u z ˈɛ l,19,saenkoromance
+279602,vene1258,BIRD,o z ˈɛ l,19,saenkoromance
+279603,ital1282,BIRD,u tːʃ ˈɛ lː + o,19,saenkoromance
+279604,ital1282,BIRD,u tːʃ ˈɛ lː + o,19,saenkoromance
+279605,neap1235,BIRD,a w ʃ ˈj e lː + ə,20,saenkoromance
+279606,camp1261,BIRD,p i lː ˈɔ n + i,18,saenkoromance
+279607,sici1248,BIRD,a tʃ ˈj ˈɛ ɖː + u,19,saenkoromance
+279608,sici1248,BIRD,a tʃ ˈɛ ɖː + u,19,saenkoromance
+279609,sici1248,BIRD,a w tʃ ˈj ˈɛ ɖː + u,19,saenkoromance
+279610,stan1289,BIRD,u s ˈe ʎ,19,saenkoromance
+279611,stan1289,BIRD,m i ʃ + ˈo,23,saenkoromance
+279612,stan1289,BIRD,p ə ɾ ð ˈa lˠ,20,saenkoromance
+279613,stan1289,BIRD,p a ɾ ð ˈa lˠ,20,saenkoromance
+279614,stan1289,BIRD,p a ɾ ð ˈa lˠ,20,saenkoromance
+279615,stan1289,BIRD,p a ɾ ð ˈa lˠ,20,saenkoromance
+279616,megl1237,BITE,m ˈu tʃ k + u,24,saenkoromance
+279617,istr1245,BITE,m u tʃ k + ˈɒ,24,saenkoromance
+279618,arom1237,BITE,m ˈɨ ʃ k + u,24,saenkoromance
+279619,roma1327,BITE,a + m u ʃ k + ˈa,24,saenkoromance
+279620,friu1240,BITE,m ˈw a r d + i,24,saenkoromance
+279621,piem1238,BITE,m ˈɔ r d + i,24,saenkoromance
+279622,piem1238,BITE,m ˈɔ r d + e,24,saenkoromance
+279623,piem1238,BITE,m ˈɔ r d + e,24,saenkoromance
+279624,piem1238,BITE,m ˈɔː r d + i,24,saenkoromance
+279625,roma1328,BITE,m u r s + ˈe a,24,saenkoromance
+279626,emil1241,BITE,z ɡ a ɲ + ˈa r,25,saenkoromance
+279627,emil1241,BITE,m u z ɡ + ˈɛː r,24,saenkoromance
+279628,emil1241,BITE,m u z ɡ + ˈɛː r,24,saenkoromance
+279629,ligu1248,BITE,m ˈɔ r d + e,24,saenkoromance
+279630,ligu1248,BITE,m ˈɔː r d + e,24,saenkoromance
+279631,vene1258,BITE,m o r s e ɡ + ˈa + r,24,saenkoromance
+279632,vene1258,BITE,m ˈɔ r ð + e + r,24,saenkoromance
+279633,vene1258,BITE,m ˈɔ r ð + a + r,24,saenkoromance
+279634,ital1282,BITE,m ˈɔ r d + e + r e,24,saenkoromance
+279635,ital1282,BITE,m o r s + i k + ˈa + r e,24,saenkoromance
+279636,neap1235,BITE,m u tːs ə k + ˈa,24,saenkoromance
+279637,camp1261,BITE,m u sː j + ˈa j,24,saenkoromance
+279638,sici1248,BITE,m u tːs i k + ˈa + ɾ i,24,saenkoromance
+279639,sici1248,BITE,m u tːs i k + ˈa + ɾ i,24,saenkoromance
+279640,sici1248,BITE,m u tːs i k + ˈa + ɾ i,24,saenkoromance
+279641,stan1289,BITE,m u s ə ɣ + ˈa,24,saenkoromance
+279642,stan1289,BITE,m o s e ɣ + ˈa,24,saenkoromance
+279643,stan1289,BITE,m u s ə ɣ + ˈa,24,saenkoromance
+279644,stan1289,BITE,m o s e ɣ + ˈa + ɾ,24,saenkoromance
+279645,stan1289,BITE,m o s e ɣ + ˈa + ɾ,24,saenkoromance
+279646,stan1289,BITE,m o s e ɣ + ˈa + ɾ,24,saenkoromance
+279647,megl1237,BLACK,n ˈe ɡ r + u,27,saenkoromance
+279648,istr1245,BLACK,n ˈe ɡ r + u,27,saenkoromance
+279649,arom1237,BLACK,l ˈa j + u,26,saenkoromance
+279650,roma1327,BLACK,n ˈe ɡ r + u,27,saenkoromance
+279651,friu1240,BLACK,n ˈe r + i,27,saenkoromance
+279652,piem1238,BLACK,n ˈɛ j r,27,saenkoromance
+279653,piem1238,BLACK,n ˈɛ j r,27,saenkoromance
+279654,piem1238,BLACK,n ˈɛ j r,27,saenkoromance
+279655,piem1238,BLACK,n ˈeː r + u,27,saenkoromance
+279656,roma1328,BLACK,n ˈi ɡ a r,27,saenkoromance
+279657,emil1241,BLACK,n ˈɛ ɡ a r,27,saenkoromance
+279658,emil1241,BLACK,n ˈe ɡ e r,27,saenkoromance
+279659,emil1241,BLACK,n ˈiː ɡ e r,27,saenkoromance
+279660,ligu1248,BLACK,n ˈe j ɡ r + u,27,saenkoromance
+279661,ligu1248,BLACK,n ˈɛː j ɡ r + u,27,saenkoromance
+279662,vene1258,BLACK,n ˈe r + o,27,saenkoromance
+279663,vene1258,BLACK,n ˈe ɡ r + o,27,saenkoromance
+279664,vene1258,BLACK,n ˈe r + o,27,saenkoromance
+279665,ital1282,BLACK,n ˈe r + o,27,saenkoromance
+279666,ital1282,BLACK,n ˈe r + o,27,saenkoromance
+279667,neap1235,BLACK,n ˈi r + ə,27,saenkoromance
+279668,camp1261,BLACK,n ˈj e dː + u,27,saenkoromance
+279669,sici1248,BLACK,n ˈi v u ɾ + u,27,saenkoromance
+279670,sici1248,BLACK,n ˈi u ɾ + u,27,saenkoromance
+279671,sici1248,BLACK,n ˈi v i ɾ + u,27,saenkoromance
+279672,stan1289,BLACK,n ˈɛ ɣ ɾ + ə,27,saenkoromance
+279673,stan1289,BLACK,n ˈe ɣ ɾ + e,27,saenkoromance
+279674,stan1289,BLACK,n ˈɛ ɣ ɾ + ə,27,saenkoromance
+279675,stan1289,BLACK,n ˈe ɣ ɾ + e,27,saenkoromance
+279676,stan1289,BLACK,n ˈe ɣ ɾ + e,27,saenkoromance
+279677,stan1289,BLACK,n ˈe ɣ ɾ + e,27,saenkoromance
+279678,megl1237,BLOOD,s ˈɔ n z + i,28,saenkoromance
+279679,istr1245,BLOOD,s ˈə n z + e,28,saenkoromance
+279680,arom1237,BLOOD,s ˈɨ n dz + e,28,saenkoromance
+279681,roma1327,BLOOD,s ˈɨ n dʒ + e,28,saenkoromance
+279682,friu1240,BLOOD,s a ŋ k,28,saenkoromance
+279683,piem1238,BLOOD,s a ŋ ɡ,28,saenkoromance
+279684,piem1238,BLOOD,s a ŋ ɡ,28,saenkoromance
+279685,piem1238,BLOOD,s a ŋ ɡ,28,saenkoromance
+279686,piem1238,BLOOD,s a ŋ,28,saenkoromance
+279687,roma1328,BLOOD,s ˈã ŋ ɡ v,28,saenkoromance
+279688,emil1241,BLOOD,s a ŋ ɡ,28,saenkoromance
+279689,emil1241,BLOOD,s ˈa ŋ ɡ e v,28,saenkoromance
+279690,emil1241,BLOOD,s ˈaː ŋ ɡ o v,28,saenkoromance
+279691,ligu1248,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279692,ligu1248,BLOOD,s ˈaː ŋ ɡ w + e,28,saenkoromance
+279693,vene1258,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279694,vene1258,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279695,vene1258,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279696,ital1282,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279697,ital1282,BLOOD,s ˈa ŋ ɡ w + e,28,saenkoromance
+279698,neap1235,BLOOD,s ˈa ŋ ɡ + ə,28,saenkoromance
+279699,camp1261,BLOOD,s ˈa ŋ ɡ u n + i,28,saenkoromance
+279700,sici1248,BLOOD,s ˈa ŋ ɡ + u,28,saenkoromance
+279701,sici1248,BLOOD,s ˈa ŋ ɡ + u,28,saenkoromance
+279702,sici1248,BLOOD,s ˈa ŋ k + u,28,saenkoromance
+279703,stan1289,BLOOD,s a ŋ,28,saenkoromance
+279704,stan1289,BLOOD,s a ŋ,28,saenkoromance
+279705,stan1289,BLOOD,s a ŋ k,28,saenkoromance
+279706,stan1289,BLOOD,s a ŋ k,28,saenkoromance
+279707,stan1289,BLOOD,s a ŋ k,28,saenkoromance
+279708,stan1289,BLOOD,s a ŋ k,28,saenkoromance
+279709,megl1237,BONE,w o s,29,saenkoromance
+279710,istr1245,BONE,o s,29,saenkoromance
+279711,arom1237,BONE,ˈo s + u,29,saenkoromance
+279712,roma1327,BONE,o s,29,saenkoromance
+279713,friu1240,BONE,v ˈw ˈɛ s,29,saenkoromance
+279714,piem1238,BONE,ˈɔ s,29,saenkoromance
+279715,piem1238,BONE,ˈɔ s,29,saenkoromance
+279716,piem1238,BONE,ˈɔ s,29,saenkoromance
+279717,piem1238,BONE,ɔː s,29,saenkoromance
+279718,roma1328,BONE,ˈɔ s,29,saenkoromance
+279719,emil1241,BONE,ˈɔ s,29,saenkoromance
+279720,emil1241,BONE,ɔː s,29,saenkoromance
+279721,emil1241,BONE,ɔː s,29,saenkoromance
+279722,ligu1248,BONE,ˈɔ sː + u,29,saenkoromance
+279723,ligu1248,BONE,ˈo sː + u,29,saenkoromance
+279724,vene1258,BONE,ˈɔ s + o,29,saenkoromance
+279725,vene1258,BONE,ˈɔ s,29,saenkoromance
+279726,vene1258,BONE,ˈɔ s,29,saenkoromance
+279727,ital1282,BONE,ˈɔ sː + o,29,saenkoromance
+279728,ital1282,BONE,ˈɔ sː + o,29,saenkoromance
+279729,neap1235,BONE,ˈw o sː + ə,29,saenkoromance
+279730,camp1261,BONE,ˈo sː + u,29,saenkoromance
+279731,sici1248,BONE,ˈw ˈɔ sː + u,29,saenkoromance
+279732,sici1248,BONE,ˈɔ sː + u,29,saenkoromance
+279733,sici1248,BONE,ˈw ˈɔ sː + u,29,saenkoromance
+279734,stan1289,BONE,ˈɔ s,29,saenkoromance
+279735,stan1289,BONE,ˈɔ s,29,saenkoromance
+279736,stan1289,BONE,ˈɔ s,29,saenkoromance
+279737,stan1289,BONE,ˈɔ s,29,saenkoromance
+279738,stan1289,BONE,ˈɔ s,29,saenkoromance
+279739,stan1289,BONE,ˈɔ s,29,saenkoromance
+279740,megl1237,BREAST,tʲ e p t,30,saenkoromance
+279741,istr1245,BREAST,k ʎ e p t,30,saenkoromance
+279742,arom1237,BREAST,tʲ ˈe p t + u,30,saenkoromance
+279743,roma1327,BREAST,p j e p t,31,saenkoromance
+279744,friu1240,BREAST,p ˈɛ t,31,saenkoromance
+279745,piem1238,BREAST,p ˈɛ t,31,saenkoromance
+279746,piem1238,BREAST,p ˈɛ t,31,saenkoromance
+279747,piem1238,BREAST,s t ˈɔ m i,34,saenkoromance
+279748,piem1238,BREAST,s t ˈɔː m i k,34,saenkoromance
+279749,roma1328,BREAST,p ˈɛ a t,31,saenkoromance
+279750,emil1241,BREAST,p ˈɛ t,31,saenkoromance
+279751,emil1241,BREAST,p ˈɛː t,31,saenkoromance
+279752,emil1241,BREAST,s t ˈɔ m e ɡ,34,saenkoromance
+279753,ligu1248,BREAST,k a ʃ ˈe tː + a,32,saenkoromance
+279754,ligu1248,BREAST,p ˈæ t + u,31,saenkoromance
+279755,vene1258,BREAST,p ˈe t + o,31,saenkoromance
+279756,vene1258,BREAST,t ˈe t + e,30,saenkoromance
+279757,vene1258,BREAST,p ˈɛ t,31,saenkoromance
+279758,ital1282,BREAST,p ˈɛ tː + o,31,saenkoromance
+279759,ital1282,BREAST,p ˈɛ tː + o,31,saenkoromance
+279760,neap1235,BREAST,p ˈj e tː + ə,31,saenkoromance
+279761,camp1261,BREAST,p i tː + ˈu r + a,31,saenkoromance
+279762,sici1248,BREAST,p ˈj ˈɛ tː + u,31,saenkoromance
+279763,sici1248,BREAST,p ˈɛ tː + u,31,saenkoromance
+279764,sici1248,BREAST,p ˈj ˈɛ tː + u,31,saenkoromance
+279765,stan1289,BREAST,p i t,31,saenkoromance
+279766,stan1289,BREAST,p i t,31,saenkoromance
+279767,stan1289,BREAST,p i t,31,saenkoromance
+279768,stan1289,BREAST,p i t,31,saenkoromance
+279769,stan1289,BREAST,p i t,31,saenkoromance
+279770,stan1289,BREAST,p i t,31,saenkoromance
+279771,megl1237,BREAST,s i n,33,saenkoromance
+279772,megl1237,BURN (SOMETHING),a r t,35,saenkoromance
+279773,istr1245,BURN (SOMETHING),p a l + ˈi,36,saenkoromance
+279774,arom1237,BURN (SOMETHING),ˈa r d + u,35,saenkoromance
+279775,roma1327,BURN (SOMETHING),a + ˈa r d + e,35,saenkoromance
+279776,friu1240,BURN (SOMETHING),b r u s + ˈaː,36,saenkoromance
+279777,piem1238,BURN (SOMETHING),b r y z + ˈe,36,saenkoromance
+279778,piem1238,BURN (SOMETHING),b r y z + ˈe,36,saenkoromance
+279779,piem1238,BURN (SOMETHING),b r y z + ˈe,36,saenkoromance
+279780,piem1238,BURN (SOMETHING),b r y z + ˈɛ,36,saenkoromance
+279781,roma1328,BURN (SOMETHING),b r u z + ˈe a,36,saenkoromance
+279782,emil1241,BURN (SOMETHING),b r u z + ˈa r,36,saenkoromance
+279783,emil1241,BURN (SOMETHING),b r u z + ˈɛː r,36,saenkoromance
+279784,emil1241,BURN (SOMETHING),b r u z + ˈe r,36,saenkoromance
+279785,ligu1248,BURN (SOMETHING),b r y ʒ + ˈa,36,saenkoromance
+279786,ligu1248,BURN (SOMETHING),b r yː ʒ + ˈæ,36,saenkoromance
+279787,vene1258,BURN (SOMETHING),b r u z + ˈa + r,36,saenkoromance
+279788,vene1258,BURN (SOMETHING),b r u z + ˈa + r,36,saenkoromance
+279789,vene1258,BURN (SOMETHING),b r u z + ˈa + r,36,saenkoromance
+279790,ital1282,BURN (SOMETHING),b r u tʃ + ˈa + r e,36,saenkoromance
+279791,ital1282,BURN (SOMETHING),b r u tʃ + ˈa + r e,36,saenkoromance
+279792,neap1235,BURN (SOMETHING),a + bː r u ʃː + ˈa,36,saenkoromance
+279793,camp1261,BURN (SOMETHING),a + b r u ʒ + ˈa j,36,saenkoromance
+279794,sici1248,BURN (SOMETHING),a + bː r u tʃ + ˈa + ɾ i,36,saenkoromance
+279795,sici1248,BURN (SOMETHING),b r u tʃ + ˈa + ɾ i,36,saenkoromance
+279796,sici1248,BURN (SOMETHING),a + bː r u ʃ + ˈa + ɾ i,36,saenkoromance
+279797,stan1289,BURN (SOMETHING),k ɾ ə m + ˈa,37,saenkoromance
+279798,stan1289,BURN (SOMETHING),k ɾ e m + ˈa,37,saenkoromance
+279799,stan1289,BURN (SOMETHING),k ɾ ə m + ˈa,37,saenkoromance
+279800,stan1289,BURN (SOMETHING),k ɾ e m + ˈa + ɾ,37,saenkoromance
+279801,stan1289,BURN (SOMETHING),k ɾ e m + ˈa + ɾ,37,saenkoromance
+279802,stan1289,BURN (SOMETHING),k ɾ e m + ˈa + ɾ,37,saenkoromance
+279803,megl1237,CLAW OR NAIL,ˈu n ɡ ʎ + ə,38,saenkoromance
+279804,istr1245,CLAW OR NAIL,ˈu ŋ ɡ ʎ + e,38,saenkoromance
+279805,arom1237,CLAW OR NAIL,ˈu n ɡ ʎ + e,38,saenkoromance
+279806,roma1327,CLAW OR NAIL,ˈu ŋ ɡ j + e,38,saenkoromance
+279807,friu1240,CLAW OR NAIL,o ŋ ɡ u l + ˈe,38,saenkoromance
+279808,piem1238,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279809,piem1238,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279810,piem1238,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279811,piem1238,CLAW OR NAIL,ˈoː ŋ dʒ + a,38,saenkoromance
+279812,roma1328,CLAW OR NAIL,ˈo n dʒ + a,38,saenkoromance
+279813,emil1241,CLAW OR NAIL,ˈɔ n dʒ + a,38,saenkoromance
+279814,emil1241,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279815,emil1241,CLAW OR NAIL,ˈo n dʒ + a,38,saenkoromance
+279816,ligu1248,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279817,ligu1248,CLAW OR NAIL,ˈu ŋ dʒ + a,38,saenkoromance
+279818,vene1258,CLAW OR NAIL,ˈo ŋ dʒ + a,38,saenkoromance
+279819,vene1258,CLAW OR NAIL,ˈo ŋ dʒ + a,38,saenkoromance
+279820,vene1258,CLAW OR NAIL,ˈo ŋ dʒ + a,38,saenkoromance
+279821,ital1282,CLAW OR NAIL,ˈu ŋ ɡ j + a,38,saenkoromance
+279822,ital1282,CLAW OR NAIL,ˈu ŋ ɡ j + a,38,saenkoromance
+279823,neap1235,CLAW OR NAIL,ˈo ɲː + ə,38,saenkoromance
+279824,camp1261,CLAW OR NAIL,ˈu ŋ ɡ + a,38,saenkoromance
+279825,sici1248,CLAW OR NAIL,ˈu ɲː + a,38,saenkoromance
+279826,sici1248,CLAW OR NAIL,ˈu ɲː + a,38,saenkoromance
+279827,sici1248,CLAW OR NAIL,ˈu ɲː + a,38,saenkoromance
+279828,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + ə,38,saenkoromance
+279829,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + ˈɛ,38,saenkoromance
+279830,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + ə,38,saenkoromance
+279831,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + a,38,saenkoromance
+279832,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + a,38,saenkoromance
+279833,stan1289,CLAW OR NAIL,ˈu ŋ ɡ lˠ + a,38,saenkoromance
+279834,megl1237,CLOUD,n o r,39,saenkoromance
+279835,istr1245,CLOUD,o b l ˈɒ k,40,saenkoromance
+279836,arom1237,CLOUD,n i ˈo r + u,39,saenkoromance
+279837,roma1327,CLOUD,n o r,39,saenkoromance
+279838,friu1240,CLOUD,n uː l,39,saenkoromance
+279839,piem1238,CLOUD,n ˈi v u l + a,39,saenkoromance
+279840,piem1238,CLOUD,n ˈi v u l + a,39,saenkoromance
+279841,piem1238,CLOUD,n ˈi v u l + a,39,saenkoromance
+279842,piem1238,CLOUD,n ˈiː w l + a,39,saenkoromance
+279843,roma1328,CLOUD,n ˈu v l + a,39,saenkoromance
+279844,emil1241,CLOUD,n ˈu v a l,39,saenkoromance
+279845,emil1241,CLOUD,n ˈu v l + a,39,saenkoromance
+279846,emil1241,CLOUD,n ˈo v l + a,39,saenkoromance
+279847,ligu1248,CLOUD,n ˈy vː u + a,39,saenkoromance
+279848,ligu1248,CLOUD,n ˈiː ɡ ɥ + a,39,saenkoromance
+279849,vene1258,CLOUD,n ˈu v o e v + a,39,saenkoromance
+279850,vene1258,CLOUD,n ˈu v o l + a,39,saenkoromance
+279851,vene1258,CLOUD,n ˈu v o l + a,39,saenkoromance
+279852,ital1282,CLOUD,n ˈu v o l + a,39,saenkoromance
+279853,ital1282,CLOUD,n ˈu v o l + a,39,saenkoromance
+279854,neap1235,CLOUD,n ˈu v ə l + ə,39,saenkoromance
+279855,camp1261,CLOUD,n u j,39,saenkoromance
+279856,sici1248,CLOUD,n ˈu v u l + a,39,saenkoromance
+279857,sici1248,CLOUD,n ˈu v u l + a,39,saenkoromance
+279858,sici1248,CLOUD,n ˈu v u l + a,39,saenkoromance
+279859,stan1289,CLOUD,n ˈu β u lˠ,39,saenkoromance
+279860,stan1289,CLOUD,n ˈu β o lˠ,39,saenkoromance
+279861,stan1289,CLOUD,n i v u lˠ + ˈa t,39,saenkoromance
+279862,stan1289,CLOUD,n ˈu v o lˠ,39,saenkoromance
+279863,stan1289,CLOUD,n ˈu β o lˠ,39,saenkoromance
+279864,stan1289,CLOUD,n ˈu β o lˠ,39,saenkoromance
+279865,megl1237,COLD,r ˈa ts + i,41,saenkoromance
+279866,istr1245,COLD,r ˈɒ tʃ + e,41,saenkoromance
+279867,arom1237,COLD,a r ˈa ts + e,41,saenkoromance
+279868,roma1327,COLD,r ˈe tʃ + e,42,saenkoromance
+279869,friu1240,COLD,f r eː t,42,saenkoromance
+279870,piem1238,COLD,f r ˈɛ j d,42,saenkoromance
+279871,piem1238,COLD,f r ˈɛ j d,42,saenkoromance
+279872,piem1238,COLD,f r ˈɛ j d,42,saenkoromance
+279873,piem1238,COLD,f r œ tʃ,42,saenkoromance
+279874,roma1328,COLD,dʒ a ts + ˈe a,43,saenkoromance
+279875,emil1241,COLD,f r e d,42,saenkoromance
+279876,emil1241,COLD,f r ˈɛ d,42,saenkoromance
+279877,emil1241,COLD,f r ˈɛ d,42,saenkoromance
+279878,ligu1248,COLD,f r ˈe j d + u,42,saenkoromance
+279879,ligu1248,COLD,f r ˈe dʒː + u,42,saenkoromance
+279880,vene1258,COLD,f r ˈe d + o,42,saenkoromance
+279881,vene1258,COLD,f r e t,42,saenkoromance
+279882,vene1258,COLD,f r e t,42,saenkoromance
+279883,ital1282,COLD,f r ˈe dː + o,42,saenkoromance
+279884,ital1282,COLD,d j a tːʃ + o,44,saenkoromance
+279885,neap1235,COLD,f r ˈi dː + ə,42,saenkoromance
+279886,camp1261,COLD,f r ˈi ð + u,42,saenkoromance
+279887,sici1248,COLD,f ɾ ˈi dː + u,42,saenkoromance
+279888,sici1248,COLD,f ɾ ˈi dː + u,42,saenkoromance
+279889,sici1248,COLD,f ɾ ˈi dː + u,42,saenkoromance
+279890,stan1289,COLD,f ɾ ˈɛ t,42,saenkoromance
+279891,stan1289,COLD,f ɾ e t,42,saenkoromance
+279892,stan1289,COLD,f ɾ ˈɛ t,42,saenkoromance
+279893,stan1289,COLD,f ɾ e t,42,saenkoromance
+279894,stan1289,COLD,f ɾ e t,42,saenkoromance
+279895,stan1289,COLD,f ɾ e t,42,saenkoromance
+279896,megl1237,COME,v i n,45,saenkoromance
+279897,istr1245,COME,v e r + ˈi,45,saenkoromance
+279898,arom1237,COME,ʑ ˈi n + u,45,saenkoromance
+279899,roma1327,COME,a + v e n + ˈi,45,saenkoromance
+279900,friu1240,COME,v i ɲ + ˈiː,45,saenkoromance
+279901,piem1238,COME,v n + i,46,saenkoromance
+279902,piem1238,COME,v n + i,46,saenkoromance
+279903,piem1238,COME,v n + i,46,saenkoromance
+279904,piem1238,COME,ɲ + iː,46,saenkoromance
+279905,roma1328,COME,v n + i,46,saenkoromance
+279906,emil1241,COME,ɲ + i r,46,saenkoromance
+279907,emil1241,COME,ɲ + iː r,46,saenkoromance
+279908,emil1241,COME,ɲ + iː r,46,saenkoromance
+279909,ligu1248,COME,v e ɲ + ˈi,45,saenkoromance
+279910,ligu1248,COME,v eː ɲ + ˈi,45,saenkoromance
+279911,vene1258,COME,v e n + ˈi + r,45,saenkoromance
+279912,vene1258,COME,v ˈɛ ɲ + e + r,45,saenkoromance
+279913,vene1258,COME,v e n j + ˈa + r,48,saenkoromance
+279914,ital1282,COME,v e n + ˈi + r e,45,saenkoromance
+279915,ital1282,COME,v e n + ˈi + r e,45,saenkoromance
+279916,neap1235,COME,v ə n + ˈi,45,saenkoromance
+279917,camp1261,COME,b ˈɛ nː + ˈi,45,saenkoromance
+279918,sici1248,COME,v ˈj ˈɛ n + i + ɾ i,45,saenkoromance
+279919,sici1248,COME,v ˈɛ n + i + ɾ i,45,saenkoromance
+279920,sici1248,COME,v ˈɛ n + i + ɾ i,45,saenkoromance
+279921,stan1289,COME,b ə n + ˈi,45,saenkoromance
+279922,stan1289,COME,b ˈi n d + ɾ e,47,saenkoromance
+279923,stan1289,COME,v ə n + ˈi,45,saenkoromance
+279924,stan1289,COME,v ˈi n d + ɾ e,47,saenkoromance
+279925,stan1289,COME,b e n + ˈi + ɾ,45,saenkoromance
+279926,stan1289,COME,b ˈi n d + ɾ e,47,saenkoromance
+279927,megl1237,DIE,m o r,49,saenkoromance
+279928,istr1245,DIE,m u r + ˈi,49,saenkoromance
+279929,arom1237,DIE,m ˈo r + u,49,saenkoromance
+279930,roma1327,DIE,a + m u r + ˈi,49,saenkoromance
+279931,friu1240,DIE,m u r + ˈiː,49,saenkoromance
+279932,piem1238,DIE,m ˈœ j r + e,49,saenkoromance
+279933,piem1238,DIE,m ˈœ j r + e,49,saenkoromance
+279934,piem1238,DIE,m ˈœ j r + e,49,saenkoromance
+279935,piem1238,DIE,m ˈœ r + i,49,saenkoromance
+279936,roma1328,DIE,m u r + ˈi,49,saenkoromance
+279937,emil1241,DIE,m u r + ˈi r,49,saenkoromance
+279938,emil1241,DIE,m u r + ˈiː r,49,saenkoromance
+279939,emil1241,DIE,m u r + ˈiː r,49,saenkoromance
+279940,ligu1248,DIE,m u + ˈi,49,saenkoromance
+279941,ligu1248,DIE,m i + ˈi,49,saenkoromance
+279942,vene1258,DIE,m o r + ˈi + r,49,saenkoromance
+279943,vene1258,DIE,m o r + ˈi + r,49,saenkoromance
+279944,vene1258,DIE,m o r + ˈi + r,49,saenkoromance
+279945,ital1282,DIE,m o r + ˈi + r e,49,saenkoromance
+279946,ital1282,DIE,m o r + ˈi + r e,49,saenkoromance
+279947,neap1235,DIE,m u r + ˈi,49,saenkoromance
+279948,camp1261,DIE,m ˈɔ rː + ˈi,49,saenkoromance
+279949,sici1248,DIE,m ˈw ˈɔ ɾ + i + ɾ i,49,saenkoromance
+279950,sici1248,DIE,m ˈɔ ɾ + i + ɾ i,49,saenkoromance
+279951,sici1248,DIE,m ˈɔ ʐ + i,49,saenkoromance
+279952,stan1289,DIE,m u ɾ + ˈi,49,saenkoromance
+279953,stan1289,DIE,m o ɾ + ˈi,49,saenkoromance
+279954,stan1289,DIE,m u ɾ + ˈi,49,saenkoromance
+279955,stan1289,DIE,m o ɾ + ˈi + ɾ,49,saenkoromance
+279956,stan1289,DIE,m o ɾ + ˈi + ɾ,49,saenkoromance
+279957,stan1289,DIE,m o ɾ + ˈi + ɾ,49,saenkoromance
+279958,megl1237,DOG,k ˈɔ j n + i,50,saenkoromance
+279959,istr1245,DOG,b r e k,51,saenkoromance
+279960,arom1237,DOG,k ˈɨ n + e,50,saenkoromance
+279961,roma1327,DOG,k ˈɨ j n + e,50,saenkoromance
+279962,friu1240,DOG,tʲ a ŋ,50,saenkoromance
+279963,piem1238,DOG,k a ŋ,50,saenkoromance
+279964,piem1238,DOG,k a ŋ,50,saenkoromance
+279965,piem1238,DOG,k a ŋ,50,saenkoromance
+279966,piem1238,DOG,k a ŋ,50,saenkoromance
+279967,roma1328,DOG,k ˈã n,50,saenkoromance
+279968,emil1241,DOG,k a n,50,saenkoromance
+279969,emil1241,DOG,k a ŋ,50,saenkoromance
+279970,emil1241,DOG,k aː n,50,saenkoromance
+279971,ligu1248,DOG,k a ŋ,50,saenkoromance
+279972,ligu1248,DOG,k a ŋ,50,saenkoromance
+279973,vene1258,DOG,k a ŋ,50,saenkoromance
+279974,vene1258,DOG,k a ŋ,50,saenkoromance
+279975,vene1258,DOG,k a ŋ,50,saenkoromance
+279976,ital1282,DOG,k ˈa n + e,50,saenkoromance
+279977,ital1282,DOG,k ˈa n + e,50,saenkoromance
+279978,neap1235,DOG,k ˈa n + ə,50,saenkoromance
+279979,camp1261,DOG,k ˈa + i,50,saenkoromance
+279980,sici1248,DOG,k ˈa n + i,50,saenkoromance
+279981,sici1248,DOG,k ˈa n + i,50,saenkoromance
+279982,sici1248,DOG,k ˈa n + i,50,saenkoromance
+279983,stan1289,DOG,ɡ o s,52,saenkoromance
+279984,stan1289,DOG,ɡ o s,52,saenkoromance
+279985,stan1289,DOG,k a,50,saenkoromance
+279986,stan1289,DOG,ɡ o s,52,saenkoromance
+279987,stan1289,DOG,ɡ o s,52,saenkoromance
+279988,stan1289,DOG,ɡ o s,52,saenkoromance
+279989,megl1237,DRINK,b ˈe̯a + w,53,saenkoromance
+279990,istr1245,DRINK,b ˈæ,53,saenkoromance
+279991,arom1237,DRINK,b e v a + w,53,saenkoromance
+279992,roma1327,DRINK,a + b ˈe v a,53,saenkoromance
+279993,friu1240,DRINK,b ˈɛ v + i,53,saenkoromance
+279994,piem1238,DRINK,b ˈɛ j v + e,53,saenkoromance
+279995,piem1238,DRINK,b ˈɛ j v + e,53,saenkoromance
+279996,piem1238,DRINK,b ˈɛ j v + e,53,saenkoromance
+279997,piem1238,DRINK,b ˈeː v + i,53,saenkoromance
+279998,roma1328,DRINK,b eː,53,saenkoromance
+279999,emil1241,DRINK,b ˈɛ + a r,53,saenkoromance
+280000,emil1241,DRINK,b ˈɛ v + e r,53,saenkoromance
+280001,emil1241,DRINK,b ˈɛ v + e r,53,saenkoromance
+280002,ligu1248,DRINK,b ˈe j + e,53,saenkoromance
+280003,ligu1248,DRINK,b ˈɛ j v + e,53,saenkoromance
+280004,vene1258,DRINK,b ˈɛ v + e + r,53,saenkoromance
+280005,vene1258,DRINK,b ˈe v + e + r,53,saenkoromance
+280006,vene1258,DRINK,b ˈe + r e,53,saenkoromance
+280007,ital1282,DRINK,b ˈe + r e,53,saenkoromance
+280008,ital1282,DRINK,b ˈɛ,53,saenkoromance
+280009,neap1235,DRINK,v ˈɛ β + ə + r ə,53,saenkoromance
+280010,camp1261,DRINK,b u fː + ˈa j,54,saenkoromance
+280011,sici1248,DRINK,v ˈi v + i + ɾ i,53,saenkoromance
+280012,sici1248,DRINK,v ˈi v + i + ɾ i,53,saenkoromance
+280013,sici1248,DRINK,v ˈi v + i + ɾ i,53,saenkoromance
+280014,stan1289,DRINK,b ˈɛ w + ɾ ə,53,saenkoromance
+280015,stan1289,DRINK,b ˈe w + ɾ e,53,saenkoromance
+280016,stan1289,DRINK,b ˈɛ w + ɾ ə,53,saenkoromance
+280017,stan1289,DRINK,b ˈe w + ɾ e,53,saenkoromance
+280018,stan1289,DRINK,b ˈe w + ɾ e,53,saenkoromance
+280019,stan1289,DRINK,b ˈe w + ɾ e,53,saenkoromance
+280020,megl1237,DRY,u s k + ˈa t,55,saenkoromance
+280021,istr1245,DRY,u s k ˈɒ + t,55,saenkoromance
+280022,arom1237,DRY,u s k + ˈa t + u,55,saenkoromance
+280023,roma1327,DRY,u s k + ˈa t,55,saenkoromance
+280024,friu1240,DRY,s u t,57,saenkoromance
+280025,piem1238,DRY,s y j t,57,saenkoromance
+280026,piem1238,DRY,s ˈɛ k,56,saenkoromance
+280027,piem1238,DRY,s ˈɛ k,56,saenkoromance
+280028,piem1238,DRY,s œ k,56,saenkoromance
+280029,roma1328,DRY,a s ˈo t,57,saenkoromance
+280030,emil1241,DRY,s u t,57,saenkoromance
+280031,emil1241,DRY,s u t,57,saenkoromance
+280032,emil1241,DRY,s o t,57,saenkoromance
+280033,ligu1248,DRY,s ˈe kː + u,56,saenkoromance
+280034,ligu1248,DRY,s ˈe kː + u,56,saenkoromance
+280035,vene1258,DRY,s ˈe k + o,56,saenkoromance
+280036,vene1258,DRY,s u t,57,saenkoromance
+280037,vene1258,DRY,s e k,56,saenkoromance
+280038,ital1282,DRY,s ˈe kː + o,56,saenkoromance
+280039,ital1282,DRY,s ˈe kː + o,56,saenkoromance
+280040,neap1235,DRY,s ˈi kː + ə,56,saenkoromance
+280041,camp1261,DRY,s i kː + ˈa w,56,saenkoromance
+280042,sici1248,DRY,s ˈi kː + u,56,saenkoromance
+280043,sici1248,DRY,s ˈi kː + u,56,saenkoromance
+280044,sici1248,DRY,s ˈi kː + u,56,saenkoromance
+280045,stan1289,DRY,s ˈɛ k,56,saenkoromance
+280046,stan1289,DRY,s e k,56,saenkoromance
+280047,stan1289,DRY,s ˈɛ k,56,saenkoromance
+280048,stan1289,DRY,s e k,56,saenkoromance
+280049,stan1289,DRY,s e k,56,saenkoromance
+280050,stan1289,DRY,s e k,56,saenkoromance
+280051,piem1238,DRY,s ˈɛ k,56,saenkoromance
+280052,roma1328,DRY,s ˈɛ k,56,saenkoromance
+280053,emil1241,DRY,s ˈɛ k,56,saenkoromance
+280054,megl1237,EAR,u r ˈe̯a k ʎ + ə,58,saenkoromance
+280055,istr1245,EAR,u r ˈæ k ʎ + e,58,saenkoromance
+280056,arom1237,EAR,u r ˈe v a k ʎ + e,58,saenkoromance
+280057,roma1327,EAR,u r ˈe k + e,58,saenkoromance
+280058,friu1240,EAR,o r ˈɛ l + e,58,saenkoromance
+280059,piem1238,EAR,u r ˈi j + a,58,saenkoromance
+280060,piem1238,EAR,u r ˈi j + a,58,saenkoromance
+280061,piem1238,EAR,u r ˈi j + a,58,saenkoromance
+280062,piem1238,EAR,u r ˈœ dʒ + a,58,saenkoromance
+280063,roma1328,EAR,u r ˈɛ tʃ + a,58,saenkoromance
+280064,emil1241,EAR,u r ˈɛ tʃ + a,58,saenkoromance
+280065,emil1241,EAR,u r ˈɛ tʃ + a,58,saenkoromance
+280066,emil1241,EAR,u r ˈɛ tʃ + a,58,saenkoromance
+280067,ligu1248,EAR,a w ˈe dʒ + e,58,saenkoromance
+280068,ligu1248,EAR,w ˈɛ dʒː + a,58,saenkoromance
+280069,vene1258,EAR,r ˈɛ tʃ + a,58,saenkoromance
+280070,vene1258,EAR,r ˈe tʃ + a,58,saenkoromance
+280071,vene1258,EAR,r ˈe tʃ + a,58,saenkoromance
+280072,ital1282,EAR,o r ˈe kː j + o,58,saenkoromance
+280073,ital1282,EAR,o r ˈe kː j + o,58,saenkoromance
+280074,neap1235,EAR,r ˈe kː j + ə,58,saenkoromance
+280075,camp1261,EAR,o r ˈi ɣ + a,58,saenkoromance
+280076,sici1248,EAR,a ɾ ˈi kː j + u,58,saenkoromance
+280077,sici1248,EAR,a ɾ ˈi kː j + u,58,saenkoromance
+280078,sici1248,EAR,a w ɾ ˈi tːʃ + a,58,saenkoromance
+280079,stan1289,EAR,u ɾ ˈɛ ʎ + ə,58,saenkoromance
+280080,stan1289,EAR,a w ɾ ˈe ʎ + ˈɛ,58,saenkoromance
+280081,stan1289,EAR,u ɾ ˈɛ + ə,58,saenkoromance
+280082,stan1289,EAR,o ɾ ˈe ʎ + a,58,saenkoromance
+280083,stan1289,EAR,o ɾ ˈe ʎ + a,58,saenkoromance
+280084,stan1289,EAR,o ɾ ˈe ʎ + a,58,saenkoromance
+280085,megl1237,EARTH (SOIL),ts ˈa r + ə,59,saenkoromance
+280086,istr1245,EARTH (SOIL),p e m ˈi n t,60,saenkoromance
+280087,arom1237,EARTH (SOIL),ts ˈa r + ə,59,saenkoromance
+280088,roma1327,EARTH (SOIL),p ə m ˈɨ n t,60,saenkoromance
+280089,friu1240,EARTH (SOIL),t ˈj ˈɛ r + e,59,saenkoromance
+280090,piem1238,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280091,piem1238,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280092,piem1238,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280093,piem1238,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280094,roma1328,EARTH (SOIL),t ˈɛ a r + a,59,saenkoromance
+280095,emil1241,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280096,emil1241,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280097,emil1241,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280098,ligu1248,EARTH (SOIL),t ˈæ r + a,59,saenkoromance
+280099,ligu1248,EARTH (SOIL),t ˈæ r + a,59,saenkoromance
+280100,vene1258,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280101,vene1258,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280102,vene1258,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280103,ital1282,EARTH (SOIL),t ˈɛ rː + a,59,saenkoromance
+280104,ital1282,EARTH (SOIL),t ˈɛ rː + a,59,saenkoromance
+280105,neap1235,EARTH (SOIL),t ˈɛ rː + ə,59,saenkoromance
+280106,camp1261,EARTH (SOIL),t ˈɛ rː + a,59,saenkoromance
+280107,sici1248,EARTH (SOIL),t ˈj ˈɛ ʐ + a,59,saenkoromance
+280108,sici1248,EARTH (SOIL),t ˈɛ rː + a,59,saenkoromance
+280109,sici1248,EARTH (SOIL),t ˈɛ ʐ + a,59,saenkoromance
+280110,stan1289,EARTH (SOIL),t ˈɛ r + ə,59,saenkoromance
+280111,stan1289,EARTH (SOIL),t ˈɛ r + ˈɛ,59,saenkoromance
+280112,stan1289,EARTH (SOIL),t ˈɛ r + ə,59,saenkoromance
+280113,stan1289,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280114,stan1289,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280115,stan1289,EARTH (SOIL),t ˈɛ r + a,59,saenkoromance
+280116,megl1237,EAT,m ə n ˈa n k,61,saenkoromance
+280117,istr1245,EAT,m ə ŋ k + ˈɒ,61,saenkoromance
+280118,arom1237,EAT,m ˈɨ k + u,61,saenkoromance
+280119,roma1327,EAT,a + m ɨ ŋ k + ˈa,61,saenkoromance
+280120,friu1240,EAT,m a n dʲ + ˈaː,61,saenkoromance
+280121,piem1238,EAT,m a ŋ dʒ + ˈe,61,saenkoromance
+280122,piem1238,EAT,m a ŋ dʒ + ˈe,61,saenkoromance
+280123,piem1238,EAT,m a ŋ dʒ + ˈe,61,saenkoromance
+280124,piem1238,EAT,m a ŋ dʒ + ˈɛ,61,saenkoromance
+280125,roma1328,EAT,m a ɲ + ˈe a,61,saenkoromance
+280126,emil1241,EAT,m a ɲ + ˈa r,61,saenkoromance
+280127,emil1241,EAT,m a ɲ + ˈɛː r,61,saenkoromance
+280128,emil1241,EAT,m a ɲ + ˈɛː r,61,saenkoromance
+280129,ligu1248,EAT,m a ŋ dʒ + ˈa,61,saenkoromance
+280130,ligu1248,EAT,m a ŋ dʒ + ˈɛ,61,saenkoromance
+280131,vene1258,EAT,m a ɲ + ˈa + r,61,saenkoromance
+280132,vene1258,EAT,m a ɲ + ˈa + r,61,saenkoromance
+280133,vene1258,EAT,m a ɲ + ˈa + r,61,saenkoromance
+280134,ital1282,EAT,m a n dʒ + ˈa + r e,61,saenkoromance
+280135,ital1282,EAT,m a n dʒ + ˈa + r e,61,saenkoromance
+280136,neap1235,EAT,m a ɲː + ˈa,61,saenkoromance
+280137,camp1261,EAT,p a pː + ˈa j,62,saenkoromance
+280138,sici1248,EAT,m a n tʃ + ˈa + ɾ i,61,saenkoromance
+280139,sici1248,EAT,m a n tʃ + ˈa + ɾ i,61,saenkoromance
+280140,sici1248,EAT,m a n tʃ + ˈa + ɾ i,61,saenkoromance
+280141,stan1289,EAT,m ə ɲ ʒ + ˈa,61,saenkoromance
+280142,stan1289,EAT,m e ɲ dʒ + ˈa,61,saenkoromance
+280143,stan1289,EAT,m ə ɲ ʒ + ˈa,61,saenkoromance
+280144,stan1289,EAT,m e ɲ dʒ + ˈa + ɾ,61,saenkoromance
+280145,stan1289,EAT,m e ɲ tʃ + ˈa + ɾ,61,saenkoromance
+280146,stan1289,EAT,m e ɲ tʃ + ˈa + ɾ,61,saenkoromance
+280147,megl1237,EGG,w o w,63,saenkoromance
+280148,istr1245,EGG,o v,63,saenkoromance
+280149,arom1237,EGG,o w,63,saenkoromance
+280150,roma1327,EGG,o w,63,saenkoromance
+280151,friu1240,EGG,uː f,63,saenkoromance
+280152,piem1238,EGG,œ v,63,saenkoromance
+280153,piem1238,EGG,œ v,63,saenkoromance
+280154,piem1238,EGG,œ w,63,saenkoromance
+280155,piem1238,EGG,œ f,63,saenkoromance
+280156,roma1328,EGG,ˈɔ a v,63,saenkoromance
+280157,emil1241,EGG,ˈɔ v,63,saenkoromance
+280158,emil1241,EGG,oː v,63,saenkoromance
+280159,emil1241,EGG,oː v,63,saenkoromance
+280160,ligu1248,EGG,ˈœ v + u,63,saenkoromance
+280161,ligu1248,EGG,ˈœː v + u,63,saenkoromance
+280162,vene1258,EGG,v ˈɔ v + o,63,saenkoromance
+280163,vene1258,EGG,o w,63,saenkoromance
+280164,vene1258,EGG,ˈo v + o,63,saenkoromance
+280165,ital1282,EGG,ˈw ˈɔ v + o,63,saenkoromance
+280166,ital1282,EGG,ˈɔ v + o,63,saenkoromance
+280167,neap1235,EGG,ˈw o v + ə,63,saenkoromance
+280168,camp1261,EGG,o w,63,saenkoromance
+280169,sici1248,EGG,ˈw ˈɔ v + u,63,saenkoromance
+280170,sici1248,EGG,ˈɔ v + u,63,saenkoromance
+280171,sici1248,EGG,ˈw ˈɔ v + u,63,saenkoromance
+280172,stan1289,EGG,ˈɔ w,63,saenkoromance
+280173,stan1289,EGG,ˈɔ w,63,saenkoromance
+280174,stan1289,EGG,ˈɔ w,63,saenkoromance
+280175,stan1289,EGG,ˈɔ w,63,saenkoromance
+280176,stan1289,EGG,ˈɔ w,63,saenkoromance
+280177,stan1289,EGG,ˈɔ w,63,saenkoromance
+280178,megl1237,EYE,w ˈo k ʎ + u,64,saenkoromance
+280179,istr1245,EYE,ˈo k ʎ + u,64,saenkoromance
+280180,arom1237,EYE,ˈo k ʎ + u,64,saenkoromance
+280181,roma1327,EYE,o kʲ,64,saenkoromance
+280182,friu1240,EYE,v ˈoː l + i,65,saenkoromance
+280183,piem1238,EYE,œ j,64,saenkoromance
+280184,piem1238,EYE,œ j,64,saenkoromance
+280185,piem1238,EYE,œ j,64,saenkoromance
+280186,piem1238,EYE,œ tʃ,64,saenkoromance
+280187,roma1328,EYE,ˈɔ tʃ,64,saenkoromance
+280188,emil1241,EYE,o tʃ,64,saenkoromance
+280189,emil1241,EYE,ɔː tʃ,64,saenkoromance
+280190,emil1241,EYE,ɔː tʃ,64,saenkoromance
+280191,ligu1248,EYE,ˈœ dʒː + u,64,saenkoromance
+280192,ligu1248,EYE,ˈœː dʒː + u,64,saenkoromance
+280193,vene1258,EYE,ˈɔ tʃ + o,64,saenkoromance
+280194,vene1258,EYE,ˈɔ tʃ + o,64,saenkoromance
+280195,vene1258,EYE,ˈɔ tʃ + o,64,saenkoromance
+280196,ital1282,EYE,ˈɔ kː j + o,64,saenkoromance
+280197,ital1282,EYE,ˈɔ kː j + o,64,saenkoromance
+280198,neap1235,EYE,ˈw o kː j + ə,64,saenkoromance
+280199,camp1261,EYE,ˈo ɣ + u,64,saenkoromance
+280200,sici1248,EYE,ˈw ˈɔ kː j + u,64,saenkoromance
+280201,sici1248,EYE,ˈɔ kː j + u,64,saenkoromance
+280202,sici1248,EYE,ˈw ˈɔ tːʃ + u,64,saenkoromance
+280203,stan1289,EYE,u ʎ,65,saenkoromance
+280204,stan1289,EYE,u ʎ,65,saenkoromance
+280205,stan1289,EYE,u j,64,saenkoromance
+280206,stan1289,EYE,u ʎ,65,saenkoromance
+280207,stan1289,EYE,u ʎ,65,saenkoromance
+280208,stan1289,EYE,u ʎ,65,saenkoromance
+280209,megl1237,FAR,d i + p ˈa r t + i,66,saenkoromance
+280210,istr1245,FAR,l ˈɒ r ɡ + o,69,saenkoromance
+280211,arom1237,FAR,d i + p ˈa r t + e,66,saenkoromance
+280212,roma1327,FAR,d e + p ˈa r t + e,66,saenkoromance
+280213,friu1240,FAR,l o n t ˈa ŋ,68,saenkoromance
+280214,piem1238,FAR,l œ ɲ,68,saenkoromance
+280215,piem1238,FAR,l u ŋ t ˈa ŋ,68,saenkoromance
+280216,piem1238,FAR,l u ŋ t ˈa ŋ,68,saenkoromance
+280217,piem1238,FAR,l u ŋ t ˈa ŋ,68,saenkoromance
+280218,roma1328,FAR,l u n t ˈã n,68,saenkoromance
+280219,emil1241,FAR,l u n t ˈa n,68,saenkoromance
+280220,emil1241,FAR,l u n t ˈa n,68,saenkoromance
+280221,emil1241,FAR,l u n t ˈaː n,68,saenkoromance
+280222,ligu1248,FAR,l u ŋ t ˈa n,68,saenkoromance
+280223,ligu1248,FAR,l u ŋ t ˈa n,68,saenkoromance
+280224,vene1258,FAR,l o ŋ t ˈa ŋ,68,saenkoromance
+280225,vene1258,FAR,l o ŋ t ˈa ŋ,68,saenkoromance
+280226,vene1258,FAR,l o ŋ t ˈa ŋ,68,saenkoromance
+280227,ital1282,FAR,l o n t ˈa n + o,68,saenkoromance
+280228,ital1282,FAR,l o n t ˈa n + o,68,saenkoromance
+280229,neap1235,FAR,l u n t ˈa n + ə,68,saenkoromance
+280230,camp1261,FAR,a + t ˈe z + u,67,saenkoromance
+280231,sici1248,FAR,l u n t ˈa n + u,68,saenkoromance
+280232,sici1248,FAR,l u n t ˈa n + u,68,saenkoromance
+280233,sici1248,FAR,l u n t ˈa n + u,68,saenkoromance
+280234,stan1289,FAR,ʎ u ɲ,68,saenkoromance
+280235,stan1289,FAR,ʎ u ɲ,68,saenkoromance
+280236,stan1289,FAR,ə n + f ˈɔ ɾ ə,71,saenkoromance
+280237,stan1289,FAR,ʎ u ɲ,68,saenkoromance
+280238,stan1289,FAR,ʎ u ɲ,68,saenkoromance
+280239,stan1289,FAR,ʎ u ɲ,68,saenkoromance
+280240,arom1237,FAR,l ˈa r ɡ + u,69,saenkoromance
+280241,ligu1248,FAR,d i s t + ˈaː ŋ t + e,70,saenkoromance
+280242,vene1258,FAR,d i s t ˈa ŋ t + e,72,saenkoromance
+280243,vene1258,FAR,d i s t ˈa ŋ t + e,72,saenkoromance
+280244,megl1237,FAT (FROM ANIMALS),ɡ r ə s + ˈi m + i,73,saenkoromance
+280245,istr1245,FAT (FROM ANIMALS),m ɒ s t,74,saenkoromance
+280246,arom1237,FAT (FROM ANIMALS),ɡ r ə s + ˈi m + e,73,saenkoromance
+280247,roma1327,FAT (FROM ANIMALS),ɡ r ə s + ˈi m + e,73,saenkoromance
+280248,friu1240,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280249,piem1238,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280250,piem1238,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280251,piem1238,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280252,piem1238,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280253,roma1328,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280254,emil1241,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280255,emil1241,FAT (FROM ANIMALS),ɡ r aː s,73,saenkoromance
+280256,emil1241,FAT (FROM ANIMALS),ɡ r aː s,73,saenkoromance
+280257,ligu1248,FAT (FROM ANIMALS),ɡ r ˈa sː + u,73,saenkoromance
+280258,ligu1248,FAT (FROM ANIMALS),ɡ r ˈa ʃː + a,73,saenkoromance
+280259,vene1258,FAT (FROM ANIMALS),ɡ r ˈa s + o,73,saenkoromance
+280260,vene1258,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280261,vene1258,FAT (FROM ANIMALS),ɡ r a s,73,saenkoromance
+280262,ital1282,FAT (FROM ANIMALS),ɡ r ˈa sː + o,73,saenkoromance
+280263,ital1282,FAT (FROM ANIMALS),ɡ r ˈa sː + o,73,saenkoromance
+280264,neap1235,FAT (FROM ANIMALS),ɡ r ˈa sː + ə,73,saenkoromance
+280265,camp1261,FAT (FROM ANIMALS),ɡ r ˈa sː + u,73,saenkoromance
+280266,sici1248,FAT (FROM ANIMALS),ɾ ˈa sː + u,73,saenkoromance
+280267,sici1248,FAT (FROM ANIMALS),ɾ ˈa sː + u,73,saenkoromance
+280268,sici1248,FAT (FROM ANIMALS),ɾ ˈa sː + u,73,saenkoromance
+280269,stan1289,FAT (FROM ANIMALS),ɡ ɾ e ʃ,73,saenkoromance
+280270,stan1289,FAT (FROM ANIMALS),ɡ ɾ e j ʃ,73,saenkoromance
+280271,stan1289,FAT (FROM ANIMALS),s ˈɛ w,75,saenkoromance
+280272,stan1289,FAT (FROM ANIMALS),ɡ ɾ e j ʃ,73,saenkoromance
+280273,stan1289,FAT (FROM ANIMALS),ɡ ɾ e j ʃ,73,saenkoromance
+280274,stan1289,FAT (FROM ANIMALS),ɡ ɾ e j ʃ,73,saenkoromance
+280275,megl1237,FEATHER,p ˈe̯a n + ə,76,saenkoromance
+280276,istr1245,FEATHER,p ˈæ n a,78,saenkoromance
+280277,arom1237,FEATHER,p ˈe̯a n + ə,76,saenkoromance
+280278,roma1327,FEATHER,p ˈa n + ə,76,saenkoromance
+280279,friu1240,FEATHER,p l ˈu m + e,77,saenkoromance
+280280,piem1238,FEATHER,p ˈj y m + a,77,saenkoromance
+280281,piem1238,FEATHER,p ˈj y m + a,77,saenkoromance
+280282,piem1238,FEATHER,p ˈj y m + a,77,saenkoromance
+280283,piem1238,FEATHER,p ˈj yː m + a,77,saenkoromance
+280284,roma1328,FEATHER,p ˈɛ n + a,76,saenkoromance
+280285,emil1241,FEATHER,p ˈɛ n + a,76,saenkoromance
+280286,emil1241,FEATHER,p ˈɛ n + a,76,saenkoromance
+280287,emil1241,FEATHER,p ˈj o m + a,77,saenkoromance
+280288,ligu1248,FEATHER,p ˈe ŋː + a,76,saenkoromance
+280289,ligu1248,FEATHER,tʃ ˈy mː + a,77,saenkoromance
+280290,vene1258,FEATHER,p ˈe n + a,76,saenkoromance
+280291,vene1258,FEATHER,p ˈj u m + a,77,saenkoromance
+280292,vene1258,FEATHER,p ˈe n + a,76,saenkoromance
+280293,ital1282,FEATHER,p ˈe nː + a,76,saenkoromance
+280294,ital1282,FEATHER,p ˈe nː + a,76,saenkoromance
+280295,neap1235,FEATHER,p ˈe nː + ə,76,saenkoromance
+280296,camp1261,FEATHER,p ˈi nː + a,76,saenkoromance
+280297,sici1248,FEATHER,p ˈi nː + a,76,saenkoromance
+280298,sici1248,FEATHER,p ˈi nː + a,76,saenkoromance
+280299,sici1248,FEATHER,p ˈj u m + a,77,saenkoromance
+280300,stan1289,FEATHER,p lˠ ˈo m + ə,77,saenkoromance
+280301,stan1289,FEATHER,p lˠ ˈo m + ˈɛ,77,saenkoromance
+280302,stan1289,FEATHER,p lˠ ˈo m + ə,77,saenkoromance
+280303,stan1289,FEATHER,p lˠ ˈo m + a,77,saenkoromance
+280304,stan1289,FEATHER,p lˠ ˈo m + a,77,saenkoromance
+280305,stan1289,FEATHER,p lˠ ˈo m + a,77,saenkoromance
+280306,megl1237,FIRE,f o k,79,saenkoromance
+280307,istr1245,FIRE,f o k,79,saenkoromance
+280308,arom1237,FIRE,f ˈo k + u,79,saenkoromance
+280309,roma1327,FIRE,f o k,79,saenkoromance
+280310,friu1240,FIRE,f uː k,79,saenkoromance
+280311,piem1238,FIRE,f œ,79,saenkoromance
+280312,piem1238,FIRE,f œ,79,saenkoromance
+280313,piem1238,FIRE,f œ,79,saenkoromance
+280314,piem1238,FIRE,f œ k,79,saenkoromance
+280315,roma1328,FIRE,f u ɡ,79,saenkoromance
+280316,emil1241,FIRE,f ˈɔ ɡ,79,saenkoromance
+280317,emil1241,FIRE,f oː ɡ,79,saenkoromance
+280318,emil1241,FIRE,f ɔː ɡ,79,saenkoromance
+280319,ligu1248,FIRE,f ˈœː ɡ + u,79,saenkoromance
+280320,ligu1248,FIRE,f œ,79,saenkoromance
+280321,vene1258,FIRE,f ˈɔ ɡ + o,79,saenkoromance
+280322,vene1258,FIRE,f o k,79,saenkoromance
+280323,vene1258,FIRE,f ˈo ɡ + o,79,saenkoromance
+280324,ital1282,FIRE,f ˈw ˈɔ k + o,79,saenkoromance
+280325,ital1282,FIRE,f ˈɔ k + o,79,saenkoromance
+280326,neap1235,FIRE,f ˈo k + ə,79,saenkoromance
+280327,camp1261,FIRE,f ˈo ɣ + u,79,saenkoromance
+280328,sici1248,FIRE,f ˈw ˈɔ k + u,79,saenkoromance
+280329,sici1248,FIRE,f ˈɔ k + u,79,saenkoromance
+280330,sici1248,FIRE,f ˈw ˈɔ k + u,79,saenkoromance
+280331,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280332,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280333,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280334,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280335,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280336,stan1289,FIRE,f ˈɔ k,79,saenkoromance
+280337,megl1237,FISH,p ˈe v a ʃ t + i,80,saenkoromance
+280338,istr1245,FISH,r ˈi b + ˈæ,81,saenkoromance
+280339,arom1237,FISH,p ˈe s k + u,80,saenkoromance
+280340,roma1327,FISH,p ˈe ʃ t + e,80,saenkoromance
+280341,friu1240,FISH,p ˈɛ s,80,saenkoromance
+280342,piem1238,FISH,p ˈɛ s,80,saenkoromance
+280343,piem1238,FISH,p ə s,80,saenkoromance
+280344,piem1238,FISH,p ˈɛ s,80,saenkoromance
+280345,piem1238,FISH,p œ s,80,saenkoromance
+280346,roma1328,FISH,p ˈɛ s,80,saenkoromance
+280347,emil1241,FISH,p ˈɛ s,80,saenkoromance
+280348,emil1241,FISH,p ˈɛ s,80,saenkoromance
+280349,emil1241,FISH,p ˈɛ s,80,saenkoromance
+280350,ligu1248,FISH,p ˈɛ ʃː + u,80,saenkoromance
+280351,ligu1248,FISH,p ˈæ ʃː + u,80,saenkoromance
+280352,vene1258,FISH,p ˈe s + e,80,saenkoromance
+280353,vene1258,FISH,p e s,80,saenkoromance
+280354,vene1258,FISH,p e s,80,saenkoromance
+280355,ital1282,FISH,p ˈe ʃː + e,80,saenkoromance
+280356,ital1282,FISH,p ˈe ʃː + e,80,saenkoromance
+280357,neap1235,FISH,p ˈe ʃː + ə,80,saenkoromance
+280358,camp1261,FISH,p ˈi ʃː + i,80,saenkoromance
+280359,sici1248,FISH,p ˈi ʃː + i,80,saenkoromance
+280360,sici1248,FISH,p ˈi ʃː + i,80,saenkoromance
+280361,sici1248,FISH,p ˈi ʃː + i,80,saenkoromance
+280362,stan1289,FISH,p e ʃ,80,saenkoromance
+280363,stan1289,FISH,p e j ʃ,80,saenkoromance
+280364,stan1289,FISH,p e ʃ,80,saenkoromance
+280365,stan1289,FISH,p e j ʃ,80,saenkoromance
+280366,stan1289,FISH,p e j ʃ,80,saenkoromance
+280367,stan1289,FISH,p e j ʃ,80,saenkoromance
+280368,megl1237,FLY (MOVE THROUGH AIR),p ə r + ə j + ˈe s,85,saenkoromance
+280369,istr1245,FLY (MOVE THROUGH AIR),l e t + ˈi,84,saenkoromance
+280370,arom1237,FLY (MOVE THROUGH AIR),a s b ˈw ai r + u,82,saenkoromance
+280371,roma1327,FLY (MOVE THROUGH AIR),a + z b u r + ˈa,83,saenkoromance
+280372,friu1240,FLY (MOVE THROUGH AIR),z v o l + ˈaː,83,saenkoromance
+280373,piem1238,FLY (MOVE THROUGH AIR),v u l + ˈe,83,saenkoromance
+280374,piem1238,FLY (MOVE THROUGH AIR),v u l + ˈe,83,saenkoromance
+280375,piem1238,FLY (MOVE THROUGH AIR),v u l + ˈe,83,saenkoromance
+280376,piem1238,FLY (MOVE THROUGH AIR),v u l + ˈɛ,83,saenkoromance
+280377,roma1328,FLY (MOVE THROUGH AIR),v u l + ˈe a,83,saenkoromance
+280378,emil1241,FLY (MOVE THROUGH AIR),v u l + ˈa r,83,saenkoromance
+280379,emil1241,FLY (MOVE THROUGH AIR),v u l + ˈɛː r,83,saenkoromance
+280380,emil1241,FLY (MOVE THROUGH AIR),v u l + ˈɛː r,83,saenkoromance
+280381,ligu1248,FLY (MOVE THROUGH AIR),ʒ u + ˈa,83,saenkoromance
+280382,ligu1248,FLY (MOVE THROUGH AIR),ʒ v u + ˈɛ,83,saenkoromance
+280383,vene1258,FLY (MOVE THROUGH AIR),v o l + ˈa + r,83,saenkoromance
+280384,vene1258,FLY (MOVE THROUGH AIR),v o l + ˈa + r,83,saenkoromance
+280385,vene1258,FLY (MOVE THROUGH AIR),v o l + ˈa + r,83,saenkoromance
+280386,ital1282,FLY (MOVE THROUGH AIR),v o l + ˈa + r e,83,saenkoromance
+280387,ital1282,FLY (MOVE THROUGH AIR),v o l + ˈa + r e,83,saenkoromance
+280388,neap1235,FLY (MOVE THROUGH AIR),v u l + ˈa,83,saenkoromance
+280389,camp1261,FLY (MOVE THROUGH AIR),b o l + ˈa j,83,saenkoromance
+280390,sici1248,FLY (MOVE THROUGH AIR),v u l + ˈa + ɾ i,83,saenkoromance
+280391,sici1248,FLY (MOVE THROUGH AIR),v u l + ˈa + ɾ i,83,saenkoromance
+280392,sici1248,FLY (MOVE THROUGH AIR),a + bː u l + ˈa + ɾ i,83,saenkoromance
+280393,stan1289,FLY (MOVE THROUGH AIR),b u lˠ + ˈa,83,saenkoromance
+280394,stan1289,FLY (MOVE THROUGH AIR),b o lˠ + ˈa,83,saenkoromance
+280395,stan1289,FLY (MOVE THROUGH AIR),v u lˠ + ˈa,83,saenkoromance
+280396,stan1289,FLY (MOVE THROUGH AIR),v o lˠ + ˈa + ɾ,83,saenkoromance
+280397,stan1289,FLY (MOVE THROUGH AIR),b o lˠ + ˈa + ɾ,83,saenkoromance
+280398,stan1289,FLY (MOVE THROUGH AIR),b o lˠ + ˈa + ɾ,83,saenkoromance
+280399,megl1237,FOOT,p i tʃ ˈo r,86,saenkoromance
+280400,istr1245,FOOT,p i tʃ ˈo r,86,saenkoromance
+280401,arom1237,FOOT,tʃ i tʃ ˈo r + u,86,saenkoromance
+280402,roma1327,FOOT,p i tʃ ˈo r,86,saenkoromance
+280403,friu1240,FOOT,p iː t,87,saenkoromance
+280404,piem1238,FOOT,p e,87,saenkoromance
+280405,piem1238,FOOT,p e,87,saenkoromance
+280406,piem1238,FOOT,p e,87,saenkoromance
+280407,piem1238,FOOT,p ˈɛ,87,saenkoromance
+280408,roma1328,FOOT,p e,87,saenkoromance
+280409,emil1241,FOOT,p j ˈɛ,87,saenkoromance
+280410,emil1241,FOOT,p eː,87,saenkoromance
+280411,emil1241,FOOT,p ˈɛ,87,saenkoromance
+280412,ligu1248,FOOT,p e,87,saenkoromance
+280413,ligu1248,FOOT,p e,87,saenkoromance
+280414,vene1258,FOOT,p ie,87,saenkoromance
+280415,vene1258,FOOT,p ie,87,saenkoromance
+280416,vene1258,FOOT,p ie,87,saenkoromance
+280417,ital1282,FOOT,p ˈj ˈɛ d + e,87,saenkoromance
+280418,ital1282,FOOT,p ˈj ˈɛ d + e,87,saenkoromance
+280419,neap1235,FOOT,p ˈɛ ɾ + ə,87,saenkoromance
+280420,camp1261,FOOT,p ˈɛ j,87,saenkoromance
+280421,sici1248,FOOT,p ˈj ˈɛ ɾ + i,87,saenkoromance
+280422,sici1248,FOOT,p ˈɛ d + i,87,saenkoromance
+280423,sici1248,FOOT,p ˈɛ ɾ + i,87,saenkoromance
+280424,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280425,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280426,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280427,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280428,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280429,stan1289,FOOT,p ˈɛ w,87,saenkoromance
+280430,megl1237,FULL,ɐ m + p l ˈi n,88,saenkoromance
+280431,istr1245,FULL,p ʎ i r,88,saenkoromance
+280432,arom1237,FULL,p l ˈi n + u,88,saenkoromance
+280433,roma1327,FULL,p l i n,88,saenkoromance
+280434,friu1240,FULL,p l ˈɛ ŋ,88,saenkoromance
+280435,piem1238,FULL,p j ˈɛ ŋ,88,saenkoromance
+280436,piem1238,FULL,p j ˈɛ ŋ,88,saenkoromance
+280437,piem1238,FULL,p j ˈɛ ŋ,88,saenkoromance
+280438,piem1238,FULL,p iː ŋ,88,saenkoromance
+280439,roma1328,FULL,p i n,88,saenkoromance
+280440,emil1241,FULL,p i n,88,saenkoromance
+280441,emil1241,FULL,p iː n,88,saenkoromance
+280442,emil1241,FULL,p iː n,88,saenkoromance
+280443,ligu1248,FULL,p i ŋ,88,saenkoromance
+280444,ligu1248,FULL,tʃ ˈæ ŋ,88,saenkoromance
+280445,vene1258,FULL,p j ˈɛ ŋ,88,saenkoromance
+280446,vene1258,FULL,p j e ŋ,88,saenkoromance
+280447,vene1258,FULL,p j e ŋ,88,saenkoromance
+280448,ital1282,FULL,p ˈj ˈɛ n + o,88,saenkoromance
+280449,ital1282,FULL,p ˈj ˈɛ n + o,88,saenkoromance
+280450,neap1235,FULL,k ˈi n + ə,88,saenkoromance
+280451,camp1261,FULL,p r ˈe n + u,88,saenkoromance
+280452,sici1248,FULL,k ˈi n + u,88,saenkoromance
+280453,sici1248,FULL,k ˈi n + u,88,saenkoromance
+280454,sici1248,FULL,tʃ ˈi n + u,88,saenkoromance
+280455,stan1289,FULL,p lˠ ˈɛ,88,saenkoromance
+280456,stan1289,FULL,p lˠ e,88,saenkoromance
+280457,stan1289,FULL,p lˠ ˈɛ,88,saenkoromance
+280458,stan1289,FULL,p lˠ e,88,saenkoromance
+280459,stan1289,FULL,p lˠ e,88,saenkoromance
+280460,stan1289,FULL,p lˠ e,88,saenkoromance
+280461,megl1237,GIVE,d a + w,89,saenkoromance
+280462,istr1245,GIVE,d ɒ,89,saenkoromance
+280463,arom1237,GIVE,d a + w,89,saenkoromance
+280464,roma1327,GIVE,a + d ˈa,89,saenkoromance
+280465,friu1240,GIVE,d aː,89,saenkoromance
+280466,piem1238,GIVE,d ˈɛ,89,saenkoromance
+280467,piem1238,GIVE,d e,89,saenkoromance
+280468,piem1238,GIVE,d e,89,saenkoromance
+280469,piem1238,GIVE,d ˈɛ,89,saenkoromance
+280470,roma1328,GIVE,d e a,89,saenkoromance
+280471,emil1241,GIVE,d a + r,89,saenkoromance
+280472,emil1241,GIVE,d ˈɛː + r,89,saenkoromance
+280473,emil1241,GIVE,d ˈɛː + r,89,saenkoromance
+280474,ligu1248,GIVE,d a,89,saenkoromance
+280475,ligu1248,GIVE,d ˈɛ,89,saenkoromance
+280476,vene1258,GIVE,d a + r,89,saenkoromance
+280477,vene1258,GIVE,d a + r,89,saenkoromance
+280478,vene1258,GIVE,d a + r,89,saenkoromance
+280479,ital1282,GIVE,d ˈa + r e,89,saenkoromance
+280480,ital1282,GIVE,d ˈa + r e,89,saenkoromance
+280481,neap1235,GIVE,d ˈa,89,saenkoromance
+280482,camp1261,GIVE,d o n + ˈa j,90,saenkoromance
+280483,sici1248,GIVE,d ˈa + ɾ i,89,saenkoromance
+280484,sici1248,GIVE,d ˈa + ɾ i,89,saenkoromance
+280485,sici1248,GIVE,d ˈa + ɾ i,89,saenkoromance
+280486,stan1289,GIVE,d u n + ˈa,90,saenkoromance
+280487,stan1289,GIVE,d o n + ˈa,90,saenkoromance
+280488,stan1289,GIVE,d u n + ˈa,90,saenkoromance
+280489,stan1289,GIVE,d o n + ˈa + ɾ,90,saenkoromance
+280490,stan1289,GIVE,d o n + ˈa + ɾ,90,saenkoromance
+280491,stan1289,GIVE,d o n + ˈa + ɾ,90,saenkoromance
+280492,megl1237,GOOD,b u n,91,saenkoromance
+280493,istr1245,GOOD,b u r,91,saenkoromance
+280494,arom1237,GOOD,b ˈu n + u,91,saenkoromance
+280495,roma1327,GOOD,b u n,91,saenkoromance
+280496,friu1240,GOOD,b ˈɔ ŋ,91,saenkoromance
+280497,piem1238,GOOD,b u ŋ,91,saenkoromance
+280498,piem1238,GOOD,b u ŋ,91,saenkoromance
+280499,piem1238,GOOD,b u ŋ,91,saenkoromance
+280500,piem1238,GOOD,b oː ŋ,91,saenkoromance
+280501,roma1328,GOOD,b o w n,91,saenkoromance
+280502,emil1241,GOOD,b o n,91,saenkoromance
+280503,emil1241,GOOD,b ˈɔ w n,91,saenkoromance
+280504,emil1241,GOOD,b ˈɔ w n,91,saenkoromance
+280505,ligu1248,GOOD,b u ŋ,91,saenkoromance
+280506,ligu1248,GOOD,b u ŋ,91,saenkoromance
+280507,vene1258,GOOD,b o ŋ,91,saenkoromance
+280508,vene1258,GOOD,b ˈɔ ŋ,91,saenkoromance
+280509,vene1258,GOOD,b o ŋ,91,saenkoromance
+280510,ital1282,GOOD,b ˈw ˈɔ n + o,91,saenkoromance
+280511,ital1282,GOOD,b ˈɔ n + o,91,saenkoromance
+280512,neap1235,GOOD,b ˈw o n + ə,91,saenkoromance
+280513,camp1261,GOOD,b ˈo n + u,91,saenkoromance
+280514,sici1248,GOOD,b ˈw ˈɔ n + u,91,saenkoromance
+280515,sici1248,GOOD,b ˈɔ n + u,91,saenkoromance
+280516,sici1248,GOOD,b ˈw ˈɔ n + u,91,saenkoromance
+280517,stan1289,GOOD,b ˈɔ,91,saenkoromance
+280518,stan1289,GOOD,b ˈɔ,91,saenkoromance
+280519,stan1289,GOOD,b ˈɔ,91,saenkoromance
+280520,stan1289,GOOD,b ˈɔ,91,saenkoromance
+280521,stan1289,GOOD,b ˈɔ,91,saenkoromance
+280522,stan1289,GOOD,b ˈɔ n,91,saenkoromance
+280523,megl1237,GREEN,v ˈe̯a r d + i,92,saenkoromance
+280524,istr1245,GREEN,z e l ˈe n,93,saenkoromance
+280525,arom1237,GREEN,v ˈe̯a r d + e,92,saenkoromance
+280526,roma1327,GREEN,v ˈe r d + e,92,saenkoromance
+280527,friu1240,GREEN,v ˈɛ r t,92,saenkoromance
+280528,piem1238,GREEN,v ˈɛ r d,92,saenkoromance
+280529,piem1238,GREEN,v ˈɛ r d,92,saenkoromance
+280530,piem1238,GREEN,v ˈɛ r d,92,saenkoromance
+280531,piem1238,GREEN,v eː r t,92,saenkoromance
+280532,roma1328,GREEN,v eː r,92,saenkoromance
+280533,emil1241,GREEN,v e r d,92,saenkoromance
+280534,emil1241,GREEN,v e r d,92,saenkoromance
+280535,emil1241,GREEN,v ˈɛ j r d,92,saenkoromance
+280536,ligu1248,GREEN,v ˈe r d + e,92,saenkoromance
+280537,ligu1248,GREEN,v ˈɛː r d + e,92,saenkoromance
+280538,vene1258,GREEN,v ˈe r d + e,92,saenkoromance
+280539,vene1258,GREEN,v e r t,92,saenkoromance
+280540,vene1258,GREEN,v e r t,92,saenkoromance
+280541,ital1282,GREEN,v ˈe r d + e,92,saenkoromance
+280542,ital1282,GREEN,v ˈe r d + e,92,saenkoromance
+280543,neap1235,GREEN,v ˈɛ r d + ə,92,saenkoromance
+280544,camp1261,GREEN,b ˈi r d + i,92,saenkoromance
+280545,sici1248,GREEN,v ˈi ɾ d + i,92,saenkoromance
+280546,sici1248,GREEN,v ˈi ɾ d + i,92,saenkoromance
+280547,sici1248,GREEN,v ˈi ɾ d + i,92,saenkoromance
+280548,stan1289,GREEN,b ˈɛ ɾ t,92,saenkoromance
+280549,stan1289,GREEN,b ˈɛ ɾ t,92,saenkoromance
+280550,stan1289,GREEN,v ˈɛ ɾ t,92,saenkoromance
+280551,stan1289,GREEN,v ˈɛ ɾ t,92,saenkoromance
+280552,stan1289,GREEN,b ˈɛ ɾ t,92,saenkoromance
+280553,stan1289,GREEN,b ˈɛ ɾ t,92,saenkoromance
+280554,megl1237,HAIR,p e r,94,saenkoromance
+280555,istr1245,HAIR,p e r,94,saenkoromance
+280556,arom1237,HAIR,p ˈe r + u,94,saenkoromance
+280557,roma1327,HAIR,p ə r,94,saenkoromance
+280558,friu1240,HAIR,tʲ a v ˈɛ + j,96,saenkoromance
+280559,piem1238,HAIR,k a v ˈɛ + j,96,saenkoromance
+280560,piem1238,HAIR,k a v ˈɛ + j,96,saenkoromance
+280561,piem1238,HAIR,k a v ˈɛ + j,96,saenkoromance
+280562,piem1238,HAIR,k a v ˈœ + j,96,saenkoromance
+280563,roma1328,HAIR,k a v ˈɛ l,96,saenkoromance
+280564,emil1241,HAIR,k a v + ˈi,96,saenkoromance
+280565,emil1241,HAIR,k a v + ˈiː,96,saenkoromance
+280566,emil1241,HAIR,k a v + ˈiː,96,saenkoromance
+280567,ligu1248,HAIR,k a v ˈe lː + i,96,saenkoromance
+280568,ligu1248,HAIR,k a v ˈæː j + i,96,saenkoromance
+280569,vene1258,HAIR,k a v ˈe + i,96,saenkoromance
+280570,vene1258,HAIR,k a v ˈe + i,96,saenkoromance
+280571,vene1258,HAIR,k a v ˈe + i,96,saenkoromance
+280572,ital1282,HAIR,k a p ˈe lː + o,96,saenkoromance
+280573,ital1282,HAIR,k a p ˈe lː + i,96,saenkoromance
+280574,neap1235,HAIR,k a p ˈi lː + ə,96,saenkoromance
+280575,camp1261,HAIR,p ˈi l u + z u,95,saenkoromance
+280576,sici1248,HAIR,k a p ˈi ɖː + i,96,saenkoromance
+280577,sici1248,HAIR,k a p ˈi ɖː + i,96,saenkoromance
+280578,sici1248,HAIR,k a p ˈi ɖː + i,96,saenkoromance
+280579,stan1289,HAIR,k ə β ˈɛ ʎ,96,saenkoromance
+280580,stan1289,HAIR,k a β ˈe ʎ,96,saenkoromance
+280581,stan1289,HAIR,k ə β ˈɛ j,96,saenkoromance
+280582,stan1289,HAIR,k a β ˈe ʎ,96,saenkoromance
+280583,stan1289,HAIR,k a β ˈe ʎ,96,saenkoromance
+280584,stan1289,HAIR,m ˈo ɲ + o,97,saenkoromance
+280585,megl1237,HAND,m ˈɔ n + ə,98,saenkoromance
+280586,istr1245,HAND,m ə r,98,saenkoromance
+280587,arom1237,HAND,m ˈɨ n + ə,98,saenkoromance
+280588,roma1327,HAND,m ˈɨ n + ə,98,saenkoromance
+280589,friu1240,HAND,m a ŋ,98,saenkoromance
+280590,piem1238,HAND,m a ŋ,98,saenkoromance
+280591,piem1238,HAND,m a ŋ,98,saenkoromance
+280592,piem1238,HAND,m a ŋ,98,saenkoromance
+280593,piem1238,HAND,m a ŋ,98,saenkoromance
+280594,roma1328,HAND,m ˈã n,98,saenkoromance
+280595,emil1241,HAND,m a n,98,saenkoromance
+280596,emil1241,HAND,m a ŋ,98,saenkoromance
+280597,emil1241,HAND,m aː n,98,saenkoromance
+280598,ligu1248,HAND,m a ŋ,98,saenkoromance
+280599,ligu1248,HAND,m a ŋ,98,saenkoromance
+280600,vene1258,HAND,m a ŋ,98,saenkoromance
+280601,vene1258,HAND,m a ŋ,98,saenkoromance
+280602,vene1258,HAND,m a ŋ,98,saenkoromance
+280603,ital1282,HAND,m ˈa n + o,98,saenkoromance
+280604,ital1282,HAND,m ˈa n + o,98,saenkoromance
+280605,neap1235,HAND,m ˈa n + ə,98,saenkoromance
+280606,camp1261,HAND,m ˈa n + u,98,saenkoromance
+280607,sici1248,HAND,m ˈa n + u,98,saenkoromance
+280608,sici1248,HAND,m ˈa n + u,98,saenkoromance
+280609,sici1248,HAND,m ˈa n + u,98,saenkoromance
+280610,stan1289,HAND,m a,98,saenkoromance
+280611,stan1289,HAND,m a,98,saenkoromance
+280612,stan1289,HAND,m a,98,saenkoromance
+280613,stan1289,HAND,m a,98,saenkoromance
+280614,stan1289,HAND,m a,98,saenkoromance
+280615,stan1289,HAND,m a,98,saenkoromance
+280616,megl1237,HEAD,k a p,99,saenkoromance
+280617,istr1245,HEAD,k ɒ p,99,saenkoromance
+280618,arom1237,HEAD,k ˈa p + u,99,saenkoromance
+280619,roma1327,HEAD,k a p,99,saenkoromance
+280620,friu1240,HEAD,tʲ aː f,99,saenkoromance
+280621,piem1238,HEAD,t ˈɛ s t + a,101,saenkoromance
+280622,piem1238,HEAD,t ˈɛ s t + a,101,saenkoromance
+280623,piem1238,HEAD,t ˈe s t + a,101,saenkoromance
+280624,piem1238,HEAD,t ˈɛ s t + a,101,saenkoromance
+280625,roma1328,HEAD,t ˈɛ a s t + a,101,saenkoromance
+280626,emil1241,HEAD,k ˈɔ,100,saenkoromance
+280627,emil1241,HEAD,t ˈɛ s t + a,101,saenkoromance
+280628,emil1241,HEAD,t ˈɛ s t + a,101,saenkoromance
+280629,ligu1248,HEAD,t ˈe s t + a,101,saenkoromance
+280630,ligu1248,HEAD,t ˈɛː s t + a,101,saenkoromance
+280631,vene1258,HEAD,t ˈɛ s t + a,101,saenkoromance
+280632,vene1258,HEAD,t ˈɛ s t + a,101,saenkoromance
+280633,vene1258,HEAD,t ˈɛ s t + a,101,saenkoromance
+280634,ital1282,HEAD,t ˈɛ s t + a,101,saenkoromance
+280635,ital1282,HEAD,t ˈɛ s t + a,101,saenkoromance
+280636,neap1235,HEAD,k ˈa p + ə,99,saenkoromance
+280637,camp1261,HEAD,k ˈɔ ŋ k + a,100,saenkoromance
+280638,sici1248,HEAD,t ˈj ˈɛ s t + a,101,saenkoromance
+280639,sici1248,HEAD,t ˈɛ s t + a,101,saenkoromance
+280640,sici1248,HEAD,t ˈɛ s t + a,101,saenkoromance
+280641,stan1289,HEAD,k a p,99,saenkoromance
+280642,stan1289,HEAD,k a p,99,saenkoromance
+280643,stan1289,HEAD,k a p,99,saenkoromance
+280644,stan1289,HEAD,k a p,99,saenkoromance
+280645,stan1289,HEAD,k a p,99,saenkoromance
+280646,stan1289,HEAD,k a p,99,saenkoromance
+280647,megl1237,HEAR,u t,105,saenkoromance
+280648,istr1245,HEAR,a v z + ˈi,104,saenkoromance
+280649,arom1237,HEAR,ˈa v d + u,102,saenkoromance
+280650,roma1327,HEAR,a + a w z + ˈi,104,saenkoromance
+280651,friu1240,HEAR,s i n t + ˈiː,103,saenkoromance
+280652,piem1238,HEAR,s ˈɛ ŋ t + e,103,saenkoromance
+280653,piem1238,HEAR,s ˈɛ ŋ t + e,103,saenkoromance
+280654,piem1238,HEAR,s ˈɛ ŋ t + e,103,saenkoromance
+280655,piem1238,HEAR,s ˈeː ŋ t + i,103,saenkoromance
+280656,roma1328,HEAR,s i n t + ˈi,103,saenkoromance
+280657,emil1241,HEAR,s i n t + ˈi r,103,saenkoromance
+280658,emil1241,HEAR,s i ŋ t + ˈiː r,103,saenkoromance
+280659,emil1241,HEAR,s ˈɛ j n t + eː r,103,saenkoromance
+280660,ligu1248,HEAR,s e ŋ t + ˈi,103,saenkoromance
+280661,ligu1248,HEAR,s e ŋ t + ˈi,103,saenkoromance
+280662,vene1258,HEAR,s e ŋ t + ˈi + r,103,saenkoromance
+280663,vene1258,HEAR,s e ŋ t + ˈi + r,103,saenkoromance
+280664,vene1258,HEAR,s e ŋ t + ˈi + r,103,saenkoromance
+280665,ital1282,HEAR,s e n t + ˈi + r e,103,saenkoromance
+280666,ital1282,HEAR,s e n t + ˈi + r e,103,saenkoromance
+280667,neap1235,HEAR,s ə n t + ˈi,103,saenkoromance
+280668,camp1261,HEAR,i n + t ˈɛ n d + i,103,saenkoromance
+280669,sici1248,HEAR,s ˈj ˈɛ n t + i + ɾ i,103,saenkoromance
+280670,sici1248,HEAR,s ˈɛ n t + i + ɾ i,103,saenkoromance
+280671,sici1248,HEAR,s ˈɛ n t + i + ɾ i,103,saenkoromance
+280672,stan1289,HEAR,s ə n t + ˈi,103,saenkoromance
+280673,stan1289,HEAR,s e n t + ˈi,103,saenkoromance
+280674,stan1289,HEAR,s ə n t + ˈi,103,saenkoromance
+280675,stan1289,HEAR,s e n t + ˈi + ɾ,103,saenkoromance
+280676,stan1289,HEAR,s e n t + ˈi + ɾ,103,saenkoromance
+280677,stan1289,HEAR,s e n t + ˈi + ɾ,103,saenkoromance
+280678,megl1237,HEART,b u r ˈi k,108,saenkoromance
+280679,istr1245,HEART,j ˈi r i m + ˈæ,106,saenkoromance
+280680,arom1237,HEART,ˈi n i m + ə,106,saenkoromance
+280681,roma1327,HEART,ˈi n i m + ə,106,saenkoromance
+280682,friu1240,HEART,k uː r,107,saenkoromance
+280683,piem1238,HEART,k œ r,107,saenkoromance
+280684,piem1238,HEART,k œ r,107,saenkoromance
+280685,piem1238,HEART,k œ r,107,saenkoromance
+280686,piem1238,HEART,k œ r,107,saenkoromance
+280687,roma1328,HEART,k ˈɔ a r,107,saenkoromance
+280688,emil1241,HEART,k ˈɔ r,107,saenkoromance
+280689,emil1241,HEART,k oː r,107,saenkoromance
+280690,emil1241,HEART,k oː r,107,saenkoromance
+280691,ligu1248,HEART,k œ,107,saenkoromance
+280692,ligu1248,HEART,k œ,107,saenkoromance
+280693,vene1258,HEART,k w ˈɔ r,107,saenkoromance
+280694,vene1258,HEART,k ˈɔ r,107,saenkoromance
+280695,vene1258,HEART,k ˈɔ r,107,saenkoromance
+280696,ital1282,HEART,k ˈw ˈɔ r + e,107,saenkoromance
+280697,ital1282,HEART,k ˈɔ r + e,107,saenkoromance
+280698,neap1235,HEART,k ˈɔ r + ə,107,saenkoromance
+280699,camp1261,HEART,k ˈɔ r + u,107,saenkoromance
+280700,sici1248,HEART,k ˈw ˈɔ ɾ + i,107,saenkoromance
+280701,sici1248,HEART,k ˈɔ ɾ + i,107,saenkoromance
+280702,sici1248,HEART,k ˈɔ ɾ + i,107,saenkoromance
+280703,stan1289,HEART,k ˈɔ ɾ,107,saenkoromance
+280704,stan1289,HEART,k ˈɔ ɾ,107,saenkoromance
+280705,stan1289,HEART,k ˈɔ,107,saenkoromance
+280706,stan1289,HEART,k ˈɔ ɾ,107,saenkoromance
+280707,stan1289,HEART,k ˈɔ ɾ,107,saenkoromance
+280708,stan1289,HEART,k ˈɔ ɾ,107,saenkoromance
+280709,megl1237,HEAVY,ɡ r e w,109,saenkoromance
+280710,istr1245,HEAVY,ɡ r e v,109,saenkoromance
+280711,arom1237,HEAVY,ɡ r e w,109,saenkoromance
+280712,roma1327,HEAVY,ɡ r e w,109,saenkoromance
+280713,friu1240,HEAVY,p e z + ˈa n t,110,saenkoromance
+280714,piem1238,HEAVY,ɡ r ˈɛ v,109,saenkoromance
+280715,piem1238,HEAVY,ɡ r ˈɛ v,109,saenkoromance
+280716,piem1238,HEAVY,ɡ r ˈɛ v,109,saenkoromance
+280717,piem1238,HEAVY,p i z + ˈaː ŋ t,110,saenkoromance
+280718,roma1328,HEAVY,p ˈɛ z + ˈã n t,110,saenkoromance
+280719,emil1241,HEAVY,p e s,110,saenkoromance
+280720,emil1241,HEAVY,p eː z,110,saenkoromance
+280721,emil1241,HEAVY,p ˈɛ j z,110,saenkoromance
+280722,ligu1248,HEAVY,p e z + ˈaː ŋ t + e,110,saenkoromance
+280723,ligu1248,HEAVY,p e z + ˈaː ŋ t + e,110,saenkoromance
+280724,vene1258,HEAVY,p e z + ˈa ŋ t + e,110,saenkoromance
+280725,vene1258,HEAVY,ɡ r e w,109,saenkoromance
+280726,vene1258,HEAVY,p e z + ˈa ŋ t + e,110,saenkoromance
+280727,ital1282,HEAVY,p e s + ˈa n t + e,110,saenkoromance
+280728,ital1282,HEAVY,p ˈe s + o,110,saenkoromance
+280729,neap1235,HEAVY,p ə s + ˈa n t + ə,110,saenkoromance
+280730,camp1261,HEAVY,ɡ r a j,109,saenkoromance
+280731,sici1248,HEAVY,p i s + ˈa n t + i,110,saenkoromance
+280732,sici1248,HEAVY,p i s + ˈa n t + i,110,saenkoromance
+280733,sici1248,HEAVY,p i s + ˈa n t + i,110,saenkoromance
+280734,stan1289,HEAVY,p ə z + ˈa t,110,saenkoromance
+280735,stan1289,HEAVY,p e z + ˈa t,110,saenkoromance
+280736,stan1289,HEAVY,p ə z + ˈa t,110,saenkoromance
+280737,stan1289,HEAVY,p e z + ˈa t,110,saenkoromance
+280738,stan1289,HEAVY,p e z + ˈa t,110,saenkoromance
+280739,stan1289,HEAVY,p e z + ˈa t,110,saenkoromance
+280740,megl1237,HORN (ANATOMY),k o r n,111,saenkoromance
+280741,istr1245,HORN (ANATOMY),k o r n,111,saenkoromance
+280742,arom1237,HORN (ANATOMY),k ˈo r n + u,111,saenkoromance
+280743,roma1327,HORN (ANATOMY),k o r n,111,saenkoromance
+280744,friu1240,HORN (ANATOMY),k w aː r,111,saenkoromance
+280745,piem1238,HORN (ANATOMY),k ˈɔ r n,111,saenkoromance
+280746,piem1238,HORN (ANATOMY),k ˈɔ r n,111,saenkoromance
+280747,piem1238,HORN (ANATOMY),k ˈɔ r n,111,saenkoromance
+280748,piem1238,HORN (ANATOMY),k ˈɔː r n + u,111,saenkoromance
+280749,roma1328,HORN (ANATOMY),k ˈɔ a r a n,111,saenkoromance
+280750,emil1241,HORN (ANATOMY),k ˈɔ r a n,111,saenkoromance
+280751,emil1241,HORN (ANATOMY),k ˈɔ r e n,111,saenkoromance
+280752,emil1241,HORN (ANATOMY),k ˈɔː r e n,111,saenkoromance
+280753,ligu1248,HORN (ANATOMY),k ˈɔ r n + u,111,saenkoromance
+280754,ligu1248,HORN (ANATOMY),k ˈɔː r n + u,111,saenkoromance
+280755,vene1258,HORN (ANATOMY),k ˈɔ r n + o,111,saenkoromance
+280756,vene1258,HORN (ANATOMY),k ˈɔ r n + o,111,saenkoromance
+280757,vene1258,HORN (ANATOMY),k ˈɔ r n + o,111,saenkoromance
+280758,ital1282,HORN (ANATOMY),k ˈɔ r n + o,111,saenkoromance
+280759,ital1282,HORN (ANATOMY),k ˈɔ r n + o,111,saenkoromance
+280760,neap1235,HORN (ANATOMY),k ˈɔ r n + ə,111,saenkoromance
+280761,camp1261,HORN (ANATOMY),k ˈɔ rː + u,111,saenkoromance
+280762,sici1248,HORN (ANATOMY),k ˈw ˈɔ ɾ n + u,111,saenkoromance
+280763,sici1248,HORN (ANATOMY),k ˈɔ ɾ n + u,111,saenkoromance
+280764,sici1248,HORN (ANATOMY),k ˈw ˈɔ ɾ n + u,111,saenkoromance
+280765,stan1289,HORN (ANATOMY),b ˈa ɲ + ə,112,saenkoromance
+280766,stan1289,HORN (ANATOMY),b ˈa ɲ + ˈɛ,112,saenkoromance
+280767,stan1289,HORN (ANATOMY),b ˈa ɲ + ə,112,saenkoromance
+280768,stan1289,HORN (ANATOMY),b ˈa ɲ + a,112,saenkoromance
+280769,stan1289,HORN (ANATOMY),b ˈa ɲ + a,112,saenkoromance
+280770,stan1289,HORN (ANATOMY),b ˈa ɲ + a,112,saenkoromance
+280771,megl1237,KILL,n e k,123,saenkoromance
+280772,istr1245,KILL,u tʃ ˈi d + e,122,saenkoromance
+280773,arom1237,KILL,v ˈa t + ə m,118,saenkoromance
+280774,roma1327,KILL,a + u tʃ ˈi d + e,122,saenkoromance
+280775,friu1240,KILL,k o p + ˈaː,121,saenkoromance
+280776,piem1238,KILL,m a s + ˈe,120,saenkoromance
+280777,piem1238,KILL,m a s + ˈe,120,saenkoromance
+280778,piem1238,KILL,m a s + ˈe,120,saenkoromance
+280779,piem1238,KILL,m a s + ˈɛ,120,saenkoromance
+280780,roma1328,KILL,a + k u p + ˈe a,124,saenkoromance
+280781,emil1241,KILL,m a ts + ˈa r,120,saenkoromance
+280782,emil1241,KILL,m a s + ˈɛː r,120,saenkoromance
+280783,emil1241,KILL,m a s + ˈɛː r,120,saenkoromance
+280784,ligu1248,KILL,a + mː a sː + ˈa,120,saenkoromance
+280785,ligu1248,KILL,m a tːs + ˈɛ,120,saenkoromance
+280786,vene1258,KILL,k o p + ˈa + r,124,saenkoromance
+280787,vene1258,KILL,k o p + ˈa + r,124,saenkoromance
+280788,vene1258,KILL,k o p + ˈa + r,124,saenkoromance
+280789,ital1282,KILL,u tːʃ ˈi d + e + r e,122,saenkoromance
+280790,ital1282,KILL,a + mː a tːs + ˈa + r e,120,saenkoromance
+280791,neap1235,KILL,a + tːʃ ˈi ɾ + ə + r ə,122,saenkoromance
+280792,camp1261,KILL,b o tːʃ ˈi r + i,119,saenkoromance
+280793,sici1248,KILL,a + mː a tːs + ˈa + ɾ i,120,saenkoromance
+280794,sici1248,KILL,a + mː a tːs + ˈa + ɾ i,120,saenkoromance
+280795,sici1248,KILL,a + mː a tːs + ˈa + ɾ i,120,saenkoromance
+280796,stan1289,KILL,m ə t + ˈa,120,saenkoromance
+280797,stan1289,KILL,m a t + ˈa,120,saenkoromance
+280798,stan1289,KILL,m ə t + ˈa,120,saenkoromance
+280799,stan1289,KILL,m a t + ˈa + ɾ,120,saenkoromance
+280800,stan1289,KILL,m a t + ˈa + ɾ,120,saenkoromance
+280801,stan1289,KILL,m a t + ˈa + ɾ,120,saenkoromance
+280802,roma1327,KILL,a + o m o r + ˈɨ,125,saenkoromance
+280803,megl1237,KNEE,z i n ˈu k ʎ + u,126,saenkoromance
+280804,istr1245,KNEE,ʒ e r ˈu ŋ k ʎ + u,126,saenkoromance
+280805,arom1237,KNEE,dz i n ˈu k ʎ + u,126,saenkoromance
+280806,roma1327,KNEE,dʒ e n ˈu ŋ kʲ,126,saenkoromance
+280807,friu1240,KNEE,dʒ e n ˈɔ l + i,126,saenkoromance
+280808,piem1238,KNEE,dʒ i n ˈu j,126,saenkoromance
+280809,piem1238,KNEE,dʒ i n ˈu j,126,saenkoromance
+280810,piem1238,KNEE,dʒ i n ˈu j,126,saenkoromance
+280811,piem1238,KNEE,z n œ tʃ,126,saenkoromance
+280812,roma1328,KNEE,dz n ˈɔ tʃ,126,saenkoromance
+280813,emil1241,KNEE,dz n ˈɔ tʃ,126,saenkoromance
+280814,emil1241,KNEE,z n ɔː tʃ,126,saenkoromance
+280815,emil1241,KNEE,dz n ɔː tʃ,126,saenkoromance
+280816,ligu1248,KNEE,z e n ˈu dʒː + u,126,saenkoromance
+280817,ligu1248,KNEE,dz e n ˈu dʒː + u,126,saenkoromance
+280818,vene1258,KNEE,z e n ˈɔ tʃ + o,126,saenkoromance
+280819,vene1258,KNEE,d e n ˈɔ tʃ + o,126,saenkoromance
+280820,vene1258,KNEE,d e n ˈɔ tʃ + o,126,saenkoromance
+280821,ital1282,KNEE,dʒ i n ˈɔ kː j + o,126,saenkoromance
+280822,ital1282,KNEE,dʒ i n ˈɔ kː j + o,126,saenkoromance
+280823,neap1235,KNEE,d ə n ˈu kː j + ə,126,saenkoromance
+280824,camp1261,KNEE,ʒ e n ˈu ɣ + u,126,saenkoromance
+280825,sici1248,KNEE,ɾ i n ˈw ˈɔ kː j + u,126,saenkoromance
+280826,sici1248,KNEE,dʒ i n ˈɔ kː j + u,126,saenkoromance
+280827,sici1248,KNEE,ɾ i n ˈw ˈɔ tːʃ + u,126,saenkoromance
+280828,stan1289,KNEE,ʒ ə n ˈo ʎ,126,saenkoromance
+280829,stan1289,KNEE,ʒ i n ˈo ʎ,126,saenkoromance
+280830,stan1289,KNEE,ʒ u n ˈo j,126,saenkoromance
+280831,stan1289,KNEE,dʒ i n ˈo ʎ,126,saenkoromance
+280832,stan1289,KNEE,tʃ i n ˈo ʎ,126,saenkoromance
+280833,stan1289,KNEE,tʃ i n ˈo ʎ,126,saenkoromance
+280834,megl1237,KNOW (SOMETHING),ʃ t i + w,127,saenkoromance
+280835,istr1245,KNOW (SOMETHING),ʃ t i,127,saenkoromance
+280836,arom1237,KNOW (SOMETHING),ʃ t i + w,127,saenkoromance
+280837,roma1327,KNOW (SOMETHING),a + ʃ t ˈi,127,saenkoromance
+280838,friu1240,KNOW (SOMETHING),s a v + ˈeː,128,saenkoromance
+280839,piem1238,KNOW (SOMETHING),s a v + ˈɛ j,128,saenkoromance
+280840,piem1238,KNOW (SOMETHING),s a v + ˈɛ j,128,saenkoromance
+280841,piem1238,KNOW (SOMETHING),s a v + ˈɛ j,128,saenkoromance
+280842,piem1238,KNOW (SOMETHING),s a v + ˈe j,128,saenkoromance
+280843,roma1328,KNOW (SOMETHING),s a v + ˈeː,128,saenkoromance
+280844,emil1241,KNOW (SOMETHING),s a + ˈɛ r,128,saenkoromance
+280845,emil1241,KNOW (SOMETHING),s a v + ˈe r,128,saenkoromance
+280846,emil1241,KNOW (SOMETHING),s a v + ˈɛ j r,128,saenkoromance
+280847,ligu1248,KNOW (SOMETHING),s a v + ˈe j,128,saenkoromance
+280848,ligu1248,KNOW (SOMETHING),s a v + ˈɛ j,128,saenkoromance
+280849,vene1258,KNOW (SOMETHING),s a v + ˈe + r,128,saenkoromance
+280850,vene1258,KNOW (SOMETHING),s a e r,128,saenkoromance
+280851,vene1258,KNOW (SOMETHING),s a v + ˈe r,128,saenkoromance
+280852,ital1282,KNOW (SOMETHING),s a p + ˈe + r e,128,saenkoromance
+280853,ital1282,KNOW (SOMETHING),s a p + ˈe + r e,128,saenkoromance
+280854,neap1235,KNOW (SOMETHING),s a p + ˈɛ,128,saenkoromance
+280855,camp1261,KNOW (SOMETHING),ʃ ˈi r + i,128,saenkoromance
+280856,sici1248,KNOW (SOMETHING),s ˈa p + i + ɾ i,128,saenkoromance
+280857,sici1248,KNOW (SOMETHING),s a p + ˈi + ɾ i,128,saenkoromance
+280858,sici1248,KNOW (SOMETHING),s a p + ˈi + ɾ i,128,saenkoromance
+280859,stan1289,KNOW (SOMETHING),s a β + ˈɛ,128,saenkoromance
+280860,stan1289,KNOW (SOMETHING),s a β + ˈe,128,saenkoromance
+280861,stan1289,KNOW (SOMETHING),s ˈɛ β + ɾ ə,128,saenkoromance
+280862,stan1289,KNOW (SOMETHING),s a β + ˈe + ɾ,128,saenkoromance
+280863,stan1289,KNOW (SOMETHING),s a β + ˈe + ɾ,128,saenkoromance
+280864,stan1289,KNOW (SOMETHING),s a β + ˈe + ɾ,128,saenkoromance
+280865,megl1237,LEAF,f r ˈu n z + ə,129,saenkoromance
+280866,istr1245,LEAF,f ˈo ʎ + e,130,saenkoromance
+280867,arom1237,LEAF,f r ˈɨ n dz + ə,129,saenkoromance
+280868,roma1327,LEAF,ˈf r u n z + ə,129,saenkoromance
+280869,friu1240,LEAF,f ˈw e + e,130,saenkoromance
+280870,piem1238,LEAF,f ˈœ j + a,130,saenkoromance
+280871,piem1238,LEAF,f ˈœ j + a,130,saenkoromance
+280872,piem1238,LEAF,f ˈœ j + a,130,saenkoromance
+280873,piem1238,LEAF,f ˈɔː j + a,130,saenkoromance
+280874,roma1328,LEAF,f ˈo j + a,130,saenkoromance
+280875,emil1241,LEAF,f ˈɔ j + a,130,saenkoromance
+280876,emil1241,LEAF,f ˈo j + a,130,saenkoromance
+280877,emil1241,LEAF,f ˈɔ j + a,130,saenkoromance
+280878,ligu1248,LEAF,f ˈœ dʒ + a,130,saenkoromance
+280879,ligu1248,LEAF,f ˈœː j + a,130,saenkoromance
+280880,vene1258,LEAF,f ˈɔ j + a,130,saenkoromance
+280881,vene1258,LEAF,f ˈɔ j + a,130,saenkoromance
+280882,vene1258,LEAF,f ˈɔ j + a,130,saenkoromance
+280883,ital1282,LEAF,f ˈɔ ʎː + a,130,saenkoromance
+280884,ital1282,LEAF,f ˈɔ ʎː + a,130,saenkoromance
+280885,neap1235,LEAF,f ˈɔ ʎː + ə,130,saenkoromance
+280886,camp1261,LEAF,f ˈɔ lː + a,130,saenkoromance
+280887,sici1248,LEAF,f ˈw ˈɔ ɡː j + a,130,saenkoromance
+280888,sici1248,LEAF,f ˈɔ ɡː j + a,130,saenkoromance
+280889,sici1248,LEAF,f ˈɔ ɡː j + a,130,saenkoromance
+280890,stan1289,LEAF,f ˈu ʎ + ə,130,saenkoromance
+280891,stan1289,LEAF,f ˈu ʎ + ˈɛ,130,saenkoromance
+280892,stan1289,LEAF,f ˈu + ə,130,saenkoromance
+280893,stan1289,LEAF,f ˈu ʎ + a,130,saenkoromance
+280894,stan1289,LEAF,f ˈu ʎ + a,130,saenkoromance
+280895,stan1289,LEAF,f ˈu ʎ + a,130,saenkoromance
+280896,sici1248,LEAF,p ˈa m p i n + a,131,saenkoromance
+280897,sici1248,LEAF,p ˈa mː i n + a,131,saenkoromance
+280898,megl1237,LIE (REST),z a k,132,saenkoromance
+280899,istr1245,LIE (REST),z a tʃ + ˈɒ,132,saenkoromance
+280900,arom1237,LIE (REST),dz ˈa k + u,132,saenkoromance
+280901,roma1327,LIE (REST),a + s t ˈa + k u l k + ˈa t,138,saenkoromance
+280902,friu1240,LIE (REST),j e s i + d i s + t i r + ˈaː t,135,saenkoromance
+280903,piem1238,LIE (REST),s t + ˈe + k u dʒ + ˈa,138,saenkoromance
+280904,piem1238,LIE (REST),s t + ˈe + k u dʒ + ˈa,138,saenkoromance
+280905,piem1238,LIE (REST),s t + ˈe + k u dʒ + ˈa,138,saenkoromance
+280906,piem1238,LIE (REST),s t ˈɛ + k w a t + ˈaː,144,saenkoromance
+280907,emil1241,LIE (REST),k u tʃ + ˈa r + s,134,saenkoromance
+280908,emil1241,LIE (REST),z a k + ˈɛː r,132,saenkoromance
+280909,emil1241,LIE (REST),dz a k + ˈɛː r,132,saenkoromance
+280910,ligu1248,LIE (REST),s d r ˈa j + aː + s e,137,saenkoromance
+280911,ligu1248,LIE (REST),r u + v e r s + ˈeː + s e,141,saenkoromance
+280912,vene1258,LIE (REST),s t + ˈa + r + d e s + t i r + ˈa,135,saenkoromance
+280913,vene1258,LIE (REST),s t + ˈa + r + b u t + ˈa + d o,138,saenkoromance
+280914,vene1258,LIE (REST),s t + ˈa + r + b u t + ˈa + d o,138,saenkoromance
+280915,ital1282,LIE (REST),ˈɛ sː + e + r e + z d r a j + ˈa + t + o,136,saenkoromance
+280916,ital1282,LIE (REST),ˈɛ sː + e + r e + z d r a j + ˈa + t + o,136,saenkoromance
+280917,neap1235,LIE (REST),s t + ˈa + k u kː + ˈa t + ə,138,saenkoromance
+280918,camp1261,LIE (REST),a b a rː + ˈa j + k r o kː + ˈa w,133,saenkoromance
+280919,sici1248,LIE (REST),k u ɾ k + ˈa + ɾ i + s i,139,saenkoromance
+280920,sici1248,LIE (REST),k u ɾ k + ˈa + ɾ i + s i,139,saenkoromance
+280921,sici1248,LIE (REST),ʃ t i nː + i + r i + s i,142,saenkoromance
+280922,stan1289,LIE (REST),ə s t + ˈa + s t i ɾ + ˈa t,140,saenkoromance
+280923,stan1289,LIE (REST),a s t + ˈa + a + s t i ɾ + ˈa + t,140,saenkoromance
+280924,stan1289,LIE (REST),ʒ ˈɛ w + ɾ ə,143,saenkoromance
+280925,stan1289,LIE (REST),e s t + ˈa + ɾ + t o m b + ˈa + t,140,saenkoromance
+280926,stan1289,LIE (REST),tʃ i t + ˈa + ɾ + s e,145,saenkoromance
+280927,stan1289,LIE (REST),e s t + ˈa + ɾ + tʃ i t + ˈa + t,140,saenkoromance
+280928,megl1237,LIVER,d r o p,147,saenkoromance
+280929,istr1245,LIVER,f i k ˈɒ ts,146,saenkoromance
+280930,arom1237,LIVER,tɕ i k ˈa t + u,146,saenkoromance
+280931,roma1327,LIVER,f i k ˈa t,146,saenkoromance
+280932,friu1240,LIVER,f i ˈaː t,146,saenkoromance
+280933,piem1238,LIVER,f ˈi d i k,148,saenkoromance
+280934,piem1238,LIVER,f ˈi d i k,148,saenkoromance
+280935,piem1238,LIVER,f ˈi d i k,148,saenkoromance
+280936,piem1238,LIVER,f ˈiː d i k,148,saenkoromance
+280937,roma1328,LIVER,f ˈeː ɡ a t,146,saenkoromance
+280938,emil1241,LIVER,f ˈɛ ɡ a t,146,saenkoromance
+280939,emil1241,LIVER,f ˈe d e ɡ,148,saenkoromance
+280940,emil1241,LIVER,f ˈe d e ɡ,148,saenkoromance
+280941,ligu1248,LIVER,f i ɡ ˈɛː t + u,146,saenkoromance
+280942,ligu1248,LIVER,f ˈe ɡ a t + u,146,saenkoromance
+280943,vene1258,LIVER,f i ɡ ˈa,146,saenkoromance
+280944,vene1258,LIVER,f ˈɛ ɡ a t + o,146,saenkoromance
+280945,vene1258,LIVER,f ˈe ɡ a t + o,146,saenkoromance
+280946,ital1282,LIVER,f ˈe ɡ a t + o,146,saenkoromance
+280947,ital1282,LIVER,f ˈe ɡ a t + o,146,saenkoromance
+280948,neap1235,LIVER,f ˈɛ ɣ a t + ə,146,saenkoromance
+280949,camp1261,LIVER,f i ɡ ˈa w,146,saenkoromance
+280950,sici1248,LIVER,f ˈi k a t + u,146,saenkoromance
+280951,sici1248,LIVER,f ˈi k a t + u,146,saenkoromance
+280952,sici1248,LIVER,f ˈi k i t + u,146,saenkoromance
+280953,stan1289,LIVER,f ˈe dʒ + ə,146,saenkoromance
+280954,stan1289,LIVER,f ˈe dʒ + e,146,saenkoromance
+280955,stan1289,LIVER,f ˈe dʒ + ə,146,saenkoromance
+280956,stan1289,LIVER,f ˈe dʒ + e,146,saenkoromance
+280957,stan1289,LIVER,f ˈe tʃ + e,146,saenkoromance
+280958,stan1289,LIVER,f ˈe tʃ + e,146,saenkoromance
+280959,megl1237,LONG,l u n k,149,saenkoromance
+280960,istr1245,LONG,l u ŋ ɡ,149,saenkoromance
+280961,arom1237,LONG,l ˈu n ɡ + u,149,saenkoromance
+280962,roma1327,LONG,l u ŋ ɡ,149,saenkoromance
+280963,friu1240,LONG,l u ŋ k,149,saenkoromance
+280964,piem1238,LONG,l u ŋ ɡ,149,saenkoromance
+280965,piem1238,LONG,l u ŋ ɡ,149,saenkoromance
+280966,piem1238,LONG,l u ŋ ɡ,149,saenkoromance
+280967,piem1238,LONG,l oː ŋ,149,saenkoromance
+280968,roma1328,LONG,l o ŋ ɡ,149,saenkoromance
+280969,emil1241,LONG,l u ŋ ɡ,149,saenkoromance
+280970,emil1241,LONG,l u ŋ ɡ,149,saenkoromance
+280971,emil1241,LONG,l ˈɔ ŋ ɡ,149,saenkoromance
+280972,ligu1248,LONG,l ˈu ŋ ɡ + u,149,saenkoromance
+280973,ligu1248,LONG,l ˈu ŋ ɡ + u,149,saenkoromance
+280974,vene1258,LONG,e v ˈo ŋ ɡ + o,149,saenkoromance
+280975,vene1258,LONG,l ˈɔ ŋ k,149,saenkoromance
+280976,vene1258,LONG,l ˈɔ ŋ k,149,saenkoromance
+280977,ital1282,LONG,l ˈu ŋ ɡ + o,149,saenkoromance
+280978,ital1282,LONG,l ˈu ŋ ɡ + o,149,saenkoromance
+280979,neap1235,LONG,l ˈw o ŋ ɡ + ə,149,saenkoromance
+280980,camp1261,LONG,l ˈo ŋ ɡ + u,149,saenkoromance
+280981,sici1248,LONG,l ˈw ˈɔ ŋ ɡ + u,149,saenkoromance
+280982,sici1248,LONG,l ˈɔ ŋ ɡ + u,149,saenkoromance
+280983,sici1248,LONG,l ˈw ˈɔ ŋ k + u,149,saenkoromance
+280984,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280985,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280986,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280987,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280988,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280989,stan1289,LONG,ʎ a ɾ k,149,saenkoromance
+280990,megl1237,LOUSE,p i d ˈu k ʎ + u,150,saenkoromance
+280991,istr1245,LOUSE,p e d ˈu k ʎ + u,150,saenkoromance
+280992,arom1237,LOUSE,p i d ˈu k ʎ + u,150,saenkoromance
+280993,roma1327,LOUSE,p ə d ˈu k + e,150,saenkoromance
+280994,friu1240,LOUSE,p e d ˈɔ l + i,150,saenkoromance
+280995,piem1238,LOUSE,p u j,152,saenkoromance
+280996,piem1238,LOUSE,p u j,152,saenkoromance
+280997,piem1238,LOUSE,p u j,152,saenkoromance
+280998,piem1238,LOUSE,p j œ tʃ,151,saenkoromance
+280999,roma1328,LOUSE,b d ˈɔ tʃ,152,saenkoromance
+281000,emil1241,LOUSE,v d ˈɔ tʃ,150,saenkoromance
+281001,emil1241,LOUSE,p j oː tʃ,151,saenkoromance
+281002,emil1241,LOUSE,p j oː tʃ,151,saenkoromance
+281003,ligu1248,LOUSE,p i ɡ ˈœ dʒː + u,151,saenkoromance
+281004,ligu1248,LOUSE,p ˈj œ dʒː + u,151,saenkoromance
+281005,vene1258,LOUSE,p e ˈɔ tʃ + o,151,saenkoromance
+281006,vene1258,LOUSE,p e d ˈɔ tʃ + o,150,saenkoromance
+281007,vene1258,LOUSE,p e d ˈɔ tʃ + o,150,saenkoromance
+281008,ital1282,LOUSE,p i d ˈɔ kː j + o,150,saenkoromance
+281009,ital1282,LOUSE,p i d ˈɔ kː j + o,150,saenkoromance
+281010,neap1235,LOUSE,p ə ɾ ˈu kː j + ə,150,saenkoromance
+281011,camp1261,LOUSE,p r i ˈo ɣ + u,150,saenkoromance
+281012,sici1248,LOUSE,p i ɾ ˈw ˈɔ kː j + u,150,saenkoromance
+281013,sici1248,LOUSE,p i ɾ ˈɔ kː j + u,150,saenkoromance
+281014,sici1248,LOUSE,p ɾ ˈu tːʃ + u,151,saenkoromance
+281015,stan1289,LOUSE,p o ʎ,152,saenkoromance
+281016,stan1289,LOUSE,p o ʎ,152,saenkoromance
+281017,stan1289,LOUSE,p o j,152,saenkoromance
+281018,stan1289,LOUSE,p o ʎ,152,saenkoromance
+281019,stan1289,LOUSE,p o ʎ,152,saenkoromance
+281020,stan1289,LOUSE,p o ʎ,152,saenkoromance
+281021,megl1237,MAN,b ə r b + ˈa t,153,saenkoromance
+281022,istr1245,MAN,m ˈu ʃ k i,155,saenkoromance
+281023,arom1237,MAN,b ə r b + ˈa t + u,153,saenkoromance
+281024,roma1327,MAN,b ə r b + ˈa t,153,saenkoromance
+281025,friu1240,MAN,ˈɔ m,154,saenkoromance
+281026,piem1238,MAN,ˈɔ m,154,saenkoromance
+281027,piem1238,MAN,ˈɔ m,154,saenkoromance
+281028,piem1238,MAN,ˈɔ m,154,saenkoromance
+281029,piem1238,MAN,ˈoː m + a ŋ,154,saenkoromance
+281030,roma1328,MAN,o m,154,saenkoromance
+281031,emil1241,MAN,ˈɔ m + a n,154,saenkoromance
+281032,emil1241,MAN,ˈɔ m,154,saenkoromance
+281033,emil1241,MAN,o m,154,saenkoromance
+281034,ligu1248,MAN,ˈɔ mː + u,154,saenkoromance
+281035,ligu1248,MAN,ˈɔ mː + u,154,saenkoromance
+281036,vene1258,MAN,ˈɔ m + o,154,saenkoromance
+281037,vene1258,MAN,ˈɔ m,154,saenkoromance
+281038,vene1258,MAN,ˈɔ m,154,saenkoromance
+281039,ital1282,MAN,ˈw ˈɔ m + o,154,saenkoromance
+281040,ital1282,MAN,ˈɔ m + o,154,saenkoromance
+281041,neap1235,MAN,ˈɔ mː + ə,154,saenkoromance
+281042,camp1261,MAN,ˈo mː + i n + i,154,saenkoromance
+281043,sici1248,MAN,m ˈa ʃ k u l + u,155,saenkoromance
+281044,sici1248,MAN,ˈɔ m + u,154,saenkoromance
+281045,sici1248,MAN,ˈw ˈɔ mː + i n + u,154,saenkoromance
+281046,stan1289,MAN,ˈɔ m ə,154,saenkoromance
+281047,stan1289,MAN,ˈɔ m e,154,saenkoromance
+281048,stan1289,MAN,ˈɔ m u,154,saenkoromance
+281049,stan1289,MAN,ˈɔ m e,154,saenkoromance
+281050,stan1289,MAN,ˈɔ m e,154,saenkoromance
+281051,stan1289,MAN,ˈɔ m e,154,saenkoromance
+281052,megl1237,MANY,m u l t,156,saenkoromance
+281053,istr1245,MANY,tʃ ˈu d a,160,saenkoromance
+281054,arom1237,MANY,m ˈu l t + u,156,saenkoromance
+281055,roma1327,MANY,m u l t,156,saenkoromance
+281056,friu1240,MANY,t a n tʲ,159,saenkoromance
+281057,piem1238,MANY,t ˈa ŋ t,159,saenkoromance
+281058,piem1238,MANY,ə ŋ + m ˈy tʃ,162,saenkoromance
+281059,piem1238,MANY,t ˈa ŋ t + i,159,saenkoromance
+281060,piem1238,MANY,a ŋ + m ˈy tʃ,162,saenkoromance
+281061,roma1328,MANY,u n + m ˈo w n t,162,saenkoromance
+281062,emil1241,MANY,p a r ˈɛ tʃ,158,saenkoromance
+281063,emil1241,MANY,t a n t,159,saenkoromance
+281064,emil1241,MANY,t aː n t,159,saenkoromance
+281065,ligu1248,MANY,m ˈu dʒː + u,156,saenkoromance
+281066,ligu1248,MANY,d i + b ˈæ l + i,163,saenkoromance
+281067,vene1258,MANY,t ˈa ŋ t + i,159,saenkoromance
+281068,vene1258,MANY,t ˈa ŋ t + i,159,saenkoromance
+281069,vene1258,MANY,t ˈa ŋ t + i,159,saenkoromance
+281070,ital1282,MANY,m ˈo l t + o,156,saenkoromance
+281071,ital1282,MANY,t ˈa n t + o,159,saenkoromance
+281072,neap1235,MANY,a sː ˈa j + ə,161,saenkoromance
+281073,camp1261,MANY,m ˈe ð a,157,saenkoromance
+281074,sici1248,MANY,a sː ˈa + i,161,saenkoromance
+281075,sici1248,MANY,a sː ˈa + i,161,saenkoromance
+281076,sici1248,MANY,a sː ˈa + i,161,saenkoromance
+281077,stan1289,MANY,m o lˠ,156,saenkoromance
+281078,stan1289,MANY,m o lˠ,156,saenkoromance
+281079,stan1289,MANY,m o lˠ t,156,saenkoromance
+281080,stan1289,MANY,m o lˠ t,156,saenkoromance
+281081,stan1289,MANY,m o lˠ t,156,saenkoromance
+281082,stan1289,MANY,m o lˠ t,156,saenkoromance
+281083,istr1245,MANY,m a j + m ˈu n t,162,saenkoromance
+281084,piem1238,MANY,t ˈa ŋ t + i,159,saenkoromance
+281085,piem1238,MANY,t ˈa ŋ tʃ + i,159,saenkoromance
+281086,ital1282,MANY,t ˈa n t + o,159,saenkoromance
+281087,neap1235,MANY,p a r ˈi kː j + ə,158,saenkoromance
+281088,megl1237,MEAT,k ˈa r n + i,164,saenkoromance
+281089,istr1245,MEAT,k ˈɒ r n + e,164,saenkoromance
+281090,arom1237,MEAT,k ˈa r n + e,164,saenkoromance
+281091,roma1327,MEAT,k ˈa r n + e,164,saenkoromance
+281092,friu1240,MEAT,tʲ a r,164,saenkoromance
+281093,piem1238,MEAT,k a r n,164,saenkoromance
+281094,piem1238,MEAT,k a r n,164,saenkoromance
+281095,piem1238,MEAT,k a r n,164,saenkoromance
+281096,piem1238,MEAT,k ˈa r n + e,164,saenkoromance
+281097,roma1328,MEAT,k ˈe a r n + a,164,saenkoromance
+281098,emil1241,MEAT,k ˈa r a n,164,saenkoromance
+281099,emil1241,MEAT,k ˈɛ r n + a,164,saenkoromance
+281100,emil1241,MEAT,k ˈɛː r n + a,164,saenkoromance
+281101,ligu1248,MEAT,k ˈa r n + e,164,saenkoromance
+281102,ligu1248,MEAT,k ˈaː r n + e,164,saenkoromance
+281103,vene1258,MEAT,k ˈa r n + e,164,saenkoromance
+281104,vene1258,MEAT,k ˈa r n + e,164,saenkoromance
+281105,vene1258,MEAT,k ˈa r n + e,164,saenkoromance
+281106,ital1282,MEAT,k ˈa r n + e,164,saenkoromance
+281107,ital1282,MEAT,k ˈa r n + e,164,saenkoromance
+281108,neap1235,MEAT,k ˈa r n + ə,164,saenkoromance
+281109,camp1261,MEAT,p ˈɛ tːs + a,165,saenkoromance
+281110,sici1248,MEAT,k ˈa ɾ n + i,164,saenkoromance
+281111,sici1248,MEAT,k ˈa ɾ n + i,164,saenkoromance
+281112,sici1248,MEAT,k ˈa ɾ n + i,164,saenkoromance
+281113,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281114,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281115,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281116,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281117,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281118,stan1289,MEAT,k a ɾ n,164,saenkoromance
+281119,megl1237,MOON,l ˈu n + ə,166,saenkoromance
+281120,istr1245,MOON,l ˈu r + ˈæ,166,saenkoromance
+281121,arom1237,MOON,l ˈu n + ə,166,saenkoromance
+281122,roma1327,MOON,l ˈu n + ə,166,saenkoromance
+281123,friu1240,MOON,l ˈu n + e,166,saenkoromance
+281124,piem1238,MOON,l ˈy ŋ + a,166,saenkoromance
+281125,piem1238,MOON,l ˈy ŋ + a,166,saenkoromance
+281126,piem1238,MOON,l ˈy ŋ + a,166,saenkoromance
+281127,piem1238,MOON,l ˈy ŋ + a,166,saenkoromance
+281128,roma1328,MOON,l ˈo w n + a,166,saenkoromance
+281129,emil1241,MOON,l ˈu n + a,166,saenkoromance
+281130,emil1241,MOON,l ˈu n + a,166,saenkoromance
+281131,emil1241,MOON,l ˈuː n + a,166,saenkoromance
+281132,ligu1248,MOON,l ˈy ŋː + a,166,saenkoromance
+281133,ligu1248,MOON,l ˈyː ŋː + a,166,saenkoromance
+281134,vene1258,MOON,l ˈu n + a,166,saenkoromance
+281135,vene1258,MOON,l ˈu n + a,166,saenkoromance
+281136,vene1258,MOON,l ˈu n + a,166,saenkoromance
+281137,ital1282,MOON,l ˈu n + a,166,saenkoromance
+281138,ital1282,MOON,l ˈu n + a,166,saenkoromance
+281139,neap1235,MOON,l ˈu n + ə,166,saenkoromance
+281140,camp1261,MOON,l ˈu n + a,166,saenkoromance
+281141,sici1248,MOON,l ˈu n + a,166,saenkoromance
+281142,sici1248,MOON,l ˈu n + a,166,saenkoromance
+281143,sici1248,MOON,l ˈu n + a,166,saenkoromance
+281144,stan1289,MOON,ʎ ˈu n + ə,166,saenkoromance
+281145,stan1289,MOON,ʎ ˈu n + ˈɛ,166,saenkoromance
+281146,stan1289,MOON,ʎ ˈu n + ə,166,saenkoromance
+281147,stan1289,MOON,ʎ ˈu n + a,166,saenkoromance
+281148,stan1289,MOON,ʎ ˈu n + a,166,saenkoromance
+281149,stan1289,MOON,ʎ ˈu n + a,166,saenkoromance
+281150,megl1237,MOUNTAIN,m ˈu n t + i,167,saenkoromance
+281151,istr1245,MOUNTAIN,k ˈo d r + u,168,saenkoromance
+281152,arom1237,MOUNTAIN,m ˈu n t + e,167,saenkoromance
+281153,roma1327,MOUNTAIN,m ˈu n t + e,167,saenkoromance
+281154,friu1240,MOUNTAIN,m ˈɔ n t,167,saenkoromance
+281155,piem1238,MOUNTAIN,m u ŋ t + ˈa ɲ + a,167,saenkoromance
+281156,piem1238,MOUNTAIN,m u ŋ t,167,saenkoromance
+281157,piem1238,MOUNTAIN,m u ŋ t + ˈa ɲ + a,167,saenkoromance
+281158,piem1238,MOUNTAIN,m u ŋ t + ˈaː ɲ + a,167,saenkoromance
+281159,roma1328,MOUNTAIN,m o w n t,167,saenkoromance
+281160,emil1241,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281161,emil1241,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281162,emil1241,MOUNTAIN,m u n t + ˈaː ɲ + a,167,saenkoromance
+281163,ligu1248,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281164,ligu1248,MOUNTAIN,b r ˈi kː + u,169,saenkoromance
+281165,vene1258,MOUNTAIN,m o ŋ t + ˈa ɲ + a,167,saenkoromance
+281166,vene1258,MOUNTAIN,m o ŋ t + ˈa ɲ + a,167,saenkoromance
+281167,vene1258,MOUNTAIN,m o ŋ t + ˈa ɲ + a,167,saenkoromance
+281168,ital1282,MOUNTAIN,m o n t + ˈa ɲː + a,167,saenkoromance
+281169,ital1282,MOUNTAIN,m o n t + ˈa ɲː + a,167,saenkoromance
+281170,neap1235,MOUNTAIN,m u n t + ˈa ɲː + ə,167,saenkoromance
+281171,camp1261,MOUNTAIN,m ˈɔ n t + i,167,saenkoromance
+281172,sici1248,MOUNTAIN,m u n t + ˈa ɲː + a,167,saenkoromance
+281173,sici1248,MOUNTAIN,m u n t + ˈa ɲː + a,167,saenkoromance
+281174,sici1248,MOUNTAIN,m u n t + ˈa ɲː + a,167,saenkoromance
+281175,stan1289,MOUNTAIN,m u n t + ˈa ɲ + ə,167,saenkoromance
+281176,stan1289,MOUNTAIN,m u n t + ˈa ɲ + ˈɛ,167,saenkoromance
+281177,stan1289,MOUNTAIN,m u n t + ˈa ɲ + ə,167,saenkoromance
+281178,stan1289,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281179,stan1289,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281180,stan1289,MOUNTAIN,m u n t + ˈa ɲ + a,167,saenkoromance
+281181,megl1237,MOUTH,r o s t,172,saenkoromance
+281182,istr1245,MOUTH,ɡ ˈu r + ˈæ,170,saenkoromance
+281183,arom1237,MOUTH,ɡ ˈu r + ə,170,saenkoromance
+281184,roma1327,MOUTH,ɡ ˈu r + ə,170,saenkoromance
+281185,friu1240,MOUTH,b ˈɔ tʲ + e,171,saenkoromance
+281186,piem1238,MOUTH,b ˈu k + a,171,saenkoromance
+281187,piem1238,MOUTH,b ˈu k + a,171,saenkoromance
+281188,piem1238,MOUTH,b ˈu k + a,171,saenkoromance
+281189,piem1238,MOUTH,b ˈu k + a,171,saenkoromance
+281190,roma1328,MOUTH,b ˈo k + a,171,saenkoromance
+281191,emil1241,MOUTH,b ˈɔ k + a,171,saenkoromance
+281192,emil1241,MOUTH,b ˈɔ k + a,171,saenkoromance
+281193,emil1241,MOUTH,b ˈɔ k + a,171,saenkoromance
+281194,ligu1248,MOUTH,b ˈu kː + a,171,saenkoromance
+281195,ligu1248,MOUTH,b ˈu kː + a,171,saenkoromance
+281196,vene1258,MOUTH,b ˈo k + a,171,saenkoromance
+281197,vene1258,MOUTH,b ˈo k + a,171,saenkoromance
+281198,vene1258,MOUTH,b ˈo k + a,171,saenkoromance
+281199,ital1282,MOUTH,b ˈo kː + a,171,saenkoromance
+281200,ital1282,MOUTH,b ˈo kː + a,171,saenkoromance
+281201,neap1235,MOUTH,v ˈo kː + ə,171,saenkoromance
+281202,camp1261,MOUTH,b ˈu kː + a,171,saenkoromance
+281203,sici1248,MOUTH,v ˈu kː + a,171,saenkoromance
+281204,sici1248,MOUTH,v ˈu kː + a,171,saenkoromance
+281205,sici1248,MOUTH,v ˈu kː + a,171,saenkoromance
+281206,stan1289,MOUTH,b ˈo k + ə,171,saenkoromance
+281207,stan1289,MOUTH,b ˈo k + ˈɛ,171,saenkoromance
+281208,stan1289,MOUTH,b ˈo k + ə,171,saenkoromance
+281209,stan1289,MOUTH,b ˈo k + a,171,saenkoromance
+281210,stan1289,MOUTH,b ˈo k + a,171,saenkoromance
+281211,stan1289,MOUTH,b ˈo k + a,171,saenkoromance
+281212,megl1237,NAME,n ˈu m + i,173,saenkoromance
+281213,istr1245,NAME,l ˈu m e,174,saenkoromance
+281214,arom1237,NAME,n ˈu m + ə,173,saenkoromance
+281215,roma1327,NAME,n ˈu m + e,173,saenkoromance
+281216,friu1240,NAME,n ˈɔ ŋ,173,saenkoromance
+281217,piem1238,NAME,n ˈɔ m,173,saenkoromance
+281218,piem1238,NAME,n ˈɔ m,173,saenkoromance
+281219,piem1238,NAME,n ˈɔ m,173,saenkoromance
+281220,piem1238,NAME,n ɔː m,173,saenkoromance
+281221,roma1328,NAME,n o m,173,saenkoromance
+281222,emil1241,NAME,n o m,173,saenkoromance
+281223,emil1241,NAME,n ˈɔ m,173,saenkoromance
+281224,emil1241,NAME,n ˈɔ m,173,saenkoromance
+281225,ligu1248,NAME,n ˈu mː + e,173,saenkoromance
+281226,ligu1248,NAME,n ˈu mː + e,173,saenkoromance
+281227,vene1258,NAME,n ˈɔ m + e,173,saenkoromance
+281228,vene1258,NAME,n ˈɔ m + e,173,saenkoromance
+281229,vene1258,NAME,n ˈɔ m + e,173,saenkoromance
+281230,ital1282,NAME,n ˈo m + e,173,saenkoromance
+281231,ital1282,NAME,n ˈo m + e,173,saenkoromance
+281232,neap1235,NAME,n ˈɔ mː + ə,173,saenkoromance
+281233,camp1261,NAME,n ˈɔ m i n + i,173,saenkoromance
+281234,sici1248,NAME,n ˈw ˈɔ m + u,173,saenkoromance
+281235,sici1248,NAME,n ˈɔ m + u,173,saenkoromance
+281236,sici1248,NAME,n ˈɔ m + i,173,saenkoromance
+281237,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281238,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281239,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281240,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281241,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281242,stan1289,NAME,n ˈɔ m,173,saenkoromance
+281243,megl1237,NEAR,p r ˈo̯a p + i,175,saenkoromance
+281244,istr1245,NEAR,p r ˈo p + e,175,saenkoromance
+281245,arom1237,NEAR,a + p r ˈo̯a p + e,175,saenkoromance
+281246,roma1327,NEAR,a + p r ˈo v a p + e,175,saenkoromance
+281247,friu1240,NEAR,d ˈɔ n dʲ + e,177,saenkoromance
+281248,piem1238,NEAR,d a + v z ˈi ŋ,176,saenkoromance
+281249,piem1238,NEAR,d a + v z ˈi ŋ,176,saenkoromance
+281250,piem1238,NEAR,v z ˈi ŋ,176,saenkoromance
+281251,piem1238,NEAR,v z iː ŋ,176,saenkoromance
+281252,roma1328,NEAR,b z ˈẽ n,176,saenkoromance
+281253,emil1241,NEAR,v s i n,176,saenkoromance
+281254,emil1241,NEAR,z v ˈɛ j n,176,saenkoromance
+281255,emil1241,NEAR,v z e j n,176,saenkoromance
+281256,ligu1248,NEAR,v i ʒ ˈi n,176,saenkoromance
+281257,ligu1248,NEAR,v i ʒ ˈi n,176,saenkoromance
+281258,vene1258,NEAR,v i s ˈi ŋ,176,saenkoromance
+281259,vene1258,NEAR,v e z ˈi ŋ,176,saenkoromance
+281260,vene1258,NEAR,v i z ˈi ŋ,176,saenkoromance
+281261,ital1282,NEAR,v i tʃ ˈi n + o,176,saenkoromance
+281262,ital1282,NEAR,v i tʃ ˈi n + o,176,saenkoromance
+281263,neap1235,NEAR,v i ʃ ˈi n + ə,176,saenkoromance
+281264,camp1261,NEAR,b i ʒ i n + u,176,saenkoromance
+281265,sici1248,NEAR,v i tʃ ˈi n + u,176,saenkoromance
+281266,sici1248,NEAR,v i tʃ ˈi n + u,176,saenkoromance
+281267,sici1248,NEAR,v i tʃ ˈi n + u,176,saenkoromance
+281268,stan1289,NEAR,ə + p ɾ ˈɔ p,175,saenkoromance
+281269,stan1289,NEAR,a + p ɾ ˈɔ p,175,saenkoromance
+281270,stan1289,NEAR,ə + p ɾ ˈɔ p,175,saenkoromance
+281271,stan1289,NEAR,a + p ɾ ˈɔ p,175,saenkoromance
+281272,stan1289,NEAR,p ɾ ˈɔ p,175,saenkoromance
+281273,stan1289,NEAR,p ɾ ˈɔ p,175,saenkoromance
+281274,emil1241,NEAR,a r ˈɛ j n t,178,saenkoromance
+281275,megl1237,NECK,ɡ ˈu ʃ + ə,179,saenkoromance
+281276,istr1245,NECK,tʃ e r b ˈi tʃ + e,180,saenkoromance
+281277,arom1237,NECK,ɡ ˈu ʃ + e,179,saenkoromance
+281278,roma1327,NECK,ɡ ɨ t,179,saenkoromance
+281279,friu1240,NECK,k w ˈɛ l,179,saenkoromance
+281280,piem1238,NECK,k ˈɔ l,179,saenkoromance
+281281,piem1238,NECK,k ˈɔ l,179,saenkoromance
+281282,piem1238,NECK,k ˈɔ l,179,saenkoromance
+281283,piem1238,NECK,k ˈɔ l,179,saenkoromance
+281284,roma1328,NECK,k ˈɔ l,179,saenkoromance
+281285,emil1241,NECK,k ˈɔ l,179,saenkoromance
+281286,emil1241,NECK,k ɔː l,179,saenkoromance
+281287,emil1241,NECK,k ɔː l,179,saenkoromance
+281288,ligu1248,NECK,k ˈɔ lː + u,179,saenkoromance
+281289,ligu1248,NECK,k ˈoː lː + u,179,saenkoromance
+281290,vene1258,NECK,k ˈɔ e v + o,179,saenkoromance
+281291,vene1258,NECK,k ˈɔ l,179,saenkoromance
+281292,vene1258,NECK,k ˈɔ l,179,saenkoromance
+281293,ital1282,NECK,k ˈɔ lː + o,179,saenkoromance
+281294,ital1282,NECK,k ˈɔ lː + o,179,saenkoromance
+281295,neap1235,NECK,k ˈw o lː + ə,179,saenkoromance
+281296,camp1261,NECK,ts ˈu ɣ + u,179,saenkoromance
+281297,sici1248,NECK,k ˈw ˈɔ ɖː + u,179,saenkoromance
+281298,sici1248,NECK,k ˈɔ ɖː + u,179,saenkoromance
+281299,sici1248,NECK,k ˈw ˈɔ ɖː + u,179,saenkoromance
+281300,stan1289,NECK,k ˈɔ ʎ,179,saenkoromance
+281301,stan1289,NECK,k ˈɔ ʎ,179,saenkoromance
+281302,stan1289,NECK,k ˈɔ j,179,saenkoromance
+281303,stan1289,NECK,k ˈɔ ʎ,179,saenkoromance
+281304,stan1289,NECK,k ˈɔ ʎ,179,saenkoromance
+281305,stan1289,NECK,k ˈɔ ʎ,179,saenkoromance
+281306,megl1237,NEW,n o w,181,saenkoromance
+281307,istr1245,NEW,n o v,181,saenkoromance
+281308,arom1237,NEW,n o w,181,saenkoromance
+281309,roma1327,NEW,n o w,181,saenkoromance
+281310,friu1240,NEW,ɲ uː f,181,saenkoromance
+281311,piem1238,NEW,n œ v,181,saenkoromance
+281312,piem1238,NEW,n œ v,181,saenkoromance
+281313,piem1238,NEW,n œ w,181,saenkoromance
+281314,piem1238,NEW,n œ f,181,saenkoromance
+281315,roma1328,NEW,n ˈɔ a v,181,saenkoromance
+281316,emil1241,NEW,n o v,181,saenkoromance
+281317,emil1241,NEW,n oː v,181,saenkoromance
+281318,emil1241,NEW,n oː v,181,saenkoromance
+281319,ligu1248,NEW,n ˈœː v + u,181,saenkoromance
+281320,ligu1248,NEW,n ˈœː v + u,181,saenkoromance
+281321,vene1258,NEW,n ˈo v + o,181,saenkoromance
+281322,vene1258,NEW,n ˈɔ w,181,saenkoromance
+281323,vene1258,NEW,n ˈo v + o,181,saenkoromance
+281324,ital1282,NEW,n ˈw ˈɔ v + o,181,saenkoromance
+281325,ital1282,NEW,n ˈɔ v + o,181,saenkoromance
+281326,neap1235,NEW,n ˈw o v + ə,181,saenkoromance
+281327,camp1261,NEW,n o w,181,saenkoromance
+281328,sici1248,NEW,n ˈw ˈɔ v + u,181,saenkoromance
+281329,sici1248,NEW,n ˈɔ v + u,181,saenkoromance
+281330,sici1248,NEW,n ˈɔ v + u,181,saenkoromance
+281331,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281332,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281333,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281334,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281335,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281336,stan1289,NEW,n ˈɔ w,181,saenkoromance
+281337,megl1237,NIGHT,n ˈo̯a p t + i,182,saenkoromance
+281338,istr1245,NIGHT,n ˈo p t + e,182,saenkoromance
+281339,arom1237,NIGHT,n ˈo̯a p t + e,182,saenkoromance
+281340,roma1327,NIGHT,n ˈo v a p t + e,182,saenkoromance
+281341,friu1240,NIGHT,ɲ ˈɔ t,182,saenkoromance
+281342,piem1238,NIGHT,n œ j t,182,saenkoromance
+281343,piem1238,NIGHT,n œ j t,182,saenkoromance
+281344,piem1238,NIGHT,n œ j t,182,saenkoromance
+281345,piem1238,NIGHT,n œ tʃ,182,saenkoromance
+281346,roma1328,NIGHT,n ˈɔ t + a,182,saenkoromance
+281347,emil1241,NIGHT,n ˈɔ t,182,saenkoromance
+281348,emil1241,NIGHT,n ɔː t,182,saenkoromance
+281349,emil1241,NIGHT,n ɔː t,182,saenkoromance
+281350,ligu1248,NIGHT,n ˈœ tː + e,182,saenkoromance
+281351,ligu1248,NIGHT,n ˈœ tːʃ + e,182,saenkoromance
+281352,vene1258,NIGHT,n ˈɔ t + e,182,saenkoromance
+281353,vene1258,NIGHT,n ˈɔ t,182,saenkoromance
+281354,vene1258,NIGHT,n ˈɔ t,182,saenkoromance
+281355,ital1282,NIGHT,n ˈɔ tː + e,182,saenkoromance
+281356,ital1282,NIGHT,n ˈɔ t + e,182,saenkoromance
+281357,neap1235,NIGHT,n ˈɔ tː + ə,182,saenkoromance
+281358,camp1261,NIGHT,n ˈɔ tː + i,182,saenkoromance
+281359,sici1248,NIGHT,n ˈw ˈɔ tː + i,182,saenkoromance
+281360,sici1248,NIGHT,n ˈɔ tː + i,182,saenkoromance
+281361,sici1248,NIGHT,n ˈɔ tː + i,182,saenkoromance
+281362,stan1289,NIGHT,n i t,182,saenkoromance
+281363,stan1289,NIGHT,n i t,182,saenkoromance
+281364,stan1289,NIGHT,n i t,182,saenkoromance
+281365,stan1289,NIGHT,n i t,182,saenkoromance
+281366,stan1289,NIGHT,n i t,182,saenkoromance
+281367,stan1289,NIGHT,n i t,182,saenkoromance
+281368,megl1237,NOSE,n a s,183,saenkoromance
+281369,istr1245,NOSE,n ɒ s,183,saenkoromance
+281370,arom1237,NOSE,n ˈa r + e,183,saenkoromance
+281371,roma1327,NOSE,n a s,183,saenkoromance
+281372,friu1240,NOSE,n aː s,183,saenkoromance
+281373,piem1238,NOSE,n a s,183,saenkoromance
+281374,piem1238,NOSE,n a s,183,saenkoromance
+281375,piem1238,NOSE,n a z,183,saenkoromance
+281376,piem1238,NOSE,n a s,183,saenkoromance
+281377,roma1328,NOSE,n e a z,183,saenkoromance
+281378,emil1241,NOSE,n a s,183,saenkoromance
+281379,emil1241,NOSE,n ˈɛː z,183,saenkoromance
+281380,emil1241,NOSE,n ˈɛː s,183,saenkoromance
+281381,ligu1248,NOSE,n ˈa z + u,183,saenkoromance
+281382,ligu1248,NOSE,n ˈaː z + u,183,saenkoromance
+281383,vene1258,NOSE,n ˈa z + o,183,saenkoromance
+281384,vene1258,NOSE,n a s,183,saenkoromance
+281385,vene1258,NOSE,n a s,183,saenkoromance
+281386,ital1282,NOSE,n ˈa s + o,183,saenkoromance
+281387,ital1282,NOSE,n ˈa s + o,183,saenkoromance
+281388,neap1235,NOSE,n ˈa s + ə,183,saenkoromance
+281389,camp1261,NOSE,n ˈa z + u,183,saenkoromance
+281390,sici1248,NOSE,n ˈa s + u,183,saenkoromance
+281391,sici1248,NOSE,n ˈa s + u,183,saenkoromance
+281392,sici1248,NOSE,n ˈa s + u,183,saenkoromance
+281393,stan1289,NOSE,n a s,183,saenkoromance
+281394,stan1289,NOSE,n a s,183,saenkoromance
+281395,stan1289,NOSE,n a s,183,saenkoromance
+281396,stan1289,NOSE,n a s,183,saenkoromance
+281397,stan1289,NOSE,n a s,183,saenkoromance
+281398,stan1289,NOSE,n a s,183,saenkoromance
+281399,megl1237,NOT,n u,184,saenkoromance
+281400,istr1245,NOT,n u,184,saenkoromance
+281401,arom1237,NOT,n u,184,saenkoromance
+281402,roma1327,NOT,n u,184,saenkoromance
+281403,friu1240,NOT,n ˈɔ,184,saenkoromance
+281404,piem1238,NOT,n ˈɛ ŋ,184,saenkoromance
+281405,piem1238,NOT,n ˈɛ ŋ,184,saenkoromance
+281406,piem1238,NOT,n ˈɛ ŋ,184,saenkoromance
+281407,piem1238,NOT,n eː ŋ,184,saenkoromance
+281408,roma1328,NOT,n,184,saenkoromance
+281409,emil1241,NOT,b r ˈi z a,185,saenkoromance
+281410,emil1241,NOT,n ˈɔ,184,saenkoromance
+281411,emil1241,NOT,m ˈia,186,saenkoromance
+281412,ligu1248,NOT,n u,184,saenkoromance
+281413,ligu1248,NOT,n ˈɛ,184,saenkoromance
+281414,vene1258,NOT,n o,184,saenkoromance
+281415,vene1258,NOT,n o,184,saenkoromance
+281416,vene1258,NOT,n o,184,saenkoromance
+281417,ital1282,NOT,n o n,184,saenkoromance
+281418,ital1282,NOT,u n,184,saenkoromance
+281419,neap1235,NOT,n u n,184,saenkoromance
+281420,camp1261,NOT,n ˈɔ,184,saenkoromance
+281421,sici1248,NOT,n ˈɔ,184,saenkoromance
+281422,sici1248,NOT,n ˈɔ,184,saenkoromance
+281423,sici1248,NOT,n u n,184,saenkoromance
+281424,stan1289,NOT,n o,184,saenkoromance
+281425,stan1289,NOT,n o,184,saenkoromance
+281426,stan1289,NOT,n o,184,saenkoromance
+281427,stan1289,NOT,n o,184,saenkoromance
+281428,stan1289,NOT,n o,184,saenkoromance
+281429,stan1289,NOT,n o,184,saenkoromance
+281430,piem1238,NOT,p a,187,saenkoromance
+281431,piem1238,NOT,p a,187,saenkoromance
+281432,emil1241,NOT,m ˈia,186,saenkoromance
+281433,megl1237,ONE,u n,188,saenkoromance
+281434,istr1245,ONE,u r,188,saenkoromance
+281435,arom1237,ONE,ˈu n + u,188,saenkoromance
+281436,roma1327,ONE,u n,188,saenkoromance
+281437,friu1240,ONE,u ŋ,188,saenkoromance
+281438,piem1238,ONE,y ŋ,188,saenkoromance
+281439,piem1238,ONE,y ŋ,188,saenkoromance
+281440,piem1238,ONE,y ŋ,188,saenkoromance
+281441,piem1238,ONE,j y ŋ,188,saenkoromance
+281442,roma1328,ONE,o w n,188,saenkoromance
+281443,emil1241,ONE,u n,188,saenkoromance
+281444,emil1241,ONE,u n,188,saenkoromance
+281445,emil1241,ONE,uː n,188,saenkoromance
+281446,ligu1248,ONE,y ŋ,188,saenkoromance
+281447,ligu1248,ONE,yː ŋ,188,saenkoromance
+281448,vene1258,ONE,ˈu n + o,188,saenkoromance
+281449,vene1258,ONE,u ŋ,188,saenkoromance
+281450,vene1258,ONE,ˈu n + o,188,saenkoromance
+281451,ital1282,ONE,ˈu n + o,188,saenkoromance
+281452,ital1282,ONE,ˈu n + o,188,saenkoromance
+281453,neap1235,ONE,ˈu n + ə,188,saenkoromance
+281454,camp1261,ONE,ˈu n + u,188,saenkoromance
+281455,sici1248,ONE,ˈu n + u,188,saenkoromance
+281456,sici1248,ONE,ˈu n + u,188,saenkoromance
+281457,sici1248,ONE,ˈu n + u,188,saenkoromance
+281458,stan1289,ONE,u n,188,saenkoromance
+281459,stan1289,ONE,u n,188,saenkoromance
+281460,stan1289,ONE,u n,188,saenkoromance
+281461,stan1289,ONE,u n,188,saenkoromance
+281462,stan1289,ONE,u n,188,saenkoromance
+281463,stan1289,ONE,u n,188,saenkoromance
+281464,megl1237,PERSON,w o m,189,saenkoromance
+281465,istr1245,PERSON,o m,189,saenkoromance
+281466,arom1237,PERSON,ˈo m + u,189,saenkoromance
+281467,roma1327,PERSON,o m,189,saenkoromance
+281468,friu1240,PERSON,ˈɔ m,189,saenkoromance
+281469,piem1238,PERSON,ˈɔ m,189,saenkoromance
+281470,piem1238,PERSON,ˈɔ m,189,saenkoromance
+281471,piem1238,PERSON,ˈɔ m,189,saenkoromance
+281472,piem1238,PERSON,ˈoː m + a ŋ,189,saenkoromance
+281473,roma1328,PERSON,s tʃ ˈã n,190,saenkoromance
+281474,emil1241,PERSON,s t j a n,190,saenkoromance
+281475,emil1241,PERSON,ˈɔ m,189,saenkoromance
+281476,emil1241,PERSON,o m,189,saenkoromance
+281477,ligu1248,PERSON,ˈɔ mː + u,189,saenkoromance
+281478,ligu1248,PERSON,k r i s t ˈj a ŋ,191,saenkoromance
+281479,vene1258,PERSON,ˈɔ m + o,189,saenkoromance
+281480,vene1258,PERSON,ˈɔ m,189,saenkoromance
+281481,vene1258,PERSON,ˈɔ m,189,saenkoromance
+281482,ital1282,PERSON,ˈw ˈɔ m + o,189,saenkoromance
+281483,ital1282,PERSON,ˈɔ m + o,189,saenkoromance
+281484,neap1235,PERSON,k r ə s t ˈj a n + ə,191,saenkoromance
+281485,camp1261,PERSON,ˈo mː + i n + i,189,saenkoromance
+281486,sici1248,PERSON,k ɾ i ʃ t j ˈa n + u,191,saenkoromance
+281487,sici1248,PERSON,k ɾ i s t j ˈa n + u,191,saenkoromance
+281488,sici1248,PERSON,k ɾ i ʃ t j ˈa n + u,191,saenkoromance
+281489,stan1289,PERSON,ˈɔ m ə,189,saenkoromance
+281490,stan1289,PERSON,ˈɔ m e,189,saenkoromance
+281491,stan1289,PERSON,ˈɔ m u,189,saenkoromance
+281492,stan1289,PERSON,ˈɔ m e,189,saenkoromance
+281493,stan1289,PERSON,ˈɔ m e,189,saenkoromance
+281494,stan1289,PERSON,ˈɔ m e,189,saenkoromance
+281495,megl1237,RAIN (PRECIPITATION),p l ˈo̯a j + ə,192,saenkoromance
+281496,istr1245,RAIN (PRECIPITATION),p l ˈo j + e,192,saenkoromance
+281497,arom1237,RAIN (PRECIPITATION),p l ˈo̯a j + e,192,saenkoromance
+281498,roma1327,RAIN (PRECIPITATION),p l ˈo v a j + e,192,saenkoromance
+281499,friu1240,RAIN (PRECIPITATION),p l ˈɔ j + e,192,saenkoromance
+281500,piem1238,RAIN (PRECIPITATION),p ˈj œ v + a,192,saenkoromance
+281501,piem1238,RAIN (PRECIPITATION),p ˈj œ v + a,192,saenkoromance
+281502,piem1238,RAIN (PRECIPITATION),p ˈj œ v + a,192,saenkoromance
+281503,piem1238,RAIN (PRECIPITATION),p ˈj ˈɔ v + a,192,saenkoromance
+281504,roma1328,RAIN (PRECIPITATION),p ˈj u v + a,192,saenkoromance
+281505,emil1241,RAIN (PRECIPITATION),p ˈj ˈɔ v + a,192,saenkoromance
+281506,emil1241,RAIN (PRECIPITATION),p ˈj o v + a,192,saenkoromance
+281507,emil1241,RAIN (PRECIPITATION),ˈaː k v + a,193,saenkoromance
+281508,ligu1248,RAIN (PRECIPITATION),p ˈu j + a,192,saenkoromance
+281509,ligu1248,RAIN (PRECIPITATION),ˈæː ɡ w + a,193,saenkoromance
+281510,vene1258,RAIN (PRECIPITATION),p ˈj ˈɔ v + a,192,saenkoromance
+281511,vene1258,RAIN (PRECIPITATION),p ˈj o v + a,192,saenkoromance
+281512,vene1258,RAIN (PRECIPITATION),p ˈj o v + a,192,saenkoromance
+281513,ital1282,RAIN (PRECIPITATION),p ˈj ˈɔ dʒː + a,192,saenkoromance
+281514,ital1282,RAIN (PRECIPITATION),p ˈj ˈɔ dʒː + a,192,saenkoromance
+281515,neap1235,RAIN (PRECIPITATION),k ˈj ˈɔ dʒː + ə,192,saenkoromance
+281516,camp1261,RAIN (PRECIPITATION),ˈa bː + a,193,saenkoromance
+281517,sici1248,RAIN (PRECIPITATION),ˈa kː w + a,193,saenkoromance
+281518,sici1248,RAIN (PRECIPITATION),k j u v + ˈu t + a,192,saenkoromance
+281519,sici1248,RAIN (PRECIPITATION),ˈa kː w + a,193,saenkoromance
+281520,stan1289,RAIN (PRECIPITATION),p lˠ ˈu ʒ + ə,192,saenkoromance
+281521,stan1289,RAIN (PRECIPITATION),p lˠ ˈu ʒ + ˈɛ,192,saenkoromance
+281522,stan1289,RAIN (PRECIPITATION),p lˠ ˈu ʒ + ə,192,saenkoromance
+281523,stan1289,RAIN (PRECIPITATION),p lˠ ˈu dʒ + a,192,saenkoromance
+281524,stan1289,RAIN (PRECIPITATION),p lˠ ˈu tʃ + a,192,saenkoromance
+281525,stan1289,RAIN (PRECIPITATION),p lˠ ˈu tʃ + a,192,saenkoromance
+281526,megl1237,RED,r o ʃ,194,saenkoromance
+281527,istr1245,RED,r ˈo j s + u,194,saenkoromance
+281528,arom1237,RED,a r ˈo ʃ + u,194,saenkoromance
+281529,roma1327,RED,r ˈo ʃ + u,194,saenkoromance
+281530,friu1240,RED,r ˈɔ s,194,saenkoromance
+281531,piem1238,RED,r u s,194,saenkoromance
+281532,piem1238,RED,r u s,194,saenkoromance
+281533,piem1238,RED,r u s,194,saenkoromance
+281534,piem1238,RED,r u s,194,saenkoromance
+281535,roma1328,RED,r o z,194,saenkoromance
+281536,emil1241,RED,r o s,194,saenkoromance
+281537,emil1241,RED,r ˈɔ s,194,saenkoromance
+281538,emil1241,RED,r ˈɔ s,194,saenkoromance
+281539,ligu1248,RED,r ˈu ʒ + u,194,saenkoromance
+281540,ligu1248,RED,r ˈu sː + u,194,saenkoromance
+281541,vene1258,RED,r ˈo s + o,194,saenkoromance
+281542,vene1258,RED,r o s,194,saenkoromance
+281543,vene1258,RED,r o s,194,saenkoromance
+281544,ital1282,RED,r ˈo sː + o,194,saenkoromance
+281545,ital1282,RED,r ˈo sː + o,194,saenkoromance
+281546,neap1235,RED,r ˈu sː + ə,194,saenkoromance
+281547,camp1261,RED,a rː ˈu b j + u,194,saenkoromance
+281548,sici1248,RED,ʐ ˈu sː + u,194,saenkoromance
+281549,sici1248,RED,rː ˈu sː + u,194,saenkoromance
+281550,sici1248,RED,ʐ ˈu sː + u,194,saenkoromance
+281551,stan1289,RED,b ə ɾ m ˈɛ ʎ,195,saenkoromance
+281552,stan1289,RED,r ˈɔ tʃ,194,saenkoromance
+281553,stan1289,RED,v ə ɾ m ˈɛ j,195,saenkoromance
+281554,stan1289,RED,r ˈɔ tʃ,194,saenkoromance
+281555,stan1289,RED,r ˈɔ tʃ,194,saenkoromance
+281556,stan1289,RED,r ˈɔ tʃ,194,saenkoromance
+281557,megl1237,ROAD,d r u m,198,saenkoromance
+281558,istr1245,ROAD,k ˈɒ l + e,196,saenkoromance
+281559,arom1237,ROAD,k ˈa l + e,196,saenkoromance
+281560,roma1327,ROAD,d r u m,198,saenkoromance
+281561,friu1240,ROAD,s t r ˈa d + e,198,saenkoromance
+281562,piem1238,ROAD,s t r a,198,saenkoromance
+281563,piem1238,ROAD,s t r a,198,saenkoromance
+281564,piem1238,ROAD,s t r a,198,saenkoromance
+281565,piem1238,ROAD,s t r a,198,saenkoromance
+281566,roma1328,ROAD,s t r e a,198,saenkoromance
+281567,emil1241,ROAD,s t r ˈa d + a,198,saenkoromance
+281568,emil1241,ROAD,s t r ˈɛ d + a,198,saenkoromance
+281569,emil1241,ROAD,s t r ˈɛː d + a,198,saenkoromance
+281570,ligu1248,ROAD,s t r ˈa dː + a,198,saenkoromance
+281571,ligu1248,ROAD,ʃ t r ˈɔ,198,saenkoromance
+281572,vene1258,ROAD,s t r ˈa d + a,198,saenkoromance
+281573,vene1258,ROAD,s t r ˈa ð + a,198,saenkoromance
+281574,vene1258,ROAD,s t r ˈa ð + a,198,saenkoromance
+281575,ital1282,ROAD,s t r ˈa d + a,198,saenkoromance
+281576,ital1282,ROAD,s t r ˈa d + a,198,saenkoromance
+281577,neap1235,ROAD,s t ˈr a t + ə,198,saenkoromance
+281578,camp1261,ROAD,a rː ˈu ɣ + a,197,saenkoromance
+281579,sici1248,ROAD,ʂ ɽ ˈa t + a,198,saenkoromance
+281580,sici1248,ROAD,ʂ ɽ ˈa t + a,198,saenkoromance
+281581,sici1248,ROAD,ʂ ɽ ˈa t + a,198,saenkoromance
+281582,stan1289,ROAD,k ə m ˈi,199,saenkoromance
+281583,stan1289,ROAD,k a m ˈi,199,saenkoromance
+281584,stan1289,ROAD,k ə m ˈi,199,saenkoromance
+281585,stan1289,ROAD,k a m ˈi,199,saenkoromance
+281586,stan1289,ROAD,k a m ˈi,199,saenkoromance
+281587,stan1289,ROAD,k a m ˈi,199,saenkoromance
+281588,megl1237,ROOT,k ˈo r i n,202,saenkoromance
+281589,istr1245,ROOT,k ˈo r e n,202,saenkoromance
+281590,arom1237,ROOT,a r ə d ə ts + ˈi n + ə,200,saenkoromance
+281591,roma1327,ROOT,r ə d ə tʃ ˈi n + ə,200,saenkoromance
+281592,friu1240,ROOT,l i d r ˈiː s,200,saenkoromance
+281593,piem1238,ROOT,r ˈɛ j s,200,saenkoromance
+281594,piem1238,ROOT,r ˈɛ j s,200,saenkoromance
+281595,piem1238,ROOT,r ˈɛ j z,200,saenkoromance
+281596,piem1238,ROOT,r a d ˈiː s,200,saenkoromance
+281597,roma1328,ROOT,r a d ˈi z + a,200,saenkoromance
+281598,emil1241,ROOT,r a d + ˈi s,200,saenkoromance
+281599,emil1241,ROOT,r a iː z,200,saenkoromance
+281600,emil1241,ROOT,j a r ˈiː s + a,200,saenkoromance
+281601,ligu1248,ROOT,r a d ˈi tʃ + i,200,saenkoromance
+281602,ligu1248,ROOT,r ˈæ j ʒ + e,200,saenkoromance
+281603,vene1258,ROOT,r a ˈi z + a,200,saenkoromance
+281604,vene1258,ROOT,r ˈa ð i s,200,saenkoromance
+281605,vene1258,ROOT,r a ð ˈi z + a,200,saenkoromance
+281606,ital1282,ROOT,r a d ˈi tʃ + e,200,saenkoromance
+281607,ital1282,ROOT,b ˈa r b + a,203,saenkoromance
+281608,neap1235,ROOT,r ˈa ɾ ə k + ə,200,saenkoromance
+281609,camp1261,ROOT,a rː ˈe ʒ i n + i,201,saenkoromance
+281610,sici1248,ROOT,ʐ ˈa ɾ i k + a,200,saenkoromance
+281611,sici1248,ROOT,rː ˈa d i k + a,200,saenkoromance
+281612,sici1248,ROOT,ʐ ˈa ɾ i k + a,200,saenkoromance
+281613,stan1289,ROOT,ə r ˈe lˠ,201,saenkoromance
+281614,stan1289,ROOT,a r ˈe lˠ,201,saenkoromance
+281615,stan1289,ROOT,r ˈɛ lˠ,201,saenkoromance
+281616,stan1289,ROOT,a r ˈɛ lˠ,201,saenkoromance
+281617,stan1289,ROOT,a r ˈɛ lˠ,201,saenkoromance
+281618,stan1289,ROOT,r a ˈi lˠ,200,saenkoromance
+281619,megl1237,ROUND,ɡ u r ɡ u ʎ + a t,204,saenkoromance
+281620,istr1245,ROUND,t o n d,205,saenkoromance
+281621,arom1237,ROUND,ɡ u r ɡ u ʎ + ˈe̯a t + u,204,saenkoromance
+281622,roma1327,ROUND,r o t ˈu n d,205,saenkoromance
+281623,friu1240,ROUND,t a r ˈɔ n t,205,saenkoromance
+281624,piem1238,ROUND,r u t ˈu ŋ d,205,saenkoromance
+281625,piem1238,ROUND,r u t ˈu ŋ d,205,saenkoromance
+281626,piem1238,ROUND,r u t ˈu ŋ d,205,saenkoromance
+281627,piem1238,ROUND,r u t ˈoː ŋ t,205,saenkoromance
+281628,roma1328,ROUND,t o n d,205,saenkoromance
+281629,emil1241,ROUND,t o n d,205,saenkoromance
+281630,emil1241,ROUND,r o t ˈɔ n d,205,saenkoromance
+281631,emil1241,ROUND,a r d ˈɔ n d,205,saenkoromance
+281632,ligu1248,ROUND,r ˈj u ŋ d + u,205,saenkoromance
+281633,ligu1248,ROUND,r ˈj u ŋ d + u,205,saenkoromance
+281634,vene1258,ROUND,t ˈo ŋ d + o,205,saenkoromance
+281635,vene1258,ROUND,t ˈo ŋ d + o,205,saenkoromance
+281636,vene1258,ROUND,t ˈo ŋ d + o,205,saenkoromance
+281637,ital1282,ROUND,r o t ˈo n d + o,205,saenkoromance
+281638,ital1282,ROUND,t ˈo n d + o,205,saenkoromance
+281639,neap1235,ROUND,t ˈu nː + ə,205,saenkoromance
+281640,camp1261,ROUND,t ˈu n d + u,205,saenkoromance
+281641,sici1248,ROUND,t ˈu nː + u,205,saenkoromance
+281642,sici1248,ROUND,t ˈu nː + u,205,saenkoromance
+281643,sici1248,ROUND,t ˈu nː + u,205,saenkoromance
+281644,stan1289,ROUND,r u ð ˈo,206,saenkoromance
+281645,stan1289,ROUND,r o ð ˈo,206,saenkoromance
+281646,stan1289,ROUND,r ə ð ˈo,206,saenkoromance
+281647,stan1289,ROUND,r e ð ˈo,206,saenkoromance
+281648,stan1289,ROUND,r e ð ˈo,206,saenkoromance
+281649,stan1289,ROUND,r e ð ˈo,206,saenkoromance
+281650,arom1237,ROUND,a r u k u t + ˈo s + u,207,saenkoromance
+281651,megl1237,SALT,s ˈa r + i,208,saenkoromance
+281652,istr1245,SALT,s ˈɒ r + e,208,saenkoromance
+281653,arom1237,SALT,s ˈa r + e,208,saenkoromance
+281654,roma1327,SALT,s ˈa r + e,208,saenkoromance
+281655,friu1240,SALT,s aː l,208,saenkoromance
+281656,piem1238,SALT,s a l,208,saenkoromance
+281657,piem1238,SALT,s a l,208,saenkoromance
+281658,piem1238,SALT,s a l,208,saenkoromance
+281659,piem1238,SALT,s a l,208,saenkoromance
+281660,roma1328,SALT,s e a l,208,saenkoromance
+281661,emil1241,SALT,s a l,208,saenkoromance
+281662,emil1241,SALT,s ˈɛː l,208,saenkoromance
+281663,emil1241,SALT,s ˈɛː l,208,saenkoromance
+281664,ligu1248,SALT,s aː,208,saenkoromance
+281665,ligu1248,SALT,s oː,208,saenkoromance
+281666,vene1258,SALT,s a l,208,saenkoromance
+281667,vene1258,SALT,s a l,208,saenkoromance
+281668,vene1258,SALT,s a l,208,saenkoromance
+281669,ital1282,SALT,s ˈa l + e,208,saenkoromance
+281670,ital1282,SALT,s ˈa l + e,208,saenkoromance
+281671,neap1235,SALT,s ˈa l + ə,208,saenkoromance
+281672,camp1261,SALT,s ˈa l + i,208,saenkoromance
+281673,sici1248,SALT,s ˈa l + i,208,saenkoromance
+281674,sici1248,SALT,s ˈa l + i,208,saenkoromance
+281675,sici1248,SALT,s ˈa l + i,208,saenkoromance
+281676,stan1289,SALT,s a lˠ,208,saenkoromance
+281677,stan1289,SALT,s a lˠ,208,saenkoromance
+281678,stan1289,SALT,s a lˠ,208,saenkoromance
+281679,stan1289,SALT,s a lˠ,208,saenkoromance
+281680,stan1289,SALT,s a lˠ,208,saenkoromance
+281681,stan1289,SALT,s a lˠ,208,saenkoromance
+281682,megl1237,SAND,p i s ˈo k,212,saenkoromance
+281683,istr1245,SAND,s a l b ˈu n,211,saenkoromance
+281684,arom1237,SAND,a r ˈi n + ə,209,saenkoromance
+281685,roma1327,SAND,n i s ˈi p,213,saenkoromance
+281686,friu1240,SAND,s a v a l ˈɔ ŋ,210,saenkoromance
+281687,piem1238,SAND,s ˈa b j + a,210,saenkoromance
+281688,piem1238,SAND,s ˈa b j + a,210,saenkoromance
+281689,piem1238,SAND,s ˈa b j + a,210,saenkoromance
+281690,piem1238,SAND,s ˈa b j + a,210,saenkoromance
+281691,roma1328,SAND,s a b ˈj o w n,210,saenkoromance
+281692,emil1241,SAND,s ˈaː b j + a,210,saenkoromance
+281693,emil1241,SAND,s ˈa b j + a,210,saenkoromance
+281694,emil1241,SAND,s ˈa b j + a,210,saenkoromance
+281695,ligu1248,SAND,s ˈa bː j + a,210,saenkoromance
+281696,ligu1248,SAND,s ˈaː bː j + a,210,saenkoromance
+281697,vene1258,SAND,s ˈa b j + a,210,saenkoromance
+281698,vene1258,SAND,s ˈa b j + a,210,saenkoromance
+281699,vene1258,SAND,s ˈa b j + a,210,saenkoromance
+281700,ital1282,SAND,s ˈa bː j + a,210,saenkoromance
+281701,ital1282,SAND,r ˈe n + a,209,saenkoromance
+281702,neap1235,SAND,r ˈe n + a,209,saenkoromance
+281703,camp1261,SAND,a r ˈɛ n + a,209,saenkoromance
+281704,sici1248,SAND,ʐ ˈi n + a,209,saenkoromance
+281705,sici1248,SAND,rː ˈi n + a,209,saenkoromance
+281706,sici1248,SAND,ʐ ˈi n + a,209,saenkoromance
+281707,stan1289,SAND,s ˈo r + ə,214,saenkoromance
+281708,stan1289,SAND,a ɾ ˈe n + ˈɛ,209,saenkoromance
+281709,stan1289,SAND,ə ɾ ˈɛ n + ə,209,saenkoromance
+281710,stan1289,SAND,a ɾ ˈe n + a,209,saenkoromance
+281711,stan1289,SAND,a ɾ ˈe n + a,209,saenkoromance
+281712,stan1289,SAND,a ɾ ˈe n + a,209,saenkoromance
+281713,megl1237,SAY,z i k,215,saenkoromance
+281714,istr1245,SAY,z ˈi tʃ + e,215,saenkoromance
+281715,arom1237,SAY,dz ˈɨ k + u,215,saenkoromance
+281716,roma1327,SAY,a + z ˈi tʃ + e,215,saenkoromance
+281717,friu1240,SAY,d iː,217,saenkoromance
+281718,piem1238,SAY,d i,217,saenkoromance
+281719,piem1238,SAY,d i,217,saenkoromance
+281720,piem1238,SAY,d i,217,saenkoromance
+281721,piem1238,SAY,d iː,217,saenkoromance
+281722,roma1328,SAY,d i,217,saenkoromance
+281723,emil1241,SAY,d i + r,217,saenkoromance
+281724,emil1241,SAY,d iː + r,217,saenkoromance
+281725,emil1241,SAY,d iː + r,217,saenkoromance
+281726,ligu1248,SAY,d i,217,saenkoromance
+281727,ligu1248,SAY,d i,217,saenkoromance
+281728,vene1258,SAY,d i + r,217,saenkoromance
+281729,vene1258,SAY,d i + r,217,saenkoromance
+281730,vene1258,SAY,d i + r,217,saenkoromance
+281731,ital1282,SAY,d ˈi + r e,217,saenkoromance
+281732,ital1282,SAY,d i,217,saenkoromance
+281733,neap1235,SAY,d ˈi ʃ + ə + r ə,217,saenkoromance
+281734,camp1261,SAY,n a j,216,saenkoromance
+281735,sici1248,SAY,ɾ ˈi + ɾ i,217,saenkoromance
+281736,sici1248,SAY,d ˈi + ɾ i,217,saenkoromance
+281737,sici1248,SAY,ɾ ˈi + ɾ i,217,saenkoromance
+281738,stan1289,SAY,d i,217,saenkoromance
+281739,stan1289,SAY,d i,217,saenkoromance
+281740,stan1289,SAY,d i,217,saenkoromance
+281741,stan1289,SAY,d i + ɾ,217,saenkoromance
+281742,stan1289,SAY,d i + ɾ,217,saenkoromance
+281743,stan1289,SAY,d i + ɾ,217,saenkoromance
+281744,megl1237,SAY,s p u n,218,saenkoromance
+281745,arom1237,SAY,a s p ˈu n + u,218,saenkoromance
+281746,roma1327,SAY,a + s p ˈu n + e,218,saenkoromance
+281747,megl1237,SEE,v e t,219,saenkoromance
+281748,istr1245,SEE,v e d + ˈæ,219,saenkoromance
+281749,arom1237,SEE,v ˈe d + u,219,saenkoromance
+281750,roma1327,SEE,a + v e d + ˈe v a,219,saenkoromance
+281751,friu1240,SEE,v ˈj ˈɔ d + i,219,saenkoromance
+281752,piem1238,SEE,v ˈə d + i,219,saenkoromance
+281753,piem1238,SEE,v ˈə d + e,219,saenkoromance
+281754,piem1238,SEE,v ˈə d + e,219,saenkoromance
+281755,piem1238,SEE,v ˈœ ɡ + i,219,saenkoromance
+281756,roma1328,SEE,v d + eː,219,saenkoromance
+281757,emil1241,SEE,v ˈɛ d + a r,219,saenkoromance
+281758,emil1241,SEE,v ˈɛ d + e r,219,saenkoromance
+281759,emil1241,SEE,v ˈɛ d + e r,219,saenkoromance
+281760,ligu1248,SEE,v ˈe dː + e,219,saenkoromance
+281761,ligu1248,SEE,v j ˈɛ j,220,saenkoromance
+281762,vene1258,SEE,v ˈɛ d + e + r,219,saenkoromance
+281763,vene1258,SEE,v ˈe ð + e r,219,saenkoromance
+281764,vene1258,SEE,v ˈe ð + e r,219,saenkoromance
+281765,ital1282,SEE,v e d + ˈe + r e,219,saenkoromance
+281766,ital1282,SEE,v e d + ˈe + r e,219,saenkoromance
+281767,neap1235,SEE,v ə ɾ + ˈɛ,219,saenkoromance
+281768,camp1261,SEE,b ˈi + r i,219,saenkoromance
+281769,sici1248,SEE,v ˈi ɾ + i + ɾ i,219,saenkoromance
+281770,sici1248,SEE,v ˈi d + i + ɾ i,219,saenkoromance
+281771,sici1248,SEE,v ˈi ʐ + i,219,saenkoromance
+281772,stan1289,SEE,b ˈɛ w + ɾ ə,219,saenkoromance
+281773,stan1289,SEE,b ˈɛ w + ɾ e,219,saenkoromance
+281774,stan1289,SEE,v ˈɛ w + ɾ ə,219,saenkoromance
+281775,stan1289,SEE,v ˈɛ w + ɾ e,219,saenkoromance
+281776,stan1289,SEE,v ˈo + ɾ e,219,saenkoromance
+281777,stan1289,SEE,v ˈo + ɾ e,219,saenkoromance
+281778,megl1237,SEED,s i m ˈi n ts + ə,221,saenkoromance
+281779,istr1245,SEED,s e m ˈi n ts + ˈæ,221,saenkoromance
+281780,arom1237,SEED,s i m ˈi n ts + ə,221,saenkoromance
+281781,roma1327,SEED,s ə m ˈɨ n ts + ə,221,saenkoromance
+281782,friu1240,SEED,s e m + ˈɛ n tʃ + e,222,saenkoromance
+281783,piem1238,SEED,s m ˈɛ n s,221,saenkoromance
+281784,piem1238,SEED,s m ˈɛ n s,221,saenkoromance
+281785,piem1238,SEED,s m e n z,221,saenkoromance
+281786,piem1238,SEED,s a m n + ˈɛ,222,saenkoromance
+281787,roma1328,SEED,s m + ˈẽ n t + a,222,saenkoromance
+281788,emil1241,SEED,s m + ˈɛ n t,222,saenkoromance
+281789,emil1241,SEED,s e m + ˈɛ j n s + a,222,saenkoromance
+281790,emil1241,SEED,s m + ˈɛ j n s + a,222,saenkoromance
+281791,ligu1248,SEED,s ˈe m + i,222,saenkoromance
+281792,ligu1248,SEED,s e m + ˈæː ŋ ts + a,222,saenkoromance
+281793,vene1258,SEED,s ˈe m + e,222,saenkoromance
+281794,vene1258,SEED,s e m,222,saenkoromance
+281795,vene1258,SEED,s e m + ˈɛ ŋ θ + a,222,saenkoromance
+281796,ital1282,SEED,s ˈe m + e,222,saenkoromance
+281797,ital1282,SEED,s ˈe m + e,222,saenkoromance
+281798,neap1235,SEED,s ə mː + ˈɛ n t + ə,222,saenkoromance
+281799,camp1261,SEED,s ˈɛ mː + i n + i,222,saenkoromance
+281800,sici1248,SEED,s i m + ˈj ˈɛ n ts + a,222,saenkoromance
+281801,sici1248,SEED,s i m + ˈɛ n ts + a,222,saenkoromance
+281802,sici1248,SEED,s i m + ˈɛ n ts + a,222,saenkoromance
+281803,stan1289,SEED,ʎ ə β ˈo,223,saenkoromance
+281804,stan1289,SEED,ʎ a β ˈo,223,saenkoromance
+281805,stan1289,SEED,ʎ ə v ˈo,223,saenkoromance
+281806,stan1289,SEED,ʎ a v ˈo ɾ,223,saenkoromance
+281807,stan1289,SEED,ʎ a β ˈo ɾ,223,saenkoromance
+281808,stan1289,SEED,ʎ a β ˈo ɾ,223,saenkoromance
+281809,megl1237,SHORT,k u s,225,saenkoromance
+281810,istr1245,SHORT,s k u r t,224,saenkoromance
+281811,arom1237,SHORT,s k ˈu r t + u,224,saenkoromance
+281812,roma1327,SHORT,s k u r t,224,saenkoromance
+281813,friu1240,SHORT,k u r t,224,saenkoromance
+281814,piem1238,SHORT,k y r t,224,saenkoromance
+281815,piem1238,SHORT,k y r t,224,saenkoromance
+281816,piem1238,SHORT,k y r t,224,saenkoromance
+281817,piem1238,SHORT,k œ r t,224,saenkoromance
+281818,roma1328,SHORT,k u r t,224,saenkoromance
+281819,emil1241,SHORT,k u r t,224,saenkoromance
+281820,emil1241,SHORT,k u r t,224,saenkoromance
+281821,emil1241,SHORT,k uː r t,224,saenkoromance
+281822,ligu1248,SHORT,k ˈy r t + u,224,saenkoromance
+281823,ligu1248,SHORT,k ˈy r t + u,224,saenkoromance
+281824,vene1258,SHORT,k ˈu r t + o,224,saenkoromance
+281825,vene1258,SHORT,k u r t,224,saenkoromance
+281826,vene1258,SHORT,k u r t,224,saenkoromance
+281827,ital1282,SHORT,k ˈo r t + o,224,saenkoromance
+281828,ital1282,SHORT,k ˈo r t + o,224,saenkoromance
+281829,neap1235,SHORT,k ˈu r t + ə,224,saenkoromance
+281830,camp1261,SHORT,k r ˈu tːs + u,224,saenkoromance
+281831,sici1248,SHORT,k ˈu ɾ t + u,224,saenkoromance
+281832,sici1248,SHORT,k ˈu ɾ t + u,224,saenkoromance
+281833,sici1248,SHORT,k ˈu ɾ t + u,224,saenkoromance
+281834,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281835,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281836,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281837,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281838,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281839,stan1289,SHORT,k u ɾ t,224,saenkoromance
+281840,megl1237,SIT,s o t,226,saenkoromance
+281841,istr1245,SIT,ʃ e d + ˈæ,226,saenkoromance
+281842,arom1237,SIT,ʃ ˈe d + u,226,saenkoromance
+281843,roma1327,SIT,a + ʃ e d + ˈe v a,226,saenkoromance
+281844,friu1240,SIT,s t aː + s e n t ˈaː t,228,saenkoromance
+281845,piem1238,SIT,s t + ˈe,226,saenkoromance
+281846,piem1238,SIT,s t + ˈe + s ˈɛ t + ˈa,229,saenkoromance
+281847,piem1238,SIT,s t ˈe + s e,228,saenkoromance
+281848,piem1238,SIT,s a t ˈɛ + s i,228,saenkoromance
+281849,roma1328,SIT,z d + eː,226,saenkoromance
+281850,emil1241,SIT,s a n t + ˈa r + a s,227,saenkoromance
+281851,emil1241,SIT,s ˈe d + e r,226,saenkoromance
+281852,emil1241,SIT,s ˈeː d + e r,226,saenkoromance
+281853,ligu1248,SIT,s e tː + ˈa + s e,227,saenkoromance
+281854,ligu1248,SIT,s e t + ˈɛ,226,saenkoromance
+281855,vene1258,SIT,s e ŋ t + ˈa + r + s e,227,saenkoromance
+281856,vene1258,SIT,s e ŋ t + ˈa + r + s e,227,saenkoromance
+281857,vene1258,SIT,s e ŋ t + ˈa + r + s e + d o,227,saenkoromance
+281858,ital1282,SIT,s e d + ˈe + r e,226,saenkoromance
+281859,ital1282,SIT,s ˈj ˈɛ d + e,226,saenkoromance
+281860,neap1235,SIT,s t + ˈa + a + sː ə tː + ˈa t + ə,229,saenkoromance
+281861,camp1261,SIT,s ˈɛ tːs + i,226,saenkoromance
+281862,sici1248,SIT,a + sː i tː + ˈa + ɾ i + s i,227,saenkoromance
+281863,sici1248,SIT,a + sː i tː + ˈa + ɾ i + s i,227,saenkoromance
+281864,sici1248,SIT,a + sː i tː + ˈa + ɾ i + s i,227,saenkoromance
+281865,stan1289,SIT,s ˈɛ w + ɾ ə,226,saenkoromance
+281866,stan1289,SIT,s ˈɛ w + ɾ e,226,saenkoromance
+281867,stan1289,SIT,s ˈɛ w + ɾ ə,226,saenkoromance
+281868,stan1289,SIT,s ˈɛ w + ɾ e,226,saenkoromance
+281869,stan1289,SIT,s ˈɛ w + ɾ e,226,saenkoromance
+281870,stan1289,SIT,e s t + ˈa + ɾ + a + s e n t + ˈa + t,229,saenkoromance
+281871,megl1237,SKIN,k ˈo̯a ʒ + ə,231,saenkoromance
+281872,istr1245,SKIN,k ˈo z + e,231,saenkoromance
+281873,arom1237,SKIN,tʲ ˈe̯a l + e,230,saenkoromance
+281874,roma1327,SKIN,p ˈj e l + e,230,saenkoromance
+281875,friu1240,SKIN,p j ˈɛ l,230,saenkoromance
+281876,piem1238,SKIN,p ˈɛ l,230,saenkoromance
+281877,piem1238,SKIN,p ˈɛ l,230,saenkoromance
+281878,piem1238,SKIN,p ˈɛ l,230,saenkoromance
+281879,piem1238,SKIN,p ˈɛ l,230,saenkoromance
+281880,roma1328,SKIN,p ˈɛ a l + a,230,saenkoromance
+281881,emil1241,SKIN,p e l,230,saenkoromance
+281882,emil1241,SKIN,p ˈɛ l + a,230,saenkoromance
+281883,emil1241,SKIN,p ˈɛ l + a,230,saenkoromance
+281884,ligu1248,SKIN,p ˈe lː + e,230,saenkoromance
+281885,ligu1248,SKIN,p ˈɛː lː + e,230,saenkoromance
+281886,vene1258,SKIN,p ˈɛ + e,230,saenkoromance
+281887,vene1258,SKIN,p ˈɛ l,230,saenkoromance
+281888,vene1258,SKIN,p ˈɛ l,230,saenkoromance
+281889,ital1282,SKIN,p ˈɛ lː + e,230,saenkoromance
+281890,ital1282,SKIN,p ˈɛ lː + e,230,saenkoromance
+281891,neap1235,SKIN,p ˈɛ lː + ə,230,saenkoromance
+281892,camp1261,SKIN,p ˈɛ dː + i,230,saenkoromance
+281893,sici1248,SKIN,p ˈj ˈɛ ɖː + i,230,saenkoromance
+281894,sici1248,SKIN,p ˈɛ ɖː + i,230,saenkoromance
+281895,sici1248,SKIN,p ˈɛ ɖː + i,230,saenkoromance
+281896,stan1289,SKIN,p e ʎ,230,saenkoromance
+281897,stan1289,SKIN,p e ʎ,230,saenkoromance
+281898,stan1289,SKIN,p e j,230,saenkoromance
+281899,stan1289,SKIN,p e ʎ,230,saenkoromance
+281900,stan1289,SKIN,p e ʎ,230,saenkoromance
+281901,stan1289,SKIN,p e ʎ,230,saenkoromance
+281902,megl1237,SLEEP,d o r m,232,saenkoromance
+281903,istr1245,SLEEP,d u r m + ˈi,232,saenkoromance
+281904,arom1237,SLEEP,d ˈo r m + u,232,saenkoromance
+281905,roma1327,SLEEP,a + d o r m + ˈi,232,saenkoromance
+281906,friu1240,SLEEP,d u r m + ˈiː,232,saenkoromance
+281907,piem1238,SLEEP,d ˈœ r m + e,232,saenkoromance
+281908,piem1238,SLEEP,d ˈœ r m + e,232,saenkoromance
+281909,piem1238,SLEEP,d ˈœ r m + e,232,saenkoromance
+281910,piem1238,SLEEP,d ˈɔː r m + i,232,saenkoromance
+281911,roma1328,SLEEP,d u r m + ˈi,232,saenkoromance
+281912,emil1241,SLEEP,d u r m + ˈi r,232,saenkoromance
+281913,emil1241,SLEEP,d u r m + ˈiː r,232,saenkoromance
+281914,emil1241,SLEEP,d u r m + ˈiː r,232,saenkoromance
+281915,ligu1248,SLEEP,d u r m + ˈi,232,saenkoromance
+281916,ligu1248,SLEEP,d u r m + ˈi,232,saenkoromance
+281917,vene1258,SLEEP,d o r m + ˈi + r,232,saenkoromance
+281918,vene1258,SLEEP,d r o m + ˈi + r,232,saenkoromance
+281919,vene1258,SLEEP,d o r m + ˈi + r,232,saenkoromance
+281920,ital1282,SLEEP,d o r m + ˈi + r e,232,saenkoromance
+281921,ital1282,SLEEP,d o r m + ˈi + r e,232,saenkoromance
+281922,neap1235,SLEEP,d u r m + ˈi,232,saenkoromance
+281923,camp1261,SLEEP,d r ˈo mː + i + r i,232,saenkoromance
+281924,sici1248,SLEEP,ɾ ˈw ˈɔ ɾ m + i + ɾ i,232,saenkoromance
+281925,sici1248,SLEEP,d ˈɔ ɾ m + i + ɾ i,232,saenkoromance
+281926,sici1248,SLEEP,ɾ ˈɔ ɾ m + i + ɾ i,232,saenkoromance
+281927,stan1289,SLEEP,d u ɾ m + ˈi,232,saenkoromance
+281928,stan1289,SLEEP,d o ɾ m + ˈi,232,saenkoromance
+281929,stan1289,SLEEP,d u ɾ m + ˈi,232,saenkoromance
+281930,stan1289,SLEEP,d o ɾ m + ˈi + ɾ,232,saenkoromance
+281931,stan1289,SLEEP,d o ɾ m + ˈe + ɾ,232,saenkoromance
+281932,stan1289,SLEEP,d o ɾ m + ˈi + ɾ,232,saenkoromance
+281933,megl1237,SMALL,m i k,235,saenkoromance
+281934,istr1245,SMALL,m i k,235,saenkoromance
+281935,arom1237,SMALL,ɲ ˈi k + u,233,saenkoromance
+281936,roma1327,SMALL,m i k,235,saenkoromance
+281937,friu1240,SMALL,p ˈi tʃ + u l,234,saenkoromance
+281938,piem1238,SMALL,tʃ i t,236,saenkoromance
+281939,piem1238,SMALL,tʃ i t,236,saenkoromance
+281940,piem1238,SMALL,tʃ i t,236,saenkoromance
+281941,piem1238,SMALL,p ˈiː tʃ + u,234,saenkoromance
+281942,roma1328,SMALL,ts n + i n,237,saenkoromance
+281943,emil1241,SMALL,p ˈi k + u l,234,saenkoromance
+281944,emil1241,SMALL,tʃ i k,235,saenkoromance
+281945,emil1241,SMALL,tʃ ˈɛ k,235,saenkoromance
+281946,ligu1248,SMALL,p i tʃ + ˈi n,234,saenkoromance
+281947,ligu1248,SMALL,p i tʃ + ˈiː t + u,234,saenkoromance
+281948,vene1258,SMALL,p ˈi k + o e v + o,234,saenkoromance
+281949,vene1258,SMALL,p ˈi k + o l,234,saenkoromance
+281950,vene1258,SMALL,tʃ e k,235,saenkoromance
+281951,ital1282,SMALL,p ˈi kː + o l + o,234,saenkoromance
+281952,ital1282,SMALL,p i tːʃ + ˈi n + o,234,saenkoromance
+281953,neap1235,SMALL,p i tːʃ + i r + i lː + ə,234,saenkoromance
+281954,camp1261,SMALL,p i tː + ˈi k + u,234,saenkoromance
+281955,sici1248,SMALL,n ˈi k + u,233,saenkoromance
+281956,sici1248,SMALL,n ˈi k + u,233,saenkoromance
+281957,sici1248,SMALL,n ˈi k + u,233,saenkoromance
+281958,stan1289,SMALL,p ə t ˈi t,236,saenkoromance
+281959,stan1289,SMALL,p e t ˈi t,236,saenkoromance
+281960,stan1289,SMALL,p ə t ˈi t,236,saenkoromance
+281961,stan1289,SMALL,m e n ˈu t,238,saenkoromance
+281962,stan1289,SMALL,tʃ i k o t + ˈe t,239,saenkoromance
+281963,stan1289,SMALL,tʃ i k o t + ˈe t,239,saenkoromance
+281964,megl1237,SMOKE (EXHAUST),f u m,240,saenkoromance
+281965,istr1245,SMOKE (EXHAUST),d i m,240,saenkoromance
+281966,arom1237,SMOKE (EXHAUST),f ˈu m + u,240,saenkoromance
+281967,roma1327,SMOKE (EXHAUST),f u m,240,saenkoromance
+281968,friu1240,SMOKE (EXHAUST),f u m,240,saenkoromance
+281969,piem1238,SMOKE (EXHAUST),f y m,240,saenkoromance
+281970,piem1238,SMOKE (EXHAUST),f y m,240,saenkoromance
+281971,piem1238,SMOKE (EXHAUST),f y m,240,saenkoromance
+281972,piem1238,SMOKE (EXHAUST),f y m,240,saenkoromance
+281973,roma1328,SMOKE (EXHAUST),f o m,240,saenkoromance
+281974,emil1241,SMOKE (EXHAUST),f u m,240,saenkoromance
+281975,emil1241,SMOKE (EXHAUST),f u m,240,saenkoromance
+281976,emil1241,SMOKE (EXHAUST),f o m,240,saenkoromance
+281977,ligu1248,SMOKE (EXHAUST),f ˈy mː + u,240,saenkoromance
+281978,ligu1248,SMOKE (EXHAUST),f ˈyː mː + e,240,saenkoromance
+281979,vene1258,SMOKE (EXHAUST),f ˈu m + o,240,saenkoromance
+281980,vene1258,SMOKE (EXHAUST),f u m,240,saenkoromance
+281981,vene1258,SMOKE (EXHAUST),f u ŋ,240,saenkoromance
+281982,ital1282,SMOKE (EXHAUST),f ˈu m + o,240,saenkoromance
+281983,ital1282,SMOKE (EXHAUST),f ˈu m + o,240,saenkoromance
+281984,neap1235,SMOKE (EXHAUST),f ˈu mː + ə,240,saenkoromance
+281985,camp1261,SMOKE (EXHAUST),f ˈu mː + u,240,saenkoromance
+281986,sici1248,SMOKE (EXHAUST),f ˈu m + u,240,saenkoromance
+281987,sici1248,SMOKE (EXHAUST),f ˈu m + u,240,saenkoromance
+281988,sici1248,SMOKE (EXHAUST),f ˈu m + u,240,saenkoromance
+281989,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281990,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281991,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281992,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281993,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281994,stan1289,SMOKE (EXHAUST),f u m,240,saenkoromance
+281995,megl1237,SNAKE,ʃ ˈa r p + i,241,saenkoromance
+281996,istr1245,SNAKE,ʃ ˈɒ r p + e,241,saenkoromance
+281997,arom1237,SNAKE,ʃ ˈa r p + e,241,saenkoromance
+281998,roma1327,SNAKE,ʃ ˈa r p + e,241,saenkoromance
+281999,friu1240,SNAKE,s a r p ˈi n t,241,saenkoromance
+282000,piem1238,SNAKE,s ˈɛ r p,241,saenkoromance
+282001,piem1238,SNAKE,s ˈɛ r p + ˈɛ ŋ t,241,saenkoromance
+282002,piem1238,SNAKE,s ˈɛ r p,241,saenkoromance
+282003,piem1238,SNAKE,s a r p + ˈeː ŋ t,241,saenkoromance
+282004,roma1328,SNAKE,s a r p + ˈẽ n t,241,saenkoromance
+282005,emil1241,SNAKE,s e r p + ˈɛ n t,241,saenkoromance
+282006,emil1241,SNAKE,s e r p + ˈɛ j n t,241,saenkoromance
+282007,emil1241,SNAKE,s a r p + ˈɛ j n t,241,saenkoromance
+282008,ligu1248,SNAKE,b ˈi ʒ + a,242,saenkoromance
+282009,ligu1248,SNAKE,b ˈi ʃː + a,242,saenkoromance
+282010,vene1258,SNAKE,s e r p + ˈe ŋ t + e,241,saenkoromance
+282011,vene1258,SNAKE,b ˈi s + a,242,saenkoromance
+282012,vene1258,SNAKE,b ˈi s + a,242,saenkoromance
+282013,ital1282,SNAKE,s ˈɛ r p + e,241,saenkoromance
+282014,ital1282,SNAKE,s ˈɛ r p + e,241,saenkoromance
+282015,neap1235,SNAKE,s ˈɛ r p + ə,241,saenkoromance
+282016,camp1261,SNAKE,s ˈɛ r p + i,241,saenkoromance
+282017,sici1248,SNAKE,s ˈj ˈɛ ɾ p + i,241,saenkoromance
+282018,sici1248,SNAKE,s k u ɾ s ˈu n + i,243,saenkoromance
+282019,sici1248,SNAKE,ʃ k u sː ˈu n + i,243,saenkoromance
+282020,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282021,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282022,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282023,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282024,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282025,stan1289,SNAKE,s e ɾ p,241,saenkoromance
+282026,megl1237,STAND,s t a + w,247,saenkoromance
+282027,istr1245,STAND,s t ɒ,247,saenkoromance
+282028,arom1237,STAND,ʃ ˈe d + u + m + p r ˈo s t + u,244,saenkoromance
+282029,roma1327,STAND,a + s t ˈa + ɨ n + p i tʃ ˈo v a r + e,250,saenkoromance
+282030,friu1240,STAND,s t aː + i m + p ˈi n s,246,saenkoromance
+282031,piem1238,STAND,s t + ˈe + d r i t,249,saenkoromance
+282032,piem1238,STAND,s t + ˈe + ˈɛ n + p ˈe,246,saenkoromance
+282033,piem1238,STAND,s t + ˈe + d r i t,249,saenkoromance
+282034,piem1238,STAND,s t + ˈɛ + ŋ + p ˈeː,246,saenkoromance
+282035,emil1241,STAND,s t + ˈa r + i n + p j ˈe,246,saenkoromance
+282036,emil1241,STAND,s t + ˈɛː r + i n + p ˈeː,246,saenkoromance
+282037,emil1241,STAND,s t + ˈɛː r + i n + p ˈe + e,246,saenkoromance
+282038,ligu1248,STAND,s t + ˈa + i ŋ + p ˈe,246,saenkoromance
+282039,ligu1248,STAND,ʃ t + ˈe + i m + p ˈe,246,saenkoromance
+282040,vene1258,STAND,s t + ˈa + r + i ŋ + p ˈie,246,saenkoromance
+282041,vene1258,STAND,s t + ˈa + r + i ŋ + p ˈɛ,246,saenkoromance
+282042,vene1258,STAND,s t + ˈa + r + i ŋ + p ˈie,246,saenkoromance
+282043,ital1282,STAND,s t + ˈa + r e + i n + p ˈj ˈɛ d + i,246,saenkoromance
+282044,ital1282,STAND,s t + ˈa r e + i n + p ˈj ˈɛ d + i,246,saenkoromance
+282045,neap1235,STAND,s t + ˈa + a lː ˈj e r t + ə,248,saenkoromance
+282046,camp1261,STAND,a b a rː + ˈa j + i + β ˈe j,245,saenkoromance
+282047,sici1248,STAND,s t + ˈa + ɾ i + a + ɡ ɾ ˈi tː a,249,saenkoromance
+282048,sici1248,STAND,s t + ˈa + ɾ i + a + dː ˈi tː a,246,saenkoromance
+282049,sici1248,STAND,s t + ˈa + ɾ i + a + d ˈi tː a,246,saenkoromance
+282050,stan1289,STAND,ə s t + ˈa + ð ɾ ˈɛ t,249,saenkoromance
+282051,stan1289,STAND,a s t + ˈa + ð ɾ ˈɛ t,249,saenkoromance
+282052,stan1289,STAND,ə s t + ˈa + ð ɾ ˈɛ t,249,saenkoromance
+282053,stan1289,STAND,e s t + ˈa + ɾ + d e + p ˈɛ w,251,saenkoromance
+282054,stan1289,STAND,e s t + ˈa ɾ + d e + p ˈɛ w,251,saenkoromance
+282055,stan1289,STAND,e s t + ˈa + ɾ + ð ɾ ˈɛ t,249,saenkoromance
+282056,megl1237,STAR,s t ˈe w + ə,252,saenkoromance
+282057,istr1245,STAR,s t ˈæ,252,saenkoromance
+282058,arom1237,STAR,s t ˈe̯a + o,252,saenkoromance
+282059,roma1327,STAR,s t e v a,252,saenkoromance
+282060,friu1240,STAR,s t ˈɛ l + e,252,saenkoromance
+282061,piem1238,STAR,s t ˈɛ j l + a,252,saenkoromance
+282062,piem1238,STAR,s t ˈɛ j l + a,252,saenkoromance
+282063,piem1238,STAR,s t ˈɛ j l + a,252,saenkoromance
+282064,piem1238,STAR,s t ˈœ l + a,252,saenkoromance
+282065,roma1328,STAR,s t ˈɛ a l + a,252,saenkoromance
+282066,emil1241,STAR,s t ˈɛ l + a,252,saenkoromance
+282067,emil1241,STAR,s t ˈɛ l + a,252,saenkoromance
+282068,emil1241,STAR,s t r ˈɛ l + a,252,saenkoromance
+282069,ligu1248,STAR,s t ˈe lː + a,252,saenkoromance
+282070,ligu1248,STAR,ʃ t ˈɛ j + a,252,saenkoromance
+282071,vene1258,STAR,s t ˈe + a,252,saenkoromance
+282072,vene1258,STAR,s t ˈe l + a,252,saenkoromance
+282073,vene1258,STAR,s t ˈe l + a,252,saenkoromance
+282074,ital1282,STAR,s t ˈe lː + a,252,saenkoromance
+282075,ital1282,STAR,s t ˈe lː + a,252,saenkoromance
+282076,neap1235,STAR,s t ˈe lː + ə,252,saenkoromance
+282077,camp1261,STAR,s t ˈɛ dː + a,252,saenkoromance
+282078,sici1248,STAR,ʃ t ˈi ɖː + a,252,saenkoromance
+282079,sici1248,STAR,s t ˈi ɖː + a,252,saenkoromance
+282080,sici1248,STAR,ʃ t ˈi ɖː + a,252,saenkoromance
+282081,stan1289,STAR,ə s t ɾ ˈe ʎ + ə,252,saenkoromance
+282082,stan1289,STAR,e s t ɾ ˈe ʎ + ˈɛ,252,saenkoromance
+282083,stan1289,STAR,ə s t ɾ ˈe ʎ + ə,252,saenkoromance
+282084,stan1289,STAR,e s t ɾ ˈe ʎ + a,252,saenkoromance
+282085,stan1289,STAR,a s t ɾ ˈe lˠ + a,252,saenkoromance
+282086,stan1289,STAR,e s t ɾ ˈɛ lˠ + a,252,saenkoromance
+282087,megl1237,STONE,r ˈɔ p + ə,257,saenkoromance
+282088,istr1245,STONE,ˈə r p + a,256,saenkoromance
+282089,arom1237,STONE,tʲ ˈe̯a t r + ə,253,saenkoromance
+282090,roma1327,STONE,p ˈj a t r + ə,253,saenkoromance
+282091,friu1240,STONE,k l a p,255,saenkoromance
+282092,piem1238,STONE,p ˈɛ r + a,253,saenkoromance
+282093,piem1238,STONE,p ˈɛ r + a,253,saenkoromance
+282094,piem1238,STONE,p ˈe r + a,253,saenkoromance
+282095,piem1238,STONE,p r ˈɛ j + a,254,saenkoromance
+282096,roma1328,STONE,s a s,258,saenkoromance
+282097,emil1241,STONE,p r ˈɛ d + a,254,saenkoromance
+282098,emil1241,STONE,dʒ a r + ˈɔ w n,259,saenkoromance
+282099,emil1241,STONE,p r ˈeː d + a,254,saenkoromance
+282100,ligu1248,STONE,p r ˈi + a,254,saenkoromance
+282101,ligu1248,STONE,p r ˈɛ j + a,254,saenkoromance
+282102,vene1258,STONE,p ˈj ˈɛ r + a,253,saenkoromance
+282103,vene1258,STONE,s a s,258,saenkoromance
+282104,vene1258,STONE,p ˈj ˈɛ r + a,253,saenkoromance
+282105,ital1282,STONE,p ˈj ˈɛ t r + a,253,saenkoromance
+282106,ital1282,STONE,s ˈa sː + o,258,saenkoromance
+282107,neap1235,STONE,p r ˈɛ t + ə,254,saenkoromance
+282108,camp1261,STONE,p ˈe r d + a,253,saenkoromance
+282109,sici1248,STONE,p ˈj ˈɛ ʈ ɽ + a,253,saenkoromance
+282110,sici1248,STONE,p ˈɛ ʈ ɽ + a,253,saenkoromance
+282111,sici1248,STONE,p ˈɛ ʈ ɽ + a,253,saenkoromance
+282112,stan1289,STONE,p ˈe ð ɾ + ə,253,saenkoromance
+282113,stan1289,STONE,p ˈe ð ɾ + ˈɛ,253,saenkoromance
+282114,stan1289,STONE,p ˈe ð ɾ + ə,253,saenkoromance
+282115,stan1289,STONE,p ˈe ð ɾ + a,253,saenkoromance
+282116,stan1289,STONE,p ˈe ð ɾ + a,253,saenkoromance
+282117,stan1289,STONE,p ˈe ð ɾ + a,253,saenkoromance
+282118,stan1289,STONE,r ˈɔ k,260,saenkoromance
+282119,stan1289,STONE,r ˈɔ k,260,saenkoromance
+282120,megl1237,SUN,s ˈo̯a r + i,261,saenkoromance
+282121,istr1245,SUN,s ˈo r + e,261,saenkoromance
+282122,arom1237,SUN,s ˈo̯a r + e,261,saenkoromance
+282123,roma1327,SUN,s ˈo v a r + e,261,saenkoromance
+282124,friu1240,SUN,s o r ˈɛ l + i,261,saenkoromance
+282125,piem1238,SUN,s u l,261,saenkoromance
+282126,piem1238,SUN,s u l,261,saenkoromance
+282127,piem1238,SUN,s u l,261,saenkoromance
+282128,piem1238,SUN,s u l,261,saenkoromance
+282129,roma1328,SUN,s o w l,261,saenkoromance
+282130,emil1241,SUN,s o l,261,saenkoromance
+282131,emil1241,SUN,s oː l,261,saenkoromance
+282132,emil1241,SUN,s ˈɔ w l,261,saenkoromance
+282133,ligu1248,SUN,s u,261,saenkoromance
+282134,ligu1248,SUN,s u,261,saenkoromance
+282135,vene1258,SUN,s o l,261,saenkoromance
+282136,vene1258,SUN,s o l,261,saenkoromance
+282137,vene1258,SUN,s o l,261,saenkoromance
+282138,ital1282,SUN,s ˈo l + e,261,saenkoromance
+282139,ital1282,SUN,s ˈo l + e,261,saenkoromance
+282140,neap1235,SUN,s ˈo l + ə,261,saenkoromance
+282141,camp1261,SUN,s ˈɔ l + i,261,saenkoromance
+282142,sici1248,SUN,s ˈu l + i,261,saenkoromance
+282143,sici1248,SUN,s ˈu l + i,261,saenkoromance
+282144,sici1248,SUN,s ˈu l + i,261,saenkoromance
+282145,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282146,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282147,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282148,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282149,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282150,stan1289,SUN,s ˈɔ lˠ,261,saenkoromance
+282151,megl1237,SWIM,p l i v + ə j + ˈe s,264,saenkoromance
+282152,istr1245,SWIM,p l i v + ˈi,263,saenkoromance
+282153,arom1237,SWIM,a n ˈo t + u,262,saenkoromance
+282154,roma1327,SWIM,a + ɨ n o t + ˈa,262,saenkoromance
+282155,friu1240,SWIM,n a d + ˈaː,262,saenkoromance
+282156,piem1238,SWIM,n u + ˈe,262,saenkoromance
+282157,piem1238,SWIM,n u + ˈe,262,saenkoromance
+282158,piem1238,SWIM,n u + ˈe,262,saenkoromance
+282159,piem1238,SWIM,n a v + ˈɛ,262,saenkoromance
+282160,roma1328,SWIM,n a v i ɡ + ˈe a,262,saenkoromance
+282161,emil1241,SWIM,n u d + ˈa r,262,saenkoromance
+282162,emil1241,SWIM,n u d + ˈɛː r,262,saenkoromance
+282163,emil1241,SWIM,n u d + ˈɛː r,262,saenkoromance
+282164,ligu1248,SWIM,ɲ u + ˈa,262,saenkoromance
+282165,ligu1248,SWIM,n œ + ˈɛ,262,saenkoromance
+282166,vene1258,SWIM,n u + ˈa + r,262,saenkoromance
+282167,vene1258,SWIM,n o ɡ + ˈa + r,262,saenkoromance
+282168,vene1258,SWIM,n o ð + ˈa + r,262,saenkoromance
+282169,ital1282,SWIM,n w o t + ˈa + r e,262,saenkoromance
+282170,ital1282,SWIM,n o t + ˈa + r e,262,saenkoromance
+282171,neap1235,SWIM,n a t + ˈa,262,saenkoromance
+282172,camp1261,SWIM,n a d + ˈa j,262,saenkoromance
+282173,sici1248,SWIM,n a t + ˈa + ɾ i,262,saenkoromance
+282174,sici1248,SWIM,n a t + ˈa + ɾ i,262,saenkoromance
+282175,sici1248,SWIM,n a t + ˈa + ɾ i,262,saenkoromance
+282176,stan1289,SWIM,n ə ð + ˈa,262,saenkoromance
+282177,stan1289,SWIM,n a ð + ˈa,262,saenkoromance
+282178,stan1289,SWIM,n ə ð + ˈa,262,saenkoromance
+282179,stan1289,SWIM,n a ð + ˈa + ɾ,262,saenkoromance
+282180,stan1289,SWIM,n a ð + ˈi + ɾ,262,saenkoromance
+282181,stan1289,SWIM,n a ð + ˈa + ɾ,262,saenkoromance
+282182,vene1258,SWIM,n o ð + ˈa + r,262,saenkoromance
+282183,megl1237,TAIL,k ˈo̯a d + ə,265,saenkoromance
+282184,istr1245,TAIL,k ˈo d + ˈæ,265,saenkoromance
+282185,arom1237,TAIL,k ˈo̯a d + ə,265,saenkoromance
+282186,roma1327,TAIL,k ˈo v a d + ə,265,saenkoromance
+282187,friu1240,TAIL,k ˈɔ d + e,265,saenkoromance
+282188,piem1238,TAIL,k ˈu + a,265,saenkoromance
+282189,piem1238,TAIL,k ˈu + a,265,saenkoromance
+282190,piem1238,TAIL,k ˈu + a,265,saenkoromance
+282191,piem1238,TAIL,k ˈu + a,265,saenkoromance
+282192,roma1328,TAIL,k ˈo w d + a,265,saenkoromance
+282193,emil1241,TAIL,k ˈɔ + a,265,saenkoromance
+282194,emil1241,TAIL,k ˈɔ v + a,265,saenkoromance
+282195,emil1241,TAIL,k ˈɔ v + a,265,saenkoromance
+282196,ligu1248,TAIL,k ˈu + a,265,saenkoromance
+282197,ligu1248,TAIL,k ˈu + a,265,saenkoromance
+282198,vene1258,TAIL,k ˈo + a,265,saenkoromance
+282199,vene1258,TAIL,k ˈo + a,265,saenkoromance
+282200,vene1258,TAIL,k ˈo ð + a,265,saenkoromance
+282201,ital1282,TAIL,k ˈo d + a,265,saenkoromance
+282202,ital1282,TAIL,k ˈo d + a,265,saenkoromance
+282203,neap1235,TAIL,k ˈo ɾ + ə,265,saenkoromance
+282204,camp1261,TAIL,k ˈɔ + a,265,saenkoromance
+282205,sici1248,TAIL,k ˈu ɾ + a,265,saenkoromance
+282206,sici1248,TAIL,k ˈu d + a,265,saenkoromance
+282207,sici1248,TAIL,k ˈu ɾ + a,265,saenkoromance
+282208,stan1289,TAIL,k ˈu + ə,265,saenkoromance
+282209,stan1289,TAIL,k ˈu + ˈɛ,265,saenkoromance
+282210,stan1289,TAIL,k ˈo + ə,265,saenkoromance
+282211,stan1289,TAIL,k ˈu + a,265,saenkoromance
+282212,stan1289,TAIL,k ˈu + a,265,saenkoromance
+282213,stan1289,TAIL,k ˈu + a,265,saenkoromance
+282214,megl1237,THAT,ts ˈe + l a,266,saenkoromance
+282215,istr1245,THAT,a tʃ ˈe + l a,266,saenkoromance
+282216,arom1237,THAT,a ts ˈe + l u,266,saenkoromance
+282217,roma1327,THAT,a tʃ ˈe + l,266,saenkoromance
+282218,friu1240,THAT,k ˈɛ l,267,saenkoromance
+282219,piem1238,THAT,tʃ ə l,267,saenkoromance
+282220,piem1238,THAT,k u l,267,saenkoromance
+282221,piem1238,THAT,k u l,267,saenkoromance
+282222,piem1238,THAT,k u l + l ˈa,267,saenkoromance
+282223,roma1328,THAT,k w ˈɛ l,267,saenkoromance
+282224,emil1241,THAT,k w e l,267,saenkoromance
+282225,emil1241,THAT,k w ˈɛː l,267,saenkoromance
+282226,emil1241,THAT,k ˈɔ l,267,saenkoromance
+282227,ligu1248,THAT,k w ˈɛ lː + u,267,saenkoromance
+282228,ligu1248,THAT,k w ˈɛː lː + u,267,saenkoromance
+282229,vene1258,THAT,k w ˈɛ + o,267,saenkoromance
+282230,vene1258,THAT,k w e l,267,saenkoromance
+282231,vene1258,THAT,k w e l,267,saenkoromance
+282232,ital1282,THAT,k ˈw e lː + o,267,saenkoromance
+282233,ital1282,THAT,k ˈw e lː + o,267,saenkoromance
+282234,neap1235,THAT,k ˈi lː + ə,267,saenkoromance
+282235,camp1261,THAT,k ˈu dː + u,267,saenkoromance
+282236,sici1248,THAT,k ˈi ɖː + u,267,saenkoromance
+282237,sici1248,THAT,k ˈi ɖː + u,267,saenkoromance
+282238,sici1248,THAT,k ˈi ɖː + u,267,saenkoromance
+282239,stan1289,THAT,ə k ˈɛ ʎ,267,saenkoromance
+282240,stan1289,THAT,a k ˈe ʎ,267,saenkoromance
+282241,stan1289,THAT,ə k ˈɛ j,267,saenkoromance
+282242,stan1289,THAT,a k ˈe ʎ,267,saenkoromance
+282243,stan1289,THAT,a k ˈe ʎ,267,saenkoromance
+282244,stan1289,THAT,a k ˈe ʎ,267,saenkoromance
+282245,camp1261,THAT,k ˈu sː + u,267,saenkoromance
+282246,stan1289,THAT,a k ˈe j ʃ,268,saenkoromance
+282247,stan1289,THAT,ˈe j ʃ + e,268,saenkoromance
+282248,stan1289,THAT,ˈe j ʃ + e,268,saenkoromance
+282249,megl1237,THIN (OF SHAPE OF OBJECT),s l a p,273,saenkoromance
+282250,istr1245,THIN (OF SHAPE OF OBJECT),s u p + ts ˈi r + e,269,saenkoromance
+282251,arom1237,THIN (OF SHAPE OF OBJECT),s u p + ts ˈɨ r + e,269,saenkoromance
+282252,roma1327,THIN (OF SHAPE OF OBJECT),s u b + ts ˈi r + e,269,saenkoromance
+282253,friu1240,THIN (OF SHAPE OF OBJECT),s u + t ˈiː l,269,saenkoromance
+282254,piem1238,THIN (OF SHAPE OF OBJECT),s y + t ˈi l,269,saenkoromance
+282255,piem1238,THIN (OF SHAPE OF OBJECT),s y + t ˈi l,269,saenkoromance
+282256,piem1238,THIN (OF SHAPE OF OBJECT),s y + t ˈi l,269,saenkoromance
+282257,piem1238,THIN (OF SHAPE OF OBJECT),s u + t ˈiː l,269,saenkoromance
+282258,roma1328,THIN (OF SHAPE OF OBJECT),s + t i l,269,saenkoromance
+282259,emil1241,THIN (OF SHAPE OF OBJECT),m ˈa ɡ a r,271,saenkoromance
+282260,emil1241,THIN (OF SHAPE OF OBJECT),m ˈɛ ɡ e r,271,saenkoromance
+282261,emil1241,THIN (OF SHAPE OF OBJECT),s u + t ˈiː l,269,saenkoromance
+282262,ligu1248,THIN (OF SHAPE OF OBJECT),s u tː + ˈi,272,saenkoromance
+282263,ligu1248,THIN (OF SHAPE OF OBJECT),s ˈɛː t + ˈi,272,saenkoromance
+282264,vene1258,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282265,vene1258,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282266,vene1258,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282267,ital1282,THIN (OF SHAPE OF OBJECT),s o + tː ˈi l + e,269,saenkoromance
+282268,ital1282,THIN (OF SHAPE OF OBJECT),f ˈi n + o,270,saenkoromance
+282269,neap1235,THIN (OF SHAPE OF OBJECT),f ˈi n + ə,270,saenkoromance
+282270,camp1261,THIN (OF SHAPE OF OBJECT),f ˈi n + i,270,saenkoromance
+282271,sici1248,THIN (OF SHAPE OF OBJECT),f ˈi n + u,270,saenkoromance
+282272,sici1248,THIN (OF SHAPE OF OBJECT),f ˈi n + u,270,saenkoromance
+282273,sici1248,THIN (OF SHAPE OF OBJECT),f ˈi n + u,270,saenkoromance
+282274,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282275,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282276,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282277,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282278,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282279,stan1289,THIN (OF SHAPE OF OBJECT),p r i m,274,saenkoromance
+282280,friu1240,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282281,piem1238,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282282,piem1238,THIN (OF SHAPE OF OBJECT),f i ŋ,270,saenkoromance
+282283,piem1238,THIN (OF SHAPE OF OBJECT),f iː ŋ,270,saenkoromance
+282284,vene1258,THIN (OF SHAPE OF OBJECT),s o + t ˈi l,269,saenkoromance
+282285,stan1289,THIN (OF SHAPE OF OBJECT),f i,270,saenkoromance
+282286,stan1289,THIN (OF SHAPE OF OBJECT),f i,270,saenkoromance
+282287,stan1289,THIN (OF SHAPE OF OBJECT),f i,270,saenkoromance
+282288,stan1289,THIN (OF SHAPE OF OBJECT),f i,270,saenkoromance
+282289,stan1289,THIN (OF SHAPE OF OBJECT),f i n + ˈe t,270,saenkoromance
+282290,stan1289,THIN (OF SHAPE OF OBJECT),f i,270,saenkoromance
+282291,megl1237,THIS,ts ˈi + s t a,275,saenkoromance
+282292,istr1245,THIS,tʃ ˈe + s t a,275,saenkoromance
+282293,arom1237,THIS,a ˈe + s t u,275,saenkoromance
+282294,roma1327,THIS,a tʃ ˈe s t,276,saenkoromance
+282295,friu1240,THIS,k ˈɛ s t,276,saenkoromance
+282296,piem1238,THIS,k u s t,276,saenkoromance
+282297,piem1238,THIS,k u s t,276,saenkoromance
+282298,piem1238,THIS,k u s t,276,saenkoromance
+282299,piem1238,THIS,k u s + k ˈiː,276,saenkoromance
+282300,roma1328,THIS,k w e s t,276,saenkoromance
+282301,emil1241,THIS,k w e s t,276,saenkoromance
+282302,emil1241,THIS,k w ˈɛ s t,276,saenkoromance
+282303,emil1241,THIS,k ˈɔ s t,276,saenkoromance
+282304,ligu1248,THIS,k w ˈɛ s t + u,276,saenkoromance
+282305,ligu1248,THIS,k w ˈɛː s t + u,276,saenkoromance
+282306,vene1258,THIS,k w ˈe s t + o,276,saenkoromance
+282307,vene1258,THIS,s t + o,276,saenkoromance
+282308,vene1258,THIS,k w ˈe s t + o,276,saenkoromance
+282309,ital1282,THIS,k ˈw e s t + o,276,saenkoromance
+282310,ital1282,THIS,k ˈw e s t + o,276,saenkoromance
+282311,neap1235,THIS,k ˈi s t + ə,276,saenkoromance
+282312,camp1261,THIS,k ˈu s t + u,276,saenkoromance
+282313,sici1248,THIS,k ˈi s t + u,276,saenkoromance
+282314,sici1248,THIS,k ˈi s t + u,276,saenkoromance
+282315,sici1248,THIS,k ˈi s t + u,276,saenkoromance
+282316,stan1289,THIS,ə k ˈɛ t,276,saenkoromance
+282317,stan1289,THIS,a k ˈe t,276,saenkoromance
+282318,stan1289,THIS,ə k ˈɛ t,276,saenkoromance
+282319,stan1289,THIS,a k ˈe s t,276,saenkoromance
+282320,stan1289,THIS,ˈe s t + e,276,saenkoromance
+282321,stan1289,THIS,ˈe s t + e,276,saenkoromance
+282322,megl1237,THOU,t u,277,saenkoromance
+282323,istr1245,THOU,t u,277,saenkoromance
+282324,arom1237,THOU,t ˈi n e,277,saenkoromance
+282325,roma1327,THOU,t u,277,saenkoromance
+282326,friu1240,THOU,t u,277,saenkoromance
+282327,piem1238,THOU,t i,277,saenkoromance
+282328,piem1238,THOU,t i,277,saenkoromance
+282329,piem1238,THOU,t i,277,saenkoromance
+282330,piem1238,THOU,t iː,277,saenkoromance
+282331,roma1328,THOU,t e,277,saenkoromance
+282332,emil1241,THOU,t i,277,saenkoromance
+282333,emil1241,THOU,t ˈɛ,277,saenkoromance
+282334,emil1241,THOU,t e,277,saenkoromance
+282335,ligu1248,THOU,t i,277,saenkoromance
+282336,ligu1248,THOU,t i,277,saenkoromance
+282337,vene1258,THOU,t i,277,saenkoromance
+282338,vene1258,THOU,t i,277,saenkoromance
+282339,vene1258,THOU,t i,277,saenkoromance
+282340,ital1282,THOU,t u,277,saenkoromance
+282341,ital1282,THOU,t e,277,saenkoromance
+282342,neap1235,THOU,t u,277,saenkoromance
+282343,camp1261,THOU,t u j,277,saenkoromance
+282344,sici1248,THOU,t u,277,saenkoromance
+282345,sici1248,THOU,t u,277,saenkoromance
+282346,sici1248,THOU,t u,277,saenkoromance
+282347,stan1289,THOU,t u,277,saenkoromance
+282348,stan1289,THOU,t u,277,saenkoromance
+282349,stan1289,THOU,t u,277,saenkoromance
+282350,stan1289,THOU,t u,277,saenkoromance
+282351,stan1289,THOU,t u,277,saenkoromance
+282352,stan1289,THOU,t u,277,saenkoromance
+282353,megl1237,TONGUE,l ˈi m b + ə,278,saenkoromance
+282354,istr1245,TONGUE,l ˈi m b + ˈæ,278,saenkoromance
+282355,arom1237,TONGUE,l ˈi m b + ə,278,saenkoromance
+282356,roma1327,TONGUE,l ˈi m b + ə,278,saenkoromance
+282357,friu1240,TONGUE,l ˈɛ ŋ ɡ + e,278,saenkoromance
+282358,piem1238,TONGUE,l ˈɛ ŋ ɡ + a,278,saenkoromance
+282359,piem1238,TONGUE,l ˈɛ ŋ ɡ + a,278,saenkoromance
+282360,piem1238,TONGUE,l ˈe ŋ ɡ + a,278,saenkoromance
+282361,piem1238,TONGUE,l ˈeː ŋ ɡ w + a,278,saenkoromance
+282362,roma1328,TONGUE,l ˈe n ɡ v + a,278,saenkoromance
+282363,emil1241,TONGUE,l ˈɛ ŋ ɡ w + a,278,saenkoromance
+282364,emil1241,TONGUE,l ˈɛ ŋ ɡ v + a,278,saenkoromance
+282365,emil1241,TONGUE,l ˈɛ ŋ ɡ w + a,278,saenkoromance
+282366,ligu1248,TONGUE,l ˈi ŋ ɡ w + a,278,saenkoromance
+282367,ligu1248,TONGUE,l ˈæː ŋ ɡ w + a,278,saenkoromance
+282368,vene1258,TONGUE,ˈe ŋ ɡ w + a,278,saenkoromance
+282369,vene1258,TONGUE,l ˈe ŋ ɡ w + a,278,saenkoromance
+282370,vene1258,TONGUE,l ˈe ŋ ɡ w + a,278,saenkoromance
+282371,ital1282,TONGUE,l ˈi ŋ ɡ w + a,278,saenkoromance
+282372,ital1282,TONGUE,l ˈi ŋ ɡ w + a,278,saenkoromance
+282373,neap1235,TONGUE,l ˈe ŋ ɡ w + ə,278,saenkoromance
+282374,camp1261,TONGUE,l ˈi m b + a,278,saenkoromance
+282375,sici1248,TONGUE,l ˈi ŋ ɡ w + a,278,saenkoromance
+282376,sici1248,TONGUE,l ˈi ŋ ɡ w + a,278,saenkoromance
+282377,sici1248,TONGUE,l ˈi ŋ k w + a,278,saenkoromance
+282378,stan1289,TONGUE,ʎ ˈe ŋ ɣ w + ə,278,saenkoromance
+282379,stan1289,TONGUE,ʎ ˈe ŋ ɣ w + ˈɛ,278,saenkoromance
+282380,stan1289,TONGUE,ʎ ˈe ŋ ɣ + u,278,saenkoromance
+282381,stan1289,TONGUE,ʎ ˈe ŋ ɣ w + a,278,saenkoromance
+282382,stan1289,TONGUE,ʎ ˈe ŋ ɣ w + a,278,saenkoromance
+282383,stan1289,TONGUE,ʎ ˈe ŋ ɣ w + a,278,saenkoromance
+282384,megl1237,TOOTH,d ˈi n t + i,279,saenkoromance
+282385,istr1245,TOOTH,d ˈi n t + e,279,saenkoromance
+282386,arom1237,TOOTH,d ˈi n t + e,279,saenkoromance
+282387,roma1327,TOOTH,d ˈi n t + e,279,saenkoromance
+282388,friu1240,TOOTH,d i n t,279,saenkoromance
+282389,piem1238,TOOTH,d ˈɛ ŋ t,279,saenkoromance
+282390,piem1238,TOOTH,d ˈɛ ŋ t,279,saenkoromance
+282391,piem1238,TOOTH,d ˈɛ ŋ t,279,saenkoromance
+282392,piem1238,TOOTH,d eː ŋ tʃ,279,saenkoromance
+282393,roma1328,TOOTH,d ˈẽ n t,279,saenkoromance
+282394,emil1241,TOOTH,d e n t,279,saenkoromance
+282395,emil1241,TOOTH,d ˈɛ j n t,279,saenkoromance
+282396,emil1241,TOOTH,d ˈɛ j n t,279,saenkoromance
+282397,ligu1248,TOOTH,d ˈɛ n t + e,279,saenkoromance
+282398,ligu1248,TOOTH,d ˈæː ŋ tʃ + u,279,saenkoromance
+282399,vene1258,TOOTH,d ˈe ŋ t + e,279,saenkoromance
+282400,vene1258,TOOTH,d ˈɛ ŋ t,279,saenkoromance
+282401,vene1258,TOOTH,d ˈɛ ŋ t,279,saenkoromance
+282402,ital1282,TOOTH,d ˈɛ n t + e,279,saenkoromance
+282403,ital1282,TOOTH,d ˈɛ n t + e,279,saenkoromance
+282404,neap1235,TOOTH,d ˈɛ n t + ə,279,saenkoromance
+282405,camp1261,TOOTH,d ˈɛ n t + i,279,saenkoromance
+282406,sici1248,TOOTH,ɾ ˈj ˈɛ n t + i,279,saenkoromance
+282407,sici1248,TOOTH,d ˈɛ n t + i,279,saenkoromance
+282408,sici1248,TOOTH,ɾ ˈɛ n t + i,279,saenkoromance
+282409,stan1289,TOOTH,d e n,279,saenkoromance
+282410,stan1289,TOOTH,d e n,279,saenkoromance
+282411,stan1289,TOOTH,d e n t,279,saenkoromance
+282412,stan1289,TOOTH,d e n t,279,saenkoromance
+282413,stan1289,TOOTH,d e n t,279,saenkoromance
+282414,stan1289,TOOTH,d e n t,279,saenkoromance
+282415,megl1237,TREE,ˈa r b u r,280,saenkoromance
+282416,istr1245,TREE,l ˈe m ə n,282,saenkoromance
+282417,arom1237,TREE,ˈa r b u r + i,280,saenkoromance
+282418,roma1327,TREE,k o p ˈa k,286,saenkoromance
+282419,friu1240,TREE,ˈa r b u l,280,saenkoromance
+282420,piem1238,TREE,p ˈj a ŋ t + a,285,saenkoromance
+282421,piem1238,TREE,ˈɛ r b + u,283,saenkoromance
+282422,piem1238,TREE,ˈɛ r b + u,283,saenkoromance
+282423,piem1238,TREE,p ˈj a ŋ t + a,285,saenkoromance
+282424,roma1328,TREE,ˈe a l b a r,280,saenkoromance
+282425,emil1241,TREE,ˈa r b u l,280,saenkoromance
+282426,emil1241,TREE,ˈe l b e r,280,saenkoromance
+282427,emil1241,TREE,ˈɛː l b e r,280,saenkoromance
+282428,ligu1248,TREE,ˈæː r b + u,283,saenkoromance
+282429,ligu1248,TREE,ˈæː r b + uː,283,saenkoromance
+282430,vene1258,TREE,ˈa l b e r + o,280,saenkoromance
+282431,vene1258,TREE,ˈa l b e r,280,saenkoromance
+282432,vene1258,TREE,ˈa l b e r + o,280,saenkoromance
+282433,ital1282,TREE,ˈa l b e r + o,280,saenkoromance
+282434,ital1282,TREE,p ˈj a n t + a,285,saenkoromance
+282435,neap1235,TREE,ˈa β ə r + ə,284,saenkoromance
+282436,camp1261,TREE,m ˈa tː + a,281,saenkoromance
+282437,sici1248,TREE,ˈa ɾ b u l + u,280,saenkoromance
+282438,sici1248,TREE,ˈa ɾ v u l + u,280,saenkoromance
+282439,sici1248,TREE,m ˈa tːʃ + a,281,saenkoromance
+282440,stan1289,TREE,ˈa β ɾ + ə,284,saenkoromance
+282441,stan1289,TREE,ˈa β ɾ + e,284,saenkoromance
+282442,stan1289,TREE,ˈa β ɾ + ə,284,saenkoromance
+282443,stan1289,TREE,ˈa β ɾ + e,284,saenkoromance
+282444,stan1289,TREE,ˈa β ɾ + e,284,saenkoromance
+282445,stan1289,TREE,ˈa β ɾ + e,284,saenkoromance
+282446,megl1237,TWO,d o j,287,saenkoromance
+282447,istr1245,TWO,d o j,287,saenkoromance
+282448,arom1237,TWO,d o j,287,saenkoromance
+282449,roma1327,TWO,d o j,287,saenkoromance
+282450,friu1240,TWO,d ˈɔ j,287,saenkoromance
+282451,piem1238,TWO,d u j,287,saenkoromance
+282452,piem1238,TWO,d u j,287,saenkoromance
+282453,piem1238,TWO,d u j,287,saenkoromance
+282454,piem1238,TWO,d y j,287,saenkoromance
+282455,roma1328,TWO,d o,287,saenkoromance
+282456,emil1241,TWO,d u,287,saenkoromance
+282457,emil1241,TWO,d uː,287,saenkoromance
+282458,emil1241,TWO,d ˈɔ w,287,saenkoromance
+282459,ligu1248,TWO,d u ˈi,287,saenkoromance
+282460,ligu1248,TWO,d ɥ i,287,saenkoromance
+282461,vene1258,TWO,d o,287,saenkoromance
+282462,vene1258,TWO,d o j,287,saenkoromance
+282463,vene1258,TWO,d o j,287,saenkoromance
+282464,ital1282,TWO,d ˈu e,287,saenkoromance
+282465,ital1282,TWO,d ˈu e,287,saenkoromance
+282466,neap1235,TWO,d ˈo j + ə,287,saenkoromance
+282467,camp1261,TWO,d ˈu + z u,287,saenkoromance
+282468,sici1248,TWO,ɾ ˈui,287,saenkoromance
+282469,sici1248,TWO,d ˈui,287,saenkoromance
+282470,sici1248,TWO,ɾ ˈu ˈɛ,287,saenkoromance
+282471,stan1289,TWO,d o s,287,saenkoromance
+282472,stan1289,TWO,d o s,287,saenkoromance
+282473,stan1289,TWO,d o s,287,saenkoromance
+282474,stan1289,TWO,d o s,287,saenkoromance
+282475,stan1289,TWO,d o s,287,saenkoromance
+282476,stan1289,TWO,d o s,287,saenkoromance
+282477,megl1237,WALK,ˈa m n + u,288,saenkoromance
+282478,istr1245,WALK,m ˈæ r + e,291,saenkoromance
+282479,arom1237,WALK,ˈi m n + u,288,saenkoromance
+282480,roma1327,WALK,a + u m b l + ˈa,292,saenkoromance
+282481,friu1240,WALK,v a,290,saenkoromance
+282482,piem1238,WALK,v a,290,saenkoromance
+282483,piem1238,WALK,v a,290,saenkoromance
+282484,piem1238,WALK,v a,290,saenkoromance
+282485,piem1238,WALK,v a,290,saenkoromance
+282486,roma1328,WALK,v a,290,saenkoromance
+282487,emil1241,WALK,v a,290,saenkoromance
+282488,emil1241,WALK,v a,290,saenkoromance
+282489,emil1241,WALK,v a,290,saenkoromance
+282490,ligu1248,WALK,v a,290,saenkoromance
+282491,ligu1248,WALK,v a,290,saenkoromance
+282492,vene1258,WALK,v a,290,saenkoromance
+282493,vene1258,WALK,v a,290,saenkoromance
+282494,vene1258,WALK,v a,290,saenkoromance
+282495,ital1282,WALK,v a,290,saenkoromance
+282496,ital1282,WALK,v a,290,saenkoromance
+282497,neap1235,WALK,v a,290,saenkoromance
+282498,camp1261,WALK,a n d + ˈa j,289,saenkoromance
+282499,sici1248,WALK,v a,290,saenkoromance
+282500,sici1248,WALK,v a,290,saenkoromance
+282501,sici1248,WALK,v a,290,saenkoromance
+282502,stan1289,WALK,b a,290,saenkoromance
+282503,stan1289,WALK,b a,290,saenkoromance
+282504,stan1289,WALK,b a,290,saenkoromance
+282505,stan1289,WALK,v a,290,saenkoromance
+282506,stan1289,WALK,b a,290,saenkoromance
+282507,stan1289,WALK,b a,290,saenkoromance
+282508,arom1237,WALK,ɲ ˈe r ɡ + u,293,saenkoromance
+282509,roma1327,WALK,a + m ˈe r dʒ + e,291,saenkoromance
+282510,friu1240,WALK,l ˈa + v + i,294,saenkoromance
+282511,piem1238,WALK,a ŋ d + a r ˈi + a,289,saenkoromance
+282512,piem1238,WALK,a ŋ d + a z ˈi + a,289,saenkoromance
+282513,piem1238,WALK,a ŋ d + a z ˈi + a,289,saenkoromance
+282514,piem1238,WALK,ŋ d + ˈa v + a,289,saenkoromance
+282515,roma1328,WALK,a n d + ˈeː d + a,289,saenkoromance
+282516,emil1241,WALK,a n d + ˈa v + a,289,saenkoromance
+282517,emil1241,WALK,n d + ˈɛ v + a,289,saenkoromance
+282518,emil1241,WALK,a n d + ˈɛː v + a,289,saenkoromance
+282519,ligu1248,WALK,a n + ˈa v + a,289,saenkoromance
+282520,ligu1248,WALK,a n d + ˈɔ v + u,289,saenkoromance
+282521,vene1258,WALK,ŋ d ˈa v + o,296,saenkoromance
+282522,vene1258,WALK,ŋ d + e,289,saenkoromance
+282523,vene1258,WALK,a ŋ d + ˈe + e,289,saenkoromance
+282524,ital1282,WALK,a n d + ˈa v + o,289,saenkoromance
+282525,ital1282,WALK,a n d + ˈa v + o,289,saenkoromance
+282526,neap1235,WALK,j + ˈe v + ə,295,saenkoromance
+282527,sici1248,WALK,j ˈa v + u,295,saenkoromance
+282528,sici1248,WALK,j ˈɛ v + u,295,saenkoromance
+282529,sici1248,WALK,j a,295,saenkoromance
+282530,stan1289,WALK,ə n + ˈa β + ə,289,saenkoromance
+282531,stan1289,WALK,a n + ˈa,289,saenkoromance
+282532,stan1289,WALK,n + ˈa v + ə,289,saenkoromance
+282533,stan1289,WALK,a n + ˈa v + a,289,saenkoromance
+282534,stan1289,WALK,a n + ˈa β + a,289,saenkoromance
+282535,stan1289,WALK,a n + ˈa β + a,289,saenkoromance
+282536,megl1237,WARM,k a l t,297,saenkoromance
+282537,istr1245,WARM,k ɒ d,297,saenkoromance
+282538,arom1237,WARM,k ˈa l d + u,297,saenkoromance
+282539,roma1327,WARM,k a l d,297,saenkoromance
+282540,friu1240,WARM,tʲ a l t,297,saenkoromance
+282541,piem1238,WARM,t ˈə b + i,298,saenkoromance
+282542,piem1238,WARM,t ˈə b + i,298,saenkoromance
+282543,piem1238,WARM,k a w d,297,saenkoromance
+282544,piem1238,WARM,k a w t,297,saenkoromance
+282545,roma1328,WARM,k e a l d,297,saenkoromance
+282546,emil1241,WARM,k a l d,297,saenkoromance
+282547,emil1241,WARM,k a l d + ˈɛ j n,297,saenkoromance
+282548,emil1241,WARM,k ˈɛː l d,297,saenkoromance
+282549,ligu1248,WARM,k ˈaː d + u,297,saenkoromance
+282550,ligu1248,WARM,tʃ ˈe pː + u,298,saenkoromance
+282551,vene1258,WARM,t ˈj ˈɛ p i d + o,299,saenkoromance
+282552,vene1258,WARM,k a l t,297,saenkoromance
+282553,vene1258,WARM,k a l t,297,saenkoromance
+282554,ital1282,WARM,k ˈa l d + o,297,saenkoromance
+282555,ital1282,WARM,k ˈa l d + o,297,saenkoromance
+282556,neap1235,WARM,k ˈa β ə r + ə,297,saenkoromance
+282557,camp1261,WARM,k a l + ˈo r + u,297,saenkoromance
+282558,sici1248,WARM,k ˈa v u ɾ + u,297,saenkoromance
+282559,sici1248,WARM,t ˈɛ p i d + u,299,saenkoromance
+282560,sici1248,WARM,k ˈau ɾ + u,297,saenkoromance
+282561,stan1289,WARM,k ə lˠ + ˈe n,297,saenkoromance
+282562,stan1289,WARM,k a lˠ + ˈe n,297,saenkoromance
+282563,stan1289,WARM,k ə ˈlˠ + e n,297,saenkoromance
+282564,stan1289,WARM,k a lˠ + ˈe n t,297,saenkoromance
+282565,stan1289,WARM,t e m p lˠ + ˈa t,300,saenkoromance
+282566,stan1289,WARM,k a lˠ + ˈe n t,297,saenkoromance
+282567,megl1237,WATER,ˈa p + u,301,saenkoromance
+282568,istr1245,WATER,ˈɒ p + ˈæ,301,saenkoromance
+282569,arom1237,WATER,ˈa p + ə,301,saenkoromance
+282570,roma1327,WATER,ˈa p + ə,301,saenkoromance
+282571,friu1240,WATER,ˈa ɡ + e,302,saenkoromance
+282572,piem1238,WATER,ˈe v + a,303,saenkoromance
+282573,piem1238,WATER,ˈɛ v + a,303,saenkoromance
+282574,piem1238,WATER,ˈe v + a,303,saenkoromance
+282575,piem1238,WATER,ˈa k w + a,302,saenkoromance
+282576,roma1328,WATER,ˈa k v + a,302,saenkoromance
+282577,emil1241,WATER,ˈa k w + a,302,saenkoromance
+282578,emil1241,WATER,ˈa k w + a,302,saenkoromance
+282579,emil1241,WATER,ˈaː k v + a,302,saenkoromance
+282580,ligu1248,WATER,ˈæː ɡ w + a,302,saenkoromance
+282581,ligu1248,WATER,ˈæː ɡ w + a,302,saenkoromance
+282582,vene1258,WATER,ˈa k w + a,302,saenkoromance
+282583,vene1258,WATER,ˈa k w + a,302,saenkoromance
+282584,vene1258,WATER,ˈa k w + a,302,saenkoromance
+282585,ital1282,WATER,ˈa kː w + a,302,saenkoromance
+282586,ital1282,WATER,ˈa kː w + a,302,saenkoromance
+282587,neap1235,WATER,ˈa kː w + ə,302,saenkoromance
+282588,camp1261,WATER,ˈa bː + a,301,saenkoromance
+282589,sici1248,WATER,ˈa kː w + a,302,saenkoromance
+282590,sici1248,WATER,ˈa kː w + a,302,saenkoromance
+282591,sici1248,WATER,ˈa kː w + a,302,saenkoromance
+282592,stan1289,WATER,ˈa j ɣ w + ə,302,saenkoromance
+282593,stan1289,WATER,ˈa j ɣ w + ˈɛ,302,saenkoromance
+282594,stan1289,WATER,ˈa j ɣ + u,302,saenkoromance
+282595,stan1289,WATER,ˈa j ɣ w + a,302,saenkoromance
+282596,stan1289,WATER,ˈai w + a,303,saenkoromance
+282597,stan1289,WATER,ˈai w + a,303,saenkoromance
+282598,megl1237,WE,n o j,304,saenkoromance
+282599,istr1245,WE,n o j,304,saenkoromance
+282600,arom1237,WE,n o j,304,saenkoromance
+282601,roma1327,WE,n o j,304,saenkoromance
+282602,friu1240,WE,n oː,304,saenkoromance
+282603,piem1238,WE,n u j,304,saenkoromance
+282604,piem1238,WE,n u j,304,saenkoromance
+282605,piem1238,WE,n u j,304,saenkoromance
+282606,piem1238,WE,n y j,304,saenkoromance
+282607,roma1328,WE,n o w,304,saenkoromance
+282608,emil1241,WE,n u + ˈɛ t e r,306,saenkoromance
+282609,emil1241,WE,n u + ˈɛː t e r,306,saenkoromance
+282610,ligu1248,WE,n u ˈi,304,saenkoromance
+282611,ligu1248,WE,n ɥ i + ˈa t r + i,305,saenkoromance
+282612,vene1258,WE,n i + ˈa l t r + i,305,saenkoromance
+282613,vene1258,WE,n o j,304,saenkoromance
+282614,vene1258,WE,n o j,304,saenkoromance
+282615,ital1282,WE,n ˈoi,304,saenkoromance
+282616,ital1282,WE,n ˈoi,304,saenkoromance
+282617,neap1235,WE,n ˈu j + ə,304,saenkoromance
+282618,camp1261,WE,n o z + ˈa t r u + z u,305,saenkoromance
+282619,sici1248,WE,n u + ˈa v u ʈ ɽ + i,305,saenkoromance
+282620,sici1248,WE,n ˈui,304,saenkoromance
+282621,sici1248,WE,n i + ˈa w ʈ ɽ + i,305,saenkoromance
+282622,stan1289,WE,n u z + ˈa lˠ t ɾ + ə s,305,saenkoromance
+282623,stan1289,WE,n o z + ˈa lˠ t ɾ + e s,305,saenkoromance
+282624,stan1289,WE,n ˈo + lˠ t ɾ + u s,306,saenkoromance
+282625,stan1289,WE,n o z + ˈa lˠ t ɾ + e s,305,saenkoromance
+282626,stan1289,WE,m o s + ˈa t ɾ + o s,305,saenkoromance
+282627,stan1289,WE,n o z + ˈa lˠ t ɾ + e s,305,saenkoromance
+282628,emil1241,WE,s e,307,saenkoromance
+282629,ital1282,WE,tʃ i,308,saenkoromance
+282630,ital1282,WE,tʃ i,308,saenkoromance
+282631,megl1237,WHAT,ts e,309,saenkoromance
+282632,istr1245,WHAT,tʃ e,310,saenkoromance
+282633,arom1237,WHAT,ts e,309,saenkoromance
+282634,roma1327,WHAT,tʃ e,310,saenkoromance
+282635,friu1240,WHAT,tʃ e,310,saenkoromance
+282636,piem1238,WHAT,k ˈɔ z a,311,saenkoromance
+282637,piem1238,WHAT,k ˈɔ z a,311,saenkoromance
+282638,piem1238,WHAT,k ˈɔ z a,311,saenkoromance
+282639,piem1238,WHAT,k w ˈɛ,309,saenkoromance
+282640,roma1328,WHAT,k e,309,saenkoromance
+282641,emil1241,WHAT,k ˈu z a,311,saenkoromance
+282642,emil1241,WHAT,k ˈu z a,311,saenkoromance
+282643,emil1241,WHAT,k s aː,311,saenkoromance
+282644,ligu1248,WHAT,k o sː ˈe,311,saenkoromance
+282645,ligu1248,WHAT,k ˈoː sː e,311,saenkoromance
+282646,vene1258,WHAT,k ˈɔ s a,311,saenkoromance
+282647,vene1258,WHAT,k e,309,saenkoromance
+282648,vene1258,WHAT,k e,309,saenkoromance
+282649,ital1282,WHAT,k e,309,saenkoromance
+282650,ital1282,WHAT,k e,309,saenkoromance
+282651,neap1235,WHAT,k ə,309,saenkoromance
+282652,camp1261,WHAT,ˈi tː a,310,saenkoromance
+282653,sici1248,WHAT,k i,309,saenkoromance
+282654,sici1248,WHAT,k i,309,saenkoromance
+282655,sici1248,WHAT,k i,309,saenkoromance
+282656,stan1289,WHAT,k ˈɛ,309,saenkoromance
+282657,stan1289,WHAT,k e,309,saenkoromance
+282658,stan1289,WHAT,k ˈɛ,309,saenkoromance
+282659,stan1289,WHAT,k e,309,saenkoromance
+282660,stan1289,WHAT,k e,309,saenkoromance
+282661,stan1289,WHAT,k e,309,saenkoromance
+282662,megl1237,WHITE,a l p,312,saenkoromance
+282663,istr1245,WHITE,ɒ b,312,saenkoromance
+282664,arom1237,WHITE,ˈa l b + u,312,saenkoromance
+282665,roma1327,WHITE,a l b,312,saenkoromance
+282666,friu1240,WHITE,b l a ŋ k,313,saenkoromance
+282667,piem1238,WHITE,b j a ŋ k,313,saenkoromance
+282668,piem1238,WHITE,b j a ŋ k,313,saenkoromance
+282669,piem1238,WHITE,b j a ŋ k,313,saenkoromance
+282670,piem1238,WHITE,b j aː ŋ k,313,saenkoromance
+282671,roma1328,WHITE,b j ˈã n k,313,saenkoromance
+282672,emil1241,WHITE,b j a ŋ k,313,saenkoromance
+282673,emil1241,WHITE,b j a ŋ k,313,saenkoromance
+282674,emil1241,WHITE,b j aː ŋ k,313,saenkoromance
+282675,ligu1248,WHITE,dʒ ˈaː ŋ k + u,313,saenkoromance
+282676,ligu1248,WHITE,dʒ ˈaː ŋ k + u,313,saenkoromance
+282677,vene1258,WHITE,b ˈj a ŋ k + o,313,saenkoromance
+282678,vene1258,WHITE,b j a ŋ k,313,saenkoromance
+282679,vene1258,WHITE,b j a ŋ k,313,saenkoromance
+282680,ital1282,WHITE,b ˈj a ŋ k + o,313,saenkoromance
+282681,ital1282,WHITE,b ˈj a ŋ k + o,313,saenkoromance
+282682,neap1235,WHITE,j ˈa ŋ k + ə,313,saenkoromance
+282683,camp1261,WHITE,b j ˈa ŋ k + u,313,saenkoromance
+282684,sici1248,WHITE,b ˈj a ŋ k + u,313,saenkoromance
+282685,sici1248,WHITE,ˈj a ŋ k + u,313,saenkoromance
+282686,sici1248,WHITE,b r ˈa ŋ k + u,313,saenkoromance
+282687,stan1289,WHITE,b lˠ a ŋ,313,saenkoromance
+282688,stan1289,WHITE,b lˠ a ŋ,313,saenkoromance
+282689,stan1289,WHITE,b lˠ a ŋ,313,saenkoromance
+282690,stan1289,WHITE,b lˠ a ŋ k,313,saenkoromance
+282691,stan1289,WHITE,b lˠ a ŋ k,313,saenkoromance
+282692,stan1289,WHITE,b lˠ a ŋ k,313,saenkoromance
+282693,megl1237,WHO,k ˈa r + i,314,saenkoromance
+282694,istr1245,WHO,tʃ ˈi r e,315,saenkoromance
+282695,arom1237,WHO,k ˈa r + e,314,saenkoromance
+282696,roma1327,WHO,tʃ ˈi n e,315,saenkoromance
+282697,friu1240,WHO,k u j,314,saenkoromance
+282698,piem1238,WHO,k i,314,saenkoromance
+282699,piem1238,WHO,k i,314,saenkoromance
+282700,piem1238,WHO,k i,314,saenkoromance
+282701,piem1238,WHO,k i,314,saenkoromance
+282702,roma1328,WHO,k i,314,saenkoromance
+282703,emil1241,WHO,k i,314,saenkoromance
+282704,emil1241,WHO,k i,314,saenkoromance
+282705,emil1241,WHO,k i,314,saenkoromance
+282706,ligu1248,WHO,k i,314,saenkoromance
+282707,ligu1248,WHO,k i,314,saenkoromance
+282708,vene1258,WHO,k i,314,saenkoromance
+282709,vene1258,WHO,k i,314,saenkoromance
+282710,vene1258,WHO,k i,314,saenkoromance
+282711,ital1282,WHO,k i,314,saenkoromance
+282712,ital1282,WHO,k i,314,saenkoromance
+282713,neap1235,WHO,k i,314,saenkoromance
+282714,camp1261,WHO,k ˈi + n i,314,saenkoromance
+282715,sici1248,WHO,k u,314,saenkoromance
+282716,sici1248,WHO,k ˈui,314,saenkoromance
+282717,sici1248,WHO,k ˈui,314,saenkoromance
+282718,stan1289,WHO,k i,314,saenkoromance
+282719,stan1289,WHO,k i,314,saenkoromance
+282720,stan1289,WHO,k i,314,saenkoromance
+282721,stan1289,WHO,k i,314,saenkoromance
+282722,stan1289,WHO,k i,314,saenkoromance
+282723,stan1289,WHO,k i,314,saenkoromance
+282724,megl1237,WIND,v i n t,316,saenkoromance
+282725,istr1245,WIND,b ˈo r + ˈæ,318,saenkoromance
+282726,arom1237,WIND,v ˈi m t + u,316,saenkoromance
+282727,roma1327,WIND,v ɨ n t,316,saenkoromance
+282728,friu1240,WIND,ˈa j a r,317,saenkoromance
+282729,piem1238,WIND,v ˈɛ ŋ t,316,saenkoromance
+282730,piem1238,WIND,v ˈɛ ŋ t,316,saenkoromance
+282731,piem1238,WIND,ˈa r j + a,319,saenkoromance
+282732,piem1238,WIND,v eː ŋ t,316,saenkoromance
+282733,roma1328,WIND,v ˈɛ n t,316,saenkoromance
+282734,emil1241,WIND,v e n t,316,saenkoromance
+282735,emil1241,WIND,v ˈɛ j n t,316,saenkoromance
+282736,emil1241,WIND,v ˈɛ j n t,316,saenkoromance
+282737,ligu1248,WIND,v ˈe ŋ t + u,316,saenkoromance
+282738,ligu1248,WIND,v ˈæː ŋ t + u,316,saenkoromance
+282739,vene1258,WIND,v ˈe ŋ t + o,316,saenkoromance
+282740,vene1258,WIND,v ˈɛ ŋ t,316,saenkoromance
+282741,vene1258,WIND,v ˈɛ ŋ t,316,saenkoromance
+282742,ital1282,WIND,v ˈɛ n t + o,316,saenkoromance
+282743,ital1282,WIND,v ˈɛ n t + o,316,saenkoromance
+282744,neap1235,WIND,v ˈj e n t + ə,316,saenkoromance
+282745,camp1261,WIND,b ˈe n t + u,316,saenkoromance
+282746,sici1248,WIND,v ˈj ˈɛ n t + u,316,saenkoromance
+282747,sici1248,WIND,v ˈɛ n t + u,316,saenkoromance
+282748,sici1248,WIND,v ˈj ˈɛ n t + u,316,saenkoromance
+282749,stan1289,WIND,b e n,316,saenkoromance
+282750,stan1289,WIND,b e n,316,saenkoromance
+282751,stan1289,WIND,v e n t,316,saenkoromance
+282752,stan1289,WIND,v e n,316,saenkoromance
+282753,stan1289,WIND,b e n t,316,saenkoromance
+282754,stan1289,WIND,b e n t,316,saenkoromance
+282755,megl1237,WOMAN,m u ʎ ˈa r + i,320,saenkoromance
+282756,istr1245,WOMAN,ʒ ˈe n s k + ˈæ,323,saenkoromance
+282757,arom1237,WOMAN,m u ʎ ˈe̯a r + e,320,saenkoromance
+282758,roma1327,WOMAN,f e m ˈe j + e,321,saenkoromance
+282759,friu1240,WOMAN,f ˈɛ m i n + e,321,saenkoromance
+282760,piem1238,WOMAN,f ˈu m n + a,321,saenkoromance
+282761,piem1238,WOMAN,f ˈu m n + a,321,saenkoromance
+282762,piem1238,WOMAN,f ˈu m n + a,321,saenkoromance
+282763,piem1238,WOMAN,d ˈɔː n + a,322,saenkoromance
+282764,roma1328,WOMAN,d ˈo n + a,322,saenkoromance
+282765,emil1241,WOMAN,d ˈɔ n + a,322,saenkoromance
+282766,emil1241,WOMAN,d ˈɔ n + a,322,saenkoromance
+282767,emil1241,WOMAN,d ˈɔ n + a,322,saenkoromance
+282768,ligu1248,WOMAN,d ˈo nː + a,322,saenkoromance
+282769,ligu1248,WOMAN,d ˈoː nː + a,322,saenkoromance
+282770,vene1258,WOMAN,d ˈo n + a,322,saenkoromance
+282771,vene1258,WOMAN,f ˈe m e n + a,321,saenkoromance
+282772,vene1258,WOMAN,f ˈe m e n + a,321,saenkoromance
+282773,ital1282,WOMAN,d ˈɔ nː + a,322,saenkoromance
+282774,ital1282,WOMAN,d ˈɔ nː + a,322,saenkoromance
+282775,neap1235,WOMAN,f ˈɛ mː ə n + ə,321,saenkoromance
+282776,camp1261,WOMAN,f ˈɛ mː i n + a,321,saenkoromance
+282777,sici1248,WOMAN,f ˈi mː i n + a,321,saenkoromance
+282778,sici1248,WOMAN,f ˈi mː i n + a,321,saenkoromance
+282779,sici1248,WOMAN,f ˈi mː i n + a,321,saenkoromance
+282780,stan1289,WOMAN,d ˈɔ n + ə,322,saenkoromance
+282781,stan1289,WOMAN,d ˈɔ n + ˈɛ,322,saenkoromance
+282782,stan1289,WOMAN,d ˈɔ n + ə,322,saenkoromance
+282783,stan1289,WOMAN,d ˈɔ n + a,322,saenkoromance
+282784,stan1289,WOMAN,d ˈɔ n + a,322,saenkoromance
+282785,stan1289,WOMAN,d ˈɔ n + a,322,saenkoromance
+282786,megl1237,WORM,dʲ ˈa r m + i,324,saenkoromance
+282787,istr1245,WORM,ɣ ʎ ˈe r m + u,324,saenkoromance
+282788,arom1237,WORM,ʑ ˈe r m + u,324,saenkoromance
+282789,roma1327,WORM,v ˈj e r m + e,324,saenkoromance
+282790,friu1240,WORM,v j ˈɛ r,324,saenkoromance
+282791,piem1238,WORM,v ˈɛ r m,324,saenkoromance
+282792,piem1238,WORM,v ˈɛ r m,324,saenkoromance
+282793,piem1238,WORM,v ˈɛ r m,324,saenkoromance
+282794,piem1238,WORM,v ˈɛ r m,324,saenkoromance
+282795,roma1328,WORM,v ˈeː r m + a n,324,saenkoromance
+282796,emil1241,WORM,v ˈɛ r m,324,saenkoromance
+282797,emil1241,WORM,b eː ɡ,326,saenkoromance
+282798,emil1241,WORM,b ˈɛ j ɡ,326,saenkoromance
+282799,ligu1248,WORM,v ˈeː r m + e,324,saenkoromance
+282800,ligu1248,WORM,v ˈæː r m + u,324,saenkoromance
+282801,vene1258,WORM,v ˈɛ r m + e,324,saenkoromance
+282802,vene1258,WORM,v ˈɛ r m + e n,324,saenkoromance
+282803,vene1258,WORM,b u t,327,saenkoromance
+282804,ital1282,WORM,v ˈɛ r m + e,324,saenkoromance
+282805,ital1282,WORM,b ˈa k + o,326,saenkoromance
+282806,neap1235,WORM,v ˈɛ r m + ə,324,saenkoromance
+282807,camp1261,WORM,b r ˈɛ mː + i n + i,324,saenkoromance
+282808,sici1248,WORM,v ˈj ˈɛ ɾ m + u,324,saenkoromance
+282809,sici1248,WORM,v ˈɛ ɾ m + i,324,saenkoromance
+282810,sici1248,WORM,v ˈɛ ɾ m + i,324,saenkoromance
+282811,stan1289,WORM,k u k,325,saenkoromance
+282812,stan1289,WORM,k u k,325,saenkoromance
+282813,stan1289,WORM,k u k,325,saenkoromance
+282814,stan1289,WORM,k u k,325,saenkoromance
+282815,stan1289,WORM,k u k,325,saenkoromance
+282816,stan1289,WORM,k u k,325,saenkoromance
+282817,roma1327,WORM,r ˈɨ m + ə,324,saenkoromance
+282818,megl1237,YEAR,a n,328,saenkoromance
+282819,istr1245,YEAR,ɒ n,328,saenkoromance
+282820,arom1237,YEAR,ˈa n + u,328,saenkoromance
+282821,roma1327,YEAR,a n,328,saenkoromance
+282822,friu1240,YEAR,a n,328,saenkoromance
+282823,piem1238,YEAR,a n,328,saenkoromance
+282824,piem1238,YEAR,a n,328,saenkoromance
+282825,piem1238,YEAR,a n,328,saenkoromance
+282826,piem1238,YEAR,a ŋ,328,saenkoromance
+282827,roma1328,YEAR,a n,328,saenkoromance
+282828,emil1241,YEAR,a n,328,saenkoromance
+282829,emil1241,YEAR,a n,328,saenkoromance
+282830,emil1241,YEAR,aː n,328,saenkoromance
+282831,ligu1248,YEAR,ˈa nː + u,328,saenkoromance
+282832,ligu1248,YEAR,ˈa nː + u,328,saenkoromance
+282833,vene1258,YEAR,ˈa n + o,328,saenkoromance
+282834,vene1258,YEAR,a n,328,saenkoromance
+282835,vene1258,YEAR,a n,328,saenkoromance
+282836,ital1282,YEAR,ˈa nː + o,328,saenkoromance
+282837,ital1282,YEAR,ˈa nː + o,328,saenkoromance
+282838,neap1235,YEAR,ˈa nː + ə,328,saenkoromance
+282839,camp1261,YEAR,ˈa nː + u,328,saenkoromance
+282840,sici1248,YEAR,a nː + u,328,saenkoromance
+282841,sici1248,YEAR,a nː + u,328,saenkoromance
+282842,sici1248,YEAR,a nː + u,328,saenkoromance
+282843,stan1289,YEAR,a ɲ,328,saenkoromance
+282844,stan1289,YEAR,a ɲ,328,saenkoromance
+282845,stan1289,YEAR,a ɲ,328,saenkoromance
+282846,stan1289,YEAR,a ɲ,328,saenkoromance
+282847,stan1289,YEAR,a ɲ,328,saenkoromance
+282848,stan1289,YEAR,a ɲ,328,saenkoromance
+282849,megl1237,YELLOW,ɡ ˈa l b + i n,329,saenkoromance
+282850,istr1245,YELLOW,ʒ u t,331,saenkoromance
+282851,arom1237,YELLOW,ɡ ˈa l b + i n + u,329,saenkoromance
+282852,roma1327,YELLOW,ɡ ˈa l b + e n,329,saenkoromance
+282853,friu1240,YELLOW,dʒ aː l,331,saenkoromance
+282854,piem1238,YELLOW,dʒ a w ŋ,331,saenkoromance
+282855,piem1238,YELLOW,dʒ a w ŋ,331,saenkoromance
+282856,piem1238,YELLOW,dʒ a w ŋ,331,saenkoromance
+282857,piem1238,YELLOW,dʒ a l t,331,saenkoromance
+282858,roma1328,YELLOW,dz a l,331,saenkoromance
+282859,emil1241,YELLOW,dz a l,331,saenkoromance
+282860,emil1241,YELLOW,z aː l,331,saenkoromance
+282861,emil1241,YELLOW,dz aː l,331,saenkoromance
+282862,ligu1248,YELLOW,dʒ ˈa lː + u,331,saenkoromance
+282863,ligu1248,YELLOW,dʒ ˈaː n + u,331,saenkoromance
+282864,vene1258,YELLOW,z ˈa e v + o,332,saenkoromance
+282865,vene1258,YELLOW,dʒ a l,331,saenkoromance
+282866,vene1258,YELLOW,dʒ a l,331,saenkoromance
+282867,ital1282,YELLOW,dʒ a lː + o,331,saenkoromance
+282868,ital1282,YELLOW,dʒ a lː + o,331,saenkoromance
+282869,neap1235,YELLOW,dʒ ˈa lː + ə,331,saenkoromance
+282870,camp1261,YELLOW,ɡ r ˈo ɣ + u,330,saenkoromance
+282871,sici1248,YELLOW,dʒ ˈa ɾ n + u,331,saenkoromance
+282872,sici1248,YELLOW,dʒ ˈa lː + u,331,saenkoromance
+282873,sici1248,YELLOW,ɡː ˈj a ɾ n + u,331,saenkoromance
+282874,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance
+282875,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance
+282876,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance
+282877,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance
+282878,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance
+282879,stan1289,YELLOW,ɡ ɾ ˈɔ k,330,saenkoromance

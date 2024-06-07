@@ -1,0 +1,3352 @@
+id,doculect,concept,forms,lexstatid,db
+276029,teiw1235,SKY,b u l a n,1847,robinsonap
+276030,abui1241,SKY,a h a l i ŋ t a m a,1845,robinsonap
+276031,blag1240,SKY,b u l a ŋ,1847,robinsonap
+276032,kama1365,SKY,d e l i ŋ,1848,robinsonap
+276033,wers1238,SKY,a j a k e ŋ,1851,robinsonap
+276034,kaer1234,SKY,b u l u ŋ,1847,robinsonap
+276035,lamm1241,SKY,g u n n a ŋ,1849,robinsonap
+276036,adan1251,SKY,l aː b,1846,robinsonap
+276037,sawi1256,SKY,a j a a k a n i,1851,robinsonap
+276038,nede1245,SKY,h u n d u s,1850,robinsonap
+276039,kelo1247,SKY,b u l ə g ɛ n,1847,robinsonap
+276040,teiw1235,SUN,w a r + g e t,2012,robinsonap
+276041,abui1241,SUN,w a r i,2008,robinsonap
+276042,blag1240,SUN,v e d,2009,robinsonap
+276043,kama1365,SUN,w a t i,2008,robinsonap
+276044,wers1238,SUN,w i d i,2008,robinsonap
+276045,kaer1234,SUN,k u w e r,2010,robinsonap
+276046,lamm1241,SUN,w a s,2009,robinsonap
+276047,adan1251,SUN,f ɛ d,2008,robinsonap
+276048,sawi1256,SUN,w a d i,2008,robinsonap
+276049,nede1245,SUN,w e r i,2008,robinsonap
+276050,kelo1247,SUN,m ə d i,2011,robinsonap
+276051,teiw1235,STAR,j i f,1958,robinsonap
+276052,abui1241,STAR,f i r,1957,robinsonap
+276053,blag1240,STAR,i i d,1959,robinsonap
+276054,kama1365,STAR,a t o i b a a i,1961,robinsonap
+276055,wers1238,STAR,a p i k a l,1965,robinsonap
+276056,kaer1234,STAR,i p a l a q,1960,robinsonap
+276057,lamm1241,STAR,h i b b e,1962,robinsonap
+276058,adan1251,STAR,iː b,1958,robinsonap
+276059,sawi1256,STAR,l a w a a l a,1964,robinsonap
+276060,nede1245,STAR,i f a h o j a,1963,robinsonap
+276061,kelo1247,STAR,ɪ b,1958,robinsonap
+276062,teiw1235,CLOUD,m e n a a f,362,robinsonap
+276063,abui1241,CLOUD,t a b o,361,robinsonap
+276064,blag1240,CLOUD,b ə n a w,362,robinsonap
+276065,kama1365,CLOUD,w a l e,363,robinsonap
+276066,wers1238,CLOUD,s a k p u l,367,robinsonap
+276067,kaer1234,CLOUD,b ə n a b,362,robinsonap
+276068,lamm1241,CLOUD,u n n a s,365,robinsonap
+276069,adan1251,CLOUD,l aː b,362,robinsonap
+276070,sawi1256,CLOUD,s a k a p u l o,367,robinsonap
+276071,nede1245,CLOUD,b u n a h,366,robinsonap
+276072,kelo1247,CLOUD,t e ʔ e h,364,robinsonap
+276073,teiw1235,NIGHT,i q a ʔ a n,1432,robinsonap
+276074,abui1241,NIGHT,t u ŋ t a m a,1429,robinsonap
+276075,blag1240,NIGHT,k ə m a l u,1431,robinsonap
+276076,kama1365,NIGHT,t i t l a,1433,robinsonap
+276077,wers1238,NIGHT,m a l e ŋ,1436,robinsonap
+276078,kaer1234,NIGHT,i q a n o,1432,robinsonap
+276079,lamm1241,NIGHT,i r + p a t t a,1434,robinsonap
+276080,adan1251,NIGHT,d i l + ʔ u ʔ u,1430,robinsonap
+276081,sawi1256,NIGHT,i d u n i,1435,robinsonap
+276082,nede1245,NIGHT,i l a q a n a,1432,robinsonap
+276083,kelo1247,NIGHT,ə k ɑ n,1432,robinsonap
+276084,teiw1235,MORNING,b e e s,1335,robinsonap
+276085,abui1241,MORNING,f a l aː k d a,1326,robinsonap
+276086,blag1240,MORNING,h u r a k + w e n,1328,robinsonap
+276087,kama1365,MORNING,w i l k a ŋ,1330,robinsonap
+276088,wers1238,MORNING,w i d i ŋ + l e,1336,robinsonap
+276089,kaer1234,MORNING,q a n a n,1329,robinsonap
+276090,lamm1241,MORNING,m a b u,1332,robinsonap
+276091,adan1251,MORNING,l a l a m i,1327,robinsonap
+276092,sawi1256,MORNING,a l i k i l i,1334,robinsonap
+276093,nede1245,MORNING,b e s i b e s i,1333,robinsonap
+276094,kelo1247,MORNING,k u n k u n,1331,robinsonap
+276095,teiw1235,YESTERDAY,m i j a a g,2400,robinsonap
+276096,abui1241,YESTERDAY,t u w o l a,2397,robinsonap
+276097,blag1240,YESTERDAY,m a l e ŋ,2399,robinsonap
+276098,kama1365,YESTERDAY,t u n s a m a,2401,robinsonap
+276099,wers1238,YESTERDAY,m l e n j a,2399,robinsonap
+276100,kaer1234,YESTERDAY,m i j a g,2400,robinsonap
+276101,lamm1241,YESTERDAY,w a d d i p a ŋ,2402,robinsonap
+276102,adan1251,YESTERDAY,ʔ uː m i,2398,robinsonap
+276103,sawi1256,YESTERDAY,a p a a l i,2403,robinsonap
+276104,nede1245,YESTERDAY,m i j a g i,2400,robinsonap
+276105,kelo1247,YESTERDAY,m l e ŋ,2399,robinsonap
+276106,teiw1235,TOMORROW,b a s,2165,robinsonap
+276107,abui1241,TOMORROW,a ʔ k u n,2157,robinsonap
+276108,blag1240,TOMORROW,t o b a ŋ,2159,robinsonap
+276109,kama1365,TOMORROW,p a i s a n,2161,robinsonap
+276110,wers1238,TOMORROW,m a d a l i,2166,robinsonap
+276111,kaer1234,TOMORROW,u r u ŋ,2160,robinsonap
+276112,lamm1241,TOMORROW,d a l l a,2158,robinsonap
+276113,adan1251,TOMORROW,d i l ɛ l ɛ,2158,robinsonap
+276114,sawi1256,TOMORROW,l a l a m a,2164,robinsonap
+276115,nede1245,TOMORROW,b a t tʃ i,2163,robinsonap
+276116,kelo1247,TOMORROW,i d i l,2162,robinsonap
+276117,teiw1235,WIND,q i a u,2332,robinsonap
+276118,abui1241,WIND,t i m o i,2323,robinsonap
+276119,blag1240,WIND,e n a r,2325,robinsonap
+276120,kama1365,WIND,s u m u i,2327,robinsonap
+276121,wers1238,WIND,l a p o n,2331,robinsonap
+276122,kaer1234,WIND,q e u w,2326,robinsonap
+276123,lamm1241,WIND,d a g e ŋ,2329,robinsonap
+276124,adan1251,WIND,h aː m i,2324,robinsonap
+276125,sawi1256,WIND,l a p o o ŋ,2331,robinsonap
+276126,sawi1256,WIND,l a p o o ŋ,2331,robinsonap
+276127,nede1245,WIND,a ŋ i,2330,robinsonap
+276128,kelo1247,WIND,n ə m ɛ r,2328,robinsonap
+276129,teiw1235,RAIN (PRECIPITATION),ħ a l,1587,robinsonap
+276130,abui1241,RAIN (PRECIPITATION),a n u i,1583,robinsonap
+276131,blag1240,RAIN (PRECIPITATION),n u w a r,1584,robinsonap
+276132,kama1365,RAIN (PRECIPITATION),a i i,1586,robinsonap
+276133,wers1238,RAIN (PRECIPITATION),e i j a + m a i,1590,robinsonap
+276134,kaer1234,RAIN (PRECIPITATION),a j,1585,robinsonap
+276135,lamm1241,RAIN (PRECIPITATION),h a j a,1587,robinsonap
+276136,adan1251,RAIN (PRECIPITATION),n u i,1583,robinsonap
+276137,sawi1256,RAIN (PRECIPITATION),ɑ dʒ a a,1589,robinsonap
+276138,nede1245,RAIN (PRECIPITATION),a l a,1588,robinsonap
+276139,kelo1247,RAIN (PRECIPITATION),u n u u r,1584,robinsonap
+276140,teiw1235,RAINBOW,t a f,1596,robinsonap
+276141,abui1241,RAINBOW,h o,1591,robinsonap
+276142,blag1240,RAINBOW,a l i j a ʔ,1593,robinsonap
+276143,kama1365,RAINBOW,w a a ŋ k a w a a,1595,robinsonap
+276144,wers1238,RAINBOW,s u k a ʔ,1600,robinsonap
+276145,kaer1234,RAINBOW,s o u k,1594,robinsonap
+276146,lamm1241,RAINBOW,w a l i + p a k k u ŋ,1597,robinsonap
+276147,adan1251,RAINBOW,h a ʔ a b o ʔ o,1592,robinsonap
+276148,sawi1256,RAINBOW,k a r a ŋ,1599,robinsonap
+276149,nede1245,RAINBOW,s a h i,1598,robinsonap
+276150,kelo1247,RAINBOW,a d u b,1596,robinsonap
+276151,teiw1235,THUNDER,i d i l a n,2145,robinsonap
+276152,abui1241,THUNDER,a d i i + d a m a l a i + d i a,2136,robinsonap
+276153,blag1240,THUNDER,l a l,2138,robinsonap
+276154,kama1365,THUNDER,k a r a a t,2140,robinsonap
+276155,wers1238,THUNDER,k e t e,2146,robinsonap
+276156,kaer1234,THUNDER,i d + d u g u r u ŋ,2139,robinsonap
+276157,lamm1241,THUNDER,d i,2142,robinsonap
+276158,adan1251,THUNDER,h a r i b,2137,robinsonap
+276159,sawi1256,THUNDER,k ɑ d o o r ɑ ŋ,2144,robinsonap
+276160,nede1245,THUNDER,d a l a g a,2143,robinsonap
+276161,kelo1247,THUNDER,m e d e k,2141,robinsonap
+276162,teiw1235,LIGHTNING,k i i,1213,robinsonap
+276163,abui1241,LIGHTNING,a h a l a i,1211,robinsonap
+276164,blag1240,LIGHTNING,b i l + m ə l e j l a k,1212,robinsonap
+276165,kama1365,LIGHTNING,d e l i ŋ + w o b i k a,1214,robinsonap
+276166,wers1238,LIGHTNING,m e k e,1219,robinsonap
+276167,kaer1234,LIGHTNING,k i i,1213,robinsonap
+276168,lamm1241,LIGHTNING,i r + m i ʔ a r,1216,robinsonap
+276169,sawi1256,LIGHTNING,m ɪ l a ŋ,1218,robinsonap
+276170,nede1245,LIGHTNING,i l t a m a ʔ a w,1217,robinsonap
+276171,kelo1247,LIGHTNING,m e d e k,1215,robinsonap
+276172,teiw1235,EARTHQUAKE,i t o j a n,630,robinsonap
+276173,abui1241,EARTHQUAKE,t a i dʒ o k a,627,robinsonap
+276174,blag1240,EARTHQUAKE,p o r + ʔ o t a ʔ,629,robinsonap
+276175,kama1365,EARTHQUAKE,k o m e e,631,robinsonap
+276176,wers1238,EARTHQUAKE,k o m e i d a i,631,robinsonap
+276177,kaer1234,EARTHQUAKE,i t i j o q u ŋ,630,robinsonap
+276178,lamm1241,EARTHQUAKE,t a ŋ + a b b a ŋ,633,robinsonap
+276179,adan1251,EARTHQUAKE,t a i + w ɛ ʔ ɛ,628,robinsonap
+276180,nede1245,EARTHQUAKE,i l a ʔ a b,634,robinsonap
+276181,kelo1247,EARTHQUAKE,d a i,632,robinsonap
+276182,teiw1235,MOUNTAIN,m u u g,1359,robinsonap
+276183,abui1241,MOUNTAIN,b u k u + w a t i k a,1353,robinsonap
+276184,blag1240,MOUNTAIN,p o n d o,1354,robinsonap
+276185,kama1365,MOUNTAIN,b u k,1356,robinsonap
+276186,wers1238,MOUNTAIN,a t o k u + b u b u ŋ,1360,robinsonap
+276187,kaer1234,MOUNTAIN,b u k u u,1355,robinsonap
+276188,lamm1241,MOUNTAIN,k u k k a,1358,robinsonap
+276189,sawi1256,MOUNTAIN,p o t t a,1354,robinsonap
+276190,nede1245,MOUNTAIN,m a g a,1359,robinsonap
+276191,kelo1247,MOUNTAIN,d ɔ l,1357,robinsonap
+276192,teiw1235,VILLAGE,h a f a n,2230,robinsonap
+276193,abui1241,VILLAGE,a f ɛ ŋ,2230,robinsonap
+276194,blag1240,VILLAGE,a b a ŋ,2230,robinsonap
+276195,kama1365,VILLAGE,m a n e,2232,robinsonap
+276196,wers1238,VILLAGE,m a n a ʔ,2232,robinsonap
+276197,kaer1234,VILLAGE,a b a n,2230,robinsonap
+276198,lamm1241,VILLAGE,h a b b a ŋ,2230,robinsonap
+276199,adan1251,VILLAGE,b a ŋ + ʔ ɛ m e,2231,robinsonap
+276200,sawi1256,VILLAGE,m a n a a,2232,robinsonap
+276201,nede1245,VILLAGE,a f a ŋ,2230,robinsonap
+276202,kelo1247,VILLAGE,e b e n,2230,robinsonap
+276203,teiw1235,EARTH (SOIL),m o ħ o ʔ,626,robinsonap
+276204,abui1241,EARTH (SOIL),a n a i,617,robinsonap
+276205,blag1240,EARTH (SOIL),b u t u ŋ,619,robinsonap
+276206,kama1365,EARTH (SOIL),a r u ŋ,621,robinsonap
+276207,wers1238,EARTH (SOIL),a t o k u,625,robinsonap
+276208,kaer1234,EARTH (SOIL),m a ħ a,620,robinsonap
+276209,lamm1241,EARTH (SOIL),m u a,623,robinsonap
+276210,adan1251,EARTH (SOIL),f a ʔ a i,618,robinsonap
+276211,sawi1256,EARTH (SOIL),a t a k u,625,robinsonap
+276212,nede1245,EARTH (SOIL),t a l a k a,624,robinsonap
+276213,kelo1247,EARTH (SOIL),m ə k ɛ ʔ,622,robinsonap
+276214,teiw1235,LAND,i i d,1140,robinsonap
+276215,abui1241,LAND,b u k u,1136,robinsonap
+276216,blag1240,LAND,p o r,1137,robinsonap
+276217,kama1365,LAND,b u k,1136,robinsonap
+276218,kaer1234,LAND,p a r,1137,robinsonap
+276219,lamm1241,LAND,p o r,1137,robinsonap
+276220,nede1245,LAND,q o k a,1139,robinsonap
+276221,kelo1247,LAND,b u l j a,1138,robinsonap
+276222,teiw1235,HOLE,i b a a q,1048,robinsonap
+276223,abui1241,HOLE,l u k u l a,1039,robinsonap
+276224,blag1240,HOLE,i l b o r,1041,robinsonap
+276225,kama1365,HOLE,s u k u u,1043,robinsonap
+276226,wers1238,HOLE,k a d a r,1047,robinsonap
+276227,kaer1234,HOLE,j e q u,1042,robinsonap
+276228,lamm1241,HOLE,b a u,1045,robinsonap
+276229,adan1251,HOLE,b o e,1040,robinsonap
+276230,sawi1256,HOLE,k a d a a r,1047,robinsonap
+276231,nede1245,HOLE,j a h a l,1046,robinsonap
+276232,kelo1247,HOLE,d o k,1044,robinsonap
+276233,teiw1235,STONE,w a r,1983,robinsonap
+276234,abui1241,STONE,v iː,1981,robinsonap
+276235,blag1240,STONE,v a r,1983,robinsonap
+276236,kama1365,STONE,w o i,1982,robinsonap
+276237,wers1238,STONE,w o r,1983,robinsonap
+276238,kaer1234,STONE,w a r,1983,robinsonap
+276239,lamm1241,STONE,h a u w e,1984,robinsonap
+276240,adan1251,STONE,f u i,1982,robinsonap
+276241,sawi1256,STONE,w a r a,1983,robinsonap
+276242,nede1245,STONE,w a l a,1983,robinsonap
+276243,kelo1247,STONE,w ɔ r,1983,robinsonap
+276244,teiw1235,WATER,j i r,2275,robinsonap
+276245,abui1241,WATER,j e,2275,robinsonap
+276246,blag1240,WATER,dʒ a r,2277,robinsonap
+276247,kama1365,WATER,i l i,2278,robinsonap
+276248,wers1238,WATER,i r a,2279,robinsonap
+276249,kaer1234,WATER,dʒ i i r,2277,robinsonap
+276250,lamm1241,WATER,h a l i a,2280,robinsonap
+276251,adan1251,WATER,s i,2276,robinsonap
+276252,sawi1256,WATER,i r i a,2279,robinsonap
+276253,nede1245,WATER,j i l a,2275,robinsonap
+276254,kelo1247,WATER,a r ɑ,2279,robinsonap
+276255,teiw1235,RIVER,b o ʔ o i,1655,robinsonap
+276256,abui1241,RIVER,l u,1653,robinsonap
+276257,blag1240,RIVER,m u a l,1654,robinsonap
+276258,kama1365,RIVER,i l i + m a ʔ t a ŋ,1656,robinsonap
+276259,wers1238,RIVER,i l u,1653,robinsonap
+276260,kaer1234,RIVER,b o i,1655,robinsonap
+276261,lamm1241,RIVER,k a p a,1658,robinsonap
+276262,sawi1256,RIVER,i l u,1653,robinsonap
+276263,nede1245,RIVER,b a l u,1659,robinsonap
+276264,kelo1247,RIVER,w ɛ r,1657,robinsonap
+276265,teiw1235,LAKE,b ə n a a q,1134,robinsonap
+276266,abui1241,LAKE,w aː + t a k a t a,1128,robinsonap
+276267,wers1238,LAKE,m e r i a ʔ,1135,robinsonap
+276268,kaer1234,LAKE,j i r + m o g o,1129,robinsonap
+276269,lamm1241,LAKE,h a l i a,1131,robinsonap
+276270,sawi1256,LAKE,i r i a k a w a a l i,1133,robinsonap
+276271,nede1245,LAKE,t r a q a,1132,robinsonap
+276272,kelo1247,LAKE,ə r ɑ g ɪ t ɪ p,1130,robinsonap
+276273,teiw1235,CORAL ROCK,q o q a s,409,robinsonap
+276274,abui1241,CORAL ROCK,v iː + k a r a f i,406,robinsonap
+276275,blag1240,CORAL ROCK,m ə n a p a,408,robinsonap
+276276,kama1365,CORAL ROCK,p u s a,410,robinsonap
+276277,wers1238,CORAL ROCK,w o r + s a l a r,413,robinsonap
+276278,kaer1234,CORAL ROCK,ħ o q i s,409,robinsonap
+276279,lamm1241,CORAL ROCK,k a t a ŋ,411,robinsonap
+276280,adan1251,CORAL ROCK,ʔ o ʔ o i + f u i,407,robinsonap
+276281,nede1245,CORAL ROCK,b a t a l,412,robinsonap
+276282,kelo1247,CORAL ROCK,k o k a h,409,robinsonap
+276283,teiw1235,REEF,t u m u,1621,robinsonap
+276284,abui1241,REEF,k a r a f i,1620,robinsonap
+276285,blag1240,REEF,t o m u,1621,robinsonap
+276286,kama1365,REEF,p u s a,1622,robinsonap
+276287,wers1238,REEF,s a l a r,1627,robinsonap
+276288,lamm1241,REEF,l a s s a ŋ,1624,robinsonap
+276289,sawi1256,REEF,a s i ŋ k u,1626,robinsonap
+276290,nede1245,REEF,q a e r a,1625,robinsonap
+276291,kelo1247,REEF,m u r u + t o m u,1623,robinsonap
+276292,teiw1235,CANOE,ħ a i,288,robinsonap
+276293,abui1241,CANOE,p e l a ŋ,284,robinsonap
+276294,blag1240,CANOE,dʒ e,286,robinsonap
+276295,kama1365,CANOE,s i p i i,287,robinsonap
+276296,wers1238,CANOE,s i p i r,287,robinsonap
+276297,kaer1234,CANOE,e i,285,robinsonap
+276298,lamm1241,CANOE,h a i,288,robinsonap
+276299,adan1251,CANOE,e i,285,robinsonap
+276300,sawi1256,CANOE,k a a d a ŋ,289,robinsonap
+276301,nede1245,CANOE,h e,288,robinsonap
+276302,kelo1247,CANOE,ɛ i,285,robinsonap
+276303,teiw1235,FISH TRAP,k e r,740,robinsonap
+276304,abui1241,FISH TRAP,ʔ t e r e,739,robinsonap
+276305,blag1240,FISH TRAP,k e r,740,robinsonap
+276306,kama1365,FISH TRAP,l o k e i,741,robinsonap
+276307,wers1238,FISH TRAP,k n o p o ŋ,744,robinsonap
+276308,lamm1241,FISH TRAP,s a r,742,robinsonap
+276309,nede1245,FISH TRAP,tʃ a r,743,robinsonap
+276310,teiw1235,SEA,t a ʔ,1737,robinsonap
+276311,abui1241,SEA,t a m a,1737,robinsonap
+276312,blag1240,SEA,t a ŋ,1737,robinsonap
+276313,kama1365,SEA,t a m a,1737,robinsonap
+276314,wers1238,SEA,t a m a ʔ,1737,robinsonap
+276315,kaer1234,SEA,t a m,1737,robinsonap
+276316,lamm1241,SEA,t a w a,1737,robinsonap
+276317,adan1251,SEA,t a ŋ,1737,robinsonap
+276318,sawi1256,SEA,t a m a,1737,robinsonap
+276319,nede1245,SEA,t a,1737,robinsonap
+276320,kelo1247,SEA,t a n,1737,robinsonap
+276321,teiw1235,WAVE,b o o f,2282,robinsonap
+276322,abui1241,WAVE,f ɔ,2281,robinsonap
+276323,blag1240,WAVE,b u a t,2283,robinsonap
+276324,kama1365,WAVE,p o k l a a,2284,robinsonap
+276325,wers1238,WAVE,i l a l,2286,robinsonap
+276326,kaer1234,WAVE,b o o b,2282,robinsonap
+276327,lamm1241,WAVE,b o,2282,robinsonap
+276328,adan1251,WAVE,b o b o,2282,robinsonap
+276329,sawi1256,WAVE,g a l u ŋ,2285,robinsonap
+276330,nede1245,WAVE,b o v a,2282,robinsonap
+276331,kelo1247,WAVE,b oː b,2282,robinsonap
+276332,teiw1235,FOAM,q a a w,811,robinsonap
+276333,abui1241,FOAM,b a ʔ l a k i ŋ,808,robinsonap
+276334,blag1240,FOAM,u l,810,robinsonap
+276335,kama1365,FOAM,k u a a,812,robinsonap
+276336,wers1238,FOAM,t a m a ʔ + k u l a ʔ,815,robinsonap
+276337,kaer1234,FOAM,q a a w,811,robinsonap
+276338,lamm1241,FOAM,a l u a,813,robinsonap
+276339,adan1251,FOAM,w a r a w a r a,809,robinsonap
+276340,nede1245,FOAM,b u j,814,robinsonap
+276341,kelo1247,FOAM,k u l,810,robinsonap
+276342,teiw1235,FOREST,w u t,836,robinsonap
+276343,abui1241,FOREST,a t i ŋ,827,robinsonap
+276344,blag1240,FOREST,b i l + p u s i,829,robinsonap
+276345,kama1365,FOREST,b o ŋ + s a k,831,robinsonap
+276346,wers1238,FOREST,d u m,837,robinsonap
+276347,kaer1234,FOREST,q a q u i + e r e s,830,robinsonap
+276348,lamm1241,FOREST,w a p p a ŋ,833,robinsonap
+276349,adan1251,FOREST,b a n a,828,robinsonap
+276350,sawi1256,FOREST,a d i i s i ŋ,835,robinsonap
+276351,nede1245,FOREST,m i j a m a,834,robinsonap
+276352,kelo1247,FOREST,ʔ ɛ h,832,robinsonap
+276353,teiw1235,FIELD,h a w a n + b i ʔ i n,714,robinsonap
+276354,abui1241,FIELD,r o l,710,robinsonap
+276355,wers1238,FIELD,o k u + p e d a k a r,715,robinsonap
+276356,kaer1234,FIELD,u r + w a d o,711,robinsonap
+276357,lamm1241,FIELD,b i ʔ a ŋ,712,robinsonap
+276358,nede1245,FIELD,w u u t a + g a m i,713,robinsonap
+276359,teiw1235,GARDEN,a r + w a n,881,robinsonap
+276360,abui1241,GARDEN,ʔ u t i,873,robinsonap
+276361,blag1240,GARDEN,b i l,875,robinsonap
+276362,kama1365,GARDEN,m i l a a,876,robinsonap
+276363,wers1238,GARDEN,p u r,880,robinsonap
+276364,lamm1241,GARDEN,b u n n i,878,robinsonap
+276365,adan1251,GARDEN,b u t u,874,robinsonap
+276366,sawi1256,GARDEN,p a r a,880,robinsonap
+276367,nede1245,GARDEN,m a ħ a r a,879,robinsonap
+276368,kelo1247,GARDEN,t ɛ r,877,robinsonap
+276369,teiw1235,PATH OR ROAD,j i t a r,1528,robinsonap
+276370,abui1241,PATH OR ROAD,s a f o k o,1519,robinsonap
+276371,blag1240,PATH OR ROAD,v i a,1521,robinsonap
+276372,kama1365,PATH OR ROAD,g e e i,1523,robinsonap
+276373,wers1238,PATH OR ROAD,j e l e,1525,robinsonap
+276374,kaer1234,PATH OR ROAD,dʒ u g u t,1522,robinsonap
+276375,lamm1241,PATH OR ROAD,j a,1525,robinsonap
+276376,adan1251,PATH OR ROAD,s e ʔ b u r,1520,robinsonap
+276377,sawi1256,PATH OR ROAD,l u r a ŋ,1527,robinsonap
+276378,nede1245,PATH OR ROAD,j i i j a,1526,robinsonap
+276379,kelo1247,PATH OR ROAD,ɛ g ɛ ʔ,1524,robinsonap
+276380,teiw1235,AXE,b a f a l,51,robinsonap
+276381,abui1241,AXE,f a l i ŋ,45,robinsonap
+276382,blag1240,AXE,t a a,47,robinsonap
+276383,kama1365,AXE,p a l i ŋ,45,robinsonap
+276384,wers1238,AXE,p o l o ŋ,45,robinsonap
+276385,kaer1234,AXE,t a a ħ i,47,robinsonap
+276386,lamm1241,AXE,b a l i ŋ,45,robinsonap
+276387,adan1251,AXE,b a l i ŋ b o ʔ o b o i,46,robinsonap
+276388,sawi1256,AXE,p o ŋ a l a,50,robinsonap
+276389,nede1245,AXE,b a m m a,49,robinsonap
+276390,kelo1247,AXE,b ɛ i,48,robinsonap
+276391,teiw1235,SPEAR,q a b,1901,robinsonap
+276392,abui1241,SPEAR,k a f a k,1901,robinsonap
+276393,blag1240,SPEAR,ʔ a b a,1903,robinsonap
+276394,kama1365,SPEAR,k a p a,1901,robinsonap
+276395,wers1238,SPEAR,s u s u r a i,1904,robinsonap
+276396,kaer1234,SPEAR,ħ a b i,1901,robinsonap
+276397,lamm1241,SPEAR,k a b b i,1901,robinsonap
+276398,adan1251,SPEAR,b o k o,1902,robinsonap
+276399,sawi1256,SPEAR,s u s u r e,1904,robinsonap
+276400,nede1245,SPEAR,q a b a,1901,robinsonap
+276401,kelo1247,SPEAR,k ə b ɑ k,1901,robinsonap
+276402,teiw1235,BOW,w u t a n,215,robinsonap
+276403,abui1241,BOW,p e t i,210,robinsonap
+276404,blag1240,BOW,u m a t,212,robinsonap
+276405,kama1365,BOW,m o,213,robinsonap
+276406,wers1238,BOW,m o s u,213,robinsonap
+276407,kaer1234,BOW,k u m a t,212,robinsonap
+276408,lamm1241,BOW,h u m m a s,214,robinsonap
+276409,adan1251,BOW,p ɛ h ɛ,211,robinsonap
+276410,sawi1256,BOW,m o o s a,213,robinsonap
+276411,nede1245,BOW,m a t a,212,robinsonap
+276412,kelo1247,BOW,p e h,211,robinsonap
+276413,teiw1235,ARROW,q a f a l a t,22,robinsonap
+276414,abui1241,ARROW,p u l a ŋ,20,robinsonap
+276415,blag1240,ARROW,b u l i t,22,robinsonap
+276416,kama1365,ARROW,w i l i ŋ,23,robinsonap
+276417,wers1238,ARROW,s i k i,27,robinsonap
+276418,kaer1234,ARROW,q u l u b i t,22,robinsonap
+276419,lamm1241,ARROW,k a b u s,25,robinsonap
+276420,adan1251,ARROW,a b u r i g,21,robinsonap
+276421,sawi1256,ARROW,s i k e,27,robinsonap
+276422,nede1245,ARROW,q a v i i t a,26,robinsonap
+276423,kelo1247,ARROW,k b o r,24,robinsonap
+276424,teiw1235,KNIFE,s i ʔ a r,1116,robinsonap
+276425,abui1241,KNIFE,l u i,1113,robinsonap
+276426,blag1240,KNIFE,t u d i k,1115,robinsonap
+276427,kama1365,KNIFE,s i t e i,1117,robinsonap
+276428,wers1238,KNIFE,k i n a i,1120,robinsonap
+276429,kaer1234,KNIFE,s i a r,1116,robinsonap
+276430,lamm1241,KNIFE,s i l a,1118,robinsonap
+276431,adan1251,KNIFE,d u i r,1114,robinsonap
+276432,sawi1256,KNIFE,k i n e,1120,robinsonap
+276433,nede1245,KNIFE,tʃ i j a,1119,robinsonap
+276434,kelo1247,KNIFE,d ʊ ʊ r,1114,robinsonap
+276435,teiw1235,ROPE,t a r,1676,robinsonap
+276436,abui1241,ROPE,ʔ t i l a,1670,robinsonap
+276437,blag1240,ROPE,s i a l,1672,robinsonap
+276438,kama1365,ROPE,k a p e,1673,robinsonap
+276439,wers1238,ROPE,k p e i ʔ,1677,robinsonap
+276440,kaer1234,ROPE,s i i l,1672,robinsonap
+276441,lamm1241,ROPE,k o r a ŋ,1675,robinsonap
+276442,adan1251,ROPE,h i w a ŋ,1671,robinsonap
+276443,sawi1256,ROPE,k a p e,1673,robinsonap
+276444,nede1245,ROPE,k o r a ŋ,1675,robinsonap
+276445,kelo1247,ROPE,h ɑ l ɑ r,1674,robinsonap
+276446,teiw1235,MAT,b i s,1300,robinsonap
+276447,abui1241,MAT,a d i k,1298,robinsonap
+276448,blag1240,MAT,b i,1300,robinsonap
+276449,kama1365,MAT,a d i,1298,robinsonap
+276450,wers1238,MAT,b i t i ʔ,1303,robinsonap
+276451,kaer1234,MAT,b i s,1300,robinsonap
+276452,lamm1241,MAT,b i s,1300,robinsonap
+276453,adan1251,MAT,b a h u,1299,robinsonap
+276454,sawi1256,MAT,b u u s i,1302,robinsonap
+276455,nede1245,MAT,b i i,1300,robinsonap
+276456,kelo1247,MAT,w i k,1301,robinsonap
+276457,teiw1235,OVEN,t u t a ħ,1502,robinsonap
+276458,abui1241,OVEN,d i k i ŋ,1500,robinsonap
+276459,blag1240,OVEN,t u t u,1502,robinsonap
+276460,kama1365,OVEN,d e k a ŋ,1500,robinsonap
+276461,wers1238,OVEN,d i k i ŋ,1500,robinsonap
+276462,kaer1234,OVEN,t u t u k,1502,robinsonap
+276463,lamm1241,OVEN,t u t t u,1502,robinsonap
+276464,adan1251,OVEN,h ɛ ʔ ɛ w u i,1501,robinsonap
+276465,sawi1256,OVEN,i n i k i ŋ,1500,robinsonap
+276466,nede1245,OVEN,t u t u w a l a,1502,robinsonap
+276467,kelo1247,OVEN,a d a g e n,1500,robinsonap
+276468,teiw1235,FIRE,ħ a r,731,robinsonap
+276469,abui1241,FIRE,a r a,731,robinsonap
+276470,blag1240,FIRE,a a d + b e t a,733,robinsonap
+276471,kama1365,FIRE,a t i,735,robinsonap
+276472,wers1238,FIRE,a d a + w a r,737,robinsonap
+276473,kaer1234,FIRE,a a d + w a s i ŋ,734,robinsonap
+276474,lamm1241,FIRE,r a,736,robinsonap
+276475,adan1251,FIRE,a w a i,732,robinsonap
+276476,sawi1256,FIRE,a d a,735,robinsonap
+276477,nede1245,FIRE,a r,731,robinsonap
+276478,kelo1247,FIRE,ə d ɑ,735,robinsonap
+276479,teiw1235,SMOKE (EXHAUST),b u u n,1880,robinsonap
+276480,abui1241,SMOKE (EXHAUST),a r a + t i k a,1876,robinsonap
+276481,blag1240,SMOKE (EXHAUST),a d + b e n a ŋ k a,1878,robinsonap
+276482,kama1365,SMOKE (EXHAUST),p u n a,1879,robinsonap
+276483,wers1238,SMOKE (EXHAUST),a d a + p u n a k,1879,robinsonap
+276484,kaer1234,SMOKE (EXHAUST),a a d + b ə n a a ħ,1878,robinsonap
+276485,lamm1241,SMOKE (EXHAUST),b u n n a,1879,robinsonap
+276486,adan1251,SMOKE (EXHAUST),a w a i + b a n o ʔ o,1877,robinsonap
+276487,sawi1256,SMOKE (EXHAUST),p u n a k a,1879,robinsonap
+276488,nede1245,SMOKE (EXHAUST),a r a b u n,1880,robinsonap
+276489,kelo1247,SMOKE (EXHAUST),ə d ɑ b o n,1880,robinsonap
+276490,teiw1235,ASH,d i ʔ,35,robinsonap
+276491,abui1241,ASH,a r u i,28,robinsonap
+276492,blag1240,ASH,m ə r o,29,robinsonap
+276493,kama1365,ASH,a t i + j e ŋ + k o o,31,robinsonap
+276494,wers1238,ASH,m a + a b u,36,robinsonap
+276495,kaer1234,ASH,b ə r a a m,30,robinsonap
+276496,lamm1241,ASH,d u l i,33,robinsonap
+276497,adan1251,ASH,m aː l u,29,robinsonap
+276498,nede1245,ASH,d a m a ŋ,34,robinsonap
+276499,kelo1247,ASH,a d u r,32,robinsonap
+276500,teiw1235,DUST,d i ʔ + b ə r a a m,607,robinsonap
+276501,abui1241,DUST,t a b w o ŋ,600,robinsonap
+276502,blag1240,DUST,b u t u ŋ + b o n i,602,robinsonap
+276503,kama1365,DUST,k i n i i,604,robinsonap
+276504,wers1238,DUST,m a + p u n a k a,608,robinsonap
+276505,kaer1234,DUST,b r a a m,603,robinsonap
+276506,lamm1241,DUST,b r o,605,robinsonap
+276507,adan1251,DUST,m a l u,601,robinsonap
+276508,sawi1256,DUST,b u t i ŋ,606,robinsonap
+276509,nede1245,DUST,m a l a w,601,robinsonap
+276510,teiw1235,MUD,b ə l a q a s,1378,robinsonap
+276511,abui1241,MUD,d a k u ŋ,1372,robinsonap
+276512,blag1240,MUD,b u t u m p r e t,1374,robinsonap
+276513,kama1365,MUD,f a a,1376,robinsonap
+276514,wers1238,MUD,b r e k e ŋ,1379,robinsonap
+276515,kaer1234,MUD,i l i s a q,1375,robinsonap
+276516,lamm1241,MUD,p a r a,1373,robinsonap
+276517,adan1251,MUD,p a r a h,1373,robinsonap
+276518,sawi1256,MUD,d u u k a ŋ,1372,robinsonap
+276519,nede1245,MUD,b a n a q a,1378,robinsonap
+276520,kelo1247,MUD,m u l,1377,robinsonap
+276521,teiw1235,SAND,e e s,1707,robinsonap
+276522,abui1241,SAND,m a l a t a i,1704,robinsonap
+276523,blag1240,SAND,b e j,1706,robinsonap
+276524,kama1365,SAND,s i n a i,1708,robinsonap
+276525,wers1238,SAND,i n i + p a k,1713,robinsonap
+276526,kaer1234,SAND,w e i s,1707,robinsonap
+276527,lamm1241,SAND,s i ʔ i r,1710,robinsonap
+276528,adan1251,SAND,f ɛ tʃ ɛ ʔ,1705,robinsonap
+276529,sawi1256,SAND,ɪ n ɪ ŋ ɪ,1712,robinsonap
+276530,nede1245,SAND,i j a a s i,1711,robinsonap
+276531,kelo1247,SAND,ɑ l ɑ t,1709,robinsonap
+276532,teiw1235,GRASS,t i ʔ,917,robinsonap
+276533,abui1241,GRASS,k u p e,914,robinsonap
+276534,blag1240,GRASS,n ə v e l,916,robinsonap
+276535,kama1365,GRASS,s a k,918,robinsonap
+276536,wers1238,GRASS,s e r i,922,robinsonap
+276537,kaer1234,GRASS,t e,917,robinsonap
+276538,lamm1241,GRASS,a l e,920,robinsonap
+276539,adan1251,GRASS,b a n a,915,robinsonap
+276540,sawi1256,GRASS,i k u j i l a,921,robinsonap
+276541,nede1245,GRASS,t o,917,robinsonap
+276542,kelo1247,GRASS,k ə w ɪ l,919,robinsonap
+276543,teiw1235,HOUSE,j a f,1076,robinsonap
+276544,abui1241,HOUSE,t o f a,1067,robinsonap
+276545,blag1240,HOUSE,h a v a ʔ,1069,robinsonap
+276546,kama1365,HOUSE,k a d i i,1071,robinsonap
+276547,wers1238,HOUSE,s o b,1077,robinsonap
+276548,kaer1234,HOUSE,m a,1070,robinsonap
+276549,lamm1241,HOUSE,b l a,1073,robinsonap
+276550,adan1251,HOUSE,b a ŋ,1068,robinsonap
+276551,sawi1256,HOUSE,a r a a s i ŋ,1075,robinsonap
+276552,nede1245,HOUSE,s e,1074,robinsonap
+276553,kelo1247,HOUSE,ə w i,1072,robinsonap
+276554,teiw1235,BARN OR SHED,p a ħ a n + j a f,97,robinsonap
+276555,abui1241,BARN OR SHED,k u d a ŋ,89,robinsonap
+276556,blag1240,BARN OR SHED,p a n d a,91,robinsonap
+276557,kama1365,BARN OR SHED,a l m a ŋ,92,robinsonap
+276558,wers1238,BARN OR SHED,o u,98,robinsonap
+276559,kaer1234,BARN OR SHED,k u r u ŋ,89,robinsonap
+276560,lamm1241,BARN OR SHED,k e b a ŋ,94,robinsonap
+276561,adan1251,BARN OR SHED,ɛ s ɛ l ɛ,90,robinsonap
+276562,sawi1256,BARN OR SHED,j u,96,robinsonap
+276563,nede1245,BARN OR SHED,k o k a r,95,robinsonap
+276564,kelo1247,BARN OR SHED,i w i n o k,93,robinsonap
+276565,teiw1235,DOOR,w e e g,555,robinsonap
+276566,abui1241,DOOR,l u ŋ,547,robinsonap
+276567,blag1240,DOOR,t u n i,549,robinsonap
+276568,kama1365,DOOR,l u b u i,550,robinsonap
+276569,wers1238,DOOR,d a m a t,554,robinsonap
+276570,kaer1234,DOOR,t u u n i,549,robinsonap
+276571,lamm1241,DOOR,w a i j a,552,robinsonap
+276572,adan1251,DOOR,s a ʔ a r,548,robinsonap
+276573,sawi1256,DOOR,d a a m a t,554,robinsonap
+276574,nede1245,DOOR,w a l a g g a,553,robinsonap
+276575,kelo1247,DOOR,h e k,551,robinsonap
+276576,teiw1235,THATCH,w a a i ʔ,2091,robinsonap
+276577,abui1241,THATCH,w a i,2084,robinsonap
+276578,blag1240,THATCH,v e m v e j,2086,robinsonap
+276579,kama1365,THATCH,g a b u u + m a ŋ,2088,robinsonap
+276580,wers1238,THATCH,s o b + l e d,2092,robinsonap
+276581,kaer1234,THATCH,m a g o ŋ,2087,robinsonap
+276582,lamm1241,THATCH,w a i,2084,robinsonap
+276583,adan1251,THATCH,d e ʔ e,2085,robinsonap
+276584,sawi1256,THATCH,g a b a a r a,2090,robinsonap
+276585,nede1245,THATCH,s e w a j a,2089,robinsonap
+276586,kelo1247,THATCH,w e i,2084,robinsonap
+276587,teiw1235,THATCH OR ROOF,m a n,2094,robinsonap
+276588,abui1241,THATCH OR ROOF,f i l e,2093,robinsonap
+276589,blag1240,THATCH OR ROOF,m e n i ŋ,2094,robinsonap
+276590,kama1365,THATCH OR ROOF,i w a a h,2095,robinsonap
+276591,wers1238,THATCH OR ROOF,a m e ŋ,2094,robinsonap
+276592,kaer1234,THATCH OR ROOF,m a a n,2094,robinsonap
+276593,lamm1241,THATCH OR ROOF,h a s i,2097,robinsonap
+276594,sawi1256,THATCH OR ROOF,a m a ŋ,2094,robinsonap
+276595,nede1245,THATCH OR ROOF,m a ŋ,2094,robinsonap
+276596,kelo1247,THATCH OR ROOF,e n eː m,2096,robinsonap
+276597,teiw1235,TREE,t e i,2189,robinsonap
+276598,abui1241,TREE,ʔ b a t a,2188,robinsonap
+276599,blag1240,TREE,t e,2189,robinsonap
+276600,kama1365,TREE,b o ŋ,2190,robinsonap
+276601,wers1238,TREE,b o ŋ,2190,robinsonap
+276602,kaer1234,TREE,t e i,2189,robinsonap
+276603,lamm1241,TREE,j a t t u,2192,robinsonap
+276604,adan1251,TREE,t i,2189,robinsonap
+276605,sawi1256,TREE,m u,2193,robinsonap
+276606,nede1245,TREE,t e i,2189,robinsonap
+276607,kelo1247,TREE,ə t ə ʔ,2191,robinsonap
+276608,teiw1235,LEAF,t e i + w a ʔ,1160,robinsonap
+276609,abui1241,LEAF,t a l a,1158,robinsonap
+276610,blag1240,LEAF,t e + v a,1160,robinsonap
+276611,kama1365,LEAF,a r i t a,1161,robinsonap
+276612,wers1238,LEAF,b o ŋ + l a k,1166,robinsonap
+276613,kaer1234,LEAF,t e i + w a,1160,robinsonap
+276614,lamm1241,LEAF,w a j a,1163,robinsonap
+276615,adan1251,LEAF,t i + b ɛ h ɛ,1159,robinsonap
+276616,sawi1256,LEAF,l a k k a,1165,robinsonap
+276617,nede1245,LEAF,w a ʔ a,1164,robinsonap
+276618,kelo1247,LEAF,ɛ t ɛ w ɛ i,1162,robinsonap
+276619,teiw1235,BRANCH,t e i + g e t i ŋ i,218,robinsonap
+276620,abui1241,BRANCH,ʔ b a t a + t a k a w a k,216,robinsonap
+276621,blag1240,BRANCH,t e + k ə r a ŋ a,218,robinsonap
+276622,kama1365,BRANCH,b o ŋ + g a t a ŋ,219,robinsonap
+276623,wers1238,BRANCH,b o ŋ + g a b a r a ŋ,219,robinsonap
+276624,kaer1234,BRANCH,t e i + g e t a n i,218,robinsonap
+276625,lamm1241,BRANCH,k o i,221,robinsonap
+276626,adan1251,BRANCH,a t a ŋ,217,robinsonap
+276627,sawi1256,BRANCH,p a k a ŋ,223,robinsonap
+276628,nede1245,BRANCH,g a t a n i,222,robinsonap
+276629,kelo1247,BRANCH,b e h,220,robinsonap
+276630,teiw1235,STICK,t u k a r,1968,robinsonap
+276631,abui1241,STICK,t u k o r a ŋ,1968,robinsonap
+276632,blag1240,STICK,a w a + p u l a,1970,robinsonap
+276633,kama1365,STICK,t e e k a ŋ,1971,robinsonap
+276634,wers1238,STICK,d e k e ŋ,1971,robinsonap
+276635,kaer1234,STICK,t u k u r,1968,robinsonap
+276636,lamm1241,STICK,s o r u,1973,robinsonap
+276637,adan1251,STICK,d o p o ŋ,1969,robinsonap
+276638,sawi1256,STICK,d i i k a ŋ,1971,robinsonap
+276639,nede1245,STICK,d o,1974,robinsonap
+276640,kelo1247,STICK,d o o b,1972,robinsonap
+276641,teiw1235,RATTAN,l i j a g,1606,robinsonap
+276642,abui1241,RATTAN,f u r a k,1604,robinsonap
+276643,blag1240,RATTAN,l i j a,1606,robinsonap
+276644,kama1365,RATTAN,t a u u,1607,robinsonap
+276645,wers1238,RATTAN,l o t o r,1612,robinsonap
+276646,kaer1234,RATTAN,l e e g,1606,robinsonap
+276647,lamm1241,RATTAN,d e,1609,robinsonap
+276648,adan1251,RATTAN,l ɛ ʔ,1605,robinsonap
+276649,sawi1256,RATTAN,l a w a a k a r,1611,robinsonap
+276650,nede1245,RATTAN,k o r a ŋ,1610,robinsonap
+276651,kelo1247,RATTAN,u h u l,1608,robinsonap
+276652,abui1241,DIGGING STICK,a h a t i ŋ,509,robinsonap
+276653,blag1240,DIGGING STICK,n o r u k,510,robinsonap
+276654,wers1238,DIGGING STICK,a t o k u + t e i,513,robinsonap
+276655,lamm1241,DIGGING STICK,d a l i a,511,robinsonap
+276656,nede1245,DIGGING STICK,m u r u,512,robinsonap
+276657,teiw1235,DIBBLE STICK,j a ħ,494,robinsonap
+276658,blag1240,DIBBLE STICK,dʒ a k a t,493,robinsonap
+276659,wers1238,DIBBLE STICK,l a l a,497,robinsonap
+276660,kaer1234,DIBBLE STICK,j a g,494,robinsonap
+276661,lamm1241,DIBBLE STICK,j a g g a s,495,robinsonap
+276662,nede1245,DIBBLE STICK,d a d a,496,robinsonap
+276663,teiw1235,ROOT,h r o q,1669,robinsonap
+276664,abui1241,ROOT,a i,1660,robinsonap
+276665,blag1240,ROOT,t e + b r i g i ŋ,1662,robinsonap
+276666,kama1365,ROOT,a l i i,1664,robinsonap
+276667,wers1238,ROOT,s r i p i ŋ,1668,robinsonap
+276668,kaer1234,ROOT,a k i,1663,robinsonap
+276669,lamm1241,ROOT,h a r,1666,robinsonap
+276670,adan1251,ROOT,a l i ʔ i ŋ,1661,robinsonap
+276671,sawi1256,ROOT,s i r i p i ŋ,1668,robinsonap
+276672,nede1245,ROOT,a l l i,1667,robinsonap
+276673,kelo1247,ROOT,ə r ɪ k,1665,robinsonap
+276674,teiw1235,FRUIT,g e + j i s,860,robinsonap
+276675,abui1241,FRUIT,i t i,853,robinsonap
+276676,blag1240,FRUIT,t e + h i,855,robinsonap
+276677,kama1365,FRUIT,u h,856,robinsonap
+276678,wers1238,FRUIT,b o ŋ + i k o ʔ,861,robinsonap
+276679,kaer1234,FRUIT,t e i + i s i,855,robinsonap
+276680,lamm1241,FRUIT,h i s s a,858,robinsonap
+276681,adan1251,FRUIT,p i r i,854,robinsonap
+276682,sawi1256,FRUIT,g i s i,859,robinsonap
+276683,nede1245,FRUIT,i tʃ i,853,robinsonap
+276684,kelo1247,FRUIT,ɪ h,857,robinsonap
+276685,teiw1235,SEED,g e + b a g,1756,robinsonap
+276686,abui1241,SEED,b i k a,1747,robinsonap
+276687,blag1240,SEED,t e + k u l u,1749,robinsonap
+276688,kama1365,SEED,b i l e e,1751,robinsonap
+276689,wers1238,SEED,g e + i k o ʔ,1757,robinsonap
+276690,kaer1234,SEED,g u a ħ,1750,robinsonap
+276691,lamm1241,SEED,u p p u r,1753,robinsonap
+276692,adan1251,SEED,a w a i,1748,robinsonap
+276693,sawi1256,SEED,i n i i,1755,robinsonap
+276694,nede1245,SEED,b a g g a,1754,robinsonap
+276695,kelo1247,SEED,m ɛ m,1752,robinsonap
+276696,teiw1235,FLOWER,q a a w,786,robinsonap
+276697,abui1241,FLOWER,k i k i,784,robinsonap
+276698,blag1240,FLOWER,t e + b u m a,785,robinsonap
+276699,kama1365,FLOWER,k i k,784,robinsonap
+276700,wers1238,FLOWER,k i k i l a u,790,robinsonap
+276701,kaer1234,FLOWER,q a a w,786,robinsonap
+276702,lamm1241,FLOWER,k a w a ŋ,788,robinsonap
+276703,sawi1256,FLOWER,k i k i l e a w a,790,robinsonap
+276704,nede1245,FLOWER,a s a m m a,789,robinsonap
+276705,kelo1247,FLOWER,b ʊ ʊ m,787,robinsonap
+276706,teiw1235,COOKED RICE,q a r,402,robinsonap
+276707,abui1241,COOKED RICE,a dʒ a k + m aː,399,robinsonap
+276708,blag1240,COOKED RICE,n a l i j a ŋ,401,robinsonap
+276709,kama1365,COOKED RICE,a a + m a a,403,robinsonap
+276710,wers1238,COOKED RICE,a r a k + m a d,399,robinsonap
+276711,kaer1234,COOKED RICE,n a q a r,402,robinsonap
+276712,lamm1241,COOKED RICE,h u t t a ŋ + d a l a,405,robinsonap
+276713,adan1251,COOKED RICE,aː l a + m e dʒ e,400,robinsonap
+276714,sawi1256,COOKED RICE,a r a k a + m a,399,robinsonap
+276715,nede1245,COOKED RICE,q a r a,402,robinsonap
+276716,kelo1247,COOKED RICE,ə r ɑ k m ɑ i,404,robinsonap
+276717,teiw1235,PLANT (SOMETHING),m i d a n,1553,robinsonap
+276718,abui1241,PLANT (SOMETHING),m u r o w,1552,robinsonap
+276719,blag1240,PLANT (SOMETHING),m u d i ŋ,1553,robinsonap
+276720,kama1365,PLANT (SOMETHING),m i t,1553,robinsonap
+276721,wers1238,PLANT (SOMETHING),m d i,1553,robinsonap
+276722,lamm1241,PLANT (SOMETHING),m i d d i ŋ,1553,robinsonap
+276723,adan1251,PLANT (SOMETHING),m u d i ŋ,1553,robinsonap
+276724,sawi1256,PLANT (SOMETHING),m a d i ŋ,1553,robinsonap
+276725,nede1245,PLANT (SOMETHING),m u d d i,1553,robinsonap
+276726,kelo1247,PLANT (SOMETHING),m d i n,1553,robinsonap
+276727,teiw1235,BETELNUT,b u i,149,robinsonap
+276728,abui1241,BETELNUT,f u,149,robinsonap
+276729,blag1240,BETELNUT,b u,149,robinsonap
+276730,kama1365,BETELNUT,b a k a a,150,robinsonap
+276731,wers1238,BETELNUT,p u i,149,robinsonap
+276732,kaer1234,BETELNUT,b u i,149,robinsonap
+276733,lamm1241,BETELNUT,b u,149,robinsonap
+276734,adan1251,BETELNUT,b uː,149,robinsonap
+276735,sawi1256,BETELNUT,p u,149,robinsonap
+276736,nede1245,BETELNUT,b u j a,149,robinsonap
+276737,kelo1247,BETELNUT,b ʊ i ʔ ɪ h,151,robinsonap
+276738,teiw1235,BETEL PEPPER VINE,m e e t,146,robinsonap
+276739,abui1241,BETEL PEPPER VINE,ʔ m e t i ŋ,145,robinsonap
+276740,blag1240,BETEL PEPPER VINE,m a a t,146,robinsonap
+276741,kama1365,BETEL PEPPER VINE,m a i s i,147,robinsonap
+276742,wers1238,BETEL PEPPER VINE,m a s,147,robinsonap
+276743,kaer1234,BETEL PEPPER VINE,m a a t,146,robinsonap
+276744,lamm1241,BETEL PEPPER VINE,m e t a,145,robinsonap
+276745,adan1251,BETEL PEPPER VINE,m e tʃ e,145,robinsonap
+276746,sawi1256,BETEL PEPPER VINE,m a a s i,147,robinsonap
+276747,nede1245,BETEL PEPPER VINE,m a t t a,145,robinsonap
+276748,kelo1247,BETEL PEPPER VINE,m ɛ h,148,robinsonap
+276749,teiw1235,LIME (MATERIAL),ħ o r,1223,robinsonap
+276750,abui1241,LIME (MATERIAL),a w a i,1220,robinsonap
+276751,blag1240,LIME (MATERIAL),a v a r,1221,robinsonap
+276752,kama1365,LIME (MATERIAL),a w o i,1220,robinsonap
+276753,wers1238,LIME (MATERIAL),o r,1223,robinsonap
+276754,kaer1234,LIME (MATERIAL),a w a r,1221,robinsonap
+276755,lamm1241,LIME (MATERIAL),h a u w e,1222,robinsonap
+276756,adan1251,LIME (MATERIAL),aː w i,1220,robinsonap
+276757,nede1245,LIME (MATERIAL),w a,1220,robinsonap
+276758,kelo1247,LIME (MATERIAL),ə w ɛ r,1221,robinsonap
+276759,teiw1235,SWEET POTATO,b ə t a ŋ q a r,2032,robinsonap
+276760,abui1241,SWEET POTATO,b a l e,2023,robinsonap
+276761,blag1240,SWEET POTATO,u + k a s i,2025,robinsonap
+276762,kama1365,SWEET POTATO,b u l e e l,2027,robinsonap
+276763,wers1238,SWEET POTATO,a i + l e k,2033,robinsonap
+276764,kaer1234,SWEET POTATO,k u k a s i,2026,robinsonap
+276765,lamm1241,SWEET POTATO,m a l o k o + m a r,2029,robinsonap
+276766,adan1251,SWEET POTATO,f a l a dʒ,2024,robinsonap
+276767,sawi1256,SWEET POTATO,j a a m u,2031,robinsonap
+276768,nede1245,SWEET POTATO,k e i ŋ k u k a,2030,robinsonap
+276769,kelo1247,SWEET POTATO,k ɛ s ə l,2028,robinsonap
+276770,teiw1235,CASSAVA,t e i + q a r,296,robinsonap
+276771,abui1241,CASSAVA,b a t a k o,290,robinsonap
+276772,blag1240,CASSAVA,u + b e l a n d a,292,robinsonap
+276773,kama1365,CASSAVA,b o ŋ k o,290,robinsonap
+276774,wers1238,CASSAVA,b o ŋ + k a u,297,robinsonap
+276775,kaer1234,CASSAVA,b e ŋ k u k,290,robinsonap
+276776,lamm1241,CASSAVA,w e s a r a n i,293,robinsonap
+276777,adan1251,CASSAVA,o u t i,291,robinsonap
+276778,sawi1256,CASSAVA,j a a m u + s a l u,295,robinsonap
+276779,nede1245,CASSAVA,t e i + ħ a r a,294,robinsonap
+276780,kelo1247,CASSAVA,ə t ɛ k o,290,robinsonap
+276781,teiw1235,TARO,n e i,2063,robinsonap
+276782,abui1241,TARO,a h o,2060,robinsonap
+276783,blag1240,TARO,a w g o l,2062,robinsonap
+276784,kama1365,TARO,m a k a i,2064,robinsonap
+276785,wers1238,TARO,p n e,2069,robinsonap
+276786,kaer1234,TARO,n e i,2063,robinsonap
+276787,lamm1241,TARO,o l u,2066,robinsonap
+276788,adan1251,TARO,m aː l u,2061,robinsonap
+276789,sawi1256,TARO,a l a a t a,2068,robinsonap
+276790,nede1245,TARO,i t a a b a,2067,robinsonap
+276791,kelo1247,TARO,l ɛ ɛ,2065,robinsonap
+276792,teiw1235,MILLET,n a a t,1306,robinsonap
+276793,abui1241,MILLET,k a l a,1304,robinsonap
+276794,blag1240,MILLET,n u w a t,1306,robinsonap
+276795,kama1365,MILLET,l a s u,1307,robinsonap
+276796,wers1238,MILLET,b u l a ʔ,1308,robinsonap
+276797,kaer1234,MILLET,n a a t,1306,robinsonap
+276798,lamm1241,MILLET,k a l a k e,1304,robinsonap
+276799,adan1251,MILLET,t aː r i,1305,robinsonap
+276800,teiw1235,SUGAR CANE,w u ħ,2007,robinsonap
+276801,abui1241,SUGAR CANE,f a,2002,robinsonap
+276802,blag1240,SUGAR CANE,w u b,2003,robinsonap
+276803,kama1365,SUGAR CANE,k a m a a,2004,robinsonap
+276804,wers1238,SUGAR CANE,u p a,2005,robinsonap
+276805,kaer1234,SUGAR CANE,u u b,2003,robinsonap
+276806,lamm1241,SUGAR CANE,h a b u a,2006,robinsonap
+276807,adan1251,SUGAR CANE,s oː b,2003,robinsonap
+276808,nede1245,SUGAR CANE,u u f a,2003,robinsonap
+276809,kelo1247,SUGAR CANE,a b a,2005,robinsonap
+276810,teiw1235,COCONUT,w a t,368,robinsonap
+276811,abui1241,COCONUT,ʔ w a t a,368,robinsonap
+276812,blag1240,COCONUT,v e t,368,robinsonap
+276813,kama1365,COCONUT,w a t e,368,robinsonap
+276814,wers1238,COCONUT,w a t a ʔ,368,robinsonap
+276815,kaer1234,COCONUT,w a a t,368,robinsonap
+276816,lamm1241,COCONUT,h a t u a,370,robinsonap
+276817,adan1251,COCONUT,f a ʔ,369,robinsonap
+276818,sawi1256,COCONUT,w a t a,368,robinsonap
+276819,nede1245,COCONUT,w a t a,368,robinsonap
+276820,kelo1247,COCONUT,ǝ t a,368,robinsonap
+276821,teiw1235,LONTAR PALM,ħ a i q u a l,1256,robinsonap
+276822,blag1240,LONTAR PALM,k o l i,1252,robinsonap
+276823,wers1238,LONTAR PALM,t o k o + b o ŋ,1257,robinsonap
+276824,kaer1234,LONTAR PALM,a i + q o l i,1252,robinsonap
+276825,lamm1241,LONTAR PALM,t u a,1254,robinsonap
+276826,adan1251,LONTAR PALM,ʔ ɛ ʔ u i,1251,robinsonap
+276827,nede1245,LONTAR PALM,a w a ʔ a,1255,robinsonap
+276828,kelo1247,LONTAR PALM,t o k + j a r,1253,robinsonap
+276829,teiw1235,MORINGA TREE,q u u d,1324,robinsonap
+276830,abui1241,MORINGA TREE,m a t o l i ŋ,1318,robinsonap
+276831,blag1240,MORINGA TREE,t ə m o l u ŋ,1319,robinsonap
+276832,kama1365,MORINGA TREE,k o o + w u t o ŋ,1320,robinsonap
+276833,wers1238,MORINGA TREE,k o l t e ŋ + b o ŋ,1325,robinsonap
+276834,kaer1234,MORINGA TREE,m a t o l i ŋ,1318,robinsonap
+276835,lamm1241,MORINGA TREE,k u r i,1322,robinsonap
+276836,adan1251,MORINGA TREE,m o t o ŋ,1318,robinsonap
+276837,nede1245,MORINGA TREE,s a l l a,1323,robinsonap
+276838,kelo1247,MORINGA TREE,k o k o l,1321,robinsonap
+276839,teiw1235,EUCALYPT,p a l,672,robinsonap
+276840,abui1241,EUCALYPT,p u o k d a i,670,robinsonap
+276841,blag1240,EUCALYPT,p u u,671,robinsonap
+276842,kama1365,EUCALYPT,f o o,673,robinsonap
+276843,kaer1234,EUCALYPT,p a a l,672,robinsonap
+276844,lamm1241,EUCALYPT,p u,671,robinsonap
+276845,adan1251,EUCALYPT,p u,671,robinsonap
+276846,sawi1256,EUCALYPT,w a a,675,robinsonap
+276847,nede1245,EUCALYPT,p a a l a,672,robinsonap
+276848,kelo1247,EUCALYPT,n i h,674,robinsonap
+276849,teiw1235,BAMBOO,g o ħ o l,75,robinsonap
+276850,abui1241,BAMBOO,m a i,70,robinsonap
+276851,blag1240,BAMBOO,p e t u ŋ,71,robinsonap
+276852,kama1365,BAMBOO,m a a i,70,robinsonap
+276853,kaer1234,BAMBOO,p e t u ŋ,71,robinsonap
+276854,lamm1241,BAMBOO,m a l i,73,robinsonap
+276855,adan1251,BAMBOO,p i t u ŋ,71,robinsonap
+276856,sawi1256,BAMBOO,s i b e a ŋ,74,robinsonap
+276857,kelo1247,BAMBOO,d u m a r,72,robinsonap
+276858,teiw1235,BANANA,m o ħ o i,77,robinsonap
+276859,abui1241,BANANA,m o s a,76,robinsonap
+276860,blag1240,BANANA,m o o l,77,robinsonap
+276861,kama1365,BANANA,m o o i,77,robinsonap
+276862,wers1238,BANANA,m u l u l,77,robinsonap
+276863,kaer1234,BANANA,m o g o i,77,robinsonap
+276864,lamm1241,BANANA,m a g g i,78,robinsonap
+276865,adan1251,BANANA,m o ʔ o i,77,robinsonap
+276866,sawi1256,BANANA,m aˑ k ɑ,78,robinsonap
+276867,nede1245,BANANA,m a j,79,robinsonap
+276868,kelo1247,BANANA,m ɔ g ɔ l,77,robinsonap
+276869,teiw1235,MANGO,w o w,1295,robinsonap
+276870,abui1241,MANGO,m a i dʒ a,1292,robinsonap
+276871,blag1240,MANGO,b i j a t,1294,robinsonap
+276872,kama1365,MANGO,w a e,1296,robinsonap
+276873,wers1238,MANGO,p i s,1293,robinsonap
+276874,kaer1234,MANGO,w o w,1295,robinsonap
+276875,lamm1241,MANGO,b e s,1293,robinsonap
+276876,adan1251,MANGO,b e,1293,robinsonap
+276877,sawi1256,MANGO,p i s i,1293,robinsonap
+276878,nede1245,MANGO,w o w a,1295,robinsonap
+276879,kelo1247,MANGO,m o g o i,1297,robinsonap
+276880,teiw1235,PAPAYA,k a s i,1514,robinsonap
+276881,abui1241,PAPAYA,b a t a m i a,1512,robinsonap
+276882,blag1240,PAPAYA,k a s i,1514,robinsonap
+276883,kama1365,PAPAYA,b o ŋ m o o i,1515,robinsonap
+276884,wers1238,PAPAYA,b i l k a i,1518,robinsonap
+276885,kaer1234,PAPAYA,k a s i,1514,robinsonap
+276886,lamm1241,PAPAYA,k a t t e l u,1513,robinsonap
+276887,adan1251,PAPAYA,k a h a t ɛ l ɛ,1513,robinsonap
+276888,sawi1256,PAPAYA,b i l e,1517,robinsonap
+276889,nede1245,PAPAYA,k a t e l a,1513,robinsonap
+276890,kelo1247,PAPAYA,a t e m o l,1516,robinsonap
+276891,teiw1235,JACKFRUIT,n a k,1094,robinsonap
+276892,abui1241,JACKFRUIT,s o ŋ,1093,robinsonap
+276893,blag1240,JACKFRUIT,n a ŋ k a,1094,robinsonap
+276894,kama1365,JACKFRUIT,t o n,1093,robinsonap
+276895,kaer1234,JACKFRUIT,n a k a,1094,robinsonap
+276896,lamm1241,JACKFRUIT,k a w e r a ŋ,1095,robinsonap
+276897,adan1251,JACKFRUIT,t o ŋ,1093,robinsonap
+276898,nede1245,JACKFRUIT,q a e r a ŋ,1095,robinsonap
+276899,kelo1247,JACKFRUIT,a t o n,1093,robinsonap
+276900,teiw1235,BREADFRUIT,k u l a r,229,robinsonap
+276901,abui1241,BREADFRUIT,s o ŋ,224,robinsonap
+276902,blag1240,BREADFRUIT,u n d u r,226,robinsonap
+276903,kama1365,BREADFRUIT,k u t + t o n,227,robinsonap
+276904,wers1238,BREADFRUIT,l a p o r i,230,robinsonap
+276905,kaer1234,BREADFRUIT,k u n u r,226,robinsonap
+276906,lamm1241,BREADFRUIT,k i l i,229,robinsonap
+276907,adan1251,BREADFRUIT,t o m b a i,225,robinsonap
+276908,nede1245,BREADFRUIT,k u l u,229,robinsonap
+276909,kelo1247,BREADFRUIT,a t o n + a t e k,228,robinsonap
+276910,teiw1235,BEAN,k a a s,137,robinsonap
+276911,abui1241,BEAN,t a k o i,130,robinsonap
+276912,blag1240,BEAN,t o o l,132,robinsonap
+276913,kama1365,BEAN,t a a u i,133,robinsonap
+276914,wers1238,BEAN,k a s u,138,robinsonap
+276915,kaer1234,BEAN,t a a u,133,robinsonap
+276916,lamm1241,BEAN,l a i,135,robinsonap
+276917,adan1251,BEAN,ʔ u t u ŋ,131,robinsonap
+276918,nede1245,BEAN,n a k a a h u,136,robinsonap
+276919,kelo1247,BEAN,u t,134,robinsonap
+276920,teiw1235,FAT (ORGANIC SUBSTANCE),t a m a ʔ,699,robinsonap
+276921,abui1241,FAT (ORGANIC SUBSTANCE),t a m a d a,699,robinsonap
+276922,blag1240,FAT (ORGANIC SUBSTANCE),t ə m a,699,robinsonap
+276923,kama1365,FAT (ORGANIC SUBSTANCE),b u l a k a,701,robinsonap
+276924,wers1238,FAT (ORGANIC SUBSTANCE),g e s i m e ʔ,703,robinsonap
+276925,kaer1234,FAT (ORGANIC SUBSTANCE),q a a u,700,robinsonap
+276926,lamm1241,FAT (ORGANIC SUBSTANCE),k a w a t a,702,robinsonap
+276927,adan1251,FAT (ORGANIC SUBSTANCE),t a m a r a,699,robinsonap
+276928,sawi1256,FAT (ORGANIC SUBSTANCE),d u m u,699,robinsonap
+276929,nede1245,FAT (ORGANIC SUBSTANCE),q o a t a,702,robinsonap
+276930,kelo1247,FAT (ORGANIC SUBSTANCE),t ə m ɑ d,699,robinsonap
+276931,teiw1235,FLESH OR MEAT,k o k,772,robinsonap
+276932,abui1241,FLESH OR MEAT,m a h i t i ŋ,765,robinsonap
+276933,blag1240,FLESH OR MEAT,d a g i ŋ + h i i,767,robinsonap
+276934,kama1365,FLESH OR MEAT,i s e i,766,robinsonap
+276935,wers1238,FLESH OR MEAT,g e i s,773,robinsonap
+276936,kaer1234,FLESH OR MEAT,u m u ŋ,768,robinsonap
+276937,lamm1241,FLESH OR MEAT,k e ʔ e,770,robinsonap
+276938,adan1251,FLESH OR MEAT,h i r i,766,robinsonap
+276939,sawi1256,FLESH OR MEAT,i s i,766,robinsonap
+276940,nede1245,FLESH OR MEAT,b o ʔ o,771,robinsonap
+276941,kelo1247,FLESH OR MEAT,m ə h ɛ l,769,robinsonap
+276942,teiw1235,BONE,k i r,205,robinsonap
+276943,abui1241,BONE,h e t a i p a,202,robinsonap
+276944,blag1240,BONE,ʔ e + i r a,204,robinsonap
+276945,kama1365,BONE,s e l,206,robinsonap
+276946,wers1238,BONE,g e s e r i,209,robinsonap
+276947,kaer1234,BONE,k i r i,205,robinsonap
+276948,lamm1241,BONE,k e ʔ e,207,robinsonap
+276949,adan1251,BONE,t a l o p o,203,robinsonap
+276950,sawi1256,BONE,s a r a,208,robinsonap
+276951,nede1245,BONE,k i l i,205,robinsonap
+276952,kelo1247,BONE,t ə r o p,203,robinsonap
+276953,teiw1235,RIB,g a ʔ a n + p a ʔ a s,1636,robinsonap
+276954,abui1241,RIB,k a ʔ f a t a + b a t a,1628,robinsonap
+276955,blag1240,RIB,a b a l + i r a,1630,robinsonap
+276956,kama1365,RIB,k a p a a t a,1632,robinsonap
+276957,wers1238,RIB,g a b a s e r i,1631,robinsonap
+276958,kaer1234,RIB,p a a s,1631,robinsonap
+276959,lamm1241,RIB,p a r i s i,1634,robinsonap
+276960,adan1251,RIB,a b ɛ t i,1629,robinsonap
+276961,sawi1256,RIB,b a a s a r a,1631,robinsonap
+276962,nede1245,RIB,s i d d a ŋ,1635,robinsonap
+276963,kelo1247,RIB,d g e t,1633,robinsonap
+276964,teiw1235,PERSPIRE OR SWEAT,h a s i r,1550,robinsonap
+276965,abui1241,PERSPIRE OR SWEAT,t a m u r i ŋ,1542,robinsonap
+276966,blag1240,PERSPIRE OR SWEAT,t r u u ŋ,1544,robinsonap
+276967,kama1365,PERSPIRE OR SWEAT,s u s u i,1545,robinsonap
+276968,wers1238,PERSPIRE OR SWEAT,p u n e r a,1549,robinsonap
+276969,kaer1234,PERSPIRE OR SWEAT,t u r u g u ŋ,1544,robinsonap
+276970,lamm1241,PERSPIRE OR SWEAT,s i s s i,1547,robinsonap
+276971,adan1251,PERSPIRE OR SWEAT,l a t u t u ŋ,1543,robinsonap
+276972,sawi1256,PERSPIRE OR SWEAT,p u n a r a,1549,robinsonap
+276973,nede1245,PERSPIRE OR SWEAT,u u s i,1548,robinsonap
+276974,kelo1247,PERSPIRE OR SWEAT,a ŋ,1546,robinsonap
+276975,teiw1235,BLOOD,w e i,192,robinsonap
+276976,abui1241,BLOOD,w e,192,robinsonap
+276977,blag1240,BLOOD,e v e,192,robinsonap
+276978,kama1365,BLOOD,w e e,192,robinsonap
+276979,wers1238,BLOOD,w e i,192,robinsonap
+276980,kaer1234,BLOOD,w e e,192,robinsonap
+276981,lamm1241,BLOOD,w a i,192,robinsonap
+276982,adan1251,BLOOD,f iː,192,robinsonap
+276983,sawi1256,BLOOD,w i i,192,robinsonap
+276984,nede1245,BLOOD,w e,192,robinsonap
+276985,kelo1247,BLOOD,w ɛ ʔ,192,robinsonap
+276986,teiw1235,TENDON,t r a w,2082,robinsonap
+276987,abui1241,TENDON,t e a i,2076,robinsonap
+276988,blag1240,TENDON,u r a t,2077,robinsonap
+276989,kama1365,TENDON,a l i i,2079,robinsonap
+276990,wers1238,TENDON,s r i p i ŋ,2083,robinsonap
+276991,kaer1234,TENDON,t u r u i,2078,robinsonap
+276992,lamm1241,TENDON,h a r,2080,robinsonap
+276993,nede1245,TENDON,t a r r o,2081,robinsonap
+276994,teiw1235,HEART,u u k,1003,robinsonap
+276995,abui1241,HEART,t e b i k a m a ŋ,995,robinsonap
+276996,blag1240,HEART,k u b a ŋ,997,robinsonap
+276997,kama1365,HEART,b u k a m a ŋ,995,robinsonap
+276998,wers1238,HEART,g e u k a b a ŋ,1004,robinsonap
+276999,kaer1234,HEART,a ħ a i,998,robinsonap
+277000,lamm1241,HEART,h a t u a k i,1000,robinsonap
+277001,adan1251,HEART,d a m u l u,996,robinsonap
+277002,sawi1256,HEART,g i k o o m a ŋ,1002,robinsonap
+277003,nede1245,HEART,a ħ o j a,1001,robinsonap
+277004,kelo1247,HEART,ə t ɑ k ʊ b,999,robinsonap
+277005,teiw1235,LIVER,g u u k,1242,robinsonap
+277006,abui1241,LIVER,t o m i,1234,robinsonap
+277007,blag1240,LIVER,e l i l a,1236,robinsonap
+277008,wers1238,LIVER,g e d a m u r i ŋ,1241,robinsonap
+277009,kaer1234,LIVER,t i l i l,1237,robinsonap
+277010,lamm1241,LIVER,u m e,1239,robinsonap
+277011,adan1251,LIVER,o m,1235,robinsonap
+277012,sawi1256,LIVER,g i d a m a r a,1241,robinsonap
+277013,nede1245,LIVER,g a m m i g a m m i,1240,robinsonap
+277014,kelo1247,LIVER,n ə b ʊ r,1238,robinsonap
+277015,teiw1235,GUTS,g r u ħ u i + k r i m a n,965,robinsonap
+277016,abui1241,GUTS,t a t e b a k,956,robinsonap
+277017,blag1240,GUTS,a v a r + p u l a,958,robinsonap
+277018,kama1365,GUTS,k a a p u ŋ,960,robinsonap
+277019,wers1238,GUTS,a t o k o + m a r u ŋ,966,robinsonap
+277020,kaer1234,GUTS,d i j a q,959,robinsonap
+277021,lamm1241,GUTS,t a s + a r a,962,robinsonap
+277022,adan1251,GUTS,a t o h i,957,robinsonap
+277023,sawi1256,GUTS,g i t u,964,robinsonap
+277024,nede1245,GUTS,n u s u s u,963,robinsonap
+277025,kelo1247,GUTS,g ɛ h,961,robinsonap
+277026,teiw1235,FAECES (EXCREMENT),ħ a s,689,robinsonap
+277027,abui1241,FAECES (EXCREMENT),a s i,686,robinsonap
+277028,blag1240,FAECES (EXCREMENT),a a s,688,robinsonap
+277029,kama1365,FAECES (EXCREMENT),a s i,686,robinsonap
+277030,wers1238,FAECES (EXCREMENT),a t u,690,robinsonap
+277031,lamm1241,FAECES (EXCREMENT),h a s,689,robinsonap
+277032,adan1251,FAECES (EXCREMENT),h a h a ʔ,687,robinsonap
+277033,sawi1256,FAECES (EXCREMENT),ɑ t ʊ,690,robinsonap
+277034,kelo1247,FAECES (EXCREMENT),ǝ h i,686,robinsonap
+277035,teiw1235,LUNG,g a ħ a i,1281,robinsonap
+277036,abui1241,LUNG,t e b o b o t i,1274,robinsonap
+277037,blag1240,LUNG,b u r a ŋ,1276,robinsonap
+277038,kama1365,LUNG,f u s a a,1277,robinsonap
+277039,wers1238,LUNG,g e s a l a r,1280,robinsonap
+277040,lamm1241,LUNG,a l u a,1278,robinsonap
+277041,adan1251,LUNG,a l a d i ŋ,1275,robinsonap
+277042,sawi1256,LUNG,s a a l a r a,1280,robinsonap
+277043,nede1245,LUNG,p u i j + v a t a,1279,robinsonap
+277044,teiw1235,STOMACH,g a t o ʔ,1980,robinsonap
+277045,abui1241,STOMACH,t o o k,1975,robinsonap
+277046,blag1240,STOMACH,t ə t o w,1977,robinsonap
+277047,kama1365,STOMACH,t o k,1975,robinsonap
+277048,wers1238,STOMACH,a t o k o,1975,robinsonap
+277049,kaer1234,STOMACH,t ə t o k i,1977,robinsonap
+277050,lamm1241,STOMACH,n a s,1979,robinsonap
+277051,adan1251,STOMACH,a t u ʔ u,1976,robinsonap
+277052,sawi1256,STOMACH,g a p a ŋ,1978,robinsonap
+277053,nede1245,STOMACH,g o t o ʔ o,1980,robinsonap
+277054,kelo1247,STOMACH,g ə b ɛ t,1978,robinsonap
+277055,teiw1235,HEAD,g o ʔ o n q u l,978,robinsonap
+277056,abui1241,HEAD,t i a k a i,970,robinsonap
+277057,blag1240,HEAD,t o o ŋ,972,robinsonap
+277058,kama1365,HEAD,f i l i ŋ,973,robinsonap
+277059,wers1238,HEAD,l o k o m a ŋ,979,robinsonap
+277060,kaer1234,HEAD,t o o ŋ,972,robinsonap
+277061,lamm1241,HEAD,n a ʔ u ŋ + k i,975,robinsonap
+277062,adan1251,HEAD,l o ŋ,971,robinsonap
+277063,sawi1256,HEAD,g a t a k k a,977,robinsonap
+277064,nede1245,HEAD,g u ŋ k o t a ŋ,976,robinsonap
+277065,kelo1247,HEAD,k ə d ɛ h,974,robinsonap
+277066,teiw1235,HAIR (BODY),m u d,967,robinsonap
+277067,abui1241,HAIR (BODY),a m u r i,967,robinsonap
+277068,blag1240,HAIR (BODY),p i m u d i,967,robinsonap
+277069,kama1365,HAIR (BODY),l a b u t a,968,robinsonap
+277070,wers1238,HAIR (BODY),m u d i,967,robinsonap
+277071,kaer1234,HAIR (BODY),m u d u,967,robinsonap
+277072,lamm1241,HAIR (BODY),m a j a ŋ,969,robinsonap
+277073,adan1251,HAIR (BODY),m u dʒ,967,robinsonap
+277074,sawi1256,HAIR (BODY),m a d i,967,robinsonap
+277075,nede1245,HAIR (BODY),m u d d i,967,robinsonap
+277076,kelo1247,HAIR (BODY),a m u d dʒ,967,robinsonap
+277077,teiw1235,EYE,t e t + b a a g,679,robinsonap
+277078,abui1241,EYE,t i e ŋ + b i k a,676,robinsonap
+277079,blag1240,EYE,t e ŋ k u l u,678,robinsonap
+277080,kama1365,EYE,ŋ,680,robinsonap
+277081,wers1238,EYE,n i n i r k o,685,robinsonap
+277082,kaer1234,EYE,t e e t + g w a q,679,robinsonap
+277083,lamm1241,EYE,n a i t i,682,robinsonap
+277084,adan1251,EYE,ʔ ɛ ŋ w a i,677,robinsonap
+277085,sawi1256,EYE,g a n i i r i,684,robinsonap
+277086,nede1245,EYE,g a t a b a g a,683,robinsonap
+277087,kelo1247,EYE,g ɛ ɛ n,681,robinsonap
+277088,teiw1235,EAR,u w a r + w a ʔ,611,robinsonap
+277089,abui1241,EAR,t a w e i,609,robinsonap
+277090,blag1240,EAR,t ə v e l i,609,robinsonap
+277091,kama1365,EAR,w a i,612,robinsonap
+277092,wers1238,EAR,n e w e r i + l a k,616,robinsonap
+277093,kaer1234,EAR,t u w a r + w a,611,robinsonap
+277094,lamm1241,EAR,n a u w e,614,robinsonap
+277095,adan1251,EAR,a w ɛ b ɛ h ɛ,610,robinsonap
+277096,sawi1256,EAR,w a r i,612,robinsonap
+277097,nede1245,EAR,g o w w a ʔ a,615,robinsonap
+277098,kelo1247,EAR,g ə w ɛ r,613,robinsonap
+277099,teiw1235,NOSE,g ə f i m b u i,1451,robinsonap
+277100,abui1241,NOSE,t a m i n f a,1445,robinsonap
+277101,blag1240,NOSE,t ə m i ŋ b u r,1445,robinsonap
+277102,kama1365,NOSE,l p a ŋ,1448,robinsonap
+277103,wers1238,NOSE,n e m u i ŋ,1449,robinsonap
+277104,kaer1234,NOSE,t i m i m,1447,robinsonap
+277105,lamm1241,NOSE,n a m m a,1450,robinsonap
+277106,adan1251,NOSE,a i m b u i,1446,robinsonap
+277107,sawi1256,NOSE,g a m i ŋ i,1449,robinsonap
+277108,nede1245,NOSE,g a f i n i,1449,robinsonap
+277109,kelo1247,NOSE,g ə m o i n,1449,robinsonap
+277110,teiw1235,MOUTH,g a a ʔ,1370,robinsonap
+277111,abui1241,MOUTH,t a w a,1361,robinsonap
+277112,blag1240,MOUTH,t a i b o r,1363,robinsonap
+277113,kama1365,MOUTH,w a a,1365,robinsonap
+277114,wers1238,MOUTH,n e b i r,1371,robinsonap
+277115,kaer1234,MOUTH,t u a,1364,robinsonap
+277116,lamm1241,MOUTH,n a i,1367,robinsonap
+277117,adan1251,MOUTH,ʔ a t a,1362,robinsonap
+277118,sawi1256,MOUTH,g a j i i r i,1369,robinsonap
+277119,nede1245,MOUTH,g a j a q a,1368,robinsonap
+277120,kelo1247,MOUTH,g ɑ d,1366,robinsonap
+277121,teiw1235,CHIN,g a a w,331,robinsonap
+277122,abui1241,CHIN,t a w a + b a k,324,robinsonap
+277123,blag1240,CHIN,t ə v a,326,robinsonap
+277124,kama1365,CHIN,w a a + b u k,328,robinsonap
+277125,wers1238,CHIN,n e w a k a t,333,robinsonap
+277126,kaer1234,CHIN,t u a + s o m o i,327,robinsonap
+277127,lamm1241,CHIN,n a w a r,330,robinsonap
+277128,adan1251,CHIN,a r o w a h a,325,robinsonap
+277129,sawi1256,CHIN,w a k o o j a,332,robinsonap
+277130,nede1245,CHIN,g a w a l a,331,robinsonap
+277131,kelo1247,CHIN,g a d + j a r,329,robinsonap
+277132,teiw1235,LIP,g e r + t u b a n,1231,robinsonap
+277133,abui1241,LIP,t a w a + k u l,1224,robinsonap
+277134,blag1240,LIP,t i b a l,1226,robinsonap
+277135,kama1365,LIP,w a a + b a k a,1228,robinsonap
+277136,wers1238,LIP,n e b i r + k l u t,1233,robinsonap
+277137,kaer1234,LIP,t u a + t u p a ʔ,1227,robinsonap
+277138,lamm1241,LIP,n e l a s,1230,robinsonap
+277139,adan1251,LIP,t ɛ m + t ɛ p o r o,1225,robinsonap
+277140,sawi1256,LIP,g a p i i n i,1232,robinsonap
+277141,nede1245,LIP,g a j a q + t u b u ŋ,1231,robinsonap
+277142,kelo1247,LIP,g ə t ə b o d,1229,robinsonap
+277143,teiw1235,TOOTH,g u s a n,2177,robinsonap
+277144,abui1241,TOOTH,t a w e i t i,2172,robinsonap
+277145,blag1240,TOOTH,t ə v e ŋ,2174,robinsonap
+277146,kama1365,TOOTH,w e h,2176,robinsonap
+277147,wers1238,TOOTH,n e w e s i,2173,robinsonap
+277148,kaer1234,TOOTH,t u a + s i ŋ,2175,robinsonap
+277149,lamm1241,TOOTH,n a w a s i ŋ,2173,robinsonap
+277150,adan1251,TOOTH,n a w ɛ h ɛ ŋ,2173,robinsonap
+277151,sawi1256,TOOTH,g a w a,2176,robinsonap
+277152,nede1245,TOOTH,g u s i ŋ,2177,robinsonap
+277153,kelo1247,TOOTH,g ə w ɛ h,2176,robinsonap
+277154,teiw1235,TONGUE,g e l i v i,2170,robinsonap
+277155,abui1241,TONGUE,t a l e i f i,2167,robinsonap
+277156,blag1240,TONGUE,t e dʒ e b u r,2168,robinsonap
+277157,kama1365,TONGUE,o p u i,2169,robinsonap
+277158,wers1238,TONGUE,n e j e b u r,2170,robinsonap
+277159,kaer1234,TONGUE,t a l e e b,2167,robinsonap
+277160,lamm1241,TONGUE,n a l e b u,2170,robinsonap
+277161,adan1251,TONGUE,t a l ɛ b,2167,robinsonap
+277162,sawi1256,TONGUE,g a l i m p u r u,2171,robinsonap
+277163,nede1245,TONGUE,g ə l e f u,2170,robinsonap
+277164,kelo1247,TONGUE,g ə l ɛ b,2167,robinsonap
+277165,teiw1235,NECK,g ə m ə g o q a i,1422,robinsonap
+277166,abui1241,NECK,t e r o l a,1415,robinsonap
+277167,blag1240,NECK,t ə m e ŋ ʔ e r a,1417,robinsonap
+277168,kama1365,NECK,m a ŋ,1419,robinsonap
+277169,wers1238,NECK,n e m e i ŋ,1419,robinsonap
+277170,kaer1234,NECK,t a t a ħ,1418,robinsonap
+277171,lamm1241,NECK,n e b a,1420,robinsonap
+277172,adan1251,NECK,d o l o,1416,robinsonap
+277173,sawi1256,NECK,g a m a ŋ,1419,robinsonap
+277174,nede1245,NECK,g e f i k i r i,1421,robinsonap
+277175,kelo1247,NECK,d o h ə l ɑ,1416,robinsonap
+277176,teiw1235,SHOULDER,g ə d i j a ʔ,1804,robinsonap
+277177,abui1241,SHOULDER,t a b a l,1796,robinsonap
+277178,blag1240,SHOULDER,t ə b i t,1798,robinsonap
+277179,kama1365,SHOULDER,w a k a i,1799,robinsonap
+277180,wers1238,SHOULDER,n e b a r a ŋ,1805,robinsonap
+277181,kaer1234,SHOULDER,t a b a g a t,1798,robinsonap
+277182,lamm1241,SHOULDER,n a m a k a r,1801,robinsonap
+277183,adan1251,SHOULDER,ʔ a b ɛ l i,1797,robinsonap
+277184,sawi1256,SHOULDER,k a a l ɑ,1803,robinsonap
+277185,nede1245,SHOULDER,g a s i a l,1802,robinsonap
+277186,kelo1247,SHOULDER,n ɪ k ɛ b ɛ l,1800,robinsonap
+277187,teiw1235,ARM,g ə t a n,19,robinsonap
+277188,abui1241,ARM,t a t a ŋ,19,robinsonap
+277189,blag1240,ARM,t a t a ŋ,19,robinsonap
+277190,kama1365,ARM,t a ŋ,19,robinsonap
+277191,wers1238,ARM,n e t e ŋ,19,robinsonap
+277192,kaer1234,ARM,t a t a ŋ,19,robinsonap
+277193,lamm1241,ARM,n a t t a ŋ,19,robinsonap
+277194,adan1251,ARM,n a t a ŋ,19,robinsonap
+277195,sawi1256,ARM,g a t a ŋ,19,robinsonap
+277196,nede1245,ARM,g a t a ŋ,19,robinsonap
+277197,kelo1247,ARM,g t a n,19,robinsonap
+277198,teiw1235,FINGERNAIL,g ə t a ŋ + q u ħ a s,727,robinsonap
+277199,abui1241,FINGERNAIL,t a t a ŋ + k u s i ŋ,727,robinsonap
+277200,blag1240,FINGERNAIL,t a t a ŋ + k r u s i ŋ,727,robinsonap
+277201,kama1365,FINGERNAIL,k u i s i ŋ,728,robinsonap
+277202,wers1238,FINGERNAIL,k u r u s i,730,robinsonap
+277203,kaer1234,FINGERNAIL,t a t a ŋ + k u s i ŋ,727,robinsonap
+277204,lamm1241,FINGERNAIL,n a t t a ŋ + k u s i,727,robinsonap
+277205,adan1251,FINGERNAIL,ʔ a t a ŋ + u h u ŋ,727,robinsonap
+277206,sawi1256,FINGERNAIL,g a t a ŋ + k u r i s i,727,robinsonap
+277207,nede1245,FINGERNAIL,g a t a ŋ + k u tʃ i ŋ,727,robinsonap
+277208,kelo1247,FINGERNAIL,g ə t ɑ n k u h,729,robinsonap
+277209,teiw1235,BREAST,g ə ħ a m,235,robinsonap
+277210,abui1241,BREAST,t a r a i h i a ŋ,231,robinsonap
+277211,blag1240,BREAST,aː m,233,robinsonap
+277212,kama1365,BREAST,a m i,235,robinsonap
+277213,wers1238,BREAST,a m i,235,robinsonap
+277214,kaer1234,BREAST,t u u,234,robinsonap
+277215,lamm1241,BREAST,n a i + h a ŋ,236,robinsonap
+277216,adan1251,BREAST,t o ʔ,232,robinsonap
+277217,sawi1256,BREAST,g a a m i,235,robinsonap
+277218,nede1245,BREAST,g a j a m i,235,robinsonap
+277219,kelo1247,BREAST,d ʊ ʊ t,234,robinsonap
+277220,teiw1235,NAVEL,g o r + t o ʔ o i,1413,robinsonap
+277221,abui1241,NAVEL,t a b i k,1404,robinsonap
+277222,blag1240,NAVEL,t ə p u a r,1406,robinsonap
+277223,kama1365,NAVEL,b u,1408,robinsonap
+277224,wers1238,NAVEL,k u b u,1414,robinsonap
+277225,kaer1234,NAVEL,t o t a j,1407,robinsonap
+277226,lamm1241,NAVEL,n i t o ʔ e,1410,robinsonap
+277227,adan1251,NAVEL,ʔ a p o j ʔ ɛ ŋ,1405,robinsonap
+277228,sawi1256,NAVEL,g i k u b i i l a,1412,robinsonap
+277229,nede1245,NAVEL,g r u f i,1411,robinsonap
+277230,kelo1247,NAVEL,t ə p ʊ h ə g ɛ n,1409,robinsonap
+277231,teiw1235,PENIS,f i,1535,robinsonap
+277232,abui1241,PENIS,p a l,1529,robinsonap
+277233,blag1240,PENIS,t a l,1530,robinsonap
+277234,kama1365,PENIS,f u i,1531,robinsonap
+277235,wers1238,PENIS,w a l a,1534,robinsonap
+277236,lamm1241,PENIS,g e + l u p i,1533,robinsonap
+277237,sawi1256,PENIS,w a a l a,1534,robinsonap
+277238,kelo1247,PENIS,t o,1532,robinsonap
+277239,teiw1235,VAGINA,t a a r,2225,robinsonap
+277240,abui1241,VAGINA,o j,2224,robinsonap
+277241,blag1240,VAGINA,a r,2225,robinsonap
+277242,kama1365,VAGINA,a i,2226,robinsonap
+277243,wers1238,VAGINA,t e l e s i k o,2229,robinsonap
+277244,lamm1241,VAGINA,g e + h i s s a,2227,robinsonap
+277245,sawi1256,VAGINA,l a,2228,robinsonap
+277246,kelo1247,VAGINA,a a r,2225,robinsonap
+277247,teiw1235,LEG,g ə f a t,1180,robinsonap
+277248,abui1241,LEG,t e t u k u,1177,robinsonap
+277249,blag1240,LEG,t i dʒ a,1179,robinsonap
+277250,kama1365,LEG,w a,1181,robinsonap
+277251,wers1238,LEG,n e w a k a,1186,robinsonap
+277252,kaer1234,LEG,t a b a t,1180,robinsonap
+277253,lamm1241,LEG,n a u t a,1183,robinsonap
+277254,adan1251,LEG,n ɛ ʔ ɛ w,1178,robinsonap
+277255,sawi1256,LEG,g i k u l i,1185,robinsonap
+277256,nede1245,LEG,g a j a,1184,robinsonap
+277257,kelo1247,LEG,g ə t ɑ k,1182,robinsonap
+277258,teiw1235,KNEE,g ə f a t + k u u,1106,robinsonap
+277259,abui1241,KNEE,t a ʔ b a b u k,1103,robinsonap
+277260,blag1240,KNEE,t i dʒ a + k u k u,1105,robinsonap
+277261,kama1365,KNEE,s u b u,1107,robinsonap
+277262,wers1238,KNEE,n e s e s e b u k,1112,robinsonap
+277263,kaer1234,KNEE,t a b a t + u k u,1106,robinsonap
+277264,lamm1241,KNEE,u k k a ŋ,1109,robinsonap
+277265,adan1251,KNEE,ʔ ɛ + p ɛ l i n i,1104,robinsonap
+277266,sawi1256,KNEE,g a t a a s u r u k u,1111,robinsonap
+277267,nede1245,KNEE,g a j + u k u,1110,robinsonap
+277268,kelo1247,KNEE,g ɛ i u k,1108,robinsonap
+277269,teiw1235,BACK,s i i f,61,robinsonap
+277270,abui1241,BACK,t e u i,52,robinsonap
+277271,blag1240,BACK,t ə m o t a + e r a,54,robinsonap
+277272,kama1365,BACK,i m o t a,56,robinsonap
+277273,wers1238,BACK,s a p + k o r,62,robinsonap
+277274,kaer1234,BACK,t e w a r i ŋ,55,robinsonap
+277275,lamm1241,BACK,n a i ŋ + w i r i,58,robinsonap
+277276,adan1251,BACK,ʔ h a ŋ + m a i,53,robinsonap
+277277,sawi1256,BACK,g a t i i ŋ,60,robinsonap
+277278,nede1245,BACK,n a g u a,59,robinsonap
+277279,kelo1247,BACK,g ɛ h ɑ k,57,robinsonap
+277280,teiw1235,WOUND,dʒ i f a t,2371,robinsonap
+277281,abui1241,WOUND,n a m u,2369,robinsonap
+277282,blag1240,WOUND,b a t a,2371,robinsonap
+277283,kama1365,WOUND,l a m u,2369,robinsonap
+277284,wers1238,WOUND,l e b o l i,2373,robinsonap
+277285,kaer1234,WOUND,i b a t,2371,robinsonap
+277286,lamm1241,WOUND,b a s,2371,robinsonap
+277287,adan1251,WOUND,b a m e d,2370,robinsonap
+277288,sawi1256,WOUND,k a r u p o,2372,robinsonap
+277289,nede1245,WOUND,b a t t a,2371,robinsonap
+277290,kelo1247,WOUND,a b a d,2371,robinsonap
+277291,teiw1235,RINGWORM,s a ħ a i,1644,robinsonap
+277292,abui1241,RINGWORM,k a ʔ f i s i ŋ,1641,robinsonap
+277293,wers1238,RINGWORM,l i l i r,1645,robinsonap
+277294,kaer1234,RINGWORM,q a a t,1642,robinsonap
+277295,lamm1241,RINGWORM,k a t t u r,1643,robinsonap
+277296,adan1251,RINGWORM,o t,1642,robinsonap
+277297,nede1245,RINGWORM,k a t u,1643,robinsonap
+277298,teiw1235,ULCER,g a a l,2222,robinsonap
+277299,abui1241,ULCER,k a f i s i ŋ,2216,robinsonap
+277300,blag1240,ULCER,m ə n a w,2218,robinsonap
+277301,kama1365,ULCER,b i l a b i l a,2220,robinsonap
+277302,wers1238,ULCER,p u i + m n u m i ŋ,2223,robinsonap
+277303,kaer1234,ULCER,k u s + b a n i,2219,robinsonap
+277304,lamm1241,ULCER,a i + n a s s i,2221,robinsonap
+277305,adan1251,ULCER,p a l a ŋ,2217,robinsonap
+277306,nede1245,ULCER,m a n u,2218,robinsonap
+277307,teiw1235,SICK,q a m u d i,1822,robinsonap
+277308,abui1241,SICK,k a m u r a,1822,robinsonap
+277309,blag1240,SICK,v i v i r i ŋ,1824,robinsonap
+277310,wers1238,SICK,n a i l b u b,1829,robinsonap
+277311,kaer1234,SICK,q o m o d i,1822,robinsonap
+277312,lamm1241,SICK,d a g g a,1826,robinsonap
+277313,adan1251,SICK,t a s o ʔ o,1823,robinsonap
+277314,sawi1256,SICK,m a a k u,1828,robinsonap
+277315,nede1245,SICK,t a l a q o,1827,robinsonap
+277316,kelo1247,SICK,g e b i r,1825,robinsonap
+277317,teiw1235,COMMON COLD (DISEASE),q u r + k a l,387,robinsonap
+277318,abui1241,COMMON COLD (DISEASE),p a s i ŋ,380,robinsonap
+277319,blag1240,COMMON COLD (DISEASE),t ə m i ŋ + o m i + p i,382,robinsonap
+277320,wers1238,COMMON COLD (DISEASE),d u d u ŋ + a s i d i ŋ,388,robinsonap
+277321,kaer1234,COMMON COLD (DISEASE),s o w,383,robinsonap
+277322,lamm1241,COMMON COLD (DISEASE),k u k a,385,robinsonap
+277323,adan1251,COMMON COLD (DISEASE),h uː ʔ,381,robinsonap
+277324,nede1245,COMMON COLD (DISEASE),b e s i m a,386,robinsonap
+277325,kelo1247,COMMON COLD (DISEASE),k a i,384,robinsonap
+277326,teiw1235,PERSON,u j a q,1538,robinsonap
+277327,abui1241,PERSON,a m a,1536,robinsonap
+277328,blag1240,PERSON,n e e n u,1537,robinsonap
+277329,kama1365,PERSON,a l m a,1536,robinsonap
+277330,wers1238,PERSON,a n i ŋ,1541,robinsonap
+277331,kaer1234,PERSON,u j a ħ o ʔ,1538,robinsonap
+277332,lamm1241,PERSON,a n a m e,1536,robinsonap
+277333,adan1251,PERSON,n aː m i,1536,robinsonap
+277334,sawi1256,PERSON,a n i ŋ,1541,robinsonap
+277335,nede1245,PERSON,w a ʔ a ŋ,1540,robinsonap
+277336,kelo1247,PERSON,ɑ n ɪ n o k,1539,robinsonap
+277337,teiw1235,NAME,j i d,1386,robinsonap
+277338,abui1241,NAME,t a n e,1380,robinsonap
+277339,blag1240,NAME,t e n e,1380,robinsonap
+277340,kama1365,NAME,n e i,1382,robinsonap
+277341,wers1238,NAME,a d e i ŋ,1387,robinsonap
+277342,kaer1234,NAME,t e e n i,1380,robinsonap
+277343,lamm1241,NAME,n i n n u,1384,robinsonap
+277344,adan1251,NAME,ʔ a n i ŋ,1381,robinsonap
+277345,sawi1256,NAME,g a n i,1383,robinsonap
+277346,nede1245,NAME,g e j n u,1385,robinsonap
+277347,kelo1247,NAME,g ə n ɛ ʔ,1383,robinsonap
+277348,teiw1235,CHILD,g o q a i,322,robinsonap
+277349,abui1241,CHILD,m o k u,317,robinsonap
+277350,blag1240,CHILD,t o a l,319,robinsonap
+277351,kama1365,CHILD,d u m,319,robinsonap
+277352,wers1238,CHILD,o l,320,robinsonap
+277353,kaer1234,CHILD,t u a q,319,robinsonap
+277354,lamm1241,CHILD,w a k k e,321,robinsonap
+277355,adan1251,CHILD,ʔ e i,318,robinsonap
+277356,sawi1256,CHILD,g a m a d d u,323,robinsonap
+277357,nede1245,CHILD,g u a q a,322,robinsonap
+277358,kelo1247,CHILD,ʊ l,320,robinsonap
+277359,teiw1235,MAN,m a s a r,1291,robinsonap
+277360,abui1241,MAN,n ẽ,1282,robinsonap
+277361,blag1240,MAN,m e j a l,1284,robinsonap
+277362,kama1365,MAN,l a m i,1286,robinsonap
+277363,wers1238,MAN,l m i,1286,robinsonap
+277364,kaer1234,MAN,m a s i k + w a a l,1285,robinsonap
+277365,lamm1241,MAN,a m m u,1288,robinsonap
+277366,adan1251,MAN,l o t i,1283,robinsonap
+277367,sawi1256,MAN,i m j a a l a,1290,robinsonap
+277368,nede1245,MAN,m a w a f e ʔ i,1289,robinsonap
+277369,kelo1247,MAN,o m k ə n ɛ,1287,robinsonap
+277370,teiw1235,WOMAN,e q a r,2359,robinsonap
+277371,abui1241,WOMAN,m a dʒ u o,2350,robinsonap
+277372,blag1240,WOMAN,dʒ a u l,2352,robinsonap
+277373,kama1365,WOMAN,m a l e,2354,robinsonap
+277374,wers1238,WOMAN,m e i,2360,robinsonap
+277375,kaer1234,WOMAN,u m o q + w a a l,2353,robinsonap
+277376,lamm1241,WOMAN,e u,2356,robinsonap
+277377,adan1251,WOMAN,o b o ʔ,2351,robinsonap
+277378,sawi1256,WOMAN,j a a l a r a,2358,robinsonap
+277379,nede1245,WOMAN,a l a q a m a,2357,robinsonap
+277380,kelo1247,WOMAN,o k ə n ɛ,2355,robinsonap
+277381,teiw1235,MOTHER,g a ħ a l a ʔ,1351,robinsonap
+277382,abui1241,MOTHER,h e a,1345,robinsonap
+277383,blag1240,MOTHER,n i v a,1346,robinsonap
+277384,kama1365,MOTHER,o u k o,1347,robinsonap
+277385,wers1238,MOTHER,n e a,1352,robinsonap
+277386,kaer1234,MOTHER,n o w,1346,robinsonap
+277387,lamm1241,MOTHER,n i u,1349,robinsonap
+277388,adan1251,MOTHER,n i w i,1346,robinsonap
+277389,sawi1256,MOTHER,g i j a,1350,robinsonap
+277390,nede1245,MOTHER,h o a,1345,robinsonap
+277391,kelo1247,MOTHER,n o i,1348,robinsonap
+277392,teiw1235,FATHER,g o m a,709,robinsonap
+277393,abui1241,FATHER,m a m a,704,robinsonap
+277394,blag1240,FATHER,n i m a ŋ,704,robinsonap
+277395,kama1365,FATHER,p a a,705,robinsonap
+277396,wers1238,FATHER,n e p a,708,robinsonap
+277397,kaer1234,FATHER,n a m a m,704,robinsonap
+277398,lamm1241,FATHER,n i a r,706,robinsonap
+277399,adan1251,FATHER,n i m i ŋ,704,robinsonap
+277400,sawi1256,FATHER,g i p a,708,robinsonap
+277401,nede1245,FATHER,n a b a m m a,707,robinsonap
+277402,kelo1247,FATHER,n ɪ m ɑ n,704,robinsonap
+277403,teiw1235,OLDER SIBLING,g ə m u t u,1487,robinsonap
+277404,abui1241,OLDER SIBLING,n a n a,1480,robinsonap
+277405,blag1240,OLDER SIBLING,n e t a t a,1482,robinsonap
+277406,kama1365,OLDER SIBLING,i d a m a,1484,robinsonap
+277407,wers1238,OLDER SIBLING,n e n a ŋ,1480,robinsonap
+277408,kaer1234,OLDER SIBLING,n e k a w,1483,robinsonap
+277409,lamm1241,OLDER SIBLING,n i k k a r,1486,robinsonap
+277410,adan1251,OLDER SIBLING,n o ʔ u d i ŋ + ʔ o b o,1481,robinsonap
+277411,sawi1256,OLDER SIBLING,n a a n a,1480,robinsonap
+277412,nede1245,OLDER SIBLING,n e n a ŋ,1480,robinsonap
+277413,kelo1247,OLDER SIBLING,ʊ l o m,1485,robinsonap
+277414,teiw1235,YOUNGER SIBLING,g ə ʔ i k,2421,robinsonap
+277415,abui1241,YOUNGER SIBLING,h e n a h a,2413,robinsonap
+277416,blag1240,YOUNGER SIBLING,n e k a w,2415,robinsonap
+277417,kama1365,YOUNGER SIBLING,i d i k a,2417,robinsonap
+277418,wers1238,YOUNGER SIBLING,n e k a k u,2415,robinsonap
+277419,kaer1234,YOUNGER SIBLING,n e d i k,2416,robinsonap
+277420,lamm1241,YOUNGER SIBLING,n i a k u,2419,robinsonap
+277421,adan1251,YOUNGER SIBLING,n o ʔ u d i ŋ + l o t i,2414,robinsonap
+277422,sawi1256,YOUNGER SIBLING,k a a k u,2415,robinsonap
+277423,nede1245,YOUNGER SIBLING,n e j w e i,2420,robinsonap
+277424,kelo1247,YOUNGER SIBLING,ʊ l ɪ k,2418,robinsonap
+277425,teiw1235,GRANDMOTHER,g e r t a ʔ,912,robinsonap
+277426,abui1241,GRANDMOTHER,n e k u t a,904,robinsonap
+277427,blag1240,GRANDMOTHER,n i d a t,906,robinsonap
+277428,kama1365,GRANDMOTHER,t a m,907,robinsonap
+277429,wers1238,GRANDMOTHER,n e t a m u + m e i,913,robinsonap
+277430,kaer1234,GRANDMOTHER,n a r a a t,906,robinsonap
+277431,lamm1241,GRANDMOTHER,k u b a,909,robinsonap
+277432,adan1251,GRANDMOTHER,b a p a,905,robinsonap
+277433,sawi1256,GRANDMOTHER,g i t a a m a,911,robinsonap
+277434,nede1245,GRANDMOTHER,g ə t a j a,910,robinsonap
+277435,kelo1247,GRANDMOTHER,d o q o l,908,robinsonap
+277436,teiw1235,GRANDCHILD,g r a a t + q a i,897,robinsonap
+277437,abui1241,GRANDCHILD,n e r a k b e k a,894,robinsonap
+277438,blag1240,GRANDCHILD,t o a l + t i d a t,896,robinsonap
+277439,kama1365,GRANDCHILD,d u m + t a m,898,robinsonap
+277440,wers1238,GRANDCHILD,g e s i r + g e m a i,903,robinsonap
+277441,kaer1234,GRANDCHILD,n a g a r a a t + ħ a i,897,robinsonap
+277442,lamm1241,GRANDCHILD,n a m m i s,900,robinsonap
+277443,adan1251,GRANDCHILD,d a ʔ a l a,895,robinsonap
+277444,sawi1256,GRANDCHILD,g a t a a m u,902,robinsonap
+277445,nede1245,GRANDCHILD,g ə t a j a,901,robinsonap
+277446,kelo1247,GRANDCHILD,d ɑ t,899,robinsonap
+277447,teiw1235,BRIDE PRICE,g o ʔ o j,252,robinsonap
+277448,abui1241,BRIDE PRICE,h e b e l,245,robinsonap
+277449,blag1240,BRIDE PRICE,e b ə l i,247,robinsonap
+277450,kama1365,BRIDE PRICE,f a a l,249,robinsonap
+277451,wers1238,BRIDE PRICE,a l i k i r,253,robinsonap
+277452,kaer1234,BRIDE PRICE,g a j,248,robinsonap
+277453,lamm1241,BRIDE PRICE,g u ʔ e,251,robinsonap
+277454,adan1251,BRIDE PRICE,h a d a,246,robinsonap
+277455,nede1245,BRIDE PRICE,g a ʔ a,251,robinsonap
+277456,kelo1247,BRIDE PRICE,a m,250,robinsonap
+277457,teiw1235,SLAVE,u j + g u s o j g u s o j + w a a l,1859,robinsonap
+277458,abui1241,SLAVE,m a i dʒ a,1852,robinsonap
+277459,blag1240,SLAVE,o h o + g a i ŋ,1853,robinsonap
+277460,kama1365,SLAVE,m a a i,1855,robinsonap
+277461,wers1238,SLAVE,m e l a i,1855,robinsonap
+277462,kaer1234,SLAVE,dʒ o ŋ g o s,1854,robinsonap
+277463,lamm1241,SLAVE,k o l a,1856,robinsonap
+277464,sawi1256,SLAVE,g a m a d d u,1858,robinsonap
+277465,nede1245,SLAVE,w a ʔ a n + g i t i t i,1857,robinsonap
+277466,kelo1247,SLAVE,m ə l ɛ i,1855,robinsonap
+277467,teiw1235,DOG,j i f a r,542,robinsonap
+277468,abui1241,DOG,k a i,541,robinsonap
+277469,blag1240,DOG,dʒ a b a r,542,robinsonap
+277470,kama1365,DOG,k u i,541,robinsonap
+277471,wers1238,DOG,k u t u w a l,546,robinsonap
+277472,kaer1234,DOG,i b a r,542,robinsonap
+277473,lamm1241,DOG,j a b b e,544,robinsonap
+277474,adan1251,DOG,b ɛ l,542,robinsonap
+277475,sawi1256,DOG,k a t u,545,robinsonap
+277476,nede1245,DOG,b a r,542,robinsonap
+277477,kelo1247,DOG,k ʊ r,543,robinsonap
+277478,teiw1235,PIG,b a i,1551,robinsonap
+277479,abui1241,PIG,f e,1551,robinsonap
+277480,blag1240,PIG,b e,1551,robinsonap
+277481,kama1365,PIG,p e e,1551,robinsonap
+277482,wers1238,PIG,p e i,1551,robinsonap
+277483,kaer1234,PIG,b e j,1551,robinsonap
+277484,lamm1241,PIG,b a i,1551,robinsonap
+277485,adan1251,PIG,b i,1551,robinsonap
+277486,sawi1256,PIG,p i,1551,robinsonap
+277487,nede1245,PIG,b e i,1551,robinsonap
+277488,kelo1247,PIG,b e e ʔ,1551,robinsonap
+277489,teiw1235,CHICKEN,s a ħ a,315,robinsonap
+277490,abui1241,CHICKEN,r u o,307,robinsonap
+277491,blag1240,CHICKEN,h a ŋ i,309,robinsonap
+277492,kama1365,CHICKEN,s u b e,311,robinsonap
+277493,wers1238,CHICKEN,s e k o k,316,robinsonap
+277494,kaer1234,CHICKEN,s i a q,310,robinsonap
+277495,lamm1241,CHICKEN,s u a k e,312,robinsonap
+277496,adan1251,CHICKEN,h i u,308,robinsonap
+277497,sawi1256,CHICKEN,s ɛ,314,robinsonap
+277498,nede1245,CHICKEN,d e j a n,313,robinsonap
+277499,kelo1247,CHICKEN,h i,308,robinsonap
+277500,teiw1235,RAT,d u r,1602,robinsonap
+277501,abui1241,RAT,r u i,1601,robinsonap
+277502,blag1240,RAT,d u r u,1602,robinsonap
+277503,kama1365,RAT,t u i,1601,robinsonap
+277504,wers1238,RAT,d u r k i,1602,robinsonap
+277505,kaer1234,RAT,d u r,1602,robinsonap
+277506,lamm1241,RAT,d i,1603,robinsonap
+277507,adan1251,RAT,d uː l,1602,robinsonap
+277508,sawi1256,RAT,d a r u,1602,robinsonap
+277509,nede1245,RAT,d u r,1602,robinsonap
+277510,kelo1247,RAT,d ʊ r,1602,robinsonap
+277511,teiw1235,NATIVE CAT,ħ r a w,1398,robinsonap
+277512,abui1241,NATIVE CAT,a j o,1395,robinsonap
+277513,blag1240,NATIVE CAT,r o,1397,robinsonap
+277514,kama1365,NATIVE CAT,l a k u,1399,robinsonap
+277515,wers1238,NATIVE CAT,l u k u,1399,robinsonap
+277516,kaer1234,NATIVE CAT,o r o w,1398,robinsonap
+277517,lamm1241,NATIVE CAT,l a u,1401,robinsonap
+277518,adan1251,NATIVE CAT,a l u m a n ɛ m ɛ,1396,robinsonap
+277519,sawi1256,NATIVE CAT,a r u w a a k a,1403,robinsonap
+277520,nede1245,NATIVE CAT,a l i s i,1402,robinsonap
+277521,kelo1247,NATIVE CAT,a r u ʔ,1400,robinsonap
+277522,teiw1235,FROG,m a u q u b a r,851,robinsonap
+277523,abui1241,FROG,dʒ a k o r a k o r a,843,robinsonap
+277524,blag1240,FROG,m o t o,845,robinsonap
+277525,kama1365,FROG,t a k a b a u,847,robinsonap
+277526,wers1238,FROG,o l + t u k t u k,852,robinsonap
+277527,kaer1234,FROG,m a u + ħ u b a r,846,robinsonap
+277528,lamm1241,FROG,h a l i a + m a r o ʔ o,849,robinsonap
+277529,adan1251,FROG,u p a p a ʔ,844,robinsonap
+277530,sawi1256,FROG,w e r p a a k,850,robinsonap
+277531,kelo1247,FROG,e i p e k,848,robinsonap
+277532,teiw1235,BAT,m ə d i,99,robinsonap
+277533,abui1241,BAT,m a r e,99,robinsonap
+277534,blag1240,BAT,d e m e l,100,robinsonap
+277535,kama1365,BAT,m a t e i,99,robinsonap
+277536,wers1238,BAT,m u d u k,99,robinsonap
+277537,kaer1234,BAT,m e r e i,99,robinsonap
+277538,lamm1241,BAT,k a l o r,102,robinsonap
+277539,sawi1256,BAT,m a d iː k u,99,robinsonap
+277540,nede1245,BAT,m a r r a,99,robinsonap
+277541,kelo1247,BAT,m d e l,101,robinsonap
+277542,teiw1235,TAIL,g o o r,2046,robinsonap
+277543,abui1241,TAIL,h a ʔ w a i,2043,robinsonap
+277544,blag1240,TAIL,o r a,2045,robinsonap
+277545,kama1365,TAIL,w u i,2047,robinsonap
+277546,wers1238,TAIL,w o r i,2051,robinsonap
+277547,kaer1234,TAIL,g o r,2046,robinsonap
+277548,lamm1241,TAIL,g e k u,2049,robinsonap
+277549,adan1251,TAIL,o l o ʔ,2044,robinsonap
+277550,sawi1256,TAIL,g i w o o r a,2050,robinsonap
+277551,nede1245,TAIL,g o l a,2046,robinsonap
+277552,kelo1247,TAIL,g o r ə k ɛ i,2048,robinsonap
+277553,teiw1235,FISH,ħ a f,738,robinsonap
+277554,abui1241,FISH,a f u,738,robinsonap
+277555,blag1240,FISH,a a b,738,robinsonap
+277556,kama1365,FISH,a p i,738,robinsonap
+277557,wers1238,FISH,a p i,738,robinsonap
+277558,kaer1234,FISH,a b,738,robinsonap
+277559,lamm1241,FISH,h a p,738,robinsonap
+277560,adan1251,FISH,aː b,738,robinsonap
+277561,sawi1256,FISH,a p i,738,robinsonap
+277562,nede1245,FISH,a a f i,738,robinsonap
+277563,kelo1247,FISH,ə b i,738,robinsonap
+277564,teiw1235,SHARK,s i f a r,1766,robinsonap
+277565,abui1241,SHARK,k a s u w a i,1764,robinsonap
+277566,blag1240,SHARK,h i b i r,1766,robinsonap
+277567,kama1365,SHARK,a n e e,1767,robinsonap
+277568,wers1238,SHARK,m o l o s,1769,robinsonap
+277569,kaer1234,SHARK,s i b a r,1766,robinsonap
+277570,lamm1241,SHARK,s i b b u,1766,robinsonap
+277571,adan1251,SHARK,t a b ɛ i,1765,robinsonap
+277572,nede1245,SHARK,s i f i,1766,robinsonap
+277573,kelo1247,SHARK,b e ʔ e b i,1768,robinsonap
+277574,teiw1235,WHALE,i s a p e r a n,2304,robinsonap
+277575,abui1241,WHALE,k a s u w a i,2297,robinsonap
+277576,blag1240,WHALE,k ə l a r u,2299,robinsonap
+277577,kama1365,WHALE,a n e e,2300,robinsonap
+277578,wers1238,WHALE,a n a i,2305,robinsonap
+277579,lamm1241,WHALE,p e r u ŋ,2302,robinsonap
+277580,adan1251,WHALE,u s a h a,2298,robinsonap
+277581,nede1245,WHALE,s i f i,2303,robinsonap
+277582,kelo1247,WHALE,b e ʔ e b i,2301,robinsonap
+277583,teiw1235,CROCODILE,b a ħ a i,428,robinsonap
+277584,abui1241,CROCODILE,f a h a i,428,robinsonap
+277585,blag1240,CROCODILE,b a p a,429,robinsonap
+277586,kama1365,CROCODILE,p i e e,430,robinsonap
+277587,wers1238,CROCODILE,w a w a,432,robinsonap
+277588,kaer1234,CROCODILE,b a g a j,428,robinsonap
+277589,lamm1241,CROCODILE,b a g a i,428,robinsonap
+277590,adan1251,CROCODILE,b a ʔ a i,428,robinsonap
+277591,sawi1256,CROCODILE,w a a w a,432,robinsonap
+277592,nede1245,CROCODILE,l i s i,431,robinsonap
+277593,kelo1247,CROCODILE,b ə g ɑ i,428,robinsonap
+277594,teiw1235,MONITOR LIZARD,ħ a r i s,1312,robinsonap
+277595,abui1241,MONITOR LIZARD,l i t i,1309,robinsonap
+277596,blag1240,MONITOR LIZARD,r i,1311,robinsonap
+277597,kama1365,MONITOR LIZARD,w u l e t,1313,robinsonap
+277598,wers1238,MONITOR LIZARD,r o t i,1317,robinsonap
+277599,kaer1234,MONITOR LIZARD,i r i s,1312,robinsonap
+277600,lamm1241,MONITOR LIZARD,h i d d i s,1315,robinsonap
+277601,adan1251,MONITOR LIZARD,ʔ a l ɛ h ɛ ʔ,1310,robinsonap
+277602,nede1245,MONITOR LIZARD,l i s i,1316,robinsonap
+277603,kelo1247,MONITOR LIZARD,w r e h,1314,robinsonap
+277604,wers1238,STARFISH,t e m a + l a l i ŋ,1967,robinsonap
+277605,nede1245,STARFISH,j i v a + k o j a + t a g a m i,1966,robinsonap
+277606,teiw1235,TORTOISE,j e r + k u a,2186,robinsonap
+277607,abui1241,TORTOISE,j o u k o,2178,robinsonap
+277608,blag1240,TORTOISE,dʒ a r + o b o,2179,robinsonap
+277609,kama1365,TORTOISE,j o k e e,2181,robinsonap
+277610,wers1238,TORTOISE,u r a k,2187,robinsonap
+277611,kaer1234,TORTOISE,j i r k o,2180,robinsonap
+277612,lamm1241,TORTOISE,j i a k a u,2183,robinsonap
+277613,sawi1256,TORTOISE,i r u w a a k a,2185,robinsonap
+277614,nede1245,TORTOISE,j a l a w,2184,robinsonap
+277615,kelo1247,TORTOISE,j e k o,2182,robinsonap
+277616,teiw1235,BIRD,d e i,171,robinsonap
+277617,abui1241,BIRD,r u o + h a l i ŋ + t a m a,162,robinsonap
+277618,blag1240,BIRD,w u u l,164,robinsonap
+277619,kama1365,BIRD,a t o i,166,robinsonap
+277620,wers1238,BIRD,a d o l + g a t e ŋ + k u r u s i,172,robinsonap
+277621,kaer1234,BIRD,d u u m,165,robinsonap
+277622,lamm1241,BIRD,r e,168,robinsonap
+277623,adan1251,BIRD,h i u + w a l ɛ w ɛ ŋ,163,robinsonap
+277624,sawi1256,BIRD,a d a l a,170,robinsonap
+277625,nede1245,BIRD,d a j a,169,robinsonap
+277626,kelo1247,BIRD,h ɪ ʔ ɪ d o m,167,robinsonap
+277627,teiw1235,WING,g e t a r,2339,robinsonap
+277628,abui1241,WING,h a ʔ b a k a i,2333,robinsonap
+277629,blag1240,WING,a b a t,2335,robinsonap
+277630,kama1365,WING,p a t a,2337,robinsonap
+277631,wers1238,WING,b e b i t i r,2340,robinsonap
+277632,kaer1234,WING,g u a t,2336,robinsonap
+277633,lamm1241,WING,g a d d u r,2339,robinsonap
+277634,adan1251,WING,a w i t i ŋ,2334,robinsonap
+277635,nede1245,WING,g a t a ʔ a,2339,robinsonap
+277636,kelo1247,WING,g ɑ m b ɑ l,2338,robinsonap
+277637,teiw1235,HORN (ANATOMY),g e d e ħ u n,1054,robinsonap
+277638,abui1241,HORN (ANATOMY),h a ʔ m u k,1049,robinsonap
+277639,blag1240,HORN (ANATOMY),o m u,1049,robinsonap
+277640,kama1365,HORN (ANATOMY),m u u,1051,robinsonap
+277641,wers1238,HORN (ANATOMY),g e b u k u r,1055,robinsonap
+277642,kaer1234,HORN (ANATOMY),g u m u k,1049,robinsonap
+277643,lamm1241,HORN (ANATOMY),g a r i g e,1052,robinsonap
+277644,adan1251,HORN (ANATOMY),ʔ a m u ʔ u,1050,robinsonap
+277645,nede1245,HORN (ANATOMY),g ə r i a ŋ,1053,robinsonap
+277646,kelo1247,HORN (ANATOMY),g ə m ʊ k,1049,robinsonap
+277647,teiw1235,SNAKE,d a a m,1890,robinsonap
+277648,abui1241,SNAKE,m o n,1887,robinsonap
+277649,blag1240,SNAKE,d u m i ŋ,1888,robinsonap
+277650,kama1365,SNAKE,k u m e,1889,robinsonap
+277651,wers1238,SNAKE,m u n u,1887,robinsonap
+277652,kaer1234,SNAKE,d a m u ŋ,1887,robinsonap
+277653,lamm1241,SNAKE,d u a ŋ,1888,robinsonap
+277654,adan1251,SNAKE,m o n,1887,robinsonap
+277655,sawi1256,SNAKE,s i p e a l i,1891,robinsonap
+277656,nede1245,SNAKE,d a a m a,1890,robinsonap
+277657,kelo1247,SNAKE,m ɔ ɔ n,1887,robinsonap
+277658,teiw1235,SCORPION,p a r,1726,robinsonap
+277659,abui1241,SCORPION,p e i,1724,robinsonap
+277660,blag1240,SCORPION,p e r,1726,robinsonap
+277661,kama1365,SCORPION,f a l,1726,robinsonap
+277662,wers1238,SCORPION,p e r b u k,1728,robinsonap
+277663,kaer1234,SCORPION,p a r,1726,robinsonap
+277664,lamm1241,SCORPION,p a r,1726,robinsonap
+277665,adan1251,SCORPION,p a j,1725,robinsonap
+277666,nede1245,SCORPION,g o l d a k a,1727,robinsonap
+277667,kelo1247,SCORPION,p a r,1726,robinsonap
+277668,teiw1235,EGG,g ə t o v,657,robinsonap
+277669,abui1241,EGG,r u o + b i r a,650,robinsonap
+277670,blag1240,EGG,e ʔ d u a,652,robinsonap
+277671,kama1365,EGG,w a a,654,robinsonap
+277672,wers1238,EGG,s o a l,658,robinsonap
+277673,kaer1234,EGG,g o t o q i,653,robinsonap
+277674,lamm1241,EGG,r i a k u,656,robinsonap
+277675,adan1251,EGG,d o,651,robinsonap
+277676,sawi1256,EGG,w a a l a,654,robinsonap
+277677,nede1245,EGG,g a t a j,653,robinsonap
+277678,kelo1247,EGG,ə d ɑ ŋ,655,robinsonap
+277679,teiw1235,EARTHWORM,o t a r,643,robinsonap
+277680,abui1241,EARTHWORM,a n e i + t a k o i,635,robinsonap
+277681,blag1240,EARTHWORM,d u k a l a l i ŋ,637,robinsonap
+277682,kama1365,EARTHWORM,a s i ŋ k u a i,638,robinsonap
+277683,wers1238,EARTHWORM,k e s p a k,644,robinsonap
+277684,kaer1234,EARTHWORM,d u ŋ k a l a i ŋ,637,robinsonap
+277685,lamm1241,EARTHWORM,a r a t i,640,robinsonap
+277686,adan1251,EARTHWORM,iː b + ʔ w o r m ʔ,636,robinsonap
+277687,sawi1256,EARTHWORM,k i s p a a k,642,robinsonap
+277688,nede1245,EARTHWORM,t u n i g a s i,641,robinsonap
+277689,kelo1247,EARTHWORM,d ə l ɪ k w ɛ i,639,robinsonap
+277690,teiw1235,BUTTERFLY,w a ħ a,282,robinsonap
+277691,abui1241,BUTTERFLY,k u p a k,273,robinsonap
+277692,blag1240,BUTTERFLY,k a i l i l i ŋ,275,robinsonap
+277693,kama1365,BUTTERFLY,k u p a i t a,277,robinsonap
+277694,wers1238,BUTTERFLY,b e m b e r l a k,283,robinsonap
+277695,kaer1234,BUTTERFLY,q o q o,276,robinsonap
+277696,lamm1241,BUTTERFLY,l a u b b a r,279,robinsonap
+277697,adan1251,BUTTERFLY,p o p o u,274,robinsonap
+277698,sawi1256,BUTTERFLY,t a k o k o p a a l a,281,robinsonap
+277699,nede1245,BUTTERFLY,q a ħ a ʔ o,280,robinsonap
+277700,kelo1247,BUTTERFLY,w ǝ l e r,278,robinsonap
+277701,teiw1235,FLY (INSECT),u f a r,794,robinsonap
+277702,abui1241,FLY (INSECT),f u ŋ f a i,791,robinsonap
+277703,blag1240,FLY (INSECT),v a v a r,793,robinsonap
+277704,kama1365,FLY (INSECT),b i l e w e i,795,robinsonap
+277705,wers1238,FLY (INSECT),b u l e r,800,robinsonap
+277706,kaer1234,FLY (INSECT),u b a r,794,robinsonap
+277707,lamm1241,FLY (INSECT),h i b b i,797,robinsonap
+277708,adan1251,FLY (INSECT),l i b o ŋ,792,robinsonap
+277709,sawi1256,FLY (INSECT),l i w a r,799,robinsonap
+277710,nede1245,FLY (INSECT),j i i f u,798,robinsonap
+277711,kelo1247,FLY (INSECT),b l e l,796,robinsonap
+277712,teiw1235,MOSQUITO,k i i n,1338,robinsonap
+277713,abui1241,MOSQUITO,k u i m a,1337,robinsonap
+277714,blag1240,MOSQUITO,k i n i t,1339,robinsonap
+277715,kama1365,MOSQUITO,a f i s i ŋ,1340,robinsonap
+277716,wers1238,MOSQUITO,k u b u ŋ,1344,robinsonap
+277717,kaer1234,MOSQUITO,k i ŋ,1338,robinsonap
+277718,lamm1241,MOSQUITO,h i s s i ŋ,1341,robinsonap
+277719,adan1251,MOSQUITO,ʔ i n,1338,robinsonap
+277720,sawi1256,MOSQUITO,k a w e e ŋ,1343,robinsonap
+277721,nede1245,MOSQUITO,k i m b a l u,1342,robinsonap
+277722,kelo1247,MOSQUITO,i k i n,1338,robinsonap
+277723,teiw1235,ANT,t a r e ħ e n,18,robinsonap
+277724,abui1241,ANT,f i k e i,11,robinsonap
+277725,blag1240,ANT,k ə r e,13,robinsonap
+277726,kama1365,ANT,k a k i s i ŋ,15,robinsonap
+277727,wers1238,ANT,k u s i ŋ,15,robinsonap
+277728,kaer1234,ANT,i r i k i ŋ,14,robinsonap
+277729,lamm1241,ANT,k a r e,13,robinsonap
+277730,adan1251,ANT,l ɛ ʔ i l i ŋ,12,robinsonap
+277731,sawi1256,ANT,k l a ŋ l a ŋ u r,17,robinsonap
+277732,nede1245,ANT,m u r,16,robinsonap
+277733,kelo1247,ANT,i q i l i n,15,robinsonap
+277734,teiw1235,GRASSHOPPER,o w,926,robinsonap
+277735,abui1241,GRASSHOPPER,t u n u i,923,robinsonap
+277736,blag1240,GRASSHOPPER,k a b e t,925,robinsonap
+277737,kama1365,GRASSHOPPER,b e,927,robinsonap
+277738,wers1238,GRASSHOPPER,b e t k o l,932,robinsonap
+277739,kaer1234,GRASSHOPPER,o w,926,robinsonap
+277740,lamm1241,GRASSHOPPER,a u,929,robinsonap
+277741,adan1251,GRASSHOPPER,h aː n u,924,robinsonap
+277742,sawi1256,GRASSHOPPER,a k i k i,931,robinsonap
+277743,nede1245,GRASSHOPPER,o,930,robinsonap
+277744,kelo1247,GRASSHOPPER,t k e e t,928,robinsonap
+277745,teiw1235,SPIDER,b a ŋ k o w,1913,robinsonap
+277746,abui1241,SPIDER,b a l a b a l a,1905,robinsonap
+277747,blag1240,SPIDER,k ə r a ŋ a,1907,robinsonap
+277748,kama1365,SPIDER,k a r o k a a,1908,robinsonap
+277749,wers1238,SPIDER,t a ŋ k a b e b e r,1914,robinsonap
+277750,kaer1234,SPIDER,k a k a r a ŋ a,1907,robinsonap
+277751,lamm1241,SPIDER,k a r + l a b b a ŋ,1910,robinsonap
+277752,adan1251,SPIDER,ʔ a l ɛ ŋ,1906,robinsonap
+277753,sawi1256,SPIDER,t a ŋ k i b e a ŋ,1912,robinsonap
+277754,nede1245,SPIDER,q a ħ a v a,1911,robinsonap
+277755,kelo1247,SPIDER,n w a k,1909,robinsonap
+277756,teiw1235,HEAD LOUSE,k u ʔ a a n,982,robinsonap
+277757,abui1241,HEAD LOUSE,b i k i a ŋ,980,robinsonap
+277758,blag1240,HEAD LOUSE,k u b a ŋ,982,robinsonap
+277759,kama1365,HEAD LOUSE,b i n i,983,robinsonap
+277760,wers1238,HEAD LOUSE,u n a ŋ,986,robinsonap
+277761,kaer1234,HEAD LOUSE,k u w a ŋ,982,robinsonap
+277762,lamm1241,HEAD LOUSE,k a r + k a s s i,985,robinsonap
+277763,adan1251,HEAD LOUSE,ʔ o n j,981,robinsonap
+277764,sawi1256,HEAD LOUSE,i n a a ŋ,986,robinsonap
+277765,nede1245,HEAD LOUSE,k u ŋ,982,robinsonap
+277766,kelo1247,HEAD LOUSE,ə k o i n,984,robinsonap
+277767,teiw1235,NIT,ħ a r i n,1440,robinsonap
+277768,abui1241,NIT,b i k i a ŋ + t u l u ŋ,1437,robinsonap
+277769,blag1240,NIT,d e l i ŋ,1439,robinsonap
+277770,kama1365,NIT,b i n i + w a a,1441,robinsonap
+277771,wers1238,NIT,u n a ŋ + g e a,1444,robinsonap
+277772,kaer1234,NIT,i r i ŋ,1440,robinsonap
+277773,lamm1241,NIT,l i d d i ŋ,1443,robinsonap
+277774,adan1251,NIT,f a d i n,1438,robinsonap
+277775,nede1245,NIT,r i ŋ,1440,robinsonap
+277776,kelo1247,NIT,a k u i n dʒ + g e + a d a ŋ,1442,robinsonap
+277777,teiw1235,FLEA,ħ a t,764,robinsonap
+277778,abui1241,FLEA,t u k o t a,757,robinsonap
+277779,blag1240,FLEA,t ə m e l a,759,robinsonap
+277780,kama1365,FLEA,s i k o o,760,robinsonap
+277781,wers1238,FLEA,t o k o ʔ,757,robinsonap
+277782,lamm1241,FLEA,s i p p e,762,robinsonap
+277783,adan1251,FLEA,b ɛ l + ʔ u t u,758,robinsonap
+277784,nede1245,FLEA,b a r + b e g,763,robinsonap
+277785,kelo1247,FLEA,a k u i n dʒ + g e + a d a ŋ,761,robinsonap
+277786,teiw1235,LOUSE,o ʔ,1273,robinsonap
+277787,abui1241,LOUSE,b e,1266,robinsonap
+277788,blag1240,LOUSE,b e e,1266,robinsonap
+277789,kama1365,LOUSE,s i k o o,1269,robinsonap
+277790,kaer1234,LOUSE,u w a ʔ,1268,robinsonap
+277791,lamm1241,LOUSE,a i,1271,robinsonap
+277792,adan1251,LOUSE,n ɛ l ɛ,1267,robinsonap
+277793,nede1245,LOUSE,e g g a h,1272,robinsonap
+277794,kelo1247,LOUSE,o r,1270,robinsonap
+277795,teiw1235,BEDBUG,m a j,143,robinsonap
+277796,abui1241,BEDBUG,t a m e a k,139,robinsonap
+277797,blag1240,BEDBUG,t e m e,139,robinsonap
+277798,kama1365,BEDBUG,l a w a,140,robinsonap
+277799,wers1238,BEDBUG,m e k i t,144,robinsonap
+277800,kaer1234,BEDBUG,t e m e k,139,robinsonap
+277801,lamm1241,BEDBUG,m a d d u,141,robinsonap
+277802,nede1245,BEDBUG,m a j a,142,robinsonap
+277803,teiw1235,BITE,s i,176,robinsonap
+277804,abui1241,BITE,t a k e,173,robinsonap
+277805,blag1240,BITE,g a k i,175,robinsonap
+277806,kama1365,BITE,e h,177,robinsonap
+277807,wers1238,BITE,m i k i k,181,robinsonap
+277808,kaer1234,BITE,s i i,176,robinsonap
+277809,lamm1241,BITE,g a s s i,178,robinsonap
+277810,adan1251,BITE,ʔ i h i,174,robinsonap
+277811,sawi1256,BITE,g a p a a t i,180,robinsonap
+277812,nede1245,BITE,tʃ i a,179,robinsonap
+277813,kelo1247,BITE,g ɛ h,177,robinsonap
+277814,teiw1235,BARKING,g o ħ o ʔ,87,robinsonap
+277815,abui1241,BARKING,l o u,80,robinsonap
+277816,blag1240,BARKING,v e ŋ l o t i,82,robinsonap
+277817,kama1365,BARKING,a u u,84,robinsonap
+277818,wers1238,BARKING,a l o i,88,robinsonap
+277819,kaer1234,BARKING,t o g a ʔ,83,robinsonap
+277820,lamm1241,BARKING,l a u,80,robinsonap
+277821,adan1251,BARKING,l o w o ʔ,81,robinsonap
+277822,sawi1256,BARKING,l u,86,robinsonap
+277823,nede1245,BARKING,t o j,85,robinsonap
+277824,teiw1235,HUNT,g ə t i j a r,1086,robinsonap
+277825,abui1241,HUNT,h a t a ŋ,1078,robinsonap
+277826,blag1240,HUNT,s o w,1080,robinsonap
+277827,kama1365,HUNT,o i,1082,robinsonap
+277828,wers1238,HUNT,m i l a k a l,1087,robinsonap
+277829,kaer1234,HUNT,i r a ʔ p o,1081,robinsonap
+277830,lamm1241,HUNT,a l a + g a l l a ŋ,1084,robinsonap
+277831,adan1251,HUNT,a r l i l i,1079,robinsonap
+277832,nede1245,HUNT,i l a a f i,1085,robinsonap
+277833,kelo1247,HUNT,k ɔ ɔ r,1083,robinsonap
+277834,teiw1235,SHOOT (WITH SLINGSHOT),g ə f a k a t,1790,robinsonap
+277835,abui1241,SHOOT (WITH SLINGSHOT),h a t e k,1785,robinsonap
+277836,blag1240,SHOOT (WITH SLINGSHOT),k a r t a p e l,1786,robinsonap
+277837,kama1365,SHOOT (WITH SLINGSHOT),t f a,1788,robinsonap
+277838,wers1238,SHOOT (WITH SLINGSHOT),k a t a p e l + w o ŋ + l e g a t a i ŋ,1791,robinsonap
+277839,kaer1234,SHOOT (WITH SLINGSHOT),g a p a k i s,1787,robinsonap
+277840,lamm1241,SHOOT (WITH SLINGSHOT),p a s a k k u ŋ,1789,robinsonap
+277841,nede1245,SHOOT (WITH SLINGSHOT),p a s a q q o,1789,robinsonap
+277842,teiw1235,HIT,g ə w a ʔ,1029,robinsonap
+277843,abui1241,HIT,b o l,1020,robinsonap
+277844,blag1240,HIT,m e a ŋ,1022,robinsonap
+277845,kama1365,HIT,b o n a,1024,robinsonap
+277846,wers1238,HIT,g e p o i ŋ,1030,robinsonap
+277847,kaer1234,HIT,k u u p o,1023,robinsonap
+277848,lamm1241,HIT,g a k k a ŋ,1026,robinsonap
+277849,adan1251,HIT,b i h i ʔ,1021,robinsonap
+277850,sawi1256,HIT,w o o,1028,robinsonap
+277851,nede1245,HIT,b u g i,1027,robinsonap
+277852,kelo1247,HIT,k o b,1025,robinsonap
+277853,teiw1235,POUND,t ə m u d u k,1566,robinsonap
+277854,abui1241,POUND,t a p e,1563,robinsonap
+277855,blag1240,POUND,t a p a,1563,robinsonap
+277856,kama1365,POUND,w o t a f e,1564,robinsonap
+277857,wers1238,POUND,t u m u,1567,robinsonap
+277858,kaer1234,POUND,t a p o ʔ,1563,robinsonap
+277859,lamm1241,POUND,t a p p a ŋ,1563,robinsonap
+277860,adan1251,POUND,t aː p a ŋ,1563,robinsonap
+277861,nede1245,POUND,s a a d u,1565,robinsonap
+277862,kelo1247,POUND,t p a n,1563,robinsonap
+277863,teiw1235,DRUMMING,b a h + ʔ h i t,586,robinsonap
+277864,abui1241,DRUMMING,p a d a ŋ + h u w o r,580,robinsonap
+277865,blag1240,DRUMMING,o d a,581,robinsonap
+277866,kama1365,DRUMMING,w o t a,581,robinsonap
+277867,wers1238,DRUMMING,w o d o,581,robinsonap
+277868,kaer1234,DRUMMING,g e d e ŋ a r,582,robinsonap
+277869,lamm1241,DRUMMING,t a g g a ŋ,584,robinsonap
+277870,nede1245,DRUMMING,t u f i + g e e t a,585,robinsonap
+277871,kelo1247,DRUMMING,p e d e ŋ + k u p,583,robinsonap
+277872,teiw1235,KILL,g a f a r,1099,robinsonap
+277873,abui1241,KILL,f a h e ŋ,1096,robinsonap
+277874,blag1240,KILL,t e ŋ + m e a ŋ + m i n a,1098,robinsonap
+277875,kama1365,KILL,p a a n,1100,robinsonap
+277876,wers1238,KILL,g e p a i + g a p a ŋ,1102,robinsonap
+277877,kaer1234,KILL,g a b a r,1099,robinsonap
+277878,lamm1241,KILL,g a d d i + h i n n a,1101,robinsonap
+277879,adan1251,KILL,a m i n i ʔ,1097,robinsonap
+277880,sawi1256,KILL,g a p i + g a r a m m u,1102,robinsonap
+277881,nede1245,KILL,g a f a l a,1099,robinsonap
+277882,kelo1247,KILL,g ə b ɛ r,1099,robinsonap
+277883,teiw1235,BE ALIVE,b a ŋ a n,118,robinsonap
+277884,abui1241,BE ALIVE,n a r e,111,robinsonap
+277885,blag1240,BE ALIVE,b e t a,113,robinsonap
+277886,kama1365,BE ALIVE,ŋ + k a ŋ,115,robinsonap
+277887,wers1238,BE ALIVE,g e n i r k a ŋ,120,robinsonap
+277888,kaer1234,BE ALIVE,w a a t,114,robinsonap
+277889,lamm1241,BE ALIVE,a w a,117,robinsonap
+277890,adan1251,BE ALIVE,w ɛ tʃ ɛ ŋ,112,robinsonap
+277891,sawi1256,BE ALIVE,g a n i i r i + k e a n a,119,robinsonap
+277892,nede1245,BE ALIVE,b a ŋ a,118,robinsonap
+277893,kelo1247,BE ALIVE,i ɛ s,116,robinsonap
+277894,teiw1235,BREATHE,ħ a q a ʔ,243,robinsonap
+277895,abui1241,BREATHE,a h e l,237,robinsonap
+277896,blag1240,BREATHE,h o p a ŋ,239,robinsonap
+277897,kama1365,BREATHE,k i ŋ + p i l,240,robinsonap
+277898,wers1238,BREATHE,t i k i ŋ + s a s a i,244,robinsonap
+277899,kaer1234,BREATHE,s u p a ŋ,239,robinsonap
+277900,lamm1241,BREATHE,h o p a ŋ,239,robinsonap
+277901,adan1251,BREATHE,h a ʔ a n,238,robinsonap
+277902,sawi1256,BREATHE,g a k i i ŋ,242,robinsonap
+277903,nede1245,BREATHE,i ħ i ŋ,238,robinsonap
+277904,kelo1247,BREATHE,ə k ɑ n b ə l ɪ n,241,robinsonap
+277905,teiw1235,DIE,m i n,498,robinsonap
+277906,abui1241,DIE,m o ŋ,498,robinsonap
+277907,blag1240,DIE,m i n a,498,robinsonap
+277908,kama1365,DIE,b o r a,499,robinsonap
+277909,wers1238,DIE,g a p a ŋ,502,robinsonap
+277910,kaer1234,DIE,n i m i n o,498,robinsonap
+277911,lamm1241,DIE,h i n n a,498,robinsonap
+277912,adan1251,DIE,m i n i ʔ,498,robinsonap
+277913,sawi1256,DIE,g a r a m m u,501,robinsonap
+277914,nede1245,DIE,m i n n a,498,robinsonap
+277915,kelo1247,DIE,ə b ɛ r,500,robinsonap
+277916,teiw1235,SPEAK,w u l t a g,1899,robinsonap
+277917,abui1241,SPEAK,t a ŋ a,1892,robinsonap
+277918,blag1240,SPEAK,t u t u k,1894,robinsonap
+277919,kama1365,SPEAK,k a w a a i,1896,robinsonap
+277920,wers1238,SPEAK,l o m o + t u t u k u,1900,robinsonap
+277921,kaer1234,SPEAK,w a n + t u t u k,1895,robinsonap
+277922,lamm1241,SPEAK,b i r a ŋ,1898,robinsonap
+277923,adan1251,SPEAK,m a t i ŋ,1893,robinsonap
+277924,sawi1256,SPEAK,t a t u k u,1894,robinsonap
+277925,kelo1247,SPEAK,h u h ʊ ɪ h,1897,robinsonap
+277926,teiw1235,WORD,t r a a w,2367,robinsonap
+277927,abui1241,WORD,t a ŋ a,2361,robinsonap
+277928,blag1240,WORD,h u r,2363,robinsonap
+277929,kama1365,WORD,l a k,2364,robinsonap
+277930,wers1238,WORD,l o m o + i k o,2368,robinsonap
+277931,kaer1234,WORD,s u r,2363,robinsonap
+277932,lamm1241,WORD,b e r,2365,robinsonap
+277933,adan1251,WORD,m a t i ŋ + p a ʔ a,2362,robinsonap
+277934,sawi1256,WORD,t i i l a,2366,robinsonap
+277935,kelo1247,WORD,b u s a r,2363,robinsonap
+277936,teiw1235,LAUGH,j ə ħ a r,1143,robinsonap
+277937,abui1241,LAUGH,t a ʔ l a l,1141,robinsonap
+277938,blag1240,LAUGH,j a a r,1143,robinsonap
+277939,kama1365,LAUGH,j e e i,1145,robinsonap
+277940,wers1238,LAUGH,j e r,1143,robinsonap
+277941,kaer1234,LAUGH,a g a r o,1144,robinsonap
+277942,lamm1241,LAUGH,j a l i,1143,robinsonap
+277943,adan1251,LAUGH,a s a l a,1142,robinsonap
+277944,sawi1256,LAUGH,j a r a,1143,robinsonap
+277945,nede1245,LAUGH,g e l a,1147,robinsonap
+277946,kelo1247,LAUGH,ə g ɑ r,1146,robinsonap
+277947,teiw1235,CRY,k i i d,450,robinsonap
+277948,abui1241,CRY,f e l,441,robinsonap
+277949,blag1240,CRY,b o w,443,robinsonap
+277950,kama1365,CRY,t a n e i,445,robinsonap
+277951,wers1238,CRY,k o o,451,robinsonap
+277952,kaer1234,CRY,b a a g o,444,robinsonap
+277953,lamm1241,CRY,h a l l i,447,robinsonap
+277954,adan1251,CRY,ʔ a h a n j,442,robinsonap
+277955,sawi1256,CRY,k i i r i,449,robinsonap
+277956,nede1245,CRY,k i a r u,448,robinsonap
+277957,kelo1247,CRY,w i i r,446,robinsonap
+277958,teiw1235,DANCE,s o ħ a i + t a ħ a r,480,robinsonap
+277959,abui1241,DANCE,t a h a i dʒ o k,472,robinsonap
+277960,blag1240,DANCE,d a r i,474,robinsonap
+277961,kama1365,DANCE,p i l a n,476,robinsonap
+277962,wers1238,DANCE,s a k a l e l,481,robinsonap
+277963,kaer1234,DANCE,s u q a i,475,robinsonap
+277964,lamm1241,DANCE,s a u k e,475,robinsonap
+277965,adan1251,DANCE,s ɛ b ɛ ʔ ɛ,473,robinsonap
+277966,sawi1256,DANCE,s i i k a,479,robinsonap
+277967,nede1245,DANCE,d a a l a,478,robinsonap
+277968,kelo1247,DANCE,t ʊ n,477,robinsonap
+277969,teiw1235,SING,d a a r,1831,robinsonap
+277970,abui1241,SING,dʒ a i + w e t a ŋ a,1830,robinsonap
+277971,blag1240,SING,d a r + h o j,1832,robinsonap
+277972,kama1365,SING,p i l a n,1834,robinsonap
+277973,wers1238,SING,d r a,1831,robinsonap
+277974,kaer1234,SING,g e m e e l o,1833,robinsonap
+277975,lamm1241,SING,d a l i,1831,robinsonap
+277976,adan1251,SING,d aː l a,1831,robinsonap
+277977,sawi1256,SING,d a r a,1831,robinsonap
+277978,nede1245,SING,p a n t u ŋ,1836,robinsonap
+277979,kelo1247,SING,i l p ə n ɛ n,1835,robinsonap
+277980,teiw1235,LIE (MISLEAD),p o o n + j a ħ a i,1195,robinsonap
+277981,abui1241,LIE (MISLEAD),o k o l i,1187,robinsonap
+277982,blag1240,LIE (MISLEAD),l e k o,1189,robinsonap
+277983,kama1365,LIE (MISLEAD),a l i l + w e e,1191,robinsonap
+277984,wers1238,LIE (MISLEAD),l b u r,1196,robinsonap
+277985,kaer1234,LIE (MISLEAD),a k a l,1190,robinsonap
+277986,lamm1241,LIE (MISLEAD),b i r a ŋ + j a s a,1193,robinsonap
+277987,adan1251,LIE (MISLEAD),k a l u w i,1188,robinsonap
+277988,nede1245,LIE (MISLEAD),a k a l i tʃ i,1194,robinsonap
+277989,kelo1247,LIE (MISLEAD),b o r b a k,1192,robinsonap
+277990,teiw1235,ASK (INQUIRE),g e r g a n,43,robinsonap
+277991,abui1241,ASK (INQUIRE),t a t a h a ŋ,37,robinsonap
+277992,blag1240,ASK (INQUIRE),v e n t a n i ŋ,39,robinsonap
+277993,kama1365,ASK (INQUIRE),e i s i n,41,robinsonap
+277994,wers1238,ASK (INQUIRE),l e s e b i,44,robinsonap
+277995,kaer1234,ASK (INQUIRE),t a k a n i,40,robinsonap
+277996,lamm1241,ASK (INQUIRE),t a g a ŋ,40,robinsonap
+277997,adan1251,ASK (INQUIRE),ʔ a t a n a,38,robinsonap
+277998,sawi1256,ASK (INQUIRE),s a r a a ŋ,42,robinsonap
+277999,nede1245,ASK (INQUIRE),t i j a n i,40,robinsonap
+278000,kelo1247,ASK (INQUIRE),t a ŋ,40,robinsonap
+278001,teiw1235,COUNT,t a g,424,robinsonap
+278002,abui1241,COUNT,h a l a k d a,421,robinsonap
+278003,blag1240,COUNT,r e k e ŋ,423,robinsonap
+278004,kama1365,COUNT,g a l e k,425,robinsonap
+278005,wers1238,COUNT,g e l e k i,425,robinsonap
+278006,kaer1234,COUNT,t e g o,424,robinsonap
+278007,lamm1241,COUNT,t a g g a ŋ,426,robinsonap
+278008,adan1251,COUNT,t a ʔ a n a,422,robinsonap
+278009,sawi1256,COUNT,g a l i i k i,425,robinsonap
+278010,nede1245,COUNT,t a j a,427,robinsonap
+278011,kelo1247,COUNT,g ə l ɪ k,425,robinsonap
+278012,teiw1235,ONE,n u k,1488,robinsonap
+278013,abui1241,ONE,n u k u,1488,robinsonap
+278014,blag1240,ONE,n u,1488,robinsonap
+278015,kama1365,ONE,n o k,1488,robinsonap
+278016,wers1238,ONE,n o,1488,robinsonap
+278017,kaer1234,ONE,n u k o,1488,robinsonap
+278018,lamm1241,ONE,a n u k u,1488,robinsonap
+278019,adan1251,ONE,n u,1488,robinsonap
+278020,sawi1256,ONE,s u n d a ŋ,1489,robinsonap
+278021,nede1245,ONE,n u k u,1488,robinsonap
+278022,kelo1247,ONE,n ʊ k,1488,robinsonap
+278023,teiw1235,TWO,r a q,2214,robinsonap
+278024,abui1241,TWO,a j o k u,2212,robinsonap
+278025,blag1240,TWO,a r u,2213,robinsonap
+278026,kama1365,TWO,o k,2215,robinsonap
+278027,wers1238,TWO,j o k u,2212,robinsonap
+278028,kaer1234,TWO,r a ħ o,2214,robinsonap
+278029,lamm1241,TWO,a l a k u,2214,robinsonap
+278030,adan1251,TWO,aː l u,2213,robinsonap
+278031,sawi1256,TWO,j a k u,2212,robinsonap
+278032,nede1245,TWO,r a k u,2214,robinsonap
+278033,kelo1247,TWO,ə r ʊ k,2213,robinsonap
+278034,teiw1235,THREE,j e r i g,2127,robinsonap
+278035,abui1241,THREE,s u o,2121,robinsonap
+278036,blag1240,THREE,t u e,2123,robinsonap
+278037,kama1365,THREE,s u,2121,robinsonap
+278038,wers1238,THREE,t u,2123,robinsonap
+278039,kaer1234,THREE,u t u g,2124,robinsonap
+278040,lamm1241,THREE,a t i g a,2125,robinsonap
+278041,adan1251,THREE,t o w o,2122,robinsonap
+278042,sawi1256,THREE,t u o,2123,robinsonap
+278043,nede1245,THREE,s a g u,2126,robinsonap
+278044,kelo1247,THREE,t o ŋ,2123,robinsonap
+278045,teiw1235,FOUR,u u t,839,robinsonap
+278046,abui1241,FOUR,b u t i,838,robinsonap
+278047,blag1240,FOUR,b u t a,838,robinsonap
+278048,kama1365,FOUR,b i a t,840,robinsonap
+278049,wers1238,FOUR,a r a s o k u,842,robinsonap
+278050,kaer1234,FOUR,u t,839,robinsonap
+278051,lamm1241,FOUR,a t u,841,robinsonap
+278052,adan1251,FOUR,w u t,839,robinsonap
+278053,sawi1256,FOUR,a r a a s i i k u,842,robinsonap
+278054,nede1245,FOUR,u t u,841,robinsonap
+278055,kelo1247,FOUR,ʊ t,839,robinsonap
+278056,teiw1235,FIVE,j u s a n,745,robinsonap
+278057,abui1241,FIVE,j e t i ŋ,745,robinsonap
+278058,blag1240,FIVE,j i s i ŋ,745,robinsonap
+278059,kama1365,FIVE,i w e s i ŋ,745,robinsonap
+278060,wers1238,FIVE,w e t i ŋ,745,robinsonap
+278061,kaer1234,FIVE,i s i n,745,robinsonap
+278062,lamm1241,FIVE,j a s i ŋ,745,robinsonap
+278063,adan1251,FIVE,i w ɛ h ɛ ŋ,745,robinsonap
+278064,sawi1256,FIVE,j o o t i ŋ,745,robinsonap
+278065,nede1245,FIVE,j i s i n,745,robinsonap
+278066,kelo1247,FIVE,ə w ə h,746,robinsonap
+278067,teiw1235,SIX,t i a a m,1840,robinsonap
+278068,abui1241,SIX,t a ʔ l a m a,1839,robinsonap
+278069,blag1240,SIX,t a l i ŋ,1839,robinsonap
+278070,kama1365,SIX,i s i ŋ n o k,1841,robinsonap
+278071,wers1238,SIX,w e t i ŋ + n u ŋ,1844,robinsonap
+278072,kaer1234,SIX,t i a m,1840,robinsonap
+278073,lamm1241,SIX,h i s n a k k u ŋ,1842,robinsonap
+278074,adan1251,SIX,t aː l a ŋ,1839,robinsonap
+278075,sawi1256,SIX,j o o j i ŋ s u n o,1843,robinsonap
+278076,nede1245,SIX,t i a m a,1840,robinsonap
+278077,kelo1247,SIX,t ə l ɑ n,1839,robinsonap
+278078,teiw1235,TEN,q a r + n u k,2070,robinsonap
+278079,abui1241,TEN,k a r + n u k u,2070,robinsonap
+278080,blag1240,TEN,a r n u,2072,robinsonap
+278081,kama1365,TEN,a t a a k,2073,robinsonap
+278082,wers1238,TEN,a d a j o k u,2073,robinsonap
+278083,kaer1234,TEN,ħ a r + n u k o,2070,robinsonap
+278084,lamm1241,TEN,k e a n u k u,2075,robinsonap
+278085,adan1251,TEN,a i r n u,2071,robinsonap
+278086,sawi1256,TEN,a d a a k u,2073,robinsonap
+278087,nede1245,TEN,q a + n u k,2070,robinsonap
+278088,kelo1247,TEN,k ɑ r ə n ʊ k,2074,robinsonap
+278089,teiw1235,ELEVEN,q a a r + n u k + r u g + n u k,659,robinsonap
+278090,abui1241,ELEVEN,k a r + n u k + w a l + n u k u,659,robinsonap
+278091,blag1240,ELEVEN,a r + n u + b e t a l + n u,659,robinsonap
+278092,kama1365,ELEVEN,w a a l,661,robinsonap
+278093,wers1238,ELEVEN,a d a j o k u + w e r e s i ŋ + n o,663,robinsonap
+278094,kaer1234,ELEVEN,ħ a r + n u k + b e t i + n u k o,659,robinsonap
+278095,lamm1241,ELEVEN,k e a n u k u + w a l i + j e,662,robinsonap
+278096,adan1251,ELEVEN,a i r n u + w a l i ŋ u,660,robinsonap
+278097,kelo1247,ELEVEN,u p + k a r + n u k + w a + n u k,659,robinsonap
+278098,teiw1235,BIG,w a a d,155,robinsonap
+278099,abui1241,BIG,f o k o,152,robinsonap
+278100,blag1240,BIG,l e,154,robinsonap
+278101,kama1365,BIG,b a a i,156,robinsonap
+278102,wers1238,BIG,p i d a s i,161,robinsonap
+278103,kaer1234,BIG,w a a d o,155,robinsonap
+278104,lamm1241,BIG,a r a,158,robinsonap
+278105,adan1251,BIG,m aː t i,153,robinsonap
+278106,sawi1256,BIG,w a a n s a,160,robinsonap
+278107,nede1245,BIG,a d a,159,robinsonap
+278108,kelo1247,BIG,ɑ ɑ l,157,robinsonap
+278109,teiw1235,SMALL,s a m,1866,robinsonap
+278110,abui1241,SMALL,k i d i ŋ,1860,robinsonap
+278111,blag1240,SMALL,k o d d u k,1862,robinsonap
+278112,kama1365,SMALL,k i d i ŋ,1860,robinsonap
+278113,wers1238,SMALL,m u r u ŋ,1868,robinsonap
+278114,kaer1234,SMALL,k i k i,1863,robinsonap
+278115,lamm1241,SMALL,k a l l a,1865,robinsonap
+278116,adan1251,SMALL,k a ʔ a i,1861,robinsonap
+278117,sawi1256,SMALL,p i k e,1867,robinsonap
+278118,nede1245,SMALL,s a m m a,1866,robinsonap
+278119,kelo1247,SMALL,k ɛ k ɛ i n,1864,robinsonap
+278120,teiw1235,OLD,a n a ʔ,1460,robinsonap
+278121,abui1241,OLD,m a k i l a,1452,robinsonap
+278122,blag1240,OLD,l u ŋ,1454,robinsonap
+278123,kama1365,OLD,f a r a t a,1456,robinsonap
+278124,wers1238,OLD,l m a ŋ,1461,robinsonap
+278125,kaer1234,OLD,u g a m,1455,robinsonap
+278126,lamm1241,OLD,k a s s a,1458,robinsonap
+278127,adan1251,OLD,ʔ ɛ m ɛ,1453,robinsonap
+278128,sawi1256,OLD,m a k i i l a,1452,robinsonap
+278129,nede1245,OLD,t u l a g i,1459,robinsonap
+278130,kelo1247,OLD,m ə l o t,1457,robinsonap
+278131,teiw1235,NEW,w u d e s i n,1428,robinsonap
+278132,abui1241,NEW,t i f a,1423,robinsonap
+278133,blag1240,NEW,h i b a,1425,robinsonap
+278134,kama1365,NEW,s u p a k a,1426,robinsonap
+278135,wers1238,NEW,t p a,1427,robinsonap
+278136,kaer1234,NEW,s i b o,1425,robinsonap
+278137,lamm1241,NEW,s a b i ʔ a,1425,robinsonap
+278138,adan1251,NEW,h a b a r a ʔ,1424,robinsonap
+278139,sawi1256,NEW,t i p e a,1427,robinsonap
+278140,nede1245,NEW,s a v a ʔ a,1425,robinsonap
+278141,kelo1247,NEW,h ə b ɑ ɑ,1425,robinsonap
+278142,teiw1235,OLD (AGED),k e r i,1470,robinsonap
+278143,abui1241,OLD (AGED),f i ŋ k a ŋ,1462,robinsonap
+278144,blag1240,OLD (AGED),b o m a,1464,robinsonap
+278145,kama1365,OLD (AGED),s a a k,1466,robinsonap
+278146,wers1238,OLD (AGED),s a k u,1466,robinsonap
+278147,kaer1234,OLD (AGED),b o o m,1465,robinsonap
+278148,lamm1241,OLD (AGED),m a d d a,1468,robinsonap
+278149,adan1251,OLD (AGED),t u m a ʔ a,1463,robinsonap
+278150,sawi1256,OLD (AGED),s a a k u,1466,robinsonap
+278151,nede1245,OLD (AGED),b a m m a,1469,robinsonap
+278152,kelo1247,OLD (AGED),k u l w ɪ n,1467,robinsonap
+278153,teiw1235,OLD WOMAN,q u a f,1479,robinsonap
+278154,abui1241,OLD WOMAN,f i ŋ k a ŋ,1471,robinsonap
+278155,blag1240,OLD WOMAN,m e e t,1473,robinsonap
+278156,kama1365,OLD WOMAN,s a a k,1475,robinsonap
+278157,wers1238,OLD WOMAN,s a k u,1475,robinsonap
+278158,kaer1234,OLD WOMAN,q a l a m,1474,robinsonap
+278159,lamm1241,OLD WOMAN,k u b a,1477,robinsonap
+278160,adan1251,OLD WOMAN,t u m a ʔ a,1472,robinsonap
+278161,sawi1256,OLD WOMAN,s a a k u,1475,robinsonap
+278162,nede1245,OLD WOMAN,b a m a l a,1478,robinsonap
+278163,kelo1247,OLD WOMAN,k u l w ɪ n,1476,robinsonap
+278164,teiw1235,YOUNG,b o o g,2410,robinsonap
+278165,abui1241,YOUNG,a b e t i,2404,robinsonap
+278166,blag1240,YOUNG,k u a r,2406,robinsonap
+278167,kama1365,YOUNG,f o n,2408,robinsonap
+278168,wers1238,YOUNG,s e p e r,2412,robinsonap
+278169,kaer1234,YOUNG,k u n a ŋ,2407,robinsonap
+278170,lamm1241,YOUNG,b o g g a,2410,robinsonap
+278171,adan1251,YOUNG,a w o l o l o,2405,robinsonap
+278172,sawi1256,YOUNG,p u l a r a,2411,robinsonap
+278173,nede1245,YOUNG,b o g g a,2410,robinsonap
+278174,kelo1247,YOUNG,b o ŋ h ɛ p,2409,robinsonap
+278175,teiw1235,LAZY,g a ħ d u k,1157,robinsonap
+278176,abui1241,LAZY,ʔ k i l i k i,1148,robinsonap
+278177,blag1240,LAZY,p ə l o i t,1150,robinsonap
+278178,kama1365,LAZY,m i + k a i l a n,1152,robinsonap
+278179,wers1238,LAZY,d a l a ŋ,1156,robinsonap
+278180,kaer1234,LAZY,m u u t,1151,robinsonap
+278181,lamm1241,LAZY,m a s s a,1154,robinsonap
+278182,adan1251,LAZY,m a r a ʔ a n,1149,robinsonap
+278183,sawi1256,LAZY,d a a l a ŋ,1156,robinsonap
+278184,nede1245,LAZY,q a v i j a q a,1155,robinsonap
+278185,kelo1247,LAZY,k l e m,1153,robinsonap
+278186,teiw1235,HOT,o g,1065,robinsonap
+278187,abui1241,HOT,ʔ l i l a,1056,robinsonap
+278188,blag1240,HOT,b a r a,1058,robinsonap
+278189,kama1365,HOT,b e b a,1060,robinsonap
+278190,wers1238,HOT,t u t u ŋ,1066,robinsonap
+278191,kaer1234,HOT,w a a r,1059,robinsonap
+278192,lamm1241,HOT,t a w a k a,1062,robinsonap
+278193,adan1251,HOT,b u n i ʔ,1057,robinsonap
+278194,sawi1256,HOT,e m a l a,1064,robinsonap
+278195,nede1245,HOT,a g g a,1063,robinsonap
+278196,kelo1247,HOT,t u t,1061,robinsonap
+278197,teiw1235,COLD,q i ʔ a w,379,robinsonap
+278198,abui1241,COLD,p a l a t a,371,robinsonap
+278199,blag1240,COLD,dʒ e v i,373,robinsonap
+278200,kama1365,COLD,f a a t e i,375,robinsonap
+278201,wers1238,COLD,w i r,378,robinsonap
+278202,kaer1234,COLD,q a i w o,374,robinsonap
+278203,lamm1241,COLD,m a b a,377,robinsonap
+278204,adan1251,COLD,m a ʔ a b,372,robinsonap
+278205,sawi1256,COLD,w i r i,378,robinsonap
+278206,nede1245,COLD,m a ħ a v u,372,robinsonap
+278207,kelo1247,COLD,m ə h ɪ ŋ,376,robinsonap
+278208,teiw1235,GOOD,q a w,890,robinsonap
+278209,abui1241,GOOD,k a ŋ,890,robinsonap
+278210,blag1240,GOOD,a u ŋ,892,robinsonap
+278211,kama1365,GOOD,k a ŋ,890,robinsonap
+278212,wers1238,GOOD,k a ŋ,890,robinsonap
+278213,kaer1234,GOOD,ħ o w o,890,robinsonap
+278214,lamm1241,GOOD,a k k u,893,robinsonap
+278215,adan1251,GOOD,n o ʔ o,891,robinsonap
+278216,sawi1256,GOOD,k a a ŋ,890,robinsonap
+278217,nede1245,GOOD,q a w a,890,robinsonap
+278218,kelo1247,GOOD,n o k,891,robinsonap
+278219,teiw1235,BAD,j a a s,66,robinsonap
+278220,abui1241,BAD,b e a k a,63,robinsonap
+278221,blag1240,BAD,dʒ a s i,65,robinsonap
+278222,kama1365,BAD,b o k o,67,robinsonap
+278223,wers1238,BAD,b o l i,69,robinsonap
+278224,kaer1234,BAD,j a a s o,66,robinsonap
+278225,lamm1241,BAD,j a s a,66,robinsonap
+278226,adan1251,BAD,a r i ʔ i ŋ,64,robinsonap
+278227,sawi1256,BAD,j a a t i,66,robinsonap
+278228,nede1245,BAD,j e tʃ i,66,robinsonap
+278229,kelo1247,BAD,m ʊ dʒ ɑ h,68,robinsonap
+278230,teiw1235,FULL,w a l,871,robinsonap
+278231,abui1241,FULL,v e m i d i,862,robinsonap
+278232,blag1240,FULL,m e v i ŋ,864,robinsonap
+278233,kama1365,FULL,a w i l a,866,robinsonap
+278234,wers1238,FULL,a w e,872,robinsonap
+278235,kaer1234,FULL,g u a l i,865,robinsonap
+278236,lamm1241,FULL,h a w a j a,868,robinsonap
+278237,adan1251,FULL,w u t u l u,863,robinsonap
+278238,sawi1256,FULL,t u t i w o,870,robinsonap
+278239,nede1245,FULL,w a l l a,869,robinsonap
+278240,kelo1247,FULL,u m i i,867,robinsonap
+278241,teiw1235,EMPTY,h a s a k,666,robinsonap
+278242,abui1241,EMPTY,t a k a,664,robinsonap
+278243,blag1240,EMPTY,o s i ŋ,665,robinsonap
+278244,kama1365,EMPTY,s a k a,664,robinsonap
+278245,kaer1234,EMPTY,i s i k,666,robinsonap
+278246,lamm1241,EMPTY,h a k k a s,668,robinsonap
+278247,sawi1256,EMPTY,s i i r a,669,robinsonap
+278248,kelo1247,EMPTY,i k ʊ h,667,robinsonap
+278249,teiw1235,WET,q a l o ʔ,2295,robinsonap
+278250,abui1241,WET,dʒ o k a,2287,robinsonap
+278251,blag1240,WET,m e n e s a,2289,robinsonap
+278252,kama1365,WET,p a r a ŋ,2291,robinsonap
+278253,wers1238,WET,j e r e s,2296,robinsonap
+278254,kaer1234,WET,ħ o l o,2290,robinsonap
+278255,lamm1241,WET,h u b b a,2293,robinsonap
+278256,adan1251,WET,h a r,2288,robinsonap
+278257,sawi1256,WET,p a r e e k a ŋ,2291,robinsonap
+278258,nede1245,WET,m a l e tʃ a,2294,robinsonap
+278259,kelo1247,WET,dʒ ɛ l,2292,robinsonap
+278260,teiw1235,DRY,s i i s,588,robinsonap
+278261,abui1241,DRY,t a k a t a,587,robinsonap
+278262,blag1240,DRY,t a t a,587,robinsonap
+278263,kama1365,DRY,a u k a,589,robinsonap
+278264,wers1238,DRY,a r u k,590,robinsonap
+278265,kaer1234,DRY,s i s o,588,robinsonap
+278266,lamm1241,DRY,s i s a,588,robinsonap
+278267,adan1251,DRY,t a ʔ a t a,587,robinsonap
+278268,sawi1256,DRY,a r u k o,590,robinsonap
+278269,nede1245,DRY,tʃ i tʃ i,587,robinsonap
+278270,kelo1247,DRY,t ə k ɑ t,587,robinsonap
+278271,teiw1235,LONG,t i j a n,1248,robinsonap
+278272,abui1241,LONG,l o h u,1243,robinsonap
+278273,blag1240,LONG,v e n i ŋ,1245,robinsonap
+278274,kama1365,LONG,l a p a ŋ,1247,robinsonap
+278275,wers1238,LONG,l u i m u k u l,1250,robinsonap
+278276,kaer1234,LONG,l e l u m,1246,robinsonap
+278277,lamm1241,LONG,t i a n a,1248,robinsonap
+278278,adan1251,LONG,l o w,1244,robinsonap
+278279,sawi1256,LONG,l a m u,1249,robinsonap
+278280,nede1245,LONG,t e n u,1248,robinsonap
+278281,kelo1247,LONG,l ɑ ɑ ŋ,1247,robinsonap
+278282,teiw1235,TALL,a l u ħ u n,2058,robinsonap
+278283,abui1241,TALL,l o h u,2052,robinsonap
+278284,blag1240,TALL,m ə l o l u,2054,robinsonap
+278285,kama1365,TALL,l a p a ŋ,2053,robinsonap
+278286,wers1238,TALL,e a ŋ,2059,robinsonap
+278287,kaer1234,TALL,l e s o,2055,robinsonap
+278288,lamm1241,TALL,b u t a ŋ,2056,robinsonap
+278289,adan1251,TALL,l a w e n,2053,robinsonap
+278290,sawi1256,TALL,a j a a ŋ,2057,robinsonap
+278291,nede1245,TALL,l i a w a ŋ,2053,robinsonap
+278292,kelo1247,TALL,l a ŋ,2053,robinsonap
+278293,teiw1235,SHORT,t u k,1793,robinsonap
+278294,abui1241,SHORT,b u i,1792,robinsonap
+278295,blag1240,SHORT,t u k a ŋ,1793,robinsonap
+278296,kama1365,SHORT,m a r u k,1794,robinsonap
+278297,wers1238,SHORT,t u k,1793,robinsonap
+278298,kaer1234,SHORT,t u k o,1793,robinsonap
+278299,lamm1241,SHORT,t u k k a,1793,robinsonap
+278300,adan1251,SHORT,t o ʔ o ŋ,1793,robinsonap
+278301,sawi1256,SHORT,t u k u d a,1793,robinsonap
+278302,nede1245,SHORT,t u k k u,1793,robinsonap
+278303,kelo1247,SHORT,ʊ ʔ ʊ r,1795,robinsonap
+278304,teiw1235,BE HUNGRY,n a n + t i j a q,129,robinsonap
+278305,abui1241,BE HUNGRY,m i r a i,121,robinsonap
+278306,blag1240,BE HUNGRY,t a w a n + m ə n a p a l,123,robinsonap
+278307,kama1365,BE HUNGRY,m a i t a ŋ,125,robinsonap
+278308,wers1238,BE HUNGRY,t a m s i ŋ,122,robinsonap
+278309,kaer1234,BE HUNGRY,b i l i + b a i,124,robinsonap
+278310,lamm1241,BE HUNGRY,t a s + m a s s a,127,robinsonap
+278311,adan1251,BE HUNGRY,m a l ɛ h i ŋ,122,robinsonap
+278312,sawi1256,BE HUNGRY,m a s i n,122,robinsonap
+278313,nede1245,BE HUNGRY,h i l l i ŋ,128,robinsonap
+278314,kelo1247,BE HUNGRY,e l e ŋ,126,robinsonap
+278315,teiw1235,LIGHT (RADIATION),w u l,1209,robinsonap
+278316,abui1241,LIGHT (RADIATION),s i e r a i,1203,robinsonap
+278317,blag1240,LIGHT (RADIATION),v i l a,1204,robinsonap
+278318,kama1365,LIGHT (RADIATION),l i w a ŋ,1205,robinsonap
+278319,wers1238,LIGHT (RADIATION),e j a k a l,1210,robinsonap
+278320,kaer1234,LIGHT (RADIATION),w i l o,1204,robinsonap
+278321,lamm1241,LIGHT (RADIATION),d i a l a,1207,robinsonap
+278322,adan1251,LIGHT (RADIATION),f i l i ŋ,1204,robinsonap
+278323,sawi1256,LIGHT (RADIATION),d a l a a ŋ,1208,robinsonap
+278324,nede1245,LIGHT (RADIATION),d i a,1207,robinsonap
+278325,kelo1247,LIGHT (RADIATION),b l o k,1206,robinsonap
+278326,teiw1235,DIRTY,b l a q a s,523,robinsonap
+278327,abui1241,DIRTY,d a k u ŋ,514,robinsonap
+278328,blag1240,DIRTY,k ə r i t a k,516,robinsonap
+278329,kama1365,DIRTY,t i n i,518,robinsonap
+278330,wers1238,DIRTY,m a k a ŋ,522,robinsonap
+278331,kaer1234,DIRTY,q a a s i,517,robinsonap
+278332,lamm1241,DIRTY,a n a,520,robinsonap
+278333,adan1251,DIRTY,k a r o ʔ o,515,robinsonap
+278334,sawi1256,DIRTY,m a k a ŋ,522,robinsonap
+278335,nede1245,DIRTY,b l a q q a s,521,robinsonap
+278336,kelo1247,DIRTY,m ʊ ʊ k,519,robinsonap
+278337,teiw1235,CLEAN,m u s u a j,353,robinsonap
+278338,abui1241,CLEAN,s a n i,345,robinsonap
+278339,blag1240,CLEAN,m u l a ŋ,346,robinsonap
+278340,kama1365,CLEAN,b i l a,348,robinsonap
+278341,wers1238,CLEAN,i n a l i,352,robinsonap
+278342,kaer1234,CLEAN,s i b o,347,robinsonap
+278343,lamm1241,CLEAN,l e r a,350,robinsonap
+278344,adan1251,CLEAN,m a d u l u ŋ,346,robinsonap
+278345,sawi1256,CLEAN,i n e a l i,352,robinsonap
+278346,nede1245,CLEAN,b l e l a,351,robinsonap
+278347,kelo1247,CLEAN,a b a ŋ,349,robinsonap
+278348,teiw1235,SHARP,m a ħ a n,1772,robinsonap
+278349,abui1241,SHARP,b u l a,1770,robinsonap
+278350,blag1240,SHARP,m a ŋ,1772,robinsonap
+278351,kama1365,SHARP,b i s i ŋ,1773,robinsonap
+278352,wers1238,SHARP,p l i t,1775,robinsonap
+278353,kaer1234,SHARP,m a g a ŋ,1772,robinsonap
+278354,lamm1241,SHARP,m a g g a ŋ,1772,robinsonap
+278355,adan1251,SHARP,h u d i ŋ,1771,robinsonap
+278356,sawi1256,SHARP,m a d i i r a ŋ,1774,robinsonap
+278357,nede1245,SHARP,m a ħ a ŋ,1772,robinsonap
+278358,kelo1247,SHARP,m ɑ ŋ,1772,robinsonap
+278359,teiw1235,BLUNT,p u l u,201,robinsonap
+278360,abui1241,BLUNT,t o p i ŋ,193,robinsonap
+278361,blag1240,BLUNT,k u m b u l,195,robinsonap
+278362,kama1365,BLUNT,b u l,197,robinsonap
+278363,wers1238,BLUNT,p a k,200,robinsonap
+278364,kaer1234,BLUNT,k u m a i,196,robinsonap
+278365,lamm1241,BLUNT,m u k k a,198,robinsonap
+278366,adan1251,BLUNT,k u m u ŋ,194,robinsonap
+278367,sawi1256,BLUNT,p a k a,200,robinsonap
+278368,nede1245,BLUNT,i t t a,199,robinsonap
+278369,kelo1247,BLUNT,k ʊ m,196,robinsonap
+278370,teiw1235,HEAVY,s u ħ u r,1012,robinsonap
+278371,teiw1235,HEAVY,s u ħ u r,1012,robinsonap
+278372,abui1241,HEAVY,t u h a i,1005,robinsonap
+278373,abui1241,HEAVY,t u h a i,1005,robinsonap
+278374,blag1240,HEAVY,t ə m a d i,1007,robinsonap
+278375,kama1365,HEAVY,s u u,1008,robinsonap
+278376,kama1365,HEAVY,s u u,1008,robinsonap
+278377,wers1238,HEAVY,t u w u r,1013,robinsonap
+278378,kaer1234,HEAVY,t a m a a d o,1007,robinsonap
+278379,kaer1234,HEAVY,t a m a a d o,1007,robinsonap
+278380,lamm1241,HEAVY,s u l l a,1010,robinsonap
+278381,adan1251,HEAVY,t a r o w i,1006,robinsonap
+278382,sawi1256,HEAVY,t i j e r r a,1011,robinsonap
+278383,sawi1256,HEAVY,t i j e r r a,1011,robinsonap
+278384,nede1245,HEAVY,s u l a,1010,robinsonap
+278385,kelo1247,HEAVY,t ə k o r,1009,robinsonap
+278386,kelo1247,HEAVY,t ə k o r,1009,robinsonap
+278387,teiw1235,STRAIGHT,ħ a n a ʔ,1992,robinsonap
+278388,abui1241,STRAIGHT,m u l a ŋ,1985,robinsonap
+278389,blag1240,STRAIGHT,m o l o ŋ,1985,robinsonap
+278390,kama1365,STRAIGHT,s o l,1987,robinsonap
+278391,wers1238,STRAIGHT,l o r,1993,robinsonap
+278392,kaer1234,STRAIGHT,m o l o ʔ,1985,robinsonap
+278393,lamm1241,STRAIGHT,l a m u r a,1989,robinsonap
+278394,adan1251,STRAIGHT,a b u l u ʔ,1986,robinsonap
+278395,sawi1256,STRAIGHT,t i i m u,1991,robinsonap
+278396,nede1245,STRAIGHT,q u n n a,1990,robinsonap
+278397,kelo1247,STRAIGHT,n ə m ʊ t,1988,robinsonap
+278398,teiw1235,WIDE,t ə l a a g,2322,robinsonap
+278399,abui1241,WIDE,t i l e s i ŋ,2314,robinsonap
+278400,blag1240,WIDE,l a r a,2316,robinsonap
+278401,kama1365,WIDE,s i l e i s i ŋ,2314,robinsonap
+278402,wers1238,WIDE,p e d a k a r,2321,robinsonap
+278403,kaer1234,WIDE,w a a d o,2317,robinsonap
+278404,lamm1241,WIDE,s a l a l a,2319,robinsonap
+278405,adan1251,WIDE,b ɛ r ɛ ŋ,2315,robinsonap
+278406,sawi1256,WIDE,p a d a a k a r a,2321,robinsonap
+278407,nede1245,WIDE,a d d a,2320,robinsonap
+278408,kelo1247,WIDE,ɑ ɑ l,2318,robinsonap
+278409,teiw1235,NARROW,t a b u g,1391,robinsonap
+278410,abui1241,NARROW,k a r i a,1388,robinsonap
+278411,blag1240,NARROW,k ə r u b o,1390,robinsonap
+278412,kama1365,NARROW,k a t i n a,1392,robinsonap
+278413,wers1238,NARROW,i w u i t,1394,robinsonap
+278414,kaer1234,NARROW,t u b u g i s,1391,robinsonap
+278415,lamm1241,NARROW,t a p u g i,1391,robinsonap
+278416,adan1251,NARROW,k a p u h,1389,robinsonap
+278417,sawi1256,NARROW,i w u t o,1394,robinsonap
+278418,nede1245,NARROW,s a m a,1393,robinsonap
+278419,kelo1247,NARROW,t ə p ʊ ɪ h,1391,robinsonap
+278420,teiw1235,CORRECT (RIGHT),q u u n,416,robinsonap
+278421,abui1241,CORRECT (RIGHT),r o f i,414,robinsonap
+278422,blag1240,CORRECT (RIGHT),e t i b i,415,robinsonap
+278423,kama1365,CORRECT (RIGHT),s o l,417,robinsonap
+278424,wers1238,CORRECT (RIGHT),l o r,420,robinsonap
+278425,kaer1234,CORRECT (RIGHT),q u u n o,416,robinsonap
+278426,lamm1241,CORRECT (RIGHT),m i t a,419,robinsonap
+278427,sawi1256,CORRECT (RIGHT),k a a ŋ,416,robinsonap
+278428,nede1245,CORRECT (RIGHT),q u n n a,416,robinsonap
+278429,kelo1247,CORRECT (RIGHT),e b e e n,418,robinsonap
+278430,teiw1235,WRONG,g ə s a j,2381,robinsonap
+278431,abui1241,WRONG,h a s a l a,2374,robinsonap
+278432,blag1240,WRONG,h a l a,2375,robinsonap
+278433,kama1365,WRONG,t a w e ŋ,2377,robinsonap
+278434,wers1238,WRONG,t e b e l,2380,robinsonap
+278435,kaer1234,WRONG,g a s a j i ŋ,2376,robinsonap
+278436,lamm1241,WRONG,b e k k a ŋ,2378,robinsonap
+278437,adan1251,WRONG,ʔ a h a l a ʔ,2374,robinsonap
+278438,sawi1256,WRONG,t a b i i l a,2380,robinsonap
+278439,nede1245,WRONG,t ə m i tʃ i,2379,robinsonap
+278440,teiw1235,RIPE,m u b a n,1651,robinsonap
+278441,abui1241,RIPE,s a n i,1646,robinsonap
+278442,blag1240,RIPE,t e n a,1647,robinsonap
+278443,kama1365,RIPE,i t e n,1647,robinsonap
+278444,wers1238,RIPE,l u s + m e r e k,1652,robinsonap
+278445,kaer1234,RIPE,j i r a,1648,robinsonap
+278446,lamm1241,RIPE,d a l a,1649,robinsonap
+278447,adan1251,RIPE,t ɛ n ɛ,1647,robinsonap
+278448,sawi1256,RIPE,i t i i n a,1647,robinsonap
+278449,nede1245,RIPE,k a r a,1650,robinsonap
+278450,kelo1247,RIPE,ə t ɛ n,1647,robinsonap
+278451,teiw1235,ROTTEN,m u u n,1678,robinsonap
+278452,abui1241,ROTTEN,h a m u n i,1678,robinsonap
+278453,blag1240,ROTTEN,m i s a,1680,robinsonap
+278454,kama1365,ROTTEN,m u n t a,1678,robinsonap
+278455,wers1238,ROTTEN,s i k e ŋ,1682,robinsonap
+278456,kaer1234,ROTTEN,m i n o,1678,robinsonap
+278457,lamm1241,ROTTEN,b a r a t t a,1681,robinsonap
+278458,adan1251,ROTTEN,b o n i,1679,robinsonap
+278459,sawi1256,ROTTEN,t a m a s a,1680,robinsonap
+278460,nede1245,ROTTEN,g a m i n i,1678,robinsonap
+278461,kelo1247,ROTTEN,m ʊ i n,1678,robinsonap
+278462,teiw1235,BITTER,m a ħ a ʔ,182,robinsonap
+278463,abui1241,BITTER,m a k a l i,182,robinsonap
+278464,blag1240,BITTER,k a m a l a,183,robinsonap
+278465,kama1365,BITTER,m a k a a,182,robinsonap
+278466,wers1238,BITTER,m a k a l + m u k u p,187,robinsonap
+278467,kaer1234,BITTER,m a q o,182,robinsonap
+278468,lamm1241,BITTER,k u + m i n n a,184,robinsonap
+278469,adan1251,BITTER,m a ʔ a l a ʔ,182,robinsonap
+278470,sawi1256,BITTER,m a k a l,186,robinsonap
+278471,nede1245,BITTER,m i j a r a,185,robinsonap
+278472,kelo1247,BITTER,m k a l,182,robinsonap
+278473,teiw1235,SWEET,w u b,2022,robinsonap
+278474,abui1241,SWEET,r a l o ŋ,2013,robinsonap
+278475,blag1240,SWEET,t e ŋ g e,2015,robinsonap
+278476,kama1365,SWEET,i l a k a i,2017,robinsonap
+278477,wers1238,SWEET,m a l a ŋ,2021,robinsonap
+278478,kaer1234,SWEET,m a r a a q,2016,robinsonap
+278479,lamm1241,SWEET,h i g e,2019,robinsonap
+278480,adan1251,SWEET,d ɛ l ɛ w ɛ ŋ,2014,robinsonap
+278481,sawi1256,SWEET,m a a l a ŋ,2021,robinsonap
+278482,nede1245,SWEET,u b a,2020,robinsonap
+278483,kelo1247,SWEET,d r e,2018,robinsonap
+278484,teiw1235,FLAT,h a w a n,755,robinsonap
+278485,abui1241,FLAT,t a l u o l a,747,robinsonap
+278486,blag1240,FLAT,b i r a,749,robinsonap
+278487,kama1365,FLAT,s i l e l a,750,robinsonap
+278488,wers1238,FLAT,l a t + t e r i s,756,robinsonap
+278489,kaer1234,FLAT,b i i r o,749,robinsonap
+278490,lamm1241,FLAT,p a l a k a,752,robinsonap
+278491,adan1251,FLAT,h a l o i,748,robinsonap
+278492,sawi1256,FLAT,k a l a t a,754,robinsonap
+278493,nede1245,FLAT,e s a m a,753,robinsonap
+278494,kelo1247,FLAT,b ʊ ʊ r,751,robinsonap
+278495,teiw1235,SMOOTH,s o r d a ħ,1885,robinsonap
+278496,abui1241,SMOOTH,r u l a,1881,robinsonap
+278497,blag1240,SMOOTH,d u l a,1881,robinsonap
+278498,kama1365,SMOOTH,t u l a k a,1881,robinsonap
+278499,wers1238,SMOOTH,t e r i s i + d o l o k,1886,robinsonap
+278500,kaer1234,SMOOTH,i b a j a r a n,1882,robinsonap
+278501,lamm1241,SMOOTH,d u b a,1883,robinsonap
+278502,adan1251,SMOOTH,d u l u ʔ,1881,robinsonap
+278503,nede1245,SMOOTH,b i f i,1884,robinsonap
+278504,kelo1247,SMOOTH,d u u l,1881,robinsonap
+278505,teiw1235,ROUGH,s a k a r,1686,robinsonap
+278506,abui1241,ROUGH,a h o i f a ŋ,1683,robinsonap
+278507,blag1240,ROUGH,k o ŋ k a r k o ŋ k a r,1685,robinsonap
+278508,kama1365,ROUGH,a o o b a,1687,robinsonap
+278509,wers1238,ROUGH,p o t o r,1690,robinsonap
+278510,kaer1234,ROUGH,s e k a k i r,1686,robinsonap
+278511,lamm1241,ROUGH,k a t a ŋ k a t a ŋ,1688,robinsonap
+278512,adan1251,ROUGH,p a l u h u,1684,robinsonap
+278513,nede1245,ROUGH,a r a d d a,1689,robinsonap
+278514,teiw1235,THICK,t u ʔ u m,2104,robinsonap
+278515,abui1241,THICK,t a p a t i,2098,robinsonap
+278516,blag1240,THICK,p u s i,2099,robinsonap
+278517,kama1365,THICK,k u s a,2100,robinsonap
+278518,wers1238,THICK,d u m,2103,robinsonap
+278519,kaer1234,THICK,p a u s o,2099,robinsonap
+278520,lamm1241,THICK,d u m m a,2101,robinsonap
+278521,adan1251,THICK,t a p a h a,2098,robinsonap
+278522,sawi1256,THICK,d u m u,2103,robinsonap
+278523,nede1245,THICK,p o n u u t a,2102,robinsonap
+278524,kelo1247,THICK,t ə p ɛ h,2098,robinsonap
+278525,teiw1235,THIN,t a ħ a l,2106,robinsonap
+278526,abui1241,THIN,f o l i,2105,robinsonap
+278527,blag1240,THIN,t e i l,2106,robinsonap
+278528,kama1365,THIN,m a n i h,2107,robinsonap
+278529,wers1238,THIN,m i n i s,2107,robinsonap
+278530,kaer1234,THIN,t e k i,2106,robinsonap
+278531,lamm1241,THIN,r e ʔ e,2108,robinsonap
+278532,adan1251,THIN,t i ʔ i,2106,robinsonap
+278533,sawi1256,THIN,m a n i s e,2107,robinsonap
+278534,nede1245,THIN,s e l i ŋ,2109,robinsonap
+278535,teiw1235,PAINFUL OR SICK,i ʔ,1511,robinsonap
+278536,abui1241,PAINFUL OR SICK,h a r i k,1503,robinsonap
+278537,blag1240,PAINFUL OR SICK,d i r a,1505,robinsonap
+278538,kama1365,PAINFUL OR SICK,m a t,1507,robinsonap
+278539,wers1238,PAINFUL OR SICK,m e d i t,1507,robinsonap
+278540,kaer1234,PAINFUL OR SICK,i i,1506,robinsonap
+278541,lamm1241,PAINFUL OR SICK,t a w a k a,1509,robinsonap
+278542,adan1251,PAINFUL OR SICK,m o d i ʔ,1504,robinsonap
+278543,sawi1256,PAINFUL OR SICK,m a t e,1507,robinsonap
+278544,nede1245,PAINFUL OR SICK,l i l a,1510,robinsonap
+278545,kelo1247,PAINFUL OR SICK,b i i r,1508,robinsonap
+278546,teiw1235,SHY OR ASHAMED,a r a r,1820,robinsonap
+278547,abui1241,SHY OR ASHAMED,t a m i l e l a i,1814,robinsonap
+278548,blag1240,SHY OR ASHAMED,m ə n i j a ŋ,1816,robinsonap
+278549,kama1365,SHY OR ASHAMED,l a i t a,1818,robinsonap
+278550,wers1238,SHY OR ASHAMED,n e l a d i,1821,robinsonap
+278551,kaer1234,SHY OR ASHAMED,e r i j a j,1817,robinsonap
+278552,lamm1241,SHY OR ASHAMED,p a l i,1819,robinsonap
+278553,adan1251,SHY OR ASHAMED,m a l a ʔ,1815,robinsonap
+278554,nede1245,SHY OR ASHAMED,a p a l a,1819,robinsonap
+278555,teiw1235,BLACK,q a ʔ a n,188,robinsonap
+278556,abui1241,BLACK,a k a n i,188,robinsonap
+278557,blag1240,BLACK,k a n a,188,robinsonap
+278558,kama1365,BLACK,d a k a t a,190,robinsonap
+278559,wers1238,BLACK,a k e ŋ,188,robinsonap
+278560,kaer1234,BLACK,ħ a n o,188,robinsonap
+278561,lamm1241,BLACK,a n a,188,robinsonap
+278562,adan1251,BLACK,l a ʔ a n a ʔ,189,robinsonap
+278563,sawi1256,BLACK,a k a n a,188,robinsonap
+278564,nede1245,BLACK,q a n a,188,robinsonap
+278565,kelo1247,BLACK,ɑ ʔ ɑ k ɑ n,191,robinsonap
+278566,teiw1235,WHITE,m i j a q,2309,robinsonap
+278567,abui1241,WHITE,k u l i,2306,robinsonap
+278568,blag1240,WHITE,m ə dʒ a,2308,robinsonap
+278569,kama1365,WHITE,b i l a,2310,robinsonap
+278570,wers1238,WHITE,m u r u k,2313,robinsonap
+278571,kaer1234,WHITE,m i j e q o,2309,robinsonap
+278572,lamm1241,WHITE,m i a k a,2309,robinsonap
+278573,adan1251,WHITE,w ɛ l ɛ ʔ,2307,robinsonap
+278574,sawi1256,WHITE,s i i l a,2312,robinsonap
+278575,nede1245,WHITE,m i j a q a,2309,robinsonap
+278576,kelo1247,WHITE,ɑ ʔ ɑ dʒ ɑ l,2311,robinsonap
+278577,teiw1235,RED,i i ʔ,1616,robinsonap
+278578,abui1241,RED,k i k,1613,robinsonap
+278579,blag1240,RED,b i b i,1615,robinsonap
+278580,kama1365,RED,b i k a,1617,robinsonap
+278581,wers1238,RED,i k i,1619,robinsonap
+278582,kaer1234,RED,i i,1616,robinsonap
+278583,lamm1241,RED,i ʔ a,1618,robinsonap
+278584,adan1251,RED,t ɛ n ɛ,1614,robinsonap
+278585,sawi1256,RED,i k e,1619,robinsonap
+278586,nede1245,RED,i ʔ i,1618,robinsonap
+278587,kelo1247,RED,k ɪ k i k,1613,robinsonap
+278588,teiw1235,GREEN,a dʒ o g a r,940,robinsonap
+278589,abui1241,GREEN,w a l a ŋ a i,933,robinsonap
+278590,blag1240,GREEN,k o a k o a,935,robinsonap
+278591,kama1365,GREEN,w a a i,937,robinsonap
+278592,wers1238,GREEN,w a l a r,933,robinsonap
+278593,kaer1234,GREEN,o j o g i,936,robinsonap
+278594,lamm1241,GREEN,h a l u a g a,938,robinsonap
+278595,adan1251,GREEN,l e u,934,robinsonap
+278596,sawi1256,GREEN,w a l a ŋ a r a,933,robinsonap
+278597,nede1245,GREEN,w e j a g a + w e j a g a,939,robinsonap
+278598,kelo1247,GREEN,w ə w ɛ l ɛ ŋ,933,robinsonap
+278599,teiw1235,YELLOW,b a ħ a r i,2391,robinsonap
+278600,abui1241,YELLOW,a d e ʔ s a n i,2390,robinsonap
+278601,blag1240,YELLOW,b o r i,2391,robinsonap
+278602,kama1365,YELLOW,m a l e t a,2392,robinsonap
+278603,wers1238,YELLOW,m e r o k,2396,robinsonap
+278604,kaer1234,YELLOW,b a g a r i,2391,robinsonap
+278605,lamm1241,YELLOW,b u g g a,2394,robinsonap
+278606,adan1251,YELLOW,b a ʔ o i,2391,robinsonap
+278607,sawi1256,YELLOW,m a r e e k a,2395,robinsonap
+278608,nede1245,YELLOW,b a ħ o r i,2391,robinsonap
+278609,kelo1247,YELLOW,b ʊ b ʊ g ɔ r,2393,robinsonap
+278610,teiw1235,DEAF,g u w a r + q u l u s,491,robinsonap
+278611,abui1241,DEAF,k u r i,482,robinsonap
+278612,blag1240,DEAF,k ə m u k e,484,robinsonap
+278613,kama1365,DEAF,u h,486,robinsonap
+278614,wers1238,DEAF,n e w e r i + m o k o l,492,robinsonap
+278615,kaer1234,DEAF,q o l u s,485,robinsonap
+278616,lamm1241,DEAF,k u l l u,488,robinsonap
+278617,adan1251,DEAF,p a l a ʔ a,483,robinsonap
+278618,sawi1256,DEAF,m u k o,490,robinsonap
+278619,nede1245,DEAF,g o l a + k w a ŋ a,489,robinsonap
+278620,kelo1247,DEAF,g ə w ɛ r k ə k ʊ i,487,robinsonap
+278621,teiw1235,SEE,b ə l i,1745,robinsonap
+278622,abui1241,SEE,h e r e i,1738,robinsonap
+278623,blag1240,SEE,t e i ŋ,1740,robinsonap
+278624,kama1365,SEE,t a k,1742,robinsonap
+278625,wers1238,SEE,g e d i r,1746,robinsonap
+278626,kaer1234,SEE,l a l o,1741,robinsonap
+278627,lamm1241,SEE,g a n i a k a,1744,robinsonap
+278628,adan1251,SEE,d u n u ʔ,1739,robinsonap
+278629,sawi1256,SEE,g a d e a,1746,robinsonap
+278630,nede1245,SEE,b i l i,1745,robinsonap
+278631,kelo1247,SEE,g ə u r,1743,robinsonap
+278632,teiw1235,HEAR,w u r a q,993,robinsonap
+278633,abui1241,HEAR,m a h i a,987,robinsonap
+278634,blag1240,HEAR,v e ŋ m e,989,robinsonap
+278635,kama1365,HEAR,m a i,987,robinsonap
+278636,wers1238,HEAR,l e w o s i,994,robinsonap
+278637,kaer1234,HEAR,w a a t i,990,robinsonap
+278638,lamm1241,HEAR,h a l o a p i,992,robinsonap
+278639,adan1251,HEAR,ʔ a l ɛ p ɛ ŋ,988,robinsonap
+278640,sawi1256,HEAR,m a j i i ŋ,987,robinsonap
+278641,nede1245,HEAR,w a t t i,990,robinsonap
+278642,kelo1247,HEAR,m ə g ɪ h,991,robinsonap
+278643,teiw1235,SMELL (PERCEIVE),g a ħ m i n,1874,robinsonap
+278644,abui1241,SMELL (PERCEIVE),m o n u ŋ r a,1869,robinsonap
+278645,blag1240,SMELL (PERCEIVE),m i m i ŋ,1871,robinsonap
+278646,kama1365,SMELL (PERCEIVE),m u s a n,1873,robinsonap
+278647,wers1238,SMELL (PERCEIVE),m u i ŋ,1873,robinsonap
+278648,kaer1234,SMELL (PERCEIVE),g a g a m,1872,robinsonap
+278649,lamm1241,SMELL (PERCEIVE),t i l l i,1875,robinsonap
+278650,adan1251,SMELL (PERCEIVE),ʔ u m u n i ŋ,1870,robinsonap
+278651,sawi1256,SMELL (PERCEIVE),g a m u s a,1873,robinsonap
+278652,nede1245,SMELL (PERCEIVE),g a m i n i,1874,robinsonap
+278653,kelo1247,SMELL (PERCEIVE),g ə m o i n,1874,robinsonap
+278654,teiw1235,THINK,w a g o + w a n + h o m + m a i,2119,robinsonap
+278655,abui1241,THINK,t o m i p a ŋ,2110,robinsonap
+278656,blag1240,THINK,u k u r,2112,robinsonap
+278657,kama1365,THINK,k i ŋ + s u u k,2114,robinsonap
+278658,wers1238,THINK,n e w a m a l,2120,robinsonap
+278659,kaer1234,THINK,t o m e j o,2113,robinsonap
+278660,lamm1241,THINK,t i m b a r,2116,robinsonap
+278661,adan1251,THINK,t a n u t,2111,robinsonap
+278662,sawi1256,THINK,g a w a a w a ŋ,2118,robinsonap
+278663,nede1245,THINK,a m i g r a g a,2117,robinsonap
+278664,kelo1247,THINK,k i r k i r,2115,robinsonap
+278665,teiw1235,KNOW,w a n k r u w a n,1122,robinsonap
+278666,abui1241,KNOW,n o h i e n a,1121,robinsonap
+278667,blag1240,KNOW,v e ŋ k r u a ŋ,1122,robinsonap
+278668,kama1365,KNOW,l a k,1124,robinsonap
+278669,wers1238,KNOW,l e t e ŋ,1127,robinsonap
+278670,kaer1234,KNOW,l a l o,1123,robinsonap
+278671,lamm1241,KNOW,k a l a l a ŋ,1123,robinsonap
+278672,sawi1256,KNOW,g i t e,1126,robinsonap
+278673,nede1245,KNOW,k ə l a l a,1123,robinsonap
+278674,kelo1247,KNOW,g ɛ l,1125,robinsonap
+278675,teiw1235,DREAM,a j i v a r,558,robinsonap
+278676,abui1241,DREAM,p i e i l a,556,robinsonap
+278677,blag1240,DREAM,j i p a r,558,robinsonap
+278678,kama1365,DREAM,f o i,559,robinsonap
+278679,wers1238,DREAM,w o r m a i,561,robinsonap
+278680,kaer1234,DREAM,i p a r,558,robinsonap
+278681,lamm1241,DREAM,h i p p e,560,robinsonap
+278682,adan1251,DREAM,p e i,557,robinsonap
+278683,nede1245,DREAM,v a,559,robinsonap
+278684,kelo1247,DREAM,e p e r,558,robinsonap
+278685,teiw1235,LIE DOWN,u n t i ʔ,1201,robinsonap
+278686,abui1241,LIE DOWN,t a,1197,robinsonap
+278687,blag1240,LIE DOWN,t i a ʔ,1199,robinsonap
+278688,kama1365,LIE DOWN,t a a,1197,robinsonap
+278689,wers1238,LIE DOWN,n e t a i,1202,robinsonap
+278690,kaer1234,LIE DOWN,t e e,1197,robinsonap
+278691,lamm1241,LIE DOWN,t i ʔ a ŋ,1197,robinsonap
+278692,adan1251,LIE DOWN,m o p o,1198,robinsonap
+278693,sawi1256,LIE DOWN,g a t e,1200,robinsonap
+278694,nede1245,LIE DOWN,t a ʔ a,1197,robinsonap
+278695,kelo1247,LIE DOWN,t ɑ ɑ,1197,robinsonap
+278696,teiw1235,WAKE UP (SOMEONE),g o s o j + i l a n + t u p,2257,robinsonap
+278697,abui1241,WAKE UP (SOMEONE),n a n + h a r u d a,2251,robinsonap
+278698,blag1240,WAKE UP (SOMEONE),a i ŋ + m i a r,2253,robinsonap
+278699,kama1365,WAKE UP (SOMEONE),t a n,2254,robinsonap
+278700,wers1238,WAKE UP (SOMEONE),g e t e i ŋ,2254,robinsonap
+278701,kaer1234,WAKE UP (SOMEONE),g e t e n o,2254,robinsonap
+278702,lamm1241,WAKE UP (SOMEONE),g a t i p p i ŋ,2255,robinsonap
+278703,adan1251,WAKE UP (SOMEONE),a h o w o + t u h u,2252,robinsonap
+278704,sawi1256,WAKE UP (SOMEONE),g a p i + g a s i r e + g a m i t i,2256,robinsonap
+278705,nede1245,WAKE UP (SOMEONE),g ə t a n i,2254,robinsonap
+278706,kelo1247,WAKE UP (SOMEONE),g ə t ɛ ŋ,2254,robinsonap
+278707,teiw1235,SIT,m i i s,1837,robinsonap
+278708,abui1241,SIT,m i t i,1837,robinsonap
+278709,blag1240,SIT,m i ŋ,1837,robinsonap
+278710,kama1365,SIT,n i h,1838,robinsonap
+278711,wers1238,SIT,a m i t,1837,robinsonap
+278712,kaer1234,SIT,m i s o,1837,robinsonap
+278713,lamm1241,SIT,m i s i ŋ,1837,robinsonap
+278714,adan1251,SIT,m i h i ʔ,1837,robinsonap
+278715,sawi1256,SIT,m i t i,1837,robinsonap
+278716,nede1245,SIT,m i s i,1837,robinsonap
+278717,kelo1247,SIT,m ɪ h,1837,robinsonap
+278718,teiw1235,STAND,t a a s,1952,robinsonap
+278719,abui1241,STAND,n a t e,1950,robinsonap
+278720,blag1240,STAND,t a i,1951,robinsonap
+278721,kama1365,STAND,l a t s i,1953,robinsonap
+278722,wers1238,STAND,a t a t i,1956,robinsonap
+278723,kaer1234,STAND,t a s o,1952,robinsonap
+278724,lamm1241,STAND,n a t a r,1950,robinsonap
+278725,sawi1256,STAND,d o o k a,1955,robinsonap
+278726,nede1245,STAND,t a s i,1952,robinsonap
+278727,kelo1247,STAND,m ə t ɛ h,1954,robinsonap
+278728,teiw1235,CROUCH,t u k u,436,robinsonap
+278729,abui1241,CROUCH,l u k + ʔ b o,433,robinsonap
+278730,blag1240,CROUCH,k u k u + m u d i ŋ,435,robinsonap
+278731,kama1365,CROUCH,d u u h,437,robinsonap
+278732,wers1238,CROUCH,l u k u k,440,robinsonap
+278733,kaer1234,CROUCH,t o k u,436,robinsonap
+278734,lamm1241,CROUCH,l u k k i ŋ,438,robinsonap
+278735,adan1251,CROUCH,l i ʔ i ʔ,434,robinsonap
+278736,nede1245,CROUCH,l u a l a ŋ,439,robinsonap
+278737,teiw1235,WALK,t e w a r,2263,robinsonap
+278738,abui1241,WALK,l a k,2258,robinsonap
+278739,abui1241,WALK,l a k,2258,robinsonap
+278740,blag1240,WALK,l a m a r,2259,robinsonap
+278741,kama1365,WALK,l o o,2260,robinsonap
+278742,wers1238,WALK,l a i l o l,2264,robinsonap
+278743,kaer1234,WALK,a m a r,2259,robinsonap
+278744,lamm1241,WALK,l a m a,2259,robinsonap
+278745,adan1251,WALK,l a m i,2259,robinsonap
+278746,sawi1256,WALK,l o o l a,2260,robinsonap
+278747,nede1245,WALK,a j a + a p a,2262,robinsonap
+278748,kelo1247,WALK,g ɛ p u n l ɑ m,2261,robinsonap
+278749,teiw1235,RUN,b i i r,1701,robinsonap
+278750,abui1241,RUN,f u r e i,1699,robinsonap
+278751,blag1240,RUN,b i,1701,robinsonap
+278752,kama1365,RUN,t a k,1702,robinsonap
+278753,wers1238,RUN,n e m u r,1703,robinsonap
+278754,kaer1234,RUN,b i i r o,1701,robinsonap
+278755,lamm1241,RUN,b i r i ŋ,1701,robinsonap
+278756,adan1251,RUN,t ɛ ʔ ɛ ŋ,1700,robinsonap
+278757,sawi1256,RUN,g a m u r i,1703,robinsonap
+278758,nede1245,RUN,b i r i,1701,robinsonap
+278759,kelo1247,RUN,t ə k ɪ n,1700,robinsonap
+278760,teiw1235,SWIM,t a r a n,2041,robinsonap
+278761,abui1241,SWIM,t e u l a,2039,robinsonap
+278762,blag1240,SWIM,t a r a,2041,robinsonap
+278763,kama1365,SWIM,s a i,2042,robinsonap
+278764,wers1238,SWIM,s a i,2042,robinsonap
+278765,kaer1234,SWIM,t a r o,2041,robinsonap
+278766,lamm1241,SWIM,t a l l a ŋ,2041,robinsonap
+278767,adan1251,SWIM,ʔ u r,2040,robinsonap
+278768,sawi1256,SWIM,s e,2042,robinsonap
+278769,nede1245,SWIM,t a l a ŋ,2041,robinsonap
+278770,kelo1247,SWIM,u r ɛ n,2041,robinsonap
+278771,teiw1235,FLY (MOVE THROUGH AIR),dʒ i r a n,804,robinsonap
+278772,abui1241,FLY (MOVE THROUGH AIR),l i ʔ,801,robinsonap
+278773,blag1240,FLY (MOVE THROUGH AIR),l i r i,803,robinsonap
+278774,kama1365,FLY (MOVE THROUGH AIR),l i l a,802,robinsonap
+278775,wers1238,FLY (MOVE THROUGH AIR),i r e,807,robinsonap
+278776,kaer1234,FLY (MOVE THROUGH AIR),dʒ i r o,804,robinsonap
+278777,lamm1241,FLY (MOVE THROUGH AIR),h i l a ŋ,806,robinsonap
+278778,adan1251,FLY (MOVE THROUGH AIR),l i l i ʔ,802,robinsonap
+278779,sawi1256,FLY (MOVE THROUGH AIR),i r i ŋ,807,robinsonap
+278780,nede1245,FLY (MOVE THROUGH AIR),dʒ i l a,804,robinsonap
+278781,kelo1247,FLY (MOVE THROUGH AIR),l i i r,805,robinsonap
+278782,teiw1235,FALL,b a ʔ,697,robinsonap
+278783,abui1241,FALL,d i t a h a i,691,robinsonap
+278784,blag1240,FALL,b a + h e r a,693,robinsonap
+278785,kama1365,FALL,m u ʔ t a n,694,robinsonap
+278786,wers1238,FALL,t a i ŋ,698,robinsonap
+278787,kaer1234,FALL,b a + s e r o,693,robinsonap
+278788,lamm1241,FALL,t a s i ŋ,696,robinsonap
+278789,adan1251,FALL,m u d i,692,robinsonap
+278790,sawi1256,FALL,t a a n i,698,robinsonap
+278791,nede1245,FALL,b a ʔ a,697,robinsonap
+278792,kelo1247,FALL,m ʊ ŋ,695,robinsonap
+278793,teiw1235,TUMBLE (FALL DOWN),t a ħ a ʔ,2197,robinsonap
+278794,abui1241,TUMBLE (FALL DOWN),d a k u i l a,2194,robinsonap
+278795,blag1240,TUMBLE (FALL DOWN),b e l i,2196,robinsonap
+278796,kama1365,TUMBLE (FALL DOWN),k o k,2198,robinsonap
+278797,wers1238,TUMBLE (FALL DOWN),p o d o,2202,robinsonap
+278798,kaer1234,TUMBLE (FALL DOWN),t a ħ a,2197,robinsonap
+278799,lamm1241,TUMBLE (FALL DOWN),b a u l u ŋ,2200,robinsonap
+278800,adan1251,TUMBLE (FALL DOWN),o l o ʔ,2195,robinsonap
+278801,nede1245,TUMBLE (FALL DOWN),a ħ o ħ i,2201,robinsonap
+278802,kelo1247,TUMBLE (FALL DOWN),t k o s,2199,robinsonap
+278803,teiw1235,DROP,m a + m o ħ o d,578,robinsonap
+278804,abui1241,DROP,n a + h a l i e h a i,571,robinsonap
+278805,blag1240,DROP,l o l a ŋ + h e r a,573,robinsonap
+278806,kama1365,DROP,m o t a,572,robinsonap
+278807,wers1238,DROP,g e p a i + t a i ŋ,579,robinsonap
+278808,kaer1234,DROP,g a b a ŋ,574,robinsonap
+278809,lamm1241,DROP,m u g g u ŋ,576,robinsonap
+278810,adan1251,DROP,a m u d i,572,robinsonap
+278811,sawi1256,DROP,l i g a t a a n i,577,robinsonap
+278812,nede1245,DROP,m o r a,572,robinsonap
+278813,kelo1247,DROP,n ə g ɑ n u k g ə m u ŋ,575,robinsonap
+278814,teiw1235,BATHE,w e i,107,robinsonap
+278815,abui1241,BATHE,d a w e l,103,robinsonap
+278816,blag1240,BATHE,v e l a,105,robinsonap
+278817,kama1365,BATHE,w e i,107,robinsonap
+278818,wers1238,BATHE,i r a + t e w e l i,110,robinsonap
+278819,kaer1234,BATHE,t u w e j o,106,robinsonap
+278820,lamm1241,BATHE,u l a ŋ,108,robinsonap
+278821,adan1251,BATHE,w i l i,104,robinsonap
+278822,sawi1256,BATHE,g a w i l e,104,robinsonap
+278823,nede1245,BATHE,n o j a,109,robinsonap
+278824,kelo1247,BATHE,n ɛ w ɛ l,103,robinsonap
+278825,teiw1235,WASH,w a n b l i,2273,robinsonap
+278826,abui1241,WASH,l u o k,2265,robinsonap
+278827,blag1240,WASH,n a ʔ + b e i,2267,robinsonap
+278828,kama1365,WASH,s i r e,2269,robinsonap
+278829,wers1238,WASH,l e s i,2274,robinsonap
+278830,kaer1234,WASH,w a ŋ w a,2268,robinsonap
+278831,lamm1241,WASH,l a m i ŋ,2266,robinsonap
+278832,adan1251,WASH,l aː m,2266,robinsonap
+278833,sawi1256,WASH,s a k u,2272,robinsonap
+278834,nede1245,WASH,b u g i,2271,robinsonap
+278835,kelo1247,WASH,ɪ l u w ɛ l,2270,robinsonap
+278836,teiw1235,COOK (SOMETHING),d a u,397,robinsonap
+278837,abui1241,COOK (SOMETHING),m a d e,389,robinsonap
+278838,blag1240,COOK (SOMETHING),n a + d o a,391,robinsonap
+278839,kama1365,COOK (SOMETHING),t a a m,393,robinsonap
+278840,wers1238,COOK (SOMETHING),m a d + i r a,398,robinsonap
+278841,kaer1234,COOK (SOMETHING),n a d o w o,392,robinsonap
+278842,lamm1241,COOK (SOMETHING),t a ŋ + m i g a ŋ,395,robinsonap
+278843,adan1251,COOK (SOMETHING),d o w o ʔ,390,robinsonap
+278844,sawi1256,COOK (SOMETHING),m a a ŋ,396,robinsonap
+278845,nede1245,COOK (SOMETHING),d a w a,392,robinsonap
+278846,kelo1247,COOK (SOMETHING),ɑ d ɑ p u,394,robinsonap
+278847,teiw1235,DRINK,h u f a ʔ,569,robinsonap
+278848,abui1241,DRINK,b u k,562,robinsonap
+278849,blag1240,DRINK,dʒ a r + n a,564,robinsonap
+278850,kama1365,DRINK,n e,565,robinsonap
+278851,wers1238,DRINK,i r a + t e n a i,570,robinsonap
+278852,kaer1234,DRINK,j i r + n a,564,robinsonap
+278853,lamm1241,DRINK,b a ʔ a i,566,robinsonap
+278854,adan1251,DRINK,n a ʔ,563,robinsonap
+278855,sawi1256,DRINK,g a n e e,568,robinsonap
+278856,nede1245,DRINK,w a ʔ a,567,robinsonap
+278857,kelo1247,DRINK,n ɑ ɑ ʔ,563,robinsonap
+278858,teiw1235,EAT,i n a,645,robinsonap
+278859,abui1241,EAT,n e,645,robinsonap
+278860,blag1240,EAT,n a + n a,645,robinsonap
+278861,kama1365,EAT,n a,645,robinsonap
+278862,wers1238,EAT,t e n a i + t e p a s i,649,robinsonap
+278863,kaer1234,EAT,n a,645,robinsonap
+278864,lamm1241,EAT,n a,645,robinsonap
+278865,adan1251,EAT,a d i ʔ,646,robinsonap
+278866,sawi1256,EAT,g a n e e,648,robinsonap
+278867,nede1245,EAT,i n a,645,robinsonap
+278868,kelo1247,EAT,m ə h ɑ k,647,robinsonap
+278869,teiw1235,CHEW,k r a i,305,robinsonap
+278870,abui1241,CHEW,t a k e,298,robinsonap
+278871,blag1240,CHEW,m a m e,300,robinsonap
+278872,kama1365,CHEW,s e,302,robinsonap
+278873,wers1238,CHEW,l e m a ŋ,306,robinsonap
+278874,kaer1234,CHEW,ħ r a j o,301,robinsonap
+278875,lamm1241,CHEW,g a m m u,304,robinsonap
+278876,adan1251,CHEW,ʔ o ʔ o ŋ,299,robinsonap
+278877,nede1245,CHEW,k a r a tʃ i,305,robinsonap
+278878,kelo1247,CHEW,u m a n a i n,303,robinsonap
+278879,teiw1235,SUCK,p u ʔ,2000,robinsonap
+278880,abui1241,SUCK,m a r e k,1994,robinsonap
+278881,blag1240,SUCK,k ə n u m u,1996,robinsonap
+278882,kama1365,SUCK,m a k,1998,robinsonap
+278883,wers1238,SUCK,m u d u l i,1999,robinsonap
+278884,kaer1234,SUCK,t u b o,1997,robinsonap
+278885,lamm1241,SUCK,p u ʔ u ŋ,2000,robinsonap
+278886,adan1251,SUCK,d u t u ʔ,1995,robinsonap
+278887,sawi1256,SUCK,g a n e e,2001,robinsonap
+278888,nede1245,SUCK,d u m a,1997,robinsonap
+278889,kelo1247,SUCK,m o d o i h,1999,robinsonap
+278890,teiw1235,SPIT,p u r a n,1917,robinsonap
+278891,abui1241,SPIT,p u i n a,1915,robinsonap
+278892,blag1240,SPIT,p u r u ŋ,1917,robinsonap
+278893,kama1365,SPIT,s u p u i,1918,robinsonap
+278894,wers1238,SPIT,u r i ŋ + k r a,1922,robinsonap
+278895,kaer1234,SPIT,p u r a ŋ,1917,robinsonap
+278896,lamm1241,SPIT,t u p p u ŋ,1919,robinsonap
+278897,adan1251,SPIT,m a j,1916,robinsonap
+278898,sawi1256,SPIT,i r u m p a k k a,1921,robinsonap
+278899,nede1245,SPIT,m a l i p l u m,1920,robinsonap
+278900,kelo1247,SPIT,p ə r ʊ i n,1917,robinsonap
+278901,teiw1235,VOMIT,dʒ i g a r,2236,robinsonap
+278902,abui1241,VOMIT,i u,2233,robinsonap
+278903,blag1240,VOMIT,j i d a,2235,robinsonap
+278904,kama1365,VOMIT,i w e i,2237,robinsonap
+278905,wers1238,VOMIT,m o k o r,2240,robinsonap
+278906,kaer1234,VOMIT,g i g i r,2236,robinsonap
+278907,lamm1241,VOMIT,k a l e ʔ e,2239,robinsonap
+278908,adan1251,VOMIT,w u d i,2234,robinsonap
+278909,nede1245,VOMIT,k a l a ʔ a,2239,robinsonap
+278910,kelo1247,VOMIT,ɪ ŋ,2238,robinsonap
+278911,teiw1235,YAWN,ħ a ħ a r,2389,robinsonap
+278912,abui1241,YAWN,a h a u,2382,robinsonap
+278913,blag1240,YAWN,a j l o j,2384,robinsonap
+278914,kama1365,YAWN,a w a k,2386,robinsonap
+278915,wers1238,YAWN,a w a k i,2386,robinsonap
+278916,kaer1234,YAWN,a g u r,2385,robinsonap
+278917,adan1251,YAWN,a l o w o + a l a w u h u,2383,robinsonap
+278918,nede1245,YAWN,a l a w + g a ʔ a + s u p i,2388,robinsonap
+278919,kelo1247,YAWN,m ɛ t ɛ k,2387,robinsonap
+278920,teiw1235,RUB,t o o d,1694,robinsonap
+278921,abui1241,RUB,w e l u u k,1691,robinsonap
+278922,blag1240,RUB,o s o ŋ,1693,robinsonap
+278923,kama1365,RUB,l u h,1695,robinsonap
+278924,wers1238,RUB,a r a o s,1698,robinsonap
+278925,kaer1234,RUB,t o d o,1694,robinsonap
+278926,lamm1241,RUB,s i ʔ a ŋ,1697,robinsonap
+278927,adan1251,RUB,l u h u ʔ,1692,robinsonap
+278928,sawi1256,RUB,a r o o s a,1698,robinsonap
+278929,nede1245,RUB,t u d u,1694,robinsonap
+278930,kelo1247,RUB,ɔ i,1696,robinsonap
+278931,teiw1235,SCRATCH,k i k a r,1736,robinsonap
+278932,abui1241,SCRATCH,k a f i,1729,robinsonap
+278933,blag1240,SCRATCH,t u a,1731,robinsonap
+278934,kama1365,SCRATCH,f a k i,1733,robinsonap
+278935,wers1238,SCRATCH,k e p i r,1729,robinsonap
+278936,kaer1234,SCRATCH,k r a b i s,1732,robinsonap
+278937,lamm1241,SCRATCH,b a r a g g a s,1734,robinsonap
+278938,adan1251,SCRATCH,t u ʔ u ʔ,1730,robinsonap
+278939,sawi1256,SCRATCH,s u r u k u,1735,robinsonap
+278940,nede1245,SCRATCH,t u a,1731,robinsonap
+278941,kelo1247,SCRATCH,k ə b ɛ r,1729,robinsonap
+278942,teiw1235,ITCHY,q aː q,1089,robinsonap
+278943,abui1241,ITCHY,dʒ o k u ŋ,1088,robinsonap
+278944,blag1240,ITCHY,k a k a,1089,robinsonap
+278945,kama1365,ITCHY,i l u k u i,1091,robinsonap
+278946,wers1238,ITCHY,i r u k,1092,robinsonap
+278947,kaer1234,ITCHY,ħ a ħ o,1090,robinsonap
+278948,lamm1241,ITCHY,k a k a,1089,robinsonap
+278949,adan1251,ITCHY,k a k a ʔ,1089,robinsonap
+278950,nede1245,ITCHY,q a q a,1089,robinsonap
+278951,kelo1247,ITCHY,k aː k,1089,robinsonap
+278952,teiw1235,SWELL,w u r a n,2035,robinsonap
+278953,abui1241,SWELL,w e p a t i a,2034,robinsonap
+278954,blag1240,SWELL,v a r a,2035,robinsonap
+278955,kama1365,SWELL,f a s i,2036,robinsonap
+278956,wers1238,SWELL,a t u,2038,robinsonap
+278957,kaer1234,SWELL,w a r o,2035,robinsonap
+278958,lamm1241,SWELL,h a l u a,2037,robinsonap
+278959,adan1251,SWELL,f a l a ʔ,2035,robinsonap
+278960,sawi1256,SWELL,a t u ŋ,2038,robinsonap
+278961,nede1245,SWELL,w a r a,2035,robinsonap
+278962,kelo1247,SWELL,u w ɑ r,2035,robinsonap
+278963,teiw1235,WAIT (FOR),w a r a h,2249,robinsonap
+278964,abui1241,WAIT (FOR),h e r e,2241,robinsonap
+278965,blag1240,WAIT (FOR),ʔ a d i ŋ,2242,robinsonap
+278966,kama1365,WAIT (FOR),r e i d e,2244,robinsonap
+278967,wers1238,WAIT (FOR),l e g a d a r,2250,robinsonap
+278968,kaer1234,WAIT (FOR),g a r i ŋ,2243,robinsonap
+278969,lamm1241,WAIT (FOR),w a l a ŋ,2246,robinsonap
+278970,adan1251,WAIT (FOR),ʔ a d a n a,2242,robinsonap
+278971,sawi1256,WAIT (FOR),w a a k a,2248,robinsonap
+278972,nede1245,WAIT (FOR),g r a a n i,2247,robinsonap
+278973,kelo1247,WAIT (FOR),e m e i,2245,robinsonap
+278974,teiw1235,FOLD,g ə f i l a ħ,825,robinsonap
+278975,abui1241,FOLD,h a l u k,816,robinsonap
+278976,blag1240,FOLD,l e p e t,818,robinsonap
+278977,kama1365,FOLD,t a p o o,820,robinsonap
+278978,wers1238,FOLD,p o d + a w u l i,826,robinsonap
+278979,kaer1234,FOLD,b l i k o,819,robinsonap
+278980,lamm1241,FOLD,p a u k u ŋ,822,robinsonap
+278981,adan1251,FOLD,p a l i ʔ i,817,robinsonap
+278982,sawi1256,FOLD,k u p i,824,robinsonap
+278983,nede1245,FOLD,p o j a,823,robinsonap
+278984,kelo1247,FOLD,g d i m,821,robinsonap
+278985,teiw1235,GIVE,g ə m i j a n,888,robinsonap
+278986,abui1241,GIVE,h e d e,882,robinsonap
+278987,blag1240,GIVE,m e ʔ e n a ŋ,884,robinsonap
+278988,kama1365,GIVE,m e + n,885,robinsonap
+278989,wers1238,GIVE,w a + g e n i r,889,robinsonap
+278990,kaer1234,GIVE,m e g e ŋ,884,robinsonap
+278991,lamm1241,GIVE,g a n i a,884,robinsonap
+278992,adan1251,GIVE,ʔ ɛ n ɛ ʔ,883,robinsonap
+278993,sawi1256,GIVE,g a r a n i,887,robinsonap
+278994,nede1245,GIVE,m a g e n a,884,robinsonap
+278995,kelo1247,GIVE,g ɛ n,886,robinsonap
+278996,teiw1235,HELP,g u n m o l a,1019,robinsonap
+278997,abui1241,HELP,n e t u l u ŋ,1014,robinsonap
+278998,blag1240,HELP,a i ŋ + m o l i ŋ,1016,robinsonap
+278999,kama1365,HELP,t o l o n,1014,robinsonap
+279000,wers1238,HELP,g e m o s i,1019,robinsonap
+279001,kaer1234,HELP,m u l a g,1017,robinsonap
+279002,adan1251,HELP,ʔ u k a r a ŋ,1015,robinsonap
+279003,sawi1256,HELP,t u l o ŋ,1014,robinsonap
+279004,nede1245,HELP,g o m o l i,1019,robinsonap
+279005,kelo1247,HELP,h e r,1018,robinsonap
+279006,teiw1235,WIPE,a a p,2348,robinsonap
+279007,abui1241,WIPE,w e l u u k,2341,robinsonap
+279008,blag1240,WIPE,h a p o,2343,robinsonap
+279009,kama1365,WIPE,l u h,2344,robinsonap
+279010,wers1238,WIPE,l i p u,2349,robinsonap
+279011,kaer1234,WIPE,a p o,2343,robinsonap
+279012,lamm1241,WIPE,l u i,2346,robinsonap
+279013,adan1251,WIPE,l u h u ʔ,2342,robinsonap
+279014,sawi1256,WIPE,s a a r a,2347,robinsonap
+279015,nede1245,WIPE,a p i,2343,robinsonap
+279016,kelo1247,WIPE,m ɪ l ʊ r,2345,robinsonap
+279017,teiw1235,BURN,d e e,256,robinsonap
+279018,abui1241,BURN,h i e d e,254,robinsonap
+279019,blag1240,BURN,a d e,256,robinsonap
+279020,kama1365,BURN,s a a r a,257,robinsonap
+279021,wers1238,BURN,d a l i + l u r,262,robinsonap
+279022,kaer1234,BURN,d e e,256,robinsonap
+279023,lamm1241,BURN,w a r,259,robinsonap
+279024,adan1251,BURN,t u b,255,robinsonap
+279025,sawi1256,BURN,w a k a,261,robinsonap
+279026,nede1245,BURN,j i ʔ a,260,robinsonap
+279027,kelo1247,BURN,g o p ɛ,258,robinsonap
+279028,teiw1235,SHINE,l i a r,1783,robinsonap
+279029,abui1241,SHINE,t u l u ŋ,1776,robinsonap
+279030,blag1240,SHINE,b o l o r,1778,robinsonap
+279031,kama1365,SHINE,w o b i k a,1779,robinsonap
+279032,wers1238,SHINE,d i a l + l u r + ʔ,1784,robinsonap
+279033,lamm1241,SHINE,d i a l a,1781,robinsonap
+279034,adan1251,SHINE,t u b,1777,robinsonap
+279035,sawi1256,SHINE,m a t a a n i,1782,robinsonap
+279036,kelo1247,SHINE,i d i l,1780,robinsonap
+279037,teiw1235,DRY IN SUN,m a w u d a n,598,robinsonap
+279038,abui1241,DRY IN SUN,t e k,591,robinsonap
+279039,blag1240,DRY IN SUN,p o r i ŋ,593,robinsonap
+279040,kama1365,DRY IN SUN,s a k,594,robinsonap
+279041,wers1238,DRY IN SUN,l e w i d i l e i,599,robinsonap
+279042,kaer1234,DRY IN SUN,p o r i ŋ,593,robinsonap
+279043,lamm1241,DRY IN SUN,p u a r i ŋ,593,robinsonap
+279044,adan1251,DRY IN SUN,f ɛ d + p o i,592,robinsonap
+279045,sawi1256,DRY IN SUN,p oː p ɒ r ɔ,597,robinsonap
+279046,nede1245,DRY IN SUN,w a d o r a,596,robinsonap
+279047,kelo1247,DRY IN SUN,ʊ p u r,595,robinsonap
+279048,teiw1235,LOOK FOR,w u r a q,1265,robinsonap
+279049,abui1241,LOOK FOR,t a h a i,1258,robinsonap
+279050,blag1240,LOOK FOR,r a p i ŋ,1260,robinsonap
+279051,kama1365,LOOK FOR,f a a f a,1261,robinsonap
+279052,wers1238,LOOK FOR,l e w e n a,1264,robinsonap
+279053,kaer1234,LOOK FOR,r a p o,1260,robinsonap
+279054,lamm1241,LOOK FOR,g a l l a ŋ,1263,robinsonap
+279055,adan1251,LOOK FOR,l aː p,1259,robinsonap
+279056,sawi1256,LOOK FOR,l a a w a,1264,robinsonap
+279057,nede1245,LOOK FOR,l a f i,1259,robinsonap
+279058,kelo1247,LOOK FOR,ə l ɛ l,1262,robinsonap
+279059,teiw1235,DISPEL,g ə t i a r,526,robinsonap
+279060,abui1241,DISPEL,h e t e i,524,robinsonap
+279061,blag1240,DISPEL,t e r i,526,robinsonap
+279062,kama1365,DISPEL,f a n e n e e,527,robinsonap
+279063,wers1238,DISPEL,m i l a k a l,530,robinsonap
+279064,kaer1234,DISPEL,g e t e r o,526,robinsonap
+279065,lamm1241,DISPEL,g a b u t t i r,529,robinsonap
+279066,adan1251,DISPEL,a r l i l i,525,robinsonap
+279067,sawi1256,DISPEL,t i i r a,526,robinsonap
+279068,nede1245,DISPEL,g e t i a l a,526,robinsonap
+279069,kelo1247,DISPEL,l o b e i,528,robinsonap
+279070,teiw1235,CUT,t a ħ a ʔ,461,robinsonap
+279071,abui1241,CUT,h a w e k,452,robinsonap
+279072,blag1240,CUT,p a r a s,454,robinsonap
+279073,kama1365,CUT,b a t a t,456,robinsonap
+279074,wers1238,CUT,g e p e s i,462,robinsonap
+279075,kaer1234,CUT,p ə t a k o,455,robinsonap
+279076,lamm1241,CUT,l u ʔ u ŋ,458,robinsonap
+279077,adan1251,CUT,t a f ɛ ʔ ɛ,453,robinsonap
+279078,sawi1256,CUT,w a a k a,460,robinsonap
+279079,nede1245,CUT,t a ħ a n a,459,robinsonap
+279080,kelo1247,CUT,g ə b o k,457,robinsonap
+279081,teiw1235,CUT DOWN,g o o r,470,robinsonap
+279082,abui1241,CUT DOWN,t u k o ŋ,463,robinsonap
+279083,blag1240,CUT DOWN,h i b a,465,robinsonap
+279084,kama1365,CUT DOWN,b u i,467,robinsonap
+279085,wers1238,CUT DOWN,k o l i,471,robinsonap
+279086,kaer1234,CUT DOWN,g o r o,466,robinsonap
+279087,lamm1241,CUT DOWN,b a i l a ŋ,468,robinsonap
+279088,adan1251,CUT DOWN,ʔ a b o ʔ o i,464,robinsonap
+279089,nede1245,CUT DOWN,b u b u,469,robinsonap
+279090,kelo1247,CUT DOWN,h b a n,465,robinsonap
+279091,teiw1235,SPLIT,q a s,1931,robinsonap
+279092,abui1241,SPLIT,k a d e l,1923,robinsonap
+279093,blag1240,SPLIT,k a j,1925,robinsonap
+279094,kama1365,SPLIT,k a r e i,1927,robinsonap
+279095,wers1238,SPLIT,k e d e l i,1923,robinsonap
+279096,kaer1234,SPLIT,g a ħ a s i,1926,robinsonap
+279097,lamm1241,SPLIT,b a k u ŋ,1929,robinsonap
+279098,adan1251,SPLIT,a d i d,1924,robinsonap
+279099,sawi1256,SPLIT,k a d a l i,1923,robinsonap
+279100,nede1245,SPLIT,b ə l a p a,1930,robinsonap
+279101,kelo1247,SPLIT,h o l,1928,robinsonap
+279102,teiw1235,DIVIDE,p a ħ a i,540,robinsonap
+279103,abui1241,DIVIDE,j e ŋ,531,robinsonap
+279104,blag1240,DIVIDE,h u r a k,533,robinsonap
+279105,kama1365,DIVIDE,k a b i h,535,robinsonap
+279106,wers1238,DIVIDE,b a k a r,539,robinsonap
+279107,kaer1234,DIVIDE,q a n a ŋ,534,robinsonap
+279108,lamm1241,DIVIDE,d a a i,537,robinsonap
+279109,adan1251,DIVIDE,ʔ a b a ʔ a ŋ,532,robinsonap
+279110,sawi1256,DIVIDE,b a k a a r a,539,robinsonap
+279111,nede1245,DIVIDE,p e tʃ i,538,robinsonap
+279112,kelo1247,DIVIDE,g b a k,536,robinsonap
+279113,teiw1235,STAB,t a p,1948,robinsonap
+279114,abui1241,STAB,t a k d a,1941,robinsonap
+279115,blag1240,STAB,dʒ a w a k,1941,robinsonap
+279116,kama1365,STAB,t a f e,1944,robinsonap
+279117,wers1238,STAB,s u a i,1949,robinsonap
+279118,kaer1234,STAB,q a ħ o,1943,robinsonap
+279119,lamm1241,STAB,g a r u ŋ,1945,robinsonap
+279120,adan1251,STAB,t ɛ ʔ ɛ,1942,robinsonap
+279121,sawi1256,STAB,s u w e,1947,robinsonap
+279122,nede1245,STAB,t a p p a,1946,robinsonap
+279123,kelo1247,STAB,t ɛ k,1941,robinsonap
+279124,teiw1235,FIGHT,t ə f e o,725,robinsonap
+279125,abui1241,FIGHT,t a l u k,716,robinsonap
+279126,blag1240,FIGHT,t o t a,718,robinsonap
+279127,kama1365,FIGHT,t a a k a,720,robinsonap
+279128,wers1238,FIGHT,t a k a w a i,726,robinsonap
+279129,kaer1234,FIGHT,t a b a j u ŋ,719,robinsonap
+279130,lamm1241,FIGHT,t a k k a ŋ,722,robinsonap
+279131,adan1251,FIGHT,s a r i ŋ + b i n i,717,robinsonap
+279132,sawi1256,FIGHT,t a k i t a a k a,724,robinsonap
+279133,nede1245,FIGHT,p a k k i,723,robinsonap
+279134,kelo1247,FIGHT,t ɛ i tʃ,721,robinsonap
+279135,teiw1235,GUARD,w a n b o ħ o n,954,robinsonap
+279136,abui1241,GUARD,w e r e e,949,robinsonap
+279137,blag1240,GUARD,g ə r e j a ŋ,951,robinsonap
+279138,kama1365,GUARD,p u k a n,952,robinsonap
+279139,wers1238,GUARD,l a g a d a r,955,robinsonap
+279140,kaer1234,GUARD,b u k a ŋ,952,robinsonap
+279141,lamm1241,GUARD,b a u k a ŋ,952,robinsonap
+279142,adan1251,GUARD,ʔ u b u ʔ u ŋ,950,robinsonap
+279143,nede1245,GUARD,t a ʔ u l i,953,robinsonap
+279144,kelo1247,GUARD,b u u k,952,robinsonap
+279145,teiw1235,SCARED,a r a r,1722,robinsonap
+279146,abui1241,SCARED,m i e l a ŋ,1714,robinsonap
+279147,blag1240,SCARED,d a d i,1716,robinsonap
+279148,kama1365,SCARED,b i e e,1718,robinsonap
+279149,wers1238,SCARED,n a u m e ŋ,1723,robinsonap
+279150,kaer1234,SCARED,r e ħ o,1717,robinsonap
+279151,lamm1241,SCARED,h u n d a r,1720,robinsonap
+279152,adan1251,SCARED,b a r u tʃ,1715,robinsonap
+279153,sawi1256,SCARED,g a m i i l a ŋ,1714,robinsonap
+279154,nede1245,SCARED,t e ʔ i,1721,robinsonap
+279155,kelo1247,SCARED,e d ɑ n,1719,robinsonap
+279156,teiw1235,ANGRY,o m + k ə l e ħ e l,10,robinsonap
+279157,abui1241,ANGRY,t e e b a,1,robinsonap
+279158,blag1240,ANGRY,t o m i l i l,3,robinsonap
+279159,kama1365,ANGRY,b i e e,5,robinsonap
+279160,wers1238,ANGRY,n e s o r o ŋ,9,robinsonap
+279161,kaer1234,ANGRY,t e m a a r i ŋ,4,robinsonap
+279162,lamm1241,ANGRY,a r u g g a,7,robinsonap
+279163,adan1251,ANGRY,a r i ʔ i ŋ,2,robinsonap
+279164,sawi1256,ANGRY,s o o r a ŋ,9,robinsonap
+279165,nede1245,ANGRY,a m d i d i,8,robinsonap
+279166,kelo1247,ANGRY,tʃ e k,6,robinsonap
+279167,teiw1235,THROW,w a n t a a r,2133,robinsonap
+279168,abui1241,THROW,h u o r,2128,robinsonap
+279169,blag1240,THROW,o d a,2129,robinsonap
+279170,kama1365,THROW,t f a,2131,robinsonap
+279171,wers1238,THROW,w o k o r,2135,robinsonap
+279172,kaer1234,THROW,g o o d,2130,robinsonap
+279173,lamm1241,THROW,k u m m a r,2132,robinsonap
+279174,sawi1256,THROW,p a k a,2134,robinsonap
+279175,nede1245,THROW,w a t a l a,2133,robinsonap
+279176,kelo1247,THROW,g ɔ ɔ d,2130,robinsonap
+279177,teiw1235,DIG,ħ a n,508,robinsonap
+279178,abui1241,DIG,t e u,503,robinsonap
+279179,blag1240,DIG,h a n a ŋ,505,robinsonap
+279180,kama1365,DIG,t e e,503,robinsonap
+279181,wers1238,DIG,t e i,503,robinsonap
+279182,kaer1234,DIG,a n o,506,robinsonap
+279183,lamm1241,DIG,h a n n a ŋ,505,robinsonap
+279184,adan1251,DIG,a l u ŋ,504,robinsonap
+279185,sawi1256,DIG,t i i,503,robinsonap
+279186,nede1245,DIG,dʒ a n n a,505,robinsonap
+279187,kelo1247,DIG,ʊ r ɪ n,507,robinsonap
+279188,teiw1235,BURY,t r a ħ a ʔ,266,robinsonap
+279189,abui1241,BURY,n a b u k,263,robinsonap
+279190,blag1240,BURY,t ə r o w,265,robinsonap
+279191,kama1365,BURY,p i d a k,267,robinsonap
+279192,wers1238,BURY,a r e i ŋ,272,robinsonap
+279193,kaer1234,BURY,t r a ħ o,266,robinsonap
+279194,lamm1241,BURY,p a m m u ŋ,269,robinsonap
+279195,adan1251,BURY,ʔ a p a t,264,robinsonap
+279196,sawi1256,BURY,l u u k i,271,robinsonap
+279197,nede1245,BURY,p a m m a,270,robinsonap
+279198,kelo1247,BURY,p o t,268,robinsonap
+279199,teiw1235,FLOAT,t i r i,776,robinsonap
+279200,abui1241,FLOAT,t a u i t i,774,robinsonap
+279201,blag1240,FLOAT,t e d i ŋ,775,robinsonap
+279202,kama1365,FLOAT,l a k a,777,robinsonap
+279203,wers1238,FLOAT,s e l i,778,robinsonap
+279204,kaer1234,FLOAT,t e r i ŋ,776,robinsonap
+279205,lamm1241,FLOAT,t e r a,776,robinsonap
+279206,adan1251,FLOAT,t ɛ d ɛ ʔ,775,robinsonap
+279207,nede1245,FLOAT,t e r i,776,robinsonap
+279208,kelo1247,FLOAT,t ə t ɛ d,775,robinsonap
+279209,teiw1235,FLOW,t o o t a n,780,robinsonap
+279210,abui1241,FLOW,t a v e l,779,robinsonap
+279211,blag1240,FLOW,t o t u,780,robinsonap
+279212,kama1365,FLOW,t a w e i,779,robinsonap
+279213,wers1238,FLOW,w e k e l,783,robinsonap
+279214,kaer1234,FLOW,t o t o ʔ,780,robinsonap
+279215,lamm1241,FLOW,s a l i l i,781,robinsonap
+279216,adan1251,FLOW,t a w o i,779,robinsonap
+279217,sawi1256,FLOW,w i i k a l a,783,robinsonap
+279218,nede1245,FLOW,k a r a r i,782,robinsonap
+279219,kelo1247,FLOW,t ə w ɛ ɛ l,779,robinsonap
+279220,teiw1235,HOLD,w a n p i n,1037,robinsonap
+279221,abui1241,HOLD,p u n a,1031,robinsonap
+279222,blag1240,HOLD,p e m p i n a,1033,robinsonap
+279223,kama1365,HOLD,f u n,1031,robinsonap
+279224,wers1238,HOLD,w o i ŋ,1038,robinsonap
+279225,wers1238,HOLD,w o i ŋ,1038,robinsonap
+279226,kaer1234,HOLD,p i n o ʔ,1034,robinsonap
+279227,lamm1241,HOLD,p i n n i,1034,robinsonap
+279228,adan1251,HOLD,ʔ a p u n,1032,robinsonap
+279229,sawi1256,HOLD,g a w u n n i,1036,robinsonap
+279230,sawi1256,HOLD,g a w u n n i,1036,robinsonap
+279231,nede1245,HOLD,p i n n i,1034,robinsonap
+279232,kelo1247,HOLD,g o p ʊ ɪ n,1035,robinsonap
+279233,teiw1235,TIE,p r a a t,2152,robinsonap
+279234,abui1241,TIE,k o d e,2147,robinsonap
+279235,blag1240,TIE,n o d a ŋ,2149,robinsonap
+279236,kama1365,TIE,f a l,2151,robinsonap
+279237,wers1238,TIE,l e k o i,2156,robinsonap
+279238,kaer1234,TIE,p a t o ʔ,2150,robinsonap
+279239,lamm1241,TIE,t i d d i,2153,robinsonap
+279240,adan1251,TIE,ʔ a p e tʃ e ʔ,2148,robinsonap
+279241,sawi1256,TIE,t a l i ŋ,2155,robinsonap
+279242,nede1245,TIE,a a f i,2154,robinsonap
+279243,kelo1247,TIE,p ɑ t,2152,robinsonap
+279244,teiw1235,PLAY,i g a ʔ m i a r,1562,robinsonap
+279245,abui1241,PLAY,m u i l a,1554,robinsonap
+279246,blag1240,PLAY,m u m a l,1556,robinsonap
+279247,kama1365,PLAY,k o l k o l,1557,robinsonap
+279248,wers1238,PLAY,n e l a l i,1561,robinsonap
+279249,kaer1234,PLAY,m u l a j,1554,robinsonap
+279250,lamm1241,PLAY,m u d a l i,1559,robinsonap
+279251,adan1251,PLAY,h a ʔ o r,1555,robinsonap
+279252,sawi1256,PLAY,g a l a a l i,1561,robinsonap
+279253,nede1245,PLAY,i g a m o j a,1560,robinsonap
+279254,kelo1247,PLAY,k u k ʊ i,1558,robinsonap
+279255,teiw1235,PULL,k i r i,1573,robinsonap
+279256,abui1241,PULL,h a f i k,1568,robinsonap
+279257,blag1240,PULL,a v a k,1568,robinsonap
+279258,kama1365,PULL,i l e h,1571,robinsonap
+279259,wers1238,PULL,g e m e k e ŋ,1574,robinsonap
+279260,kaer1234,PULL,k e r,1570,robinsonap
+279261,lamm1241,PULL,b i d d i,1572,robinsonap
+279262,adan1251,PULL,ʔ a b i ʔ i ŋ,1569,robinsonap
+279263,sawi1256,PULL,g a m i i k a ŋ,1574,robinsonap
+279264,nede1245,PULL,k i r i,1573,robinsonap
+279265,kelo1247,PULL,g ə b ɪ k,1568,robinsonap
+279266,teiw1235,PUSH,d u m a r,1582,robinsonap
+279267,abui1241,PUSH,h a s u o ŋ r a,1575,robinsonap
+279268,blag1240,PUSH,t o b a ŋ,1577,robinsonap
+279269,kama1365,PUSH,s o o r a n,1578,robinsonap
+279270,wers1238,PUSH,g b o k,1581,robinsonap
+279271,kaer1234,PUSH,g ə t o b u ŋ,1577,robinsonap
+279272,lamm1241,PUSH,t u m b u,1580,robinsonap
+279273,adan1251,PUSH,a d o ʔ o,1576,robinsonap
+279274,sawi1256,PUSH,g a b o o k a,1581,robinsonap
+279275,nede1245,PUSH,d o b a,1577,robinsonap
+279276,kelo1247,PUSH,g r u u m,1579,robinsonap
+279277,teiw1235,TURN,w a n p i a r,2210,robinsonap
+279278,abui1241,TURN,h a l i k d a,2203,robinsonap
+279279,blag1240,TURN,e b a ŋ,2205,robinsonap
+279280,kama1365,TURN,m i a k i i,2207,robinsonap
+279281,wers1238,TURN,m i g e t e n u k u,2211,robinsonap
+279282,kaer1234,TURN,d a n,2206,robinsonap
+279283,adan1251,TURN,ʔ d i m i ŋ,2204,robinsonap
+279284,sawi1256,TURN,g a w a a r i,2208,robinsonap
+279285,nede1245,TURN,w a g i j a,2209,robinsonap
+279286,kelo1247,TURN,g ə w ɑ r,2208,robinsonap
+279287,teiw1235,CHOOSE,w a n t r a j,343,robinsonap
+279288,abui1241,CHOOSE,a h i a,334,robinsonap
+279289,blag1240,CHOOSE,h a j,336,robinsonap
+279290,kama1365,CHOOSE,w o i i,338,robinsonap
+279291,wers1238,CHOOSE,i l e m e l,344,robinsonap
+279292,kaer1234,CHOOSE,t ə r a q o,337,robinsonap
+279293,lamm1241,CHOOSE,n u t a,340,robinsonap
+279294,adan1251,CHOOSE,t a r a ʔ a,335,robinsonap
+279295,sawi1256,CHOOSE,i l u l u ŋ,342,robinsonap
+279296,nede1245,CHOOSE,t a l a tʃ i,341,robinsonap
+279297,kelo1247,CHOOSE,i g i n,339,robinsonap
+279298,teiw1235,GROW,k u t a n,946,robinsonap
+279299,abui1241,GROW,m e r a ŋ,941,robinsonap
+279300,blag1240,GROW,b i l a ŋ,943,robinsonap
+279301,kama1365,GROW,b o o,944,robinsonap
+279302,wers1238,GROW,k u r,948,robinsonap
+279303,kaer1234,GROW,j i l i ŋ,943,robinsonap
+279304,lamm1241,GROW,i l a ŋ,943,robinsonap
+279305,adan1251,GROW,a b o w o ʔ,942,robinsonap
+279306,sawi1256,GROW,k a r u,947,robinsonap
+279307,nede1245,GROW,k u t a,946,robinsonap
+279308,kelo1247,GROW,b a h,945,robinsonap
+279309,teiw1235,SQUEEZE,p r u u,1935,robinsonap
+279310,abui1241,SQUEEZE,a dʒ a k,1932,robinsonap
+279311,blag1240,SQUEEZE,p e m e k,1934,robinsonap
+279312,kama1365,SQUEEZE,a l e h,1936,robinsonap
+279313,wers1238,SQUEEZE,a r e s i,1940,robinsonap
+279314,kaer1234,SQUEEZE,p ə r u,1935,robinsonap
+279315,lamm1241,SQUEEZE,d i ŋ,1938,robinsonap
+279316,adan1251,SQUEEZE,ʔ a m a t a ŋ,1933,robinsonap
+279317,nede1245,SQUEEZE,m ə l a tʃ i,1939,robinsonap
+279318,kelo1247,SQUEEZE,e p,1937,robinsonap
+279319,teiw1235,SELL,ʔ a n,1763,robinsonap
+279320,abui1241,SELL,b a l i k,1758,robinsonap
+279321,blag1240,SELL,b a l i,1758,robinsonap
+279322,kama1365,SELL,b a i l a,1758,robinsonap
+279323,kaer1234,SELL,m e a n o,1759,robinsonap
+279324,lamm1241,SELL,a r i ŋ,1761,robinsonap
+279325,sawi1256,SELL,w e,1762,robinsonap
+279326,kelo1247,SELL,t a a n,1760,robinsonap
+279327,teiw1235,OPEN,ħ a s,1499,robinsonap
+279328,abui1241,OPEN,w e h a l i e l,1490,robinsonap
+279329,blag1240,OPEN,b a k u ŋ,1492,robinsonap
+279330,kama1365,OPEN,s u i,1494,robinsonap
+279331,wers1238,OPEN,l a k,1498,robinsonap
+279332,kaer1234,OPEN,b e l i ŋ,1493,robinsonap
+279333,lamm1241,OPEN,s a k k i ŋ,1496,robinsonap
+279334,adan1251,OPEN,d u l i ŋ,1491,robinsonap
+279335,sawi1256,OPEN,l a k a,1498,robinsonap
+279336,nede1245,OPEN,tʃ a k a n a,1497,robinsonap
+279337,kelo1247,OPEN,a s,1495,robinsonap
+279338,teiw1235,SHUT,s a b a r,1813,robinsonap
+279339,abui1241,SHUT,w e h a i,1806,robinsonap
+279340,blag1240,SHUT,v e n t e r i ŋ,1808,robinsonap
+279341,kama1365,SHUT,t a n,1809,robinsonap
+279342,wers1238,SHUT,l e t e r,1810,robinsonap
+279343,kaer1234,SHUT,w a n t e r i ŋ,1808,robinsonap
+279344,lamm1241,SHUT,t i a r i ŋ,1811,robinsonap
+279345,adan1251,SHUT,w a t ɛ l ɛ,1807,robinsonap
+279346,sawi1256,SHUT,t i i r a,1812,robinsonap
+279347,kelo1247,SHUT,u t e r,1810,robinsonap
+279348,teiw1235,CLIMB,m i r,354,robinsonap
+279349,abui1241,CLIMB,m i r a,354,robinsonap
+279350,blag1240,CLIMB,o a + h i r a,355,robinsonap
+279351,kama1365,CLIMB,p a n,357,robinsonap
+279352,wers1238,CLIMB,w a k a r,360,robinsonap
+279353,kaer1234,CLIMB,j e k e ŋ,356,robinsonap
+279354,lamm1241,CLIMB,k a r a k a s,358,robinsonap
+279355,adan1251,CLIMB,m i d i ʔ,354,robinsonap
+279356,sawi1256,CLIMB,m a d a,354,robinsonap
+279357,nede1245,CLIMB,s i r a,359,robinsonap
+279358,kelo1247,CLIMB,m d e,354,robinsonap
+279359,teiw1235,RIGHT,j i d a n,1640,robinsonap
+279360,abui1241,RIGHT,t e i k a ŋ,1637,robinsonap
+279361,blag1240,RIGHT,t a t a ŋ + a w,1639,robinsonap
+279362,kama1365,RIGHT,k a ŋ,1637,robinsonap
+279363,wers1238,RIGHT,k a ŋ,1637,robinsonap
+279364,kaer1234,RIGHT,t e n e j,1638,robinsonap
+279365,lamm1241,RIGHT,j a d d i ŋ,1640,robinsonap
+279366,adan1251,RIGHT,t n e,1638,robinsonap
+279367,sawi1256,RIGHT,k a a ŋ,1637,robinsonap
+279368,nede1245,RIGHT,j e d i ŋ,1640,robinsonap
+279369,kelo1247,RIGHT,t ə n ɛ,1638,robinsonap
+279370,teiw1235,LEFT,d e ħ e r,1175,robinsonap
+279371,abui1241,LEFT,t e i b i k i,1167,robinsonap
+279372,blag1240,LEFT,t a t a ŋ + dʒ a s i,1169,robinsonap
+279373,kama1365,LEFT,e l a,1171,robinsonap
+279374,wers1238,LEFT,s o r o ŋ,1176,robinsonap
+279375,kaer1234,LEFT,w a ħ o r,1170,robinsonap
+279376,lamm1241,LEFT,i k k i,1173,robinsonap
+279377,adan1251,LEFT,f i ʔ i ŋ,1168,robinsonap
+279378,nede1245,LEFT,t a l a ʔ o,1174,robinsonap
+279379,kelo1247,LEFT,i i k,1172,robinsonap

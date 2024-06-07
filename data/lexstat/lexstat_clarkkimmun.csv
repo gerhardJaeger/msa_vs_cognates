@@ -1,0 +1,687 @@
+id,doculect,concept,forms,lexstatid,db
+145602,kimm1245,ONE,ɑ ¹¹,349,clarkkimmun
+145603,kimm1245,TEN,s a p ¹¹,504,clarkkimmun
+145604,kimm1245,HUNDRED,a p ¹¹ + p ɛ ²¹⁴,263,clarkkimmun
+145605,kimm1245,THOUSAND,a ¹¹ + t i n ⁵²,514,clarkkimmun
+145606,kimm1245,ELEVEN,s a p ¹¹ + b j ɛ t ³³,156,clarkkimmun
+145607,kimm1245,THIRTEEN,s a p ¹¹ + s a m ²¹⁴,511,clarkkimmun
+145608,kimm1245,FOURTEEN,s a p ¹¹ + θ e ³⁵,198,clarkkimmun
+145609,kimm1245,FIFTEEN,s a p ¹¹ + ŋ o ³⁴¹,176,clarkkimmun
+145610,kimm1245,SIXTEEN,s a p ¹¹ + g u ³³,432,clarkkimmun
+145611,kimm1245,SEVENTEEN,s a p ¹¹ + k j ɛ t ⁵²,414,clarkkimmun
+145612,kimm1245,EIGHTEEN,s a p ¹¹ + p i t ³¹,154,clarkkimmun
+145613,kimm1245,TWO,i ³⁵,533,clarkkimmun
+145614,kimm1245,TWENTY,n i ³³ + s a p ¹¹,532,clarkkimmun
+145615,kimm1245,THREE,p o ²¹⁴,516,clarkkimmun
+145616,kimm1245,FOUR,p j e ²¹⁴,197,clarkkimmun
+145617,kimm1245,FIVE,p j a ²¹⁴,184,clarkkimmun
+145618,kimm1245,SIX,k j ɔ ²¹⁴,431,clarkkimmun
+145619,kimm1245,EIGHT,j ɐ t ³³,153,clarkkimmun
+145620,kimm1245,NINE,d u ¹¹,342,clarkkimmun
+145621,kimm1245,I,j a ²¹⁴,267,clarkkimmun
+145622,kimm1245,I,j a ⁵³,267,clarkkimmun
+145623,kimm1245,BE ALIVE,s a ŋ ³¹,30,clarkkimmun
+145624,kimm1245,ANCESTORS,θ ɐ m ¹¹ + s ɐ w ⁴⁴,2,clarkkimmun
+145625,kimm1245,ANIMAL,θ u ŋ ³⁵ + h a w ³³,3,clarkkimmun
+145626,kimm1245,ANT,θ ɐ w ³³,6,clarkkimmun
+145627,kimm1245,APPLE,m a k ²¹ + p o m ³¹ + p j o ³³,7,clarkkimmun
+145628,kimm1245,ARM,p u ⁰ + θ e ⁵²,8,clarkkimmun
+145629,kimm1245,ASH,t o ³⁴¹ + s aː j ¹¹,10,clarkkimmun
+145630,kimm1245,ASH,s ɑ j ³³,11,clarkkimmun
+145631,kimm1245,AWL,θ u n ²¹⁴,13,clarkkimmun
+145632,kimm1245,AXE,p o ³³,14,clarkkimmun
+145633,kimm1245,AXE,p ɐ w ⁴⁴,15,clarkkimmun
+145634,kimm1245,BACK,t a n ³³ + k aː n ⁵³,16,clarkkimmun
+145635,kimm1245,BACK,k ɐ ⁰ + t a n ⁴⁴ + k a ŋ ²¹⁴,17,clarkkimmun
+145636,kimm1245,BAD,h o ³³,18,clarkkimmun
+145637,kimm1245,BAG,t i ³³,20,clarkkimmun
+145638,kimm1245,BAMBOO,l aː w ¹¹,22,clarkkimmun
+145639,kimm1245,BAMBOO SHOOT,l a w ¹¹ + b j a j ²¹,23,clarkkimmun
+145640,kimm1245,RIVERBANK,w ɐ m ²¹⁴ + s i n ³¹,392,clarkkimmun
+145641,kimm1245,BASKET,d aː n ⁵³,25,clarkkimmun
+145642,kimm1245,BASKET,g j ɑ ŋ ¹¹ + m ɑ w ³¹,26,clarkkimmun
+145643,kimm1245,BAT,k l ɐ ⁰ + b u j ⁵²,27,clarkkimmun
+145644,kimm1245,BEAN OR PEA,t ɔ p ³¹,32,clarkkimmun
+145645,kimm1245,BEAN OR PEA,t ɔ p ³³,32,clarkkimmun
+145646,kimm1245,BEAR,k j a p ²¹,33,clarkkimmun
+145647,kimm1245,BEAR,k j ɐ p ³³,33,clarkkimmun
+145648,kimm1245,BEARD,θ ɔ m ⁵²,34,clarkkimmun
+145649,kimm1245,BEE,m ə j ³⁴¹,35,clarkkimmun
+145650,kimm1245,BEE,m ɐ j ³⁴¹ + m u ŋ ⁴⁴,35,clarkkimmun
+145651,kimm1245,BELOW OR UNDER,d i ⁴⁴,36,clarkkimmun
+145652,kimm1245,BETELNUT,θ ɛ n ⁵³,37,clarkkimmun
+145653,kimm1245,BIRD,n ɔ ²¹,39,clarkkimmun
+145654,kimm1245,BIRD,n ɔ ³³,39,clarkkimmun
+145655,kimm1245,BIRD NEST,n ɔ ²¹ + g j a w ³⁴¹,40,clarkkimmun
+145656,kimm1245,BITTER,i m ²¹⁴,42,clarkkimmun
+145657,kimm1245,BLACK,k j a ⁵³,43,clarkkimmun
+145658,kimm1245,BLACK,g j aː ²¹⁴,43,clarkkimmun
+145659,kimm1245,BLANKET,θ ɔ ŋ ³⁵,44,clarkkimmun
+145660,kimm1245,BLANKET,θ ɔ ŋ ⁵²,44,clarkkimmun
+145661,kimm1245,BLIND,m ɐ j ³³ + b u ³³,45,clarkkimmun
+145662,kimm1245,BLOOD,s aː m ¹¹,46,clarkkimmun
+145663,kimm1245,BLOOD,θ aː m ³³,47,clarkkimmun
+145664,kimm1245,BOAT,d aː ŋ ¹¹,50,clarkkimmun
+145665,kimm1245,BOAT,d ɑ ŋ ³³,50,clarkkimmun
+145666,kimm1245,BODY,θ i n ⁵²,51,clarkkimmun
+145667,kimm1245,BOILED WATER,w ɔ m ⁵³ + v ə j ¹³,52,clarkkimmun
+145668,kimm1245,BONE,θ u ŋ ³³,53,clarkkimmun
+145669,kimm1245,BONE,θ u ŋ ⁴⁴,53,clarkkimmun
+145670,kimm1245,BORE,t u ŋ ³¹ + k ɐ w ⁴⁴,54,clarkkimmun
+145671,kimm1245,BOWL,w a n ³³,55,clarkkimmun
+145672,kimm1245,BOWL,w ɐ n ⁴⁴,56,clarkkimmun
+145673,kimm1245,BRACELET,s ɑ m ¹¹,57,clarkkimmun
+145674,kimm1245,BRAIN,p j e ³³ + l e ²¹,58,clarkkimmun
+145675,kimm1245,BRAIN,p i ⁴⁴ + l e ⁴⁴,59,clarkkimmun
+145676,kimm1245,BRANCH,g j a ŋ ³³ + gʷ aː ³¹,60,clarkkimmun
+145677,kimm1245,BRIGHT,gʷ a ŋ ⁵³ + d a ŋ ³⁵,62,clarkkimmun
+145678,kimm1245,OLDER BROTHER (OF WOMAN),p ɛ ⁵³,346,clarkkimmun
+145679,kimm1245,YOUNGER BROTHER (OF WOMAN),j o ³⁴¹,579,clarkkimmun
+145680,kimm1245,YOUNGER BROTHER (OF MAN),n a w ³⁴¹,578,clarkkimmun
+145681,kimm1245,BUFFALO,ŋ ɔ ŋ ³³ + b u ¹¹,63,clarkkimmun
+145682,kimm1245,BUFFALO,ŋ ɔ ŋ ¹¹,63,clarkkimmun
+145683,kimm1245,BUTTOCKS,k ɐ ⁰ + t l a j ⁴⁴ + k ɐ ⁵²,67,clarkkimmun
+145684,kimm1245,BUTTERFLY,p l u ŋ ³¹ + b l o ³⁴¹,66,clarkkimmun
+145685,kimm1245,BUTTOCKS,k ə ⁰ + d aː j ³³,67,clarkkimmun
+145686,kimm1245,CARROT,t ə ⁰ + b a k ²¹ + p j o ³³,69,clarkkimmun
+145687,kimm1245,SHOULDER POLE,n ɐ ⁰ + m u ŋ ⁵²,426,clarkkimmun
+145688,kimm1245,CAT,m aː w ³¹,71,clarkkimmun
+145689,kimm1245,CAT,m aː w ¹¹,71,clarkkimmun
+145690,kimm1245,CATERPILLAR,b u ŋ ³³ + b l ɐ w ³⁴¹,72,clarkkimmun
+145691,kimm1245,CENTIPEDE,θ a p ⁵²,74,clarkkimmun
+145692,kimm1245,CHARCOAL,t ɐ w ³¹ + t ɑ n ⁵²,75,clarkkimmun
+145693,kimm1245,CHEEK,m i n ³⁵ + u j ⁵³,76,clarkkimmun
+145694,kimm1245,CHEST,k ɐ ⁰ + l a p ³¹,77,clarkkimmun
+145695,kimm1245,CHILD,s ə j ³³,78,clarkkimmun
+145696,kimm1245,CHILD,m u n ¹¹ + s ɐ j ⁴⁴,79,clarkkimmun
+145697,kimm1245,CHILI PEPPER,d u ŋ ³³ + m aː t ³³,80,clarkkimmun
+145698,kimm1245,CHIN,k l a ŋ ⁵³ + ŋ a m ³⁴¹,81,clarkkimmun
+145699,kimm1245,CIGARETTE,j i n ³⁵ + b j aː t ³¹,83,clarkkimmun
+145700,kimm1245,CLIFF,g j a w ⁵³ + b ɛ ŋ ¹³,84,clarkkimmun
+145701,kimm1245,CLIFF,g j a w ²¹⁴ + p j e ³¹,84,clarkkimmun
+145702,kimm1245,CLOTH,b u j ³⁵,85,clarkkimmun
+145703,kimm1245,CLOTHES,g u j ⁵³,86,clarkkimmun
+145704,kimm1245,CLOTHES,ŋ u j ²¹⁴ + kʷ ɑ ⁵²,87,clarkkimmun
+145705,kimm1245,CLOUD,v a n ¹³,88,clarkkimmun
+145706,kimm1245,CLOUD,v ɐ n ¹³,88,clarkkimmun
+145707,kimm1245,CLOUDY DAY,g u ŋ ³¹ + n a j ³¹ + v a n ¹³,89,clarkkimmun
+145708,kimm1245,COCKROACH,b j a n ³⁴¹,90,clarkkimmun
+145709,kimm1245,COCONUT,m a k ²¹ + p a w ³³ + p j o ³³,91,clarkkimmun
+145710,kimm1245,COCONUT TREE,m a k ²¹ + p a w ³¹ + g j a ŋ ¹³,92,clarkkimmun
+145711,kimm1245,COFFIN,b i n ³³,93,clarkkimmun
+145712,kimm1245,COLD,s ɔ ŋ ⁴⁴,94,clarkkimmun
+145713,kimm1245,COLD (OF WEATHER),θ i ŋ ¹³,96,clarkkimmun
+145714,kimm1245,COLD (OF WEATHER),θ i ŋ ³⁵,96,clarkkimmun
+145715,kimm1245,COPPER,t ɔ ŋ ¹¹,102,clarkkimmun
+145716,kimm1245,MAIZE,b u ŋ ³³ + m ɐ j ³⁴¹,306,clarkkimmun
+145717,kimm1245,CORPSE,m u n ¹¹ + t ɐ j ³³,103,clarkkimmun
+145718,kimm1245,COTTON,b u j ³³ + m i n ³¹,104,clarkkimmun
+145719,kimm1245,"LID (COVER, CAP)",g a j ¹³,291,clarkkimmun
+145720,kimm1245,COW,ŋ ɔ ŋ ³³ + w aː ŋ ³¹,107,clarkkimmun
+145721,kimm1245,CATTLE,ŋ ɔ ¹¹ + w aː ŋ ¹¹,73,clarkkimmun
+145722,kimm1245,CRICKET,k j ɛ ŋ ²¹⁴ + k j o ³¹,108,clarkkimmun
+145723,kimm1245,CROW,k u ⁰ + aː ³¹,109,clarkkimmun
+145724,kimm1245,CUCUMBER,kʷ a ⁵³,112,clarkkimmun
+145725,kimm1245,CUCUMBER,kʷ a ²¹⁴ + k j o ³¹,113,clarkkimmun
+145726,kimm1245,DAUGHTER,m u n ¹¹ + s ɑ ⁵²,117,clarkkimmun
+145727,kimm1245,DEAD,d a j ³³,118,clarkkimmun
+145728,kimm1245,DESCENDANTS,s e ⁴⁴ + θ u n ²¹⁴,121,clarkkimmun
+145729,kimm1245,DISH,b aː n ³¹,128,clarkkimmun
+145730,kimm1245,DITCH,θ i n ³⁵ + w ɐ m ²¹⁴,129,clarkkimmun
+145731,kimm1245,DOG,k l u ³³,130,clarkkimmun
+145732,kimm1245,DOG,k l u ⁴⁴,130,clarkkimmun
+145733,kimm1245,DOOR,k j ɛ ŋ ³¹,131,clarkkimmun
+145734,kimm1245,DOOR,k j ɛ ŋ ¹¹,131,clarkkimmun
+145735,kimm1245,DRAGON,k u ŋ ²¹⁴,132,clarkkimmun
+145736,kimm1245,DRAGONFLY,k j ɛ ŋ ²¹⁴ + n u ŋ ⁴⁴,133,clarkkimmun
+145737,kimm1245,DREAM,b e ³⁵,135,clarkkimmun
+145738,kimm1245,DRY,g a j ⁵²,139,clarkkimmun
+145739,kimm1245,DUCK,aː p ⁵³,141,clarkkimmun
+145740,kimm1245,DUCK,aː p ¹¹,141,clarkkimmun
+145741,kimm1245,DUST,n i ³⁵ + b u ŋ ³⁵,142,clarkkimmun
+145742,kimm1245,EAGLE,k l aː ŋ ⁴⁴,143,clarkkimmun
+145743,kimm1245,EAR,m ə ⁰ + n ɔ m ³¹,144,clarkkimmun
+145744,kimm1245,EARLY,g j o ⁴⁴,145,clarkkimmun
+145745,kimm1245,EARRING,b i n ⁵²,146,clarkkimmun
+145746,kimm1245,EAR,m ɐ ⁰ + n ɔ m ¹¹,144,clarkkimmun
+145747,kimm1245,EARTH (SOIL),n i ⁵²,147,clarkkimmun
+145748,kimm1245,EARTH (SOIL),n i ³⁵,147,clarkkimmun
+145749,kimm1245,EARTHWORM,d u ŋ ³¹ + n aː ŋ ⁵³,148,clarkkimmun
+145750,kimm1245,EARTHWORM,n u ŋ ¹¹ + n a ŋ ²¹⁴,148,clarkkimmun
+145751,kimm1245,EAST,t ɔ ŋ ⁵³ + f aː n ¹³,149,clarkkimmun
+145752,kimm1245,EAST,m ə ⁰ + n ɔ j ³⁵ + s ɛ t ³¹ + f aː n ¹³,150,clarkkimmun
+145753,kimm1245,EASY,h ə j ¹¹,151,clarkkimmun
+145754,kimm1245,EGG,k j a w ¹³,152,clarkkimmun
+145755,kimm1245,EGG,k j a w ³⁵,152,clarkkimmun
+145756,kimm1245,AUBERGINE,k ə ⁰ + d a ŋ ³³,12,clarkkimmun
+145757,kimm1245,AUBERGINE,k ɐ ⁰ + t a ŋ ⁴⁴,12,clarkkimmun
+145758,kimm1245,ELEPHANT,k j a ŋ ³⁴¹,155,clarkkimmun
+145759,kimm1245,FAECES (EXCREMENT),d aː j ³³,163,clarkkimmun
+145760,kimm1245,FAECES (EXCREMENT),d ɐ j ⁴⁴,164,clarkkimmun
+145761,kimm1245,EYE,m ə j ²¹,158,clarkkimmun
+145762,kimm1245,EYE,m ɐ j ³³,158,clarkkimmun
+145763,kimm1245,EYEBROW,m ə j ²¹ + j a p ³⁵ + p j e ⁵³,159,clarkkimmun
+145764,kimm1245,EYEBROW,m ɐ j ³³ + m aː j ³¹,160,clarkkimmun
+145765,kimm1245,EYELID,m ə j ²¹ + d u p ²¹,161,clarkkimmun
+145766,kimm1245,FACE,m i n ³⁵,162,clarkkimmun
+145767,kimm1245,FACE,m i n ⁵²,162,clarkkimmun
+145768,kimm1245,FAR,g ɔ ²¹⁴,167,clarkkimmun
+145769,kimm1245,FAT (OF MEAT AND FOOD),m ə j ³⁵ + p i ³¹,171,clarkkimmun
+145770,kimm1245,FAT (OF MEAT AND FOOD),m ɐ j ⁵²,171,clarkkimmun
+145771,kimm1245,FATHER,f aː ³³,172,clarkkimmun
+145772,kimm1245,PATERNAL UNCLE (FATHER'S OLDER BROTHER),p ɛ ²¹⁴,353,clarkkimmun
+145773,kimm1245,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),j o ³⁴¹,354,clarkkimmun
+145774,kimm1245,FEATHER,n ɔ ²¹ + p j e ⁵³,174,clarkkimmun
+145775,kimm1245,FINGER,p u ³⁴¹ + d ɔ ⁵³,177,clarkkimmun
+145776,kimm1245,FINGER,p u ⁰ + d ɔ ³¹,177,clarkkimmun
+145777,kimm1245,FINGERNAIL,p u ³⁴¹ + d ɔ ⁵³ + w a j ¹³,178,clarkkimmun
+145778,kimm1245,FINGERNAIL,p u ⁰ + d ɔ ³¹ + w a j ³⁵,178,clarkkimmun
+145779,kimm1245,FIRE,t o ³⁴¹,179,clarkkimmun
+145780,kimm1245,FIRE,t ɐ w ³¹,180,clarkkimmun
+145781,kimm1245,TONGS,p j a ⁴⁴,525,clarkkimmun
+145782,kimm1245,FIREWOOD,θ ɑ ŋ ¹¹,181,clarkkimmun
+145783,kimm1245,FISH,b j a w ³⁴¹,182,clarkkimmun
+145784,kimm1245,FISH,b j a w ³⁴¹,182,clarkkimmun
+145785,kimm1245,FISHNET,l ɛ ³³,183,clarkkimmun
+145786,kimm1245,FLEA,k l ɐ ⁰ + m u ŋ ⁵²,185,clarkkimmun
+145787,kimm1245,HIGH TIDE,w ɔ m ⁵³ + j aː m ¹³,251,clarkkimmun
+145788,kimm1245,FLOWER,g j a ŋ ³³ + f aː ŋ ³¹,188,clarkkimmun
+145789,kimm1245,FLOWER,f a ŋ ¹¹,189,clarkkimmun
+145790,kimm1245,FLY (INSECT),k j i ŋ ⁵³ + g j ə m ³⁵,190,clarkkimmun
+145791,kimm1245,FLY (INSECT),k j ɛ ŋ ²¹⁴ + g j ɐ m ⁵²,190,clarkkimmun
+145792,kimm1245,FOG,k j aː ³⁵,193,clarkkimmun
+145793,kimm1245,FOOT,θ a w ¹³,194,clarkkimmun
+145794,kimm1245,FOREHEAD,m i n ³⁵ + d u p ²¹,195,clarkkimmun
+145795,kimm1245,FOREST,k i m ³¹,196,clarkkimmun
+145796,kimm1245,FOREST,k i m ¹¹,196,clarkkimmun
+145797,kimm1245,FRAGRANT,d a ŋ ²¹⁴,199,clarkkimmun
+145798,kimm1245,FRIEND,p ɛ w ³⁵,200,clarkkimmun
+145799,kimm1245,FRIEND,l o ³³ + t o j ²¹,201,clarkkimmun
+145800,kimm1245,FRUIT,g j a ŋ ³³ + p j o ³³,202,clarkkimmun
+145801,kimm1245,FRUIT,p j o ⁴⁴,203,clarkkimmun
+145802,kimm1245,FULL,b ɔ ŋ ⁵²,205,clarkkimmun
+145803,kimm1245,GARLIC,t u n ³⁵ + p j e ³³,207,clarkkimmun
+145804,kimm1245,GARLIC,t u n ⁵²,208,clarkkimmun
+145805,kimm1245,GHOST,m aː n ¹¹,209,clarkkimmun
+145806,kimm1245,GINGER,θ u ŋ ³⁵,210,clarkkimmun
+145807,kimm1245,GOAT,j u ŋ ¹¹,216,clarkkimmun
+145808,kimm1245,GOLD,s ə m ⁵³,217,clarkkimmun
+145809,kimm1245,GOLD,s ɐ m ²¹⁴,217,clarkkimmun
+145810,kimm1245,GOOD,g ɔ ŋ ³³ + v e ³⁴¹,218,clarkkimmun
+145811,kimm1245,GRANDFATHER,k l ɑ w ³⁴¹,220,clarkkimmun
+145812,kimm1245,GRANDMOTHER,b o ³⁴¹,221,clarkkimmun
+145813,kimm1245,GRASS,m aː ¹¹,222,clarkkimmun
+145814,kimm1245,GRASS,m aː ³³,222,clarkkimmun
+145815,kimm1245,GRASSHOPPER,k j ɛ ŋ ²¹⁴ + b o ³¹,223,clarkkimmun
+145816,kimm1245,GRAVE,θ o ⁴⁴,224,clarkkimmun
+145817,kimm1245,GREEN,m ɛ ŋ ⁵³,225,clarkkimmun
+145818,kimm1245,GREEN,m ɛ ŋ ²¹⁴,225,clarkkimmun
+145819,kimm1245,GROOM,l ɑ ŋ ¹¹,227,clarkkimmun
+145820,kimm1245,HAIL,p j ɔ ²¹,230,clarkkimmun
+145821,kimm1245,HAIR,p j e ³³ + d o ŋ ⁵³,231,clarkkimmun
+145822,kimm1245,HAIR (BODY),p j e ²¹⁴,232,clarkkimmun
+145823,kimm1245,HAIR (HEAD),p i ³³ + d ɔ ŋ ²¹⁴,233,clarkkimmun
+145824,kimm1245,HALF,a ³³ + f aː n ¹³,234,clarkkimmun
+145825,kimm1245,HAMMER,p ɐ w ⁴⁴,235,clarkkimmun
+145826,kimm1245,HAND,p u ³⁴¹,237,clarkkimmun
+145827,kimm1245,HAND,p u ⁰ + p e n ⁴⁴,237,clarkkimmun
+145828,kimm1245,HARROW (TOOL),t u ŋ ¹¹ + p a ¹¹,238,clarkkimmun
+145829,kimm1245,HE OR SHE OR IT,θ i ⁵³,240,clarkkimmun
+145830,kimm1245,HE OR SHE OR IT,m u n ³¹,241,clarkkimmun
+145831,kimm1245,HEAD,p j e ³³,242,clarkkimmun
+145832,kimm1245,HEAD,p j e ⁴⁴,242,clarkkimmun
+145833,kimm1245,HEART,θ i m ⁵³ + t aː w ³¹,247,clarkkimmun
+145834,kimm1245,HEART,θ i n ²¹⁴ + t a w ³¹,247,clarkkimmun
+145835,kimm1245,HEAVY,n i ³³,248,clarkkimmun
+145836,kimm1245,HIGH,g j a ŋ ⁵²,250,clarkkimmun
+145837,kimm1245,HIP,k ɐ ⁰ + t l a j ⁴⁴ + t u j ⁴⁴,252,clarkkimmun
+145838,kimm1245,HOLE,k ɔ t ³⁵,254,clarkkimmun
+145839,kimm1245,HOOF,θ a w ³⁵ + d ɔ ³¹ + w a j ³⁵,255,clarkkimmun
+145840,kimm1245,HORIZON,g u ŋ ³¹ + s i n ³¹,256,clarkkimmun
+145841,kimm1245,HORN (ANATOMY),k j o ŋ ⁵³,257,clarkkimmun
+145842,kimm1245,HORN (ANATOMY),k j ɔ ŋ ²¹⁴,257,clarkkimmun
+145843,kimm1245,HORSE,m a ³⁴¹,258,clarkkimmun
+145844,kimm1245,HOST,p j ɑ w ³¹ + m u n ³¹,259,clarkkimmun
+145845,kimm1245,HOT,k j ɔ m ²¹⁴,260,clarkkimmun
+145846,kimm1245,HOUSE,p j a w ³³,261,clarkkimmun
+145847,kimm1245,HOUSE,p j ɑ w ⁴⁴,261,clarkkimmun
+145848,kimm1245,LIZARD,k ə ⁰ + d u n ³¹,298,clarkkimmun
+145849,kimm1245,HOW MANY,b u ³¹ + l aː j ³⁵,262,clarkkimmun
+145850,kimm1245,HUSBAND,l aː ŋ ³¹,265,clarkkimmun
+145851,kimm1245,HUSBAND,f ɑ ⁴⁴,266,clarkkimmun
+145852,kimm1245,ICE,w ɔ m ⁵³ + k a t ³¹,268,clarkkimmun
+145853,kimm1245,INSECT,k j ɛ ŋ ²¹⁴,269,clarkkimmun
+145854,kimm1245,INSIDE,g j a ³⁴¹,270,clarkkimmun
+145855,kimm1245,INTESTINES,k l aː ŋ ¹¹,271,clarkkimmun
+145856,kimm1245,INTESTINES,k l aː ŋ ³¹,271,clarkkimmun
+145857,kimm1245,IRON,g j aː ³⁵,272,clarkkimmun
+145858,kimm1245,IRON,g j aː ⁵²,272,clarkkimmun
+145859,kimm1245,ISLAND,w ɔ m ⁵³ + g j ɛ ŋ ⁵³,273,clarkkimmun
+145860,kimm1245,LAKE,w ɔ m ⁵³ + g a p ²¹,281,clarkkimmun
+145861,kimm1245,LATE,a n ³⁵,282,clarkkimmun
+145862,kimm1245,LEAF,n ɔ m ³¹,284,clarkkimmun
+145863,kimm1245,LEAF,n ɔ m ¹¹,284,clarkkimmun
+145864,kimm1245,LEECH,k j ɐ m ²¹⁴,285,clarkkimmun
+145865,kimm1245,WATER LEECH,m a ¹¹ + w aː ŋ ¹¹,547,clarkkimmun
+145866,kimm1245,LEFT,θ a j ³³ + b u ³⁴¹,286,clarkkimmun
+145867,kimm1245,LEFT,θ a j ³³ + f aː n ¹³,287,clarkkimmun
+145868,kimm1245,LEG,θ a w ³³ + k l aː ŋ ⁵³,288,clarkkimmun
+145869,kimm1245,LEG,θ a w ³⁵,289,clarkkimmun
+145870,kimm1245,LIGHT (RADIATION),gʷ a ŋ ⁵³,293,clarkkimmun
+145871,kimm1245,LIGHT (WEIGHT),s o ⁵²,294,clarkkimmun
+145872,kimm1245,LIGHTNING,b u ŋ ³³ + b i t ³¹ + t o ⁵²,295,clarkkimmun
+145873,kimm1245,LIGHTNING,b u ŋ ²¹ + b i t ³¹ + t o ³⁴¹,295,clarkkimmun
+145874,kimm1245,LIVER,g j a n ³⁵,297,clarkkimmun
+145875,kimm1245,LIVER,g j ɐ n ⁵²,297,clarkkimmun
+145876,kimm1245,LIZARD,b ɐ ⁰ + k o ŋ ¹¹ + s aː ⁵²,299,clarkkimmun
+145877,kimm1245,LOOSE,l ɔ m ¹¹,301,clarkkimmun
+145878,kimm1245,HEAD LOUSE,θ e ¹¹,243,clarkkimmun
+145879,kimm1245,HEAD LOUSE,θ ɐ j ³³,244,clarkkimmun
+145880,kimm1245,LOW (POSITION OR HEIGHT),h a ⁵²,304,clarkkimmun
+145881,kimm1245,LUNG,k l u m ³⁵,305,clarkkimmun
+145882,kimm1245,LUNG,k l u m ⁵²,305,clarkkimmun
+145883,kimm1245,MAN,m u n ³¹ + t ɔ n ⁵³,308,clarkkimmun
+145884,kimm1245,MAN,m u n ¹¹ + f ɑ ⁴⁴,309,clarkkimmun
+145885,kimm1245,MANGO,θ i n ³¹ + d ɔ ³⁴¹ + p j o ³³,310,clarkkimmun
+145886,kimm1245,MANY,d u ŋ ³⁵,311,clarkkimmun
+145887,kimm1245,MAT,t u ŋ ³¹ + t i m ²¹,313,clarkkimmun
+145888,kimm1245,MAT,s i ³³,314,clarkkimmun
+145889,kimm1245,MATCH,j a ŋ ⁵³ + h ɔ ³³,315,clarkkimmun
+145890,kimm1245,MEDICINE,m aː ¹¹,318,clarkkimmun
+145891,kimm1245,MEDICINE,m aː ³³,318,clarkkimmun
+145892,kimm1245,MELON,kʷ a ²¹⁴,319,clarkkimmun
+145893,kimm1245,MILK,n u ³³,322,clarkkimmun
+145894,kimm1245,MILK,n u ⁴⁴,322,clarkkimmun
+145895,kimm1245,MONKEY,d u ⁵³ + k u k ³⁵,323,clarkkimmun
+145896,kimm1245,MONKEY,b i ŋ ²¹⁴,324,clarkkimmun
+145897,kimm1245,MOON,l aː ³⁵,325,clarkkimmun
+145898,kimm1245,MOON,l aː ⁴⁴,325,clarkkimmun
+145899,kimm1245,MORNING,b u ⁰ + d o m ⁵³ + t ɔ n ¹³,326,clarkkimmun
+145900,kimm1245,MORNING,b ɐ ⁰ + t ɔ m ²¹⁴ + g j o ³¹,327,clarkkimmun
+145901,kimm1245,MOSQUITO,k j ɛ ŋ ²¹⁴,328,clarkkimmun
+145902,kimm1245,MATERNAL UNCLE (MOTHER'S BROTHER),n ɑ w ³⁴¹,317,clarkkimmun
+145903,kimm1245,MATERNAL GRANDMOTHER,d i ⁴⁴,316,clarkkimmun
+145904,kimm1245,NASAL MUCUS (SNOT),b l u t ³³,336,clarkkimmun
+145905,kimm1245,MUD,n i ³⁵ + p a m ²¹,331,clarkkimmun
+145906,kimm1245,MUD,p aː m ³³,332,clarkkimmun
+145907,kimm1245,MUSHROOM,s o ⁵³,333,clarkkimmun
+145908,kimm1245,MUSHROOM,s o ²¹⁴,333,clarkkimmun
+145909,kimm1245,NAME,b u ¹³,334,clarkkimmun
+145910,kimm1245,NAME,b u ³⁵,334,clarkkimmun
+145911,kimm1245,NARROW,i t ³³,335,clarkkimmun
+145912,kimm1245,NEAR,θ a t ³³,337,clarkkimmun
+145913,kimm1245,NECK,k l aː ŋ ²¹⁴,338,clarkkimmun
+145914,kimm1245,NEEDLE (FOR SEWING),θ i m ³⁵,339,clarkkimmun
+145915,kimm1245,NEEDLE (FOR SEWING),θ i m ⁵²,339,clarkkimmun
+145916,kimm1245,NEST,g j a w ³⁴¹,340,clarkkimmun
+145917,kimm1245,MIDDAY,d u m ³¹ + n ɔ j ³⁵,321,clarkkimmun
+145918,kimm1245,NORTH,p u ³³ + f aː n ¹³,343,clarkkimmun
+145919,kimm1245,OLDER BROTHER,t ɑ ¹¹,345,clarkkimmun
+145920,kimm1245,OLDER SISTER,o ³⁴¹,347,clarkkimmun
+145921,kimm1245,OIL (HYDROPHOBIC LIQUID),m ə j ³⁵,344,clarkkimmun
+145922,kimm1245,ONION,t ɔ ŋ ³³ + p ɔ ŋ ³³,350,clarkkimmun
+145923,kimm1245,PADDY FIELD,g i ŋ ³³ + l ɔ ⁵²,351,clarkkimmun
+145924,kimm1245,PALM OF HAND,p u ³⁴¹ + p i n ³³,352,clarkkimmun
+145925,kimm1245,GROUNDNUT (PEANUT),t ə ⁰ + b w e ³³ + n i ³⁵,228,clarkkimmun
+145926,kimm1245,PEEL,l u t ³⁵,356,clarkkimmun
+145927,kimm1245,PIG,t u ŋ ³⁴¹,358,clarkkimmun
+145928,kimm1245,PIG,t u ŋ ³¹,358,clarkkimmun
+145929,kimm1245,SOW (FEMALE PIG),t u ŋ ³¹ + k j a n ³⁵,457,clarkkimmun
+145930,kimm1245,PIGLET,t u ŋ ³¹ + k j ɐ n ²¹⁴,359,clarkkimmun
+145931,kimm1245,PINEAPPLE,d u m ³¹ + d a w ³⁴¹ + p j o ³³,360,clarkkimmun
+145932,kimm1245,PLANE (TOOL),t u ŋ ¹¹ + p ɑ w ³³,361,clarkkimmun
+145933,kimm1245,PLOUGH (INSTRUMENT),t u ŋ ¹¹ + k j ɑ j ¹¹,363,clarkkimmun
+145934,kimm1245,POND,b j a w ³⁴¹ + k l aː ŋ ¹¹,364,clarkkimmun
+145935,kimm1245,PORCUPINE,d ə j ²¹,365,clarkkimmun
+145936,kimm1245,CONGEE,n a ŋ ³¹ + s u ³⁵,100,clarkkimmun
+145937,kimm1245,COOKING POT,m ɔ ³³,101,clarkkimmun
+145938,kimm1245,POTATO,f ə ⁰ + l a ŋ ⁵³ + d o j ³¹,366,clarkkimmun
+145939,kimm1245,PRICE,p ɐ ⁰ + l a j ⁵²,368,clarkkimmun
+145940,kimm1245,PUMPKIN,g j a ŋ ³³ + kʷ aː ³³,370,clarkkimmun
+145941,kimm1245,PUMPKIN,k j ɛ ŋ ¹¹ + kʷ a ²¹⁴ + w a ŋ ³¹,371,clarkkimmun
+145942,kimm1245,PUS,s a ŋ ³¹ + n u ŋ ²¹,373,clarkkimmun
+145943,kimm1245,PUS,n u ŋ ³³,374,clarkkimmun
+145944,kimm1245,RABBIT,t u ³⁵,375,clarkkimmun
+145945,kimm1245,RAIN (PRECIPITATION),b u ŋ ²¹,376,clarkkimmun
+145946,kimm1245,RAIN (PRECIPITATION),b u ŋ ³³ + l u ⁵²,376,clarkkimmun
+145947,kimm1245,RAINBOW,g u ŋ ³¹ + g aː ŋ ¹³,377,clarkkimmun
+145948,kimm1245,RAW,a ⁴⁴ + ŋ i m ³⁴¹,378,clarkkimmun
+145949,kimm1245,RED,θ i ³⁵,379,clarkkimmun
+145950,kimm1245,RED,θ i ⁵²,379,clarkkimmun
+145951,kimm1245,RICE,b l a w ¹¹,382,clarkkimmun
+145952,kimm1245,GLUTINOUS RICE,m e ³³ + b l ɐ t ³³,214,clarkkimmun
+145953,kimm1245,RICE HUSK,b u j ³⁵,383,clarkkimmun
+145954,kimm1245,SPIKE,n i n ⁴⁴ + b l aː w ³¹,461,clarkkimmun
+145955,kimm1245,RIGHT,b j a w ³¹ + f aː n ¹³,384,clarkkimmun
+145956,kimm1245,RIGHT,b j a w ³³ + p u ³¹,385,clarkkimmun
+145957,kimm1245,RING,p u ⁰ + d ɔ ¹¹ + kʷ i n ⁵²,386,clarkkimmun
+145958,kimm1245,RING,m u n ³³ + s e ³³ + g ɛ ŋ ¹³,387,clarkkimmun
+145959,kimm1245,RIPE,a ³³ + s u ³⁵,388,clarkkimmun
+145960,kimm1245,RIVER,w ɔ m ⁵³ + l u ³⁵,390,clarkkimmun
+145961,kimm1245,RIVER,k ɔ j ³³,391,clarkkimmun
+145962,kimm1245,PATH OR ROAD,k j a w ⁴⁴,355,clarkkimmun
+145963,kimm1245,PATH OR ROAD,k j a w ³³,355,clarkkimmun
+145964,kimm1245,ROOF,p j a w ³³ + t u ŋ ¹³,396,clarkkimmun
+145965,kimm1245,ROOT,g j a ŋ ³³ + d u ŋ ³¹,397,clarkkimmun
+145966,kimm1245,ROPE,l ɑ ŋ ³⁵ + v i n ⁵²,398,clarkkimmun
+145967,kimm1245,ROPE,l aː ŋ ³⁵,398,clarkkimmun
+145968,kimm1245,ROTTEN,j ɔ t ¹¹,400,clarkkimmun
+145969,kimm1245,SALT,d a w ³³,403,clarkkimmun
+145970,kimm1245,SALT,d aː w ³³,403,clarkkimmun
+145971,kimm1245,SALTY,d a j ¹¹,404,clarkkimmun
+145972,kimm1245,SAND,g j a w ⁵³ + θ a j ⁵³ + m i n ³¹,405,clarkkimmun
+145973,kimm1245,SAND,g j a w ²¹⁴ + θ aː j ²¹⁴,405,clarkkimmun
+145974,kimm1245,SCORPION,θ a p ³¹ + k ɔ ŋ ⁵³,407,clarkkimmun
+145975,kimm1245,SEA,k o j ¹¹ + l u ³⁵,409,clarkkimmun
+145976,kimm1245,SEED,n ɔ m ⁵³,412,clarkkimmun
+145977,kimm1245,SHADE,b ə ⁰ + g l o j ⁵³,416,clarkkimmun
+145978,kimm1245,SHIN,θ a w ³³ + m i n ³⁵,419,clarkkimmun
+145979,kimm1245,SHIRT,g u j ²¹⁴,420,clarkkimmun
+145980,kimm1245,SHORT,h a m ⁵²,423,clarkkimmun
+145981,kimm1245,SHOULDER,p ɐ ⁰ + t a w ¹¹,425,clarkkimmun
+145982,kimm1245,OLDER SISTER (OF MAN),h ə j ³¹,348,clarkkimmun
+145983,kimm1245,YOUNGER SISTER (OF WOMAN),m u ²¹,582,clarkkimmun
+145984,kimm1245,YOUNGER SISTER (OF MAN),θ aː j ¹³,581,clarkkimmun
+145985,kimm1245,SKIN,d u p ²¹,433,clarkkimmun
+145986,kimm1245,SKIN,t ɐ ⁰ + d u p ³¹,433,clarkkimmun
+145987,kimm1245,SKY,g u ŋ ³¹,434,clarkkimmun
+145988,kimm1245,SKY,g u ŋ ¹¹,434,clarkkimmun
+145989,kimm1245,SMELL (PERCEIVE),s i ³³ + d aː ŋ ⁵³,439,clarkkimmun
+145990,kimm1245,STINKING,θ ɐ j ³⁵,473,clarkkimmun
+145991,kimm1245,SMOKE (EXHAUST),t o ³⁴¹ + s o ³⁵,441,clarkkimmun
+145992,kimm1245,SNAIL,kʷ e ⁵³,444,clarkkimmun
+145993,kimm1245,SNAIL,kʷ ɐ j ²¹⁴,445,clarkkimmun
+145994,kimm1245,SNAKE,n aː ŋ ⁵³,446,clarkkimmun
+145995,kimm1245,SNAKE,n aː ŋ ²¹⁴,446,clarkkimmun
+145996,kimm1245,SOFT,s ɔ t ³³,450,clarkkimmun
+145997,kimm1245,SOME,k i ⁵³ + k l aː n ³¹,451,clarkkimmun
+145998,kimm1245,SON,m u n ¹¹ + t ɔ n ²¹⁴,452,clarkkimmun
+145999,kimm1245,SOUP,j e ³³ + w ɐ m ²¹⁴,453,clarkkimmun
+146000,kimm1245,SOUR,θ u j ⁵²,454,clarkkimmun
+146001,kimm1245,SOUTH,n aː m ³¹ + f aː n ¹³,455,clarkkimmun
+146002,kimm1245,SOUTH,k u ³³ + l e ³⁵ + f aː n ¹³,456,clarkkimmun
+146003,kimm1245,SPARROW,n ɔ ³³ + k ɐ j ³³,458,clarkkimmun
+146004,kimm1245,SPICY,b j a t ³³,460,clarkkimmun
+146005,kimm1245,SPROUT (SHOOT),b l a w ³¹ + j aː ŋ ⁵³,463,clarkkimmun
+146006,kimm1245,LADDER OR STAIRS,k j ɑ w ⁴⁴ + k ɑ ³⁵,280,clarkkimmun
+146007,kimm1245,STAR,θ i n ⁵³ + t a w ¹³,468,clarkkimmun
+146008,kimm1245,STICKY,b l a ²¹⁴,472,clarkkimmun
+146009,kimm1245,STONE,g j aː w ⁵³,476,clarkkimmun
+146010,kimm1245,STONE,g j a w ²¹⁴,476,clarkkimmun
+146011,kimm1245,STREAM,w ɔ m ⁵³ + n ɔ ³⁴¹,479,clarkkimmun
+146012,kimm1245,SUGAR,t o ŋ ³¹ + v a n ¹³,483,clarkkimmun
+146013,kimm1245,SUGAR CANE,k u m ³¹ + s aː ¹³,484,clarkkimmun
+146014,kimm1245,SUGAR CANE,k u ¹¹ + s aː ³⁵,484,clarkkimmun
+146015,kimm1245,SUN,m ə ⁰ + n ɔ j ³⁵,485,clarkkimmun
+146016,kimm1245,SUN,m ɐ ⁰ + n ɔ j ⁵²,485,clarkkimmun
+146017,kimm1245,SUNSHINE,g u ŋ ¹¹ + k j ɔ m ²¹⁴,488,clarkkimmun
+146018,kimm1245,SWAMP,g l aː ŋ ³¹,490,clarkkimmun
+146019,kimm1245,SWEAT (SUBSTANCE),h aː n ¹¹,491,clarkkimmun
+146020,kimm1245,SWEET,g a m ²¹⁴,492,clarkkimmun
+146021,kimm1245,SWEET POTATO,d o j ³¹ + d u n ⁵³,493,clarkkimmun
+146022,kimm1245,TAIL,t ə j ³³,496,clarkkimmun
+146023,kimm1245,TAIL,t ɐ j ⁴⁴,496,clarkkimmun
+146024,kimm1245,TARO,h o ʔ ¹¹,499,clarkkimmun
+146025,kimm1245,TARO,h o ³³ + b u ³³,500,clarkkimmun
+146026,kimm1245,TEAR (OF EYE),m ɐ j ³³ + w ɐ m ²¹⁴,502,clarkkimmun
+146027,kimm1245,TERMITE,s ə ⁰ + b l aː w ³¹,505,clarkkimmun
+146028,kimm1245,THAT,w aː ³³,506,clarkkimmun
+146029,kimm1245,SUNRISE,m ə ⁰ + n ɔ j ³⁵ + s aː w ¹³,486,clarkkimmun
+146030,kimm1245,SUNRISE,m ə ⁰ + n ɔ j ³⁵ + s ɛ t ³¹,486,clarkkimmun
+146031,kimm1245,SUNSET,m ə ⁰ + n ɔ j ³⁵ + t u j ³¹,487,clarkkimmun
+146032,kimm1245,THEY,θ i ³¹ + t i n ³¹ + d o j ³¹,507,clarkkimmun
+146033,kimm1245,THEY,s i ²¹⁴,508,clarkkimmun
+146034,kimm1245,UPPER LEG (THIGH),θ a w ³³ + b ɔ ŋ ³³,534,clarkkimmun
+146035,kimm1245,UPPER LEG (THIGH),θ a w ³⁵ + b ɔ ŋ ³⁵,534,clarkkimmun
+146036,kimm1245,THIS,n e ³³,512,clarkkimmun
+146037,kimm1245,THOU,m ə j ³¹,513,clarkkimmun
+146038,kimm1245,THREAD,θ u j ⁵²,515,clarkkimmun
+146039,kimm1245,THUNDER,b u ⁰ + g ɔ ŋ ⁵³ + h aː w ³¹,519,clarkkimmun
+146040,kimm1245,THUNDER,b u ⁰ + k ɔ ŋ ²¹⁴,519,clarkkimmun
+146041,kimm1245,TIGER,g j aː n ³¹,521,clarkkimmun
+146042,kimm1245,TIGER,g j aː n ¹¹,521,clarkkimmun
+146043,kimm1245,ANSWER,t aː w ⁵³,4,clarkkimmun
+146044,kimm1245,ANSWER,k ɔ ŋ ⁴⁴,5,clarkkimmun
+146045,kimm1245,ARRIVE,d aː j ¹¹,9,clarkkimmun
+146046,kimm1245,BAKE,u p ³¹,21,clarkkimmun
+146047,kimm1245,BATHE,d a m ³¹ + w ɐ m ²¹⁴,28,clarkkimmun
+146048,kimm1245,BE ABLE,d u ²¹⁴,29,clarkkimmun
+146049,kimm1245,BE ANGRY,s i ²¹,31,clarkkimmun
+146050,kimm1245,BAD,m a ³¹ + g ɔ ŋ ¹³,19,clarkkimmun
+146051,kimm1245,BIG,l u ³⁵,38,clarkkimmun
+146052,kimm1245,BITTER,i m ⁵³,42,clarkkimmun
+146053,kimm1245,BLIND,m ə j ²¹ + b u ¹¹,45,clarkkimmun
+146054,kimm1245,BLUNT,p l u n ¹³,49,clarkkimmun
+146055,kimm1245,BRIGHT,gʷ a ŋ ⁵³ + d a ŋ ³⁵,62,clarkkimmun
+146056,kimm1245,COLD,n a m ¹³,95,clarkkimmun
+146057,kimm1245,DEAF,m ə ⁰ + n ɔ m ³¹ + d u ŋ ⁵³,119,clarkkimmun
+146058,kimm1245,DEEP,d u ⁵³,120,clarkkimmun
+146059,kimm1245,DIRTY,k l u ³¹,126,clarkkimmun
+146060,kimm1245,DRUNK,b i n ⁵³,138,clarkkimmun
+146061,kimm1245,DRY,g aː j ³⁵,139,clarkkimmun
+146062,kimm1245,FAR,k u ⁵³,168,clarkkimmun
+146063,kimm1245,FAST,k a n ³³,169,clarkkimmun
+146064,kimm1245,FAT (OBESE),k u n ²¹,170,clarkkimmun
+146065,kimm1245,FEW,θ ɔ ²¹,175,clarkkimmun
+146066,kimm1245,FULL,p i w ³³,206,clarkkimmun
+146067,kimm1245,FULL,p ɔ ŋ ³³,205,clarkkimmun
+146068,kimm1245,GOOD,g ɔ ŋ ¹³,219,clarkkimmun
+146069,kimm1245,HEAVY,n i ¹¹,248,clarkkimmun
+146070,kimm1245,HOT,k j o m ⁵³,260,clarkkimmun
+146071,kimm1245,LONG,d aː w ³³,300,clarkkimmun
+146072,kimm1245,MANY,d u ³³ + l aː n ³¹,312,clarkkimmun
+146073,kimm1245,NEAR,θ a t ²¹,337,clarkkimmun
+146074,kimm1245,NEW,s a ŋ ³⁵,341,clarkkimmun
+146075,kimm1245,ROUND,k l u n ³¹,401,clarkkimmun
+146076,kimm1245,SHALLOW,g j a ŋ ³³,417,clarkkimmun
+146077,kimm1245,SHARP,g j a j ²¹,418,clarkkimmun
+146078,kimm1245,LOW (HEIGHT),h aː ³⁵,303,clarkkimmun
+146079,kimm1245,SHORT,n i ŋ ³³,424,clarkkimmun
+146080,kimm1245,SLOW,m a n ¹¹,436,clarkkimmun
+146081,kimm1245,SMALL,k j aː n ⁵³,437,clarkkimmun
+146082,kimm1245,SMOOTH,ð ɛ ŋ ³³ + ð o ²¹,443,clarkkimmun
+146083,kimm1245,SOUR,θ u j ³⁵,454,clarkkimmun
+146084,kimm1245,SPICY,b j aː t ³¹,460,clarkkimmun
+146085,kimm1245,STRAIGHT,d ɛ ŋ ³¹,477,clarkkimmun
+146086,kimm1245,STRAIGHT,s a ŋ ¹³,478,clarkkimmun
+146087,kimm1245,STRONG,k j o ŋ ³³ + p a ŋ ³⁵,480,clarkkimmun
+146088,kimm1245,SWEET,k aː m ⁵³,492,clarkkimmun
+146089,kimm1245,TALL,g j a ŋ ³⁵,498,clarkkimmun
+146090,kimm1245,THICK,h u ³⁵,509,clarkkimmun
+146091,kimm1245,THIN,f a ²¹,510,clarkkimmun
+146092,kimm1245,WEAK,d ə ⁰ + m a j ³³ + n u p ³⁵,551,clarkkimmun
+146093,kimm1245,WET,d ɔ n ⁵³,557,clarkkimmun
+146094,kimm1245,WIDE,gʷ a ŋ ³³,564,clarkkimmun
+146095,kimm1245,WRONG,p ɛ w ³³,573,clarkkimmun
+146096,kimm1245,BITE,t a p ³¹,41,clarkkimmun
+146097,kimm1245,BITE,t a p ³³,41,clarkkimmun
+146098,kimm1245,BLOW (WITH MOUTH),p j ɔ m ³³,48,clarkkimmun
+146099,kimm1245,BLOW (WITH MOUTH),p j ɔ m ⁴⁴,48,clarkkimmun
+146100,kimm1245,BREATHE,t ɔ ŋ ³³ + s i ³⁵,61,clarkkimmun
+146101,kimm1245,BURN,p u ³³,64,clarkkimmun
+146102,kimm1245,BURY,θ o ³³,65,clarkkimmun
+146103,kimm1245,BUY,m a j ³⁴¹,68,clarkkimmun
+146104,kimm1245,BUY,m a j ³⁴¹,68,clarkkimmun
+146105,kimm1245,CARRY,d a m ²¹⁴,70,clarkkimmun
+146106,kimm1245,PURSUE,l u j ³³,372,clarkkimmun
+146107,kimm1245,CHOP,d ə j ³⁵,82,clarkkimmun
+146108,kimm1245,COME,t aː j ⁵³,97,clarkkimmun
+146109,kimm1245,COME,t a w ⁵²,97,clarkkimmun
+146110,kimm1245,COUGH,s a ŋ ³¹ + h aː ³⁵,105,clarkkimmun
+146111,kimm1245,COUNT,θ aː w ¹¹,106,clarkkimmun
+146112,kimm1245,CROW (VERB),a j ³³ + g a j ³⁵,110,clarkkimmun
+146113,kimm1245,CUT (WITH SCISSORS),t e ³⁵ + p j e ³³,115,clarkkimmun
+146114,kimm1245,CUT (WITH KNIFE),g a t ³¹,114,clarkkimmun
+146115,kimm1245,CUT (WITH SCISSORS),g j a p ³³,116,clarkkimmun
+146116,kimm1245,ROT,j ɔ t ⁵³,399,clarkkimmun
+146117,kimm1245,DIE,t a j ²¹,122,clarkkimmun
+146118,kimm1245,DIE,d a j ³³,122,clarkkimmun
+146119,kimm1245,DIG,w i t ⁵³,123,clarkkimmun
+146120,kimm1245,DIP,n a m ³⁴¹,124,clarkkimmun
+146121,kimm1245,DIP,gʷ a ⁵²,125,clarkkimmun
+146122,kimm1245,DISAPPEAR,m a ³³ + s ɛ t ³¹ + f aː n ¹³,127,clarkkimmun
+146123,kimm1245,DRAW (WATER),d a n ³⁵,134,clarkkimmun
+146124,kimm1245,DREAM (SOMETHING),b w e ¹³,136,clarkkimmun
+146125,kimm1245,DRINK,h ɔ p ³⁵ + w ɔ m ⁵³,137,clarkkimmun
+146126,kimm1245,DRINK,h ɔ p ⁵²,137,clarkkimmun
+146127,kimm1245,MAKE DRY,f aː j ³⁵,307,clarkkimmun
+146128,kimm1245,EXCHANGE,t i ŋ ³¹ + w a n ²¹,157,clarkkimmun
+146129,kimm1245,FALL,t u j ⁵³,165,clarkkimmun
+146130,kimm1245,FALL,k l i ŋ ³⁴¹,166,clarkkimmun
+146131,kimm1245,FEAR (BE AFRAID),k u ŋ ¹¹ + j a ⁵²,173,clarkkimmun
+146132,kimm1245,FLOAT,b j o ³¹,186,clarkkimmun
+146133,kimm1245,FLOW,t u j ³⁵,187,clarkkimmun
+146134,kimm1245,FLY (MOVE THROUGH AIR),d aː j ³⁵,191,clarkkimmun
+146135,kimm1245,FLY (MOVE THROUGH AIR),d ɐ j ⁵²,192,clarkkimmun
+146136,kimm1245,FRY,θ i n ¹³,204,clarkkimmun
+146137,kimm1245,GIVE,f u n ⁵³,211,clarkkimmun
+146138,kimm1245,GIVE,f ɐ n ²¹⁴,212,clarkkimmun
+146139,kimm1245,GIVE BIRTH,j u ŋ ³⁴¹,213,clarkkimmun
+146140,kimm1245,GO,n i ŋ ¹¹,215,clarkkimmun
+146141,kimm1245,GRIND,m aː ³¹,226,clarkkimmun
+146142,kimm1245,GROW,s ɔ ŋ ¹³,229,clarkkimmun
+146143,kimm1245,HAMMER (SOMETHING),k ə j ³⁵,236,clarkkimmun
+146144,kimm1245,HATE,h a n ¹¹,239,clarkkimmun
+146145,kimm1245,HEAR,t u ⁵³ + n u ŋ ³⁵,245,clarkkimmun
+146146,kimm1245,HEAR,m u ŋ ⁵²,246,clarkkimmun
+146147,kimm1245,HIDE,m ɛ m ⁴⁴,249,clarkkimmun
+146148,kimm1245,HIT,p aː n ¹³,253,clarkkimmun
+146149,kimm1245,HUNT,n i ŋ ³³ + k i m ³¹,264,clarkkimmun
+146150,kimm1245,ITCH (CAUSE ITCHING OR FEEL ITCHY),s ɛ t ³⁵,274,clarkkimmun
+146151,kimm1245,KICK,t i ³³,275,clarkkimmun
+146152,kimm1245,KILL,d ɐ j ³⁵,276,clarkkimmun
+146153,kimm1245,KNEEL,kʷ e ²¹,277,clarkkimmun
+146154,kimm1245,KNOW,p ə j ⁵³,278,clarkkimmun
+146155,kimm1245,KNOW,p e ²¹⁴,279,clarkkimmun
+146156,kimm1245,LAUGH,k j ə t ²¹,283,clarkkimmun
+146157,kimm1245,LICK,k l i m ³⁴¹,290,clarkkimmun
+146158,kimm1245,LIE (MISLEAD),p u ŋ ³³ + m aː w ³¹,292,clarkkimmun
+146159,kimm1245,LIKE,o j ³⁵,296,clarkkimmun
+146160,kimm1245,LOVE,o j ¹³,302,clarkkimmun
+146161,kimm1245,MELT,j uː ¹¹,320,clarkkimmun
+146162,kimm1245,MOVE,θ u j ¹¹,329,clarkkimmun
+146163,kimm1245,MOW,gʷ a n ⁵²,330,clarkkimmun
+146164,kimm1245,PIERCE,l ɔ m ³⁵,357,clarkkimmun
+146165,kimm1245,PLAY,b l a n ³³,362,clarkkimmun
+146166,kimm1245,POUR,k u ŋ ³³ + n a ŋ ³³,367,clarkkimmun
+146167,kimm1245,PULL,d a n ¹³,369,clarkkimmun
+146168,kimm1245,PULL,d aː n ³⁵,369,clarkkimmun
+146169,kimm1245,REMEMBER,s a ŋ ³⁵,380,clarkkimmun
+146170,kimm1245,REST,n i ³¹ + g a n ⁵²,381,clarkkimmun
+146171,kimm1245,COME BACK,f u n ³³ + d aː ŋ ⁵³,98,clarkkimmun
+146172,kimm1245,COME BACK,l a w ³⁴¹,99,clarkkimmun
+146173,kimm1245,RIPEN,s u ¹¹,389,clarkkimmun
+146174,kimm1245,ROAR,h a w ¹¹,393,clarkkimmun
+146175,kimm1245,ROAST (SOMETHING),s i ⁵³,394,clarkkimmun
+146176,kimm1245,ROAST (SOMETHING),s i ²¹⁴,394,clarkkimmun
+146177,kimm1245,ROLL,p l u j ⁵³,395,clarkkimmun
+146178,kimm1245,RUN,t j u ⁵²,402,clarkkimmun
+146179,kimm1245,SCOLD,m a ³³,406,clarkkimmun
+146180,kimm1245,SCRAPE,gʷ i t ⁵²,408,clarkkimmun
+146181,kimm1245,SEE,f a t ²¹,410,clarkkimmun
+146182,kimm1245,SEE,m ɐ ŋ ³³,411,clarkkimmun
+146183,kimm1245,SELL,m aː j ²¹,413,clarkkimmun
+146184,kimm1245,SELL,m aː j ³³,413,clarkkimmun
+146185,kimm1245,SEW,g ɔ n ³¹,415,clarkkimmun
+146186,kimm1245,SHIVER,s i n ¹³,421,clarkkimmun
+146187,kimm1245,SHOOT,f a n ³³,422,clarkkimmun
+146188,kimm1245,SHOUT,h aː m ³⁵,427,clarkkimmun
+146189,kimm1245,SINK (DESCEND),s i m ⁵³,428,clarkkimmun
+146190,kimm1245,SIT,θ ə j ³⁴¹,429,clarkkimmun
+146191,kimm1245,SIT,g j ɛ t ³³,430,clarkkimmun
+146192,kimm1245,SLEEP,f ə j ¹³,435,clarkkimmun
+146193,kimm1245,SLEEP,f ɐ j ³⁵,435,clarkkimmun
+146194,kimm1245,SMELL,h ɔ m ⁵²,438,clarkkimmun
+146195,kimm1245,SMILE,k j ə t ²¹,440,clarkkimmun
+146196,kimm1245,SMOKE (INHALE),h ɔ p ³⁵ + j i n ³⁵ + b j aː t ³¹,442,clarkkimmun
+146197,kimm1245,SMOKE (INHALE),h ɔ p ⁵² + j i n ²¹⁴,442,clarkkimmun
+146198,kimm1245,SNEEZE,s a ŋ ³¹ + h a ³⁵ + k j a n ⁵³,447,clarkkimmun
+146199,kimm1245,SNORE,d aː n ³¹,448,clarkkimmun
+146200,kimm1245,SOAK (VERB),θ e ³³ + w ɔ m ²¹⁴,449,clarkkimmun
+146201,kimm1245,SPEAK,k ɔ ŋ ³³,459,clarkkimmun
+146202,kimm1245,SPLIT,p aː j ³⁵,462,clarkkimmun
+146203,kimm1245,SQUEEZE,n ɛ ŋ ³³,464,clarkkimmun
+146204,kimm1245,STAB,l ɔ m ³⁵,465,clarkkimmun
+146205,kimm1245,STAND,θ o w ²¹,466,clarkkimmun
+146206,kimm1245,STAND,θ o ⁴⁴,467,clarkkimmun
+146207,kimm1245,STEAL,a j ³³ + θ a ²¹,469,clarkkimmun
+146208,kimm1245,STEAL,a j ³³ + θ a ³⁵,469,clarkkimmun
+146209,kimm1245,STEAM (VERB),s aː ŋ ⁵³,470,clarkkimmun
+146210,kimm1245,STEAM (VERB),n a ŋ ³⁵ + s a ŋ ²¹⁴,471,clarkkimmun
+146211,kimm1245,STIR,m u n ³¹,474,clarkkimmun
+146212,kimm1245,STIR,l a w ⁴⁴,475,clarkkimmun
+146213,kimm1245,SUCK,d u t ⁵³,481,clarkkimmun
+146214,kimm1245,SUCK,h ɔ p ³⁵,482,clarkkimmun
+146215,kimm1245,DRY IN SUN,f a j ⁵²,140,clarkkimmun
+146216,kimm1245,SWALLOW,n a ⁵³,489,clarkkimmun
+146217,kimm1245,SWIM,k j o ³¹ + w ɔ m ⁵³,494,clarkkimmun
+146218,kimm1245,SWIM,k j o ¹¹,495,clarkkimmun
+146219,kimm1245,TALK,k ɔ ⁵² + w a ³⁵,497,clarkkimmun
+146220,kimm1245,TASTE (SOMETHING),d ɔ p ²¹,501,clarkkimmun
+146221,kimm1245,TELL,b u ¹³,503,clarkkimmun
+146222,kimm1245,THROW,b i w ³⁵,517,clarkkimmun
+146223,kimm1245,THROW,gʷ ɛ ŋ ²¹,518,clarkkimmun
+146224,kimm1245,TIE,θ aː j ³⁵,520,clarkkimmun
+146225,kimm1245,VOMIT,u ³³,538,clarkkimmun
+146226,kimm1245,WALK,j aː ŋ ³¹,540,clarkkimmun
+146227,kimm1245,WALK,j a ŋ ³³ + θ a w ³⁵,541,clarkkimmun
+146228,kimm1245,WASH,d a w ³⁵,544,clarkkimmun
+146229,kimm1245,WEAVE,p u j ³³ + k a n ³⁵,554,clarkkimmun
+146230,kimm1245,CRY,h aː w ³¹,111,clarkkimmun
+146231,kimm1245,WIPE,θ ɔ t ³⁵,569,clarkkimmun
+146232,kimm1245,WORK (ACTIVITY),a j ³³ + g u ŋ ³³ + p o ⁵³,571,clarkkimmun
+146233,kimm1245,WRITE,k j a ⁴⁴,572,clarkkimmun
+146234,kimm1245,YAWN,k a w ³¹ + ŋ ɔ p ⁵³,574,clarkkimmun
+146235,kimm1245,TOE,θ a w ³⁵ + d ɔ ³¹,522,clarkkimmun
+146236,kimm1245,TOMATO,p j a w ³³ + p j o ³³,523,clarkkimmun
+146237,kimm1245,TOMORROW,s a ŋ ³¹ + d o m ⁵³,524,clarkkimmun
+146238,kimm1245,TONGUE,b j ɛ t ³¹,526,clarkkimmun
+146239,kimm1245,TONGUE,b j ɐ t ³³,526,clarkkimmun
+146240,kimm1245,TREE,g j a ŋ ¹³,527,clarkkimmun
+146241,kimm1245,TREE,g j aː ŋ ³⁵,527,clarkkimmun
+146242,kimm1245,BARK,g j a ŋ ¹³ + d u p ²¹,24,clarkkimmun
+146243,kimm1245,TREE TRUNK,g j a ŋ ³⁵ + θ i n ⁵²,528,clarkkimmun
+146244,kimm1245,TROUSERS,kʷ aː ³⁵,529,clarkkimmun
+146245,kimm1245,TROUSERS,kʷ ɑ ⁵²,529,clarkkimmun
+146246,kimm1245,TURTLE,t u ²¹,530,clarkkimmun
+146247,kimm1245,TURTLE,p i t ³¹,531,clarkkimmun
+146248,kimm1245,URINE,w a ³⁴¹,535,clarkkimmun
+146249,kimm1245,URINE,w a ³⁴¹,535,clarkkimmun
+146250,kimm1245,VEGETABLES,g j ɐ j ²¹⁴,536,clarkkimmun
+146251,kimm1245,VILLAGE,g j a ŋ ³⁴¹,537,clarkkimmun
+146252,kimm1245,VILLAGE,g j ɐ ŋ ³⁴¹,537,clarkkimmun
+146253,kimm1245,WAIST,k l aː j ⁴⁴,539,clarkkimmun
+146254,kimm1245,WALL (OF HOUSE),p j a w ³³ + g ɔ ŋ ³⁴¹,542,clarkkimmun
+146255,kimm1245,WARM,k j o m ⁵³ + b ɔ ŋ ³¹,543,clarkkimmun
+146256,kimm1245,WASP,m ɐ j ³⁴¹,545,clarkkimmun
+146257,kimm1245,WATER,w ɔ m ⁵³,546,clarkkimmun
+146258,kimm1245,WATER,w ɐ m ²¹⁴,546,clarkkimmun
+146259,kimm1245,WATERMELON,kʷ a ⁵³ + θ aː j ⁵³,548,clarkkimmun
+146260,kimm1245,WE,p a n ¹¹,549,clarkkimmun
+146261,kimm1245,WE,p a n ³¹ + t i ³¹ + d o j ³¹,550,clarkkimmun
+146262,kimm1245,WEASEL,k i n ¹¹ + m aː w ¹¹,552,clarkkimmun
+146263,kimm1245,WEATHER,s i ³⁵,553,clarkkimmun
+146264,kimm1245,WELL,t w ɐ m ¹¹ + k ɔ t ³⁵,555,clarkkimmun
+146265,kimm1245,WEST,f e ⁵³ + f aː n ¹³,556,clarkkimmun
+146266,kimm1245,WET,d ɔ n ²¹⁴,557,clarkkimmun
+146267,kimm1245,WHEN,t o j ³¹ + n ɔ j ³⁵,558,clarkkimmun
+146268,kimm1245,WHERE,j a m ⁵³ + t i ¹³,559,clarkkimmun
+146269,kimm1245,WHISTLE (INSTRUMENT),n ɔ ³³ + d ɔ ŋ ³¹,560,clarkkimmun
+146270,kimm1245,WHITE,p ɛ ²¹,561,clarkkimmun
+146271,kimm1245,WHITE,p ɛ ³³,561,clarkkimmun
+146272,kimm1245,WHITE SUGAR,t o ŋ ³¹ + v a n ³³ + p ɛ ²¹,562,clarkkimmun
+146273,kimm1245,WHO,m a n ³⁵,563,clarkkimmun
+146274,kimm1245,WIDE,kʷ a ŋ ⁴⁴,564,clarkkimmun
+146275,kimm1245,WIDOW,g j ɐ m ³³ + f ɑ ⁴⁴ + ɑ w ⁴⁴,565,clarkkimmun
+146276,kimm1245,WIFE,a w ³³,566,clarkkimmun
+146277,kimm1245,WIFE,ɑ w ⁴⁴,566,clarkkimmun
+146278,kimm1245,WINDOW,k j ɛ ŋ ³¹ + k j a n ⁵³,567,clarkkimmun
+146279,kimm1245,ALCOHOL (FERMENTED DRINK),t i w ⁴⁴,1,clarkkimmun
+146280,kimm1245,WING,d aː t ⁵³,568,clarkkimmun
+146281,kimm1245,WOOD,θ aː ŋ ³¹,570,clarkkimmun
+146282,kimm1245,YOUNGER BROTHER,j o ³⁴¹,577,clarkkimmun
+146283,kimm1245,YOUNGER SISTER,m u ³³,580,clarkkimmun
+146284,kimm1245,YELLOW,w aː ŋ ³¹,575,clarkkimmun
+146285,kimm1245,YELLOW,w a ŋ ¹¹,575,clarkkimmun
+146286,kimm1245,YESTERDAY,k u m ³¹ + n ɔ j ³⁵,576,clarkkimmun
+146287,kimm1245,THOU,m ɐ j ¹¹,513,clarkkimmun

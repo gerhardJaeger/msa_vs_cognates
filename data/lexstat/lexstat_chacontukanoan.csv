@@ -1,0 +1,1210 @@
+id,doculect,concept,forms,lexstatid,db
+144393,bara1380,FEMALE,g o,53,chacontukanoan
+144394,desa1247,FEMALE,g o,53,chacontukanoan
+144395,cara1272,FEMALE,o,53,chacontukanoan
+144396,kore1283,FEMALE,o,53,chacontukanoan
+144397,cube1242,FEMALE,k o,53,chacontukanoan
+144398,orej1242,FEMALE,o,53,chacontukanoan
+144399,pira1254,FEMALE,k o,53,chacontukanoan
+144400,seco1241,FEMALE,o,53,chacontukanoan
+144401,sion1247,FEMALE,g o,53,chacontukanoan
+144402,tuca1252,FEMALE,g o,53,chacontukanoan
+144403,guan1269,FEMALE,k o,53,chacontukanoan
+144404,bara1380,HE OR SHE,b ɨ,72,chacontukanoan
+144405,desa1247,HE OR SHE,b ɨ,72,chacontukanoan
+144406,cube1242,HE OR SHE,w ɨ,72,chacontukanoan
+144407,seco1241,HE OR SHE,w ɨ,72,chacontukanoan
+144408,sion1247,HE OR SHE,w ɨ,72,chacontukanoan
+144409,tuca1252,HE OR SHE,p ɨ,72,chacontukanoan
+144410,bara1380,HE,m ĩ,71,chacontukanoan
+144411,desa1247,HE,m ĩ,71,chacontukanoan
+144412,cube1242,HE,b i,71,chacontukanoan
+144413,seco1241,HE,p i,71,chacontukanoan
+144414,tuca1252,HE,m ĩ,71,chacontukanoan
+144415,bara1380,SNAKE,ã ɲ ã,128,chacontukanoan
+144416,desa1247,SNAKE,ã ɲ ã,128,chacontukanoan
+144417,cara1272,SNAKE,ã ɲ ã,128,chacontukanoan
+144418,kore1283,SNAKE,ã ɲ ã,128,chacontukanoan
+144419,cube1242,SNAKE,ã ɲ ã,128,chacontukanoan
+144420,orej1242,SNAKE,ã ɲ ã,128,chacontukanoan
+144421,pira1254,SNAKE,ã ɲ ã,129,chacontukanoan
+144422,seco1241,SNAKE,ã ɲ ã,128,chacontukanoan
+144423,sion1247,SNAKE,ã ɲ ã,128,chacontukanoan
+144424,tani1257,SNAKE,ã ɲ ã,128,chacontukanoan
+144425,tuca1252,SNAKE,ã ɲ ã,128,chacontukanoan
+144426,tuyu1244,SNAKE,ã ɲ ã,128,chacontukanoan
+144427,guan1269,SNAKE,ã ɲ ã,128,chacontukanoan
+144428,bara1380,HOT,a ts i,77,chacontukanoan
+144429,desa1247,HOT,a s i,77,chacontukanoan
+144430,cara1272,HOT,a s i,77,chacontukanoan
+144431,kore1283,HOT,a s u,77,chacontukanoan
+144432,orej1242,HOT,a tʃ u,77,chacontukanoan
+144433,sion1247,HOT,h a ˀs u,77,chacontukanoan
+144434,tuca1252,HOT,a s i,77,chacontukanoan
+144435,tuyu1244,HOT,a s i,77,chacontukanoan
+144436,guan1269,HOT,s i,77,chacontukanoan
+144437,bara1380,NOSE,ĩ ŋ ẽ,104,chacontukanoan
+144438,desa1247,NOSE,ĩ ˀŋ ĩ,104,chacontukanoan
+144439,cara1272,NOSE,ɨ̃ k ẽ,104,chacontukanoan
+144440,kore1283,NOSE,ɨ̃ kʰ e,104,chacontukanoan
+144441,cube1242,NOSE,ũ e k a,104,chacontukanoan
+144442,orej1242,NOSE,ũ kʷ e,104,chacontukanoan
+144443,seco1241,NOSE,õ kʷ e,104,chacontukanoan
+144444,sion1247,NOSE,ũ kʷ e,104,chacontukanoan
+144445,tani1257,NOSE,õ m ẽ,105,chacontukanoan
+144446,tuca1252,NOSE,ẽ ˀk ẽ,104,chacontukanoan
+144447,tuyu1244,NOSE,ẽ k ẽ ã,104,chacontukanoan
+144448,guan1269,NOSE,k ẽ,104,chacontukanoan
+144449,bara1380,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144450,desa1247,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144451,cara1272,MAN,m ɨ̃,95,chacontukanoan
+144452,kore1283,MAN,ɨ m ɨ,95,chacontukanoan
+144453,cube1242,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144454,orej1242,MAN,ɨ m ɨ,95,chacontukanoan
+144455,seco1241,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144456,sion1247,MAN,ɨ m ɨ,95,chacontukanoan
+144457,tani1257,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144458,tuca1252,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144459,tuyu1244,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144460,guan1269,MAN,ɨ̃ m ɨ̃,95,chacontukanoan
+144461,bara1380,THREE,i d i a,143,chacontukanoan
+144462,desa1247,THREE,ɨ ˀd e,143,chacontukanoan
+144463,tuca1252,THREE,i ˀt i a,143,chacontukanoan
+144464,tuyu1244,THREE,i t i a,143,chacontukanoan
+144465,guan1269,THREE,t i a,143,chacontukanoan
+144466,bara1380,GRAPE,ɨ j e,65,chacontukanoan
+144467,desa1247,GRAPE,i g i,66,chacontukanoan
+144468,cara1272,GRAPE,ɨ s e,65,chacontukanoan
+144469,kore1283,GRAPE,ɨ j e,65,chacontukanoan
+144470,cube1242,GRAPE,ɨ j a i,65,chacontukanoan
+144471,orej1242,GRAPE,e d e,67,chacontukanoan
+144472,sion1247,GRAPE,ɨ j e,65,chacontukanoan
+144473,tuca1252,GRAPE,ɨ ˀs e,65,chacontukanoan
+144474,tuyu1244,GRAPE,ɨ s e,65,chacontukanoan
+144475,guan1269,GRAPE,s e,65,chacontukanoan
+144476,bara1380,HERON,j e h e,75,chacontukanoan
+144477,desa1247,HERON,j a h i,75,chacontukanoan
+144478,cara1272,HERON,j e e,75,chacontukanoan
+144479,cube1242,HERON,j a i,75,chacontukanoan
+144480,orej1242,HERON,j a i,75,chacontukanoan
+144481,seco1241,HERON,j a i,75,chacontukanoan
+144482,tuca1252,HERON,j a h e,75,chacontukanoan
+144483,tuyu1244,HERON,j e e,75,chacontukanoan
+144484,guan1269,HERON,j a h a,75,chacontukanoan
+144485,bara1380,JAGUAR,j a i,85,chacontukanoan
+144486,desa1247,JAGUAR,j e e,85,chacontukanoan
+144487,cara1272,JAGUAR,j a i,85,chacontukanoan
+144488,kore1283,JAGUAR,j a i,85,chacontukanoan
+144489,cube1242,JAGUAR,j a w i,85,chacontukanoan
+144490,orej1242,JAGUAR,j a i,85,chacontukanoan
+144491,seco1241,JAGUAR,j a i,85,chacontukanoan
+144492,sion1247,JAGUAR,j a i,85,chacontukanoan
+144493,tani1257,JAGUAR,j a i a,85,chacontukanoan
+144494,tuca1252,JAGUAR,j a i,85,chacontukanoan
+144495,guan1269,JAGUAR,j a i,85,chacontukanoan
+144496,desa1247,CENTIPEDE,ã ˀŋ ĩ,22,chacontukanoan
+144497,cube1242,CENTIPEDE,a w i m e k ɨ,21,chacontukanoan
+144498,tuca1252,CENTIPEDE,ã ˀk ĩ,22,chacontukanoan
+144499,tuyu1244,CENTIPEDE,m ũ n ĩ,23,chacontukanoan
+144500,guan1269,CENTIPEDE,ɲ ã ˀk ĩ,22,chacontukanoan
+144501,bara1380,DEER,ɲ ã m ã,36,chacontukanoan
+144502,desa1247,DEER,ɲ ã m ã,36,chacontukanoan
+144503,cara1272,DEER,ɲ ã m ã,36,chacontukanoan
+144504,kore1283,DEER,ɲ ã m a,36,chacontukanoan
+144505,cube1242,DEER,ɲ ã m ã,36,chacontukanoan
+144506,seco1241,DEER,ɲ ã m a,36,chacontukanoan
+144507,sion1247,DEER,ɲ ã m a,36,chacontukanoan
+144508,tani1257,DEER,ɲ ã m ã,36,chacontukanoan
+144509,tuca1252,DEER,ɲ ã m ã,36,chacontukanoan
+144510,tuyu1244,DEER,ɲ ã m ã,36,chacontukanoan
+144511,guan1269,DEER,ɲ ã m ã,36,chacontukanoan
+144512,bara1380,YAM,ɲ ã m õ,167,chacontukanoan
+144513,desa1247,YAM,ɲ ã ˀm õ,167,chacontukanoan
+144514,cara1272,YAM,ɲ ã m õ,167,chacontukanoan
+144515,kore1283,YAM,ɲ ã h o,167,chacontukanoan
+144516,cube1242,YAM,ɲ ã m ũ,167,chacontukanoan
+144517,orej1242,YAM,ɲ ã h o,167,chacontukanoan
+144518,sion1247,YAM,ɲ ã h o,167,chacontukanoan
+144519,tani1257,YAM,ɲ ã ˀm ũ,167,chacontukanoan
+144520,tuca1252,YAM,ɲ ã ˀm ũ,167,chacontukanoan
+144521,tuyu1244,YAM,ɲ ã m ũ,167,chacontukanoan
+144522,guan1269,YAM,ɲ ã ˀm ũ,167,chacontukanoan
+144523,bara1380,GRANDFATHER,ɲ ĩ k ɨ̃,64,chacontukanoan
+144524,desa1247,GRANDFATHER,ɲ ẽ k ɨ̃,64,chacontukanoan
+144525,cara1272,GRANDFATHER,ɲ ĩ k ɨ̃,64,chacontukanoan
+144526,kore1283,GRANDFATHER,j ẽ k u ɨ,64,chacontukanoan
+144527,cube1242,GRANDFATHER,ɲ ẽ k ũ j o,64,chacontukanoan
+144528,orej1242,GRANDFATHER,j ẽ k ɨ,64,chacontukanoan
+144529,tuca1252,GRANDFATHER,ɲ ẽ k ɨ̃,64,chacontukanoan
+144530,tuyu1244,GRANDFATHER,ɲ ẽ k ɨ̃,64,chacontukanoan
+144531,guan1269,GRANDFATHER,ɲ ɨ̃ tʃ ɨ̃,64,chacontukanoan
+144532,bara1380,LAND,j e b a,91,chacontukanoan
+144533,desa1247,LAND,j e b a,91,chacontukanoan
+144534,cara1272,LAND,j e p a,91,chacontukanoan
+144535,kore1283,LAND,j e h a,91,chacontukanoan
+144536,cube1242,LAND,j i b a,91,chacontukanoan
+144537,orej1242,LAND,j i h a,91,chacontukanoan
+144538,seco1241,LAND,j e h a,91,chacontukanoan
+144539,sion1247,LAND,j i h a,91,chacontukanoan
+144540,tuca1252,LAND,j e ˀp a,91,chacontukanoan
+144541,guan1269,LAND,j a ˀp a,91,chacontukanoan
+144542,kore1283,MOUTH,j i ʔ o b o,100,chacontukanoan
+144543,orej1242,MOUTH,j o,100,chacontukanoan
+144544,seco1241,MOUTH,j ɨ ʔ o,100,chacontukanoan
+144545,sion1247,MOUTH,j i ʔ o b o,100,chacontukanoan
+144546,bara1380,KAPOK TREE,j ɨ t a,86,chacontukanoan
+144547,desa1247,KAPOK TREE,j u d a,86,chacontukanoan
+144548,cara1272,KAPOK TREE,j i t a,86,chacontukanoan
+144549,kore1283,KAPOK TREE,o j a,86,chacontukanoan
+144550,cube1242,KAPOK TREE,j ɨ i,86,chacontukanoan
+144551,seco1241,KAPOK TREE,j ɨ i,86,chacontukanoan
+144552,sion1247,KAPOK TREE,j ɨ i,86,chacontukanoan
+144553,tani1257,KAPOK TREE,j u ˀt a,86,chacontukanoan
+144554,tuca1252,KAPOK TREE,j u t a,86,chacontukanoan
+144555,guan1269,KAPOK TREE,j u t a,86,chacontukanoan
+144556,bara1380,LEG,ɲ ĩ k ã,93,chacontukanoan
+144557,desa1247,LEG,ɲ ĩ ŋ ã,93,chacontukanoan
+144558,cara1272,LEG,ɲ ĩ k ã,93,chacontukanoan
+144559,kore1283,LEG,j ũ k a,93,chacontukanoan
+144560,cube1242,LEG,ɲ ɨ̃ ã,93,chacontukanoan
+144561,seco1241,LEG,n ɨ̃ k a,93,chacontukanoan
+144562,tani1257,LEG,ɲ ĩ k ã,93,chacontukanoan
+144563,tuca1252,LEG,ɲ ẽ k ã,93,chacontukanoan
+144564,tuyu1244,LEG,ɲ ĩ k ã,93,chacontukanoan
+144565,guan1269,LEG,ɲ ɨ̃ tʃ ɨ̃,93,chacontukanoan
+144566,bara1380,I,j ɨ ɨ,81,chacontukanoan
+144567,desa1247,I,j ɨ ʔ ɨ,81,chacontukanoan
+144568,cara1272,I,j ɨ ɨ,81,chacontukanoan
+144569,kore1283,I,j ɨ ʔ ɨ,81,chacontukanoan
+144570,cube1242,I,j ɨ,81,chacontukanoan
+144571,orej1242,I,j i,81,chacontukanoan
+144572,seco1241,I,j ɨ ʔ ɨ,81,chacontukanoan
+144573,sion1247,I,j ɨ ɨ,81,chacontukanoan
+144574,tani1257,I,j i ʔ i,81,chacontukanoan
+144575,tuca1252,I,j ɨ ʔ ɨ,81,chacontukanoan
+144576,tuyu1244,I,j ɨ ɨ,81,chacontukanoan
+144577,guan1269,I,j ɨ ʔ ɨ,81,chacontukanoan
+144578,bara1380,EAR,ŋ ã m õ,44,chacontukanoan
+144579,desa1247,EAR,ŋ ã m ĩ,44,chacontukanoan
+144580,cara1272,EAR,ã m õ,44,chacontukanoan
+144581,kore1283,EAR,k ã h o,44,chacontukanoan
+144582,cube1242,EAR,k ã m ũ,44,chacontukanoan
+144583,orej1242,EAR,ŋ ã h o,44,chacontukanoan
+144584,seco1241,EAR,k ã h o,44,chacontukanoan
+144585,sion1247,EAR,kˀ ã h o,44,chacontukanoan
+144586,tani1257,EAR,ã m ũ,44,chacontukanoan
+144587,tuca1252,EAR,õ ˀm ẽ,45,chacontukanoan
+144588,tuyu1244,EAR,k ã m õ,44,chacontukanoan
+144589,guan1269,EAR,k ã ˀm õ,44,chacontukanoan
+144590,bara1380,FOOT,g ɨ b o,60,chacontukanoan
+144591,desa1247,FOOT,g u ˀb u,60,chacontukanoan
+144592,cara1272,FOOT,ɾ ɨ p o,60,chacontukanoan
+144593,kore1283,FOOT,k ũ ʔ ã,60,chacontukanoan
+144594,cube1242,FOOT,k ɨ b o,60,chacontukanoan
+144595,orej1242,FOOT,ŋ ɨ̃ õ,60,chacontukanoan
+144596,seco1241,FOOT,k ɨ̃ õ,60,chacontukanoan
+144597,sion1247,FOOT,kˀ ɨ̃ õ,60,chacontukanoan
+144598,tani1257,FOOT,ũ ˀp ũ,60,chacontukanoan
+144599,tuca1252,FOOT,d ɨ ˀp o,60,chacontukanoan
+144600,tuyu1244,FOOT,d ɨ p o,60,chacontukanoan
+144601,guan1269,FOOT,d a ˀp o,60,chacontukanoan
+144602,bara1380,FAECES (EXCREMENT),g ɨ d a,50,chacontukanoan
+144603,desa1247,FAECES (EXCREMENT),g ɨ d a,50,chacontukanoan
+144604,cara1272,FAECES (EXCREMENT),g ɨ t a,50,chacontukanoan
+144605,kore1283,FAECES (EXCREMENT),k ɨ t a,50,chacontukanoan
+144606,cube1242,FAECES (EXCREMENT),k ɨ d a,50,chacontukanoan
+144607,orej1242,FAECES (EXCREMENT),ɨ̃ t a,50,chacontukanoan
+144608,pira1254,FAECES (EXCREMENT),k ɨ ˀt a,50,chacontukanoan
+144609,seco1241,FAECES (EXCREMENT),ɨ̃ t a,50,chacontukanoan
+144610,sion1247,FAECES (EXCREMENT),kˀ ɨ t a,50,chacontukanoan
+144611,tani1257,FAECES (EXCREMENT),i t a,50,chacontukanoan
+144612,tuca1252,FAECES (EXCREMENT),ɨ ˀt a,50,chacontukanoan
+144613,tuyu1244,FAECES (EXCREMENT),k ɨ̃ n ã,50,chacontukanoan
+144614,guan1269,FAECES (EXCREMENT),t ã,50,chacontukanoan
+144615,bara1380,TORTOISE,g u u,152,chacontukanoan
+144616,desa1247,TORTOISE,g u i,152,chacontukanoan
+144617,cara1272,TORTOISE,u u,152,chacontukanoan
+144618,kore1283,TORTOISE,k o ɨ,152,chacontukanoan
+144619,cube1242,TORTOISE,k ũ ɨ̃,152,chacontukanoan
+144620,seco1241,TORTOISE,k o u,152,chacontukanoan
+144621,sion1247,TORTOISE,kˀ o ɨ,152,chacontukanoan
+144622,tani1257,TORTOISE,o ʔ i,153,chacontukanoan
+144623,tuca1252,TORTOISE,u h u d i,152,chacontukanoan
+144624,tuyu1244,TORTOISE,k u u,152,chacontukanoan
+144625,guan1269,TORTOISE,k u,152,chacontukanoan
+144626,cara1272,PISS,õ n ẽ,117,chacontukanoan
+144627,kore1283,PISS,õ n e,117,chacontukanoan
+144628,cube1242,PISS,k õ n ẽ,117,chacontukanoan
+144629,orej1242,PISS,g o n e,117,chacontukanoan
+144630,seco1241,PISS,k õ n e,117,chacontukanoan
+144631,sion1247,PISS,kˀ õ n e,117,chacontukanoan
+144632,tuca1252,PISS,õ ˀn ẽ,117,chacontukanoan
+144633,tuyu1244,PISS,k õ n ẽ,117,chacontukanoan
+144634,guan1269,PISS,kʰ ũ n ũ,117,chacontukanoan
+144635,bara1380,HOLE,g o h e,76,chacontukanoan
+144636,desa1247,HOLE,g o b e,76,chacontukanoan
+144637,cara1272,HOLE,o p e,76,chacontukanoan
+144638,kore1283,HOLE,k o h e,76,chacontukanoan
+144639,cube1242,HOLE,k o b e,76,chacontukanoan
+144640,orej1242,HOLE,g o h e,76,chacontukanoan
+144641,seco1241,HOLE,k o h e,76,chacontukanoan
+144642,sion1247,HOLE,kˀ o h e,76,chacontukanoan
+144643,tani1257,HOLE,k o ɸ e,76,chacontukanoan
+144644,tuca1252,HOLE,k o p e,76,chacontukanoan
+144645,tuyu1244,HOLE,k o p e,76,chacontukanoan
+144646,guan1269,HOLE,k o p e,76,chacontukanoan
+144647,bara1380,TOOTH,g u h i,150,chacontukanoan
+144648,cara1272,TOOTH,o p i,150,chacontukanoan
+144649,kore1283,TOOTH,kʰ õ h ĩ,150,chacontukanoan
+144650,cube1242,TOOTH,k õ p ĩ,150,chacontukanoan
+144651,orej1242,TOOTH,ŋ ũ h i,150,chacontukanoan
+144652,seco1241,TOOTH,k õ ˀh ĩ,150,chacontukanoan
+144653,sion1247,TOOTH,kˀ ũ h ĩ,150,chacontukanoan
+144654,tani1257,TOOTH,o ɸ i,150,chacontukanoan
+144655,tuca1252,TOOTH,u p i,150,chacontukanoan
+144656,tuyu1244,TOOTH,u p i,150,chacontukanoan
+144657,guan1269,TOOTH,p i d i a k a,151,chacontukanoan
+144658,bara1380,BONE,ŋ õ ã,16,chacontukanoan
+144659,desa1247,BONE,ŋ õ ã,16,chacontukanoan
+144660,cara1272,BONE,õ ʔ ã,16,chacontukanoan
+144661,cube1242,BONE,k ũ ã,16,chacontukanoan
+144662,sion1247,BONE,kˀ õ ʔ a,16,chacontukanoan
+144663,tani1257,BONE,ũ ʔ ã,16,chacontukanoan
+144664,tuca1252,BONE,õ ʔ ã,16,chacontukanoan
+144665,tuyu1244,BONE,k õ ã,16,chacontukanoan
+144666,guan1269,BONE,kʰ õ ʔ ã,16,chacontukanoan
+144667,bara1380,FLOWER,g o d o,59,chacontukanoan
+144668,desa1247,FLOWER,g o,59,chacontukanoan
+144669,kore1283,FLOWER,k o ɾ o,59,chacontukanoan
+144670,cube1242,FLOWER,k o w ɨ,59,chacontukanoan
+144671,seco1241,FLOWER,h o d o,59,chacontukanoan
+144672,sion1247,FLOWER,k o d o,59,chacontukanoan
+144673,tani1257,FLOWER,õ ʔ õ,59,chacontukanoan
+144674,tuca1252,FLOWER,o ʔ o,59,chacontukanoan
+144675,tuyu1244,FLOWER,k o o,59,chacontukanoan
+144676,guan1269,FLOWER,k o ʔ o,59,chacontukanoan
+144677,bara1380,SLEEP,k ã n ĩ,126,chacontukanoan
+144678,desa1247,SLEEP,k ã n ĩ,126,chacontukanoan
+144679,cara1272,SLEEP,k ã n ĩ,126,chacontukanoan
+144680,kore1283,SLEEP,k ã,126,chacontukanoan
+144681,cube1242,SLEEP,k ã,126,chacontukanoan
+144682,orej1242,SLEEP,k ã,126,chacontukanoan
+144683,seco1241,SLEEP,k ã,126,chacontukanoan
+144684,sion1247,SLEEP,k ã,126,chacontukanoan
+144685,tani1257,SLEEP,k ã ɾ ĩ,126,chacontukanoan
+144686,tuca1252,SLEEP,k ã n ĩ,126,chacontukanoan
+144687,tuyu1244,SLEEP,k ã n ĩ,126,chacontukanoan
+144688,guan1269,SLEEP,kʰ ã n ĩ,126,chacontukanoan
+144689,bara1380,CASSAVA,k ĩ ĩ,20,chacontukanoan
+144690,desa1247,CASSAVA,k ĩ ĩ,20,chacontukanoan
+144691,cara1272,CASSAVA,k i i,20,chacontukanoan
+144692,kore1283,CASSAVA,kʰ ɨ i,20,chacontukanoan
+144693,cube1242,CASSAVA,k ɨ i,20,chacontukanoan
+144694,orej1242,CASSAVA,k ɨ i,20,chacontukanoan
+144695,sion1247,CASSAVA,k ɨ i,20,chacontukanoan
+144696,tani1257,CASSAVA,k i,20,chacontukanoan
+144697,tuca1252,CASSAVA,k i i,20,chacontukanoan
+144698,guan1269,CASSAVA,kʰ ɨ ɨ,20,chacontukanoan
+144699,bara1380,WOODPECKER,k õ n ẽ,166,chacontukanoan
+144700,desa1247,WOODPECKER,k õ n ẽ,166,chacontukanoan
+144701,cara1272,WOODPECKER,k õ n ẽ,166,chacontukanoan
+144702,kore1283,WOODPECKER,kʰ õ n e,166,chacontukanoan
+144703,cube1242,WOODPECKER,k õ n ẽ,166,chacontukanoan
+144704,orej1242,WOODPECKER,k o n e,166,chacontukanoan
+144705,seco1241,WOODPECKER,k õ n e,166,chacontukanoan
+144706,sion1247,WOODPECKER,k o n e,166,chacontukanoan
+144707,tuca1252,WOODPECKER,k õ n ẽ,166,chacontukanoan
+144708,guan1269,WOODPECKER,kʰ õ n ẽ,166,chacontukanoan
+144709,bara1380,BITE,k ũ n ĩ,9,chacontukanoan
+144710,desa1247,BITE,k ũ n ĩ,9,chacontukanoan
+144711,kore1283,BITE,kʰ ũ ʔ i,9,chacontukanoan
+144712,cube1242,BITE,k ũ,9,chacontukanoan
+144713,orej1242,BITE,k ũ i,9,chacontukanoan
+144714,seco1241,BITE,k õ k ɨ,9,chacontukanoan
+144715,sion1247,BITE,k ũ ʔ i,9,chacontukanoan
+144716,tani1257,BITE,k u ˀk u,9,chacontukanoan
+144717,tuca1252,BITE,k ũ ˀn ĩ,9,chacontukanoan
+144718,tuyu1244,BITE,b a k a,10,chacontukanoan
+144719,kore1283,CAPYBARA,kʷ ẽ s o,19,chacontukanoan
+144720,seco1241,CAPYBARA,kʷ e s o,19,chacontukanoan
+144721,sion1247,CAPYBARA,kʷˀ e s o,19,chacontukanoan
+144722,tani1257,CAPYBARA,k e h u,19,chacontukanoan
+144723,bara1380,WAIT (FOR),k o d e,159,chacontukanoan
+144724,desa1247,WAIT (FOR),k o d e,159,chacontukanoan
+144725,cube1242,WAIT (FOR),k o d e,159,chacontukanoan
+144726,orej1242,WAIT (FOR),ɨ̃ t e,159,chacontukanoan
+144727,seco1241,WAIT (FOR),u t e,159,chacontukanoan
+144728,tuca1252,WAIT (FOR),k o ˀt e,159,chacontukanoan
+144729,guan1269,WAIT (FOR),k o ˀt a,159,chacontukanoan
+144730,bara1380,MACAW,m ã h ã,94,chacontukanoan
+144731,desa1247,MACAW,m ã h ã,94,chacontukanoan
+144732,cara1272,MACAW,m a a,94,chacontukanoan
+144733,kore1283,MACAW,m a a,94,chacontukanoan
+144734,cube1242,MACAW,m ã,94,chacontukanoan
+144735,orej1242,MACAW,m a,94,chacontukanoan
+144736,seco1241,MACAW,t o a m a,94,chacontukanoan
+144737,sion1247,MACAW,m a,94,chacontukanoan
+144738,tuca1252,MACAW,m ã h ã,94,chacontukanoan
+144739,guan1269,MACAW,m ã h ã,94,chacontukanoan
+144740,bara1380,KNOW,m ã ts ĩ,88,chacontukanoan
+144741,desa1247,KNOW,m ã s ĩ,88,chacontukanoan
+144742,kore1283,KNOW,m a s i,88,chacontukanoan
+144743,cube1242,KNOW,m a h i,88,chacontukanoan
+144744,sion1247,KNOW,m a ˀs i,88,chacontukanoan
+144745,tuca1252,KNOW,m ã s ĩ,88,chacontukanoan
+144746,tuyu1244,KNOW,m ã s ĩ,88,chacontukanoan
+144747,guan1269,KNOW,m ã s ĩ,88,chacontukanoan
+144748,bara1380,PATH,m a a,111,chacontukanoan
+144749,desa1247,PATH,m ã ʔ ã,111,chacontukanoan
+144750,cara1272,PATH,m ã ʔ ã,111,chacontukanoan
+144751,kore1283,PATH,m a ʔ a,111,chacontukanoan
+144752,cube1242,PATH,m ã,111,chacontukanoan
+144753,orej1242,PATH,m a,111,chacontukanoan
+144754,seco1241,PATH,m a ʔ a,111,chacontukanoan
+144755,sion1247,PATH,m a ʔ a,111,chacontukanoan
+144756,tani1257,PATH,m ã ʔ ã,111,chacontukanoan
+144757,tuca1252,PATH,m ã,111,chacontukanoan
+144758,tuyu1244,PATH,m a a,111,chacontukanoan
+144759,guan1269,PATH,m ã ʔ ã,111,chacontukanoan
+144760,bara1380,ANT,m ẽ k ã,3,chacontukanoan
+144761,desa1247,ANT,m ẽ ŋ ã,3,chacontukanoan
+144762,cara1272,ANT,m ẽ k ã,3,chacontukanoan
+144763,kore1283,ANT,m e kʰ a,3,chacontukanoan
+144764,cube1242,ANT,m ẽ ã,3,chacontukanoan
+144765,orej1242,ANT,m e k a,3,chacontukanoan
+144766,sion1247,ANT,m e a,3,chacontukanoan
+144767,tani1257,ANT,m ẽ k ã,3,chacontukanoan
+144768,tuca1252,ANT,m ẽ k ã,3,chacontukanoan
+144769,guan1269,ANT,m ã tʃ ɨ̃,4,chacontukanoan
+144770,bara1380,HUMMINGBIRD,m ĩ m ĩ,80,chacontukanoan
+144771,desa1247,HUMMINGBIRD,m ĩ m ĩ,80,chacontukanoan
+144772,cara1272,HUMMINGBIRD,m ĩ m ĩ,80,chacontukanoan
+144773,kore1283,HUMMINGBIRD,m i m i,80,chacontukanoan
+144774,cube1242,HUMMINGBIRD,m ĩ m ĩ,80,chacontukanoan
+144775,orej1242,HUMMINGBIRD,m i m i,80,chacontukanoan
+144776,seco1241,HUMMINGBIRD,m i m i,80,chacontukanoan
+144777,sion1247,HUMMINGBIRD,m i m i,80,chacontukanoan
+144778,tuca1252,HUMMINGBIRD,m ĩ m ĩ,80,chacontukanoan
+144779,guan1269,HUMMINGBIRD,w̃ ĩ ˀm ĩ,80,chacontukanoan
+144780,bara1380,YOU,m ɨ̃ ã,168,chacontukanoan
+144781,desa1247,YOU,m ɨ̃ ã,168,chacontukanoan
+144782,cara1272,YOU,m ɨ̃ s ã,168,chacontukanoan
+144783,kore1283,YOU,m ɨ s a n ɨ kʰ o n a,168,chacontukanoan
+144784,cube1242,YOU,m ɨ̃ h ã,168,chacontukanoan
+144785,orej1242,YOU,m ɨ s a,168,chacontukanoan
+144786,seco1241,YOU,m ɨ s a ɾ u,168,chacontukanoan
+144787,sion1247,YOU,m ɨ s a k w a,168,chacontukanoan
+144788,tani1257,YOU,m ĩ h ã,168,chacontukanoan
+144789,tuca1252,YOU,m ɨ̃ s ã,168,chacontukanoan
+144790,tuyu1244,YOU,m ɨ̃ ã,168,chacontukanoan
+144791,guan1269,YOU,m ɨ̃ h ã,168,chacontukanoan
+144792,bara1380,TOBACCO,m ɨ̃ ˀn õ,148,chacontukanoan
+144793,desa1247,TOBACCO,m ũ n ũ,148,chacontukanoan
+144794,cara1272,TOBACCO,m ɨ̃ n õ,148,chacontukanoan
+144795,kore1283,TOBACCO,m ɨ t o,148,chacontukanoan
+144796,orej1242,TOBACCO,m ɨ t o,148,chacontukanoan
+144797,seco1241,TOBACCO,m ɨ t o,148,chacontukanoan
+144798,sion1247,TOBACCO,m u t o,148,chacontukanoan
+144799,tani1257,TOBACCO,m ĩ ˀɾ õ,148,chacontukanoan
+144800,tuca1252,TOBACCO,m ɨ̃ ˀn õ,148,chacontukanoan
+144801,tuyu1244,TOBACCO,m ɨ̃ n õ,148,chacontukanoan
+144802,guan1269,TOBACCO,m ɨ̃ ˀt õ,148,chacontukanoan
+144803,bara1380,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144804,desa1247,MOSQUITO,m ɨ̃ n ẽ,98,chacontukanoan
+144805,cara1272,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144806,kore1283,MOSQUITO,m ɨ tʰ e,98,chacontukanoan
+144807,cube1242,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144808,orej1242,MOSQUITO,m ɨ t e,98,chacontukanoan
+144809,seco1241,MOSQUITO,m u ˀt e,98,chacontukanoan
+144810,sion1247,MOSQUITO,m ɨ t e,98,chacontukanoan
+144811,tani1257,MOSQUITO,m ĩ ɾ ĩ,98,chacontukanoan
+144812,tuca1252,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144813,tuyu1244,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144814,guan1269,MOSQUITO,m ɨ̃ t ẽ,98,chacontukanoan
+144815,kore1283,CHARCOAL,n e o,25,chacontukanoan
+144816,cube1242,CHARCOAL,n ẽ õ,25,chacontukanoan
+144817,orej1242,CHARCOAL,n e o,25,chacontukanoan
+144818,seco1241,CHARCOAL,n ẽ õ,25,chacontukanoan
+144819,sion1247,CHARCOAL,n e o,25,chacontukanoan
+144820,bara1380,MIRITI PALM,ɾ ẽ e,96,chacontukanoan
+144821,desa1247,MIRITI PALM,n ẽ ʔ ẽ,96,chacontukanoan
+144822,cara1272,MIRITI PALM,n e e,96,chacontukanoan
+144823,kore1283,MIRITI PALM,n e ʔ e,96,chacontukanoan
+144824,cube1242,MIRITI PALM,n ẽ ĩ,96,chacontukanoan
+144825,seco1241,MIRITI PALM,n ẽ ʔ ẽ,96,chacontukanoan
+144826,sion1247,MIRITI PALM,n e ʔ e,96,chacontukanoan
+144827,tuca1252,MIRITI PALM,n ẽ ʔ ẽ,96,chacontukanoan
+144828,guan1269,MIRITI PALM,n ã ʔ ã,96,chacontukanoan
+144829,bara1380,CHARCOAL,ɾ ĩ t ĩ,24,chacontukanoan
+144830,desa1247,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144831,cara1272,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144832,tani1257,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144833,tuca1252,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144834,tuyu1244,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144835,guan1269,CHARCOAL,n ĩ t ĩ,24,chacontukanoan
+144836,bara1380,STOP DOING,ɾ ɨ̃ ŋ õ,138,chacontukanoan
+144837,desa1247,STOP DOING,n ũ ŋ ũ,138,chacontukanoan
+144838,cara1272,STOP DOING,n ɨ̃ k ã,138,chacontukanoan
+144839,kore1283,STOP DOING,n ɨ kʰ a,138,chacontukanoan
+144840,cube1242,STOP DOING,n ú/u,138,chacontukanoan
+144841,orej1242,STOP DOING,n ɨ k a,138,chacontukanoan
+144842,seco1241,STOP DOING,n ɨ̃ k a,138,chacontukanoan
+144843,sion1247,STOP DOING,n ɨ̃ k a,138,chacontukanoan
+144844,tuca1252,STOP DOING,n ɨ̃ ˀk ã,138,chacontukanoan
+144845,tuyu1244,STOP DOING,n ũ k ũ,138,chacontukanoan
+144846,cara1272,PENIS,n ũ n ĩ,113,chacontukanoan
+144847,cube1242,PENIS,n õ ẽ,113,chacontukanoan
+144848,orej1242,PENIS,n o a,113,chacontukanoan
+144849,tani1257,PENIS,ɾ ũ ɾ i,113,chacontukanoan
+144850,tuca1252,PENIS,n ũ n ĩ,113,chacontukanoan
+144851,tuyu1244,PENIS,s e j u a,114,chacontukanoan
+144852,guan1269,PENIS,n ũ n ɨ̃,113,chacontukanoan
+144853,bara1380,CRY,o t i,31,chacontukanoan
+144854,desa1247,CRY,o t i,31,chacontukanoan
+144855,cara1272,CRY,o t i,31,chacontukanoan
+144856,kore1283,CRY,o i,31,chacontukanoan
+144857,cube1242,CRY,o,31,chacontukanoan
+144858,orej1242,CRY,o i,31,chacontukanoan
+144859,seco1241,CRY,o i,31,chacontukanoan
+144860,sion1247,CRY,o i,31,chacontukanoan
+144861,tuyu1244,CRY,u t i,31,chacontukanoan
+144862,guan1269,CRY,t i,31,chacontukanoan
+144863,bara1380,BAT,o tʃ o,7,chacontukanoan
+144864,desa1247,BAT,o j o,7,chacontukanoan
+144865,cara1272,BAT,o s o,7,chacontukanoan
+144866,kore1283,BAT,o j o,7,chacontukanoan
+144867,cube1242,BAT,o j o,7,chacontukanoan
+144868,orej1242,BAT,o j o,7,chacontukanoan
+144869,pira1254,BAT,o s o,7,chacontukanoan
+144870,seco1241,BAT,o j o,7,chacontukanoan
+144871,sion1247,BAT,o j o,7,chacontukanoan
+144872,tani1257,BAT,o j o,7,chacontukanoan
+144873,tuca1252,BAT,o s o,7,chacontukanoan
+144874,tuyu1244,BAT,o s o,7,chacontukanoan
+144875,bara1380,WATER,o k o,161,chacontukanoan
+144876,desa1247,WATER,d e k o,161,chacontukanoan
+144877,cara1272,WATER,o k o,161,chacontukanoan
+144878,kore1283,WATER,o kʰ o,161,chacontukanoan
+144879,cube1242,WATER,o k o,161,chacontukanoan
+144880,orej1242,WATER,o k o,161,chacontukanoan
+144881,seco1241,WATER,o k o,161,chacontukanoan
+144882,sion1247,WATER,o k o,161,chacontukanoan
+144883,tani1257,WATER,o k o,161,chacontukanoan
+144884,tuca1252,WATER,o k o,161,chacontukanoan
+144885,tuyu1244,WATER,o k o,161,chacontukanoan
+144886,guan1269,WATER,k o,161,chacontukanoan
+144887,bara1380,PLANT (VEGETATION),o t e,118,chacontukanoan
+144888,desa1247,PLANT (VEGETATION),o t e,118,chacontukanoan
+144889,cara1272,PLANT (VEGETATION),o t e,118,chacontukanoan
+144890,kore1283,PLANT (VEGETATION),o tʰ e,118,chacontukanoan
+144891,cube1242,PLANT (VEGETATION),o t e,118,chacontukanoan
+144892,orej1242,PLANT (VEGETATION),o t e,118,chacontukanoan
+144893,seco1241,PLANT (VEGETATION),o t e,118,chacontukanoan
+144894,sion1247,PLANT (VEGETATION),o t e,118,chacontukanoan
+144895,tani1257,PLANT (VEGETATION),h o t o,118,chacontukanoan
+144896,tuca1252,PLANT (VEGETATION),o t e,118,chacontukanoan
+144897,tuyu1244,PLANT (VEGETATION),o t e,118,chacontukanoan
+144898,guan1269,PLANT (VEGETATION),t o a,118,chacontukanoan
+144899,bara1380,LARVA,b e k o,92,chacontukanoan
+144900,desa1247,LARVA,b e k a,92,chacontukanoan
+144901,cara1272,LARVA,b e k o,92,chacontukanoan
+144902,kore1283,LARVA,p e kʰ o,92,chacontukanoan
+144903,orej1242,LARVA,b e k u,92,chacontukanoan
+144904,seco1241,LARVA,pˀ e k o,92,chacontukanoan
+144905,sion1247,LARVA,pˀ e k o,92,chacontukanoan
+144906,tuca1252,LARVA,b e k o,92,chacontukanoan
+144907,bara1380,SPIDER,b ɨ h ɨ,130,chacontukanoan
+144908,desa1247,SPIDER,b ɨ p ɨ,130,chacontukanoan
+144909,cara1272,SPIDER,b ɨ p ɨ,130,chacontukanoan
+144910,kore1283,SPIDER,h ɨ̃ h ɨ̃,130,chacontukanoan
+144911,cube1242,SPIDER,p ɨ̃ p ɨ̃,130,chacontukanoan
+144912,orej1242,SPIDER,h ɨ̃ h ɨ̃,130,chacontukanoan
+144913,sion1247,SPIDER,h ɨ̃ h ɨ̃,130,chacontukanoan
+144914,tuca1252,SPIDER,b ɨ p ɨ,130,chacontukanoan
+144915,tuyu1244,SPIDER,b ɨ p ɨ,130,chacontukanoan
+144916,guan1269,SPIDER,w ɨ p ɨ,130,chacontukanoan
+144917,bara1380,TERMITE,b u t u,141,chacontukanoan
+144918,desa1247,TERMITE,b u d u,141,chacontukanoan
+144919,cara1272,TERMITE,b u t u,141,chacontukanoan
+144920,tani1257,TERMITE,b u t u,141,chacontukanoan
+144921,tuca1252,TERMITE,b u t u,141,chacontukanoan
+144922,guan1269,TERMITE,b u t u,141,chacontukanoan
+144923,bara1380,PEOPLE,m ã tʃ ã,115,chacontukanoan
+144924,cara1272,PEOPLE,m ã s ã,115,chacontukanoan
+144925,kore1283,PEOPLE,p ã i,116,chacontukanoan
+144926,cube1242,PEOPLE,m ã h ã,115,chacontukanoan
+144927,orej1242,PEOPLE,m ã ĩ,115,chacontukanoan
+144928,seco1241,PEOPLE,pˀ ã i,116,chacontukanoan
+144929,sion1247,PEOPLE,pˀ ã,116,chacontukanoan
+144930,tani1257,PEOPLE,m ã h ã,115,chacontukanoan
+144931,tuca1252,PEOPLE,m ã s ã,115,chacontukanoan
+144932,tuyu1244,PEOPLE,b a s o,116,chacontukanoan
+144933,guan1269,PEOPLE,m ã h ã,115,chacontukanoan
+144934,bara1380,DANCE,b a ts a,34,chacontukanoan
+144935,desa1247,DANCE,b a j a,34,chacontukanoan
+144936,cara1272,DANCE,b a s a,34,chacontukanoan
+144937,cube1242,DANCE,b a j a,34,chacontukanoan
+144938,orej1242,DANCE,t ɨ t e,35,chacontukanoan
+144939,tani1257,DANCE,b a j a,34,chacontukanoan
+144940,tuca1252,DANCE,b a s a,34,chacontukanoan
+144941,tuyu1244,DANCE,b a s a,34,chacontukanoan
+144942,guan1269,DANCE,b a s a,34,chacontukanoan
+144943,bara1380,FISHNET,b a h i,57,chacontukanoan
+144944,cara1272,FISHNET,b a p i,57,chacontukanoan
+144945,cube1242,FISHNET,p a p i,57,chacontukanoan
+144946,tuyu1244,FISHNET,b a p i,57,chacontukanoan
+144947,kore1283,DUCK,p e t e,43,chacontukanoan
+144948,cube1242,DUCK,b e d e,43,chacontukanoan
+144949,seco1241,DUCK,pˀ e t e,43,chacontukanoan
+144950,sion1247,DUCK,pˀ e t e,43,chacontukanoan
+144951,bara1380,CHILI PEPPER,b i a,29,chacontukanoan
+144952,desa1247,CHILI PEPPER,b i a,29,chacontukanoan
+144953,cara1272,CHILI PEPPER,b i a,29,chacontukanoan
+144954,kore1283,CHILI PEPPER,p i a,29,chacontukanoan
+144955,cube1242,CHILI PEPPER,b i a,29,chacontukanoan
+144956,orej1242,CHILI PEPPER,b i a,29,chacontukanoan
+144957,pira1254,CHILI PEPPER,b i a,29,chacontukanoan
+144958,seco1241,CHILI PEPPER,pˀ i a,29,chacontukanoan
+144959,sion1247,CHILI PEPPER,pˀ i a,29,chacontukanoan
+144960,tani1257,CHILI PEPPER,b i a,29,chacontukanoan
+144961,tuca1252,CHILI PEPPER,b i a,29,chacontukanoan
+144962,tuyu1244,CHILI PEPPER,b i a,29,chacontukanoan
+144963,guan1269,CHILI PEPPER,b i a,29,chacontukanoan
+144964,bara1380,SQUEEZE,b u h e,134,chacontukanoan
+144965,desa1247,SQUEEZE,b i p i,134,chacontukanoan
+144966,cube1242,SQUEEZE,p i p o,134,chacontukanoan
+144967,tuca1252,SQUEEZE,b i p e,134,chacontukanoan
+144968,tuyu1244,SQUEEZE,w̃ ã j ĩ ã,135,chacontukanoan
+144969,guan1269,SQUEEZE,w i p e,134,chacontukanoan
+144970,bara1380,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144971,desa1247,OLD (AGED),b ɨ g ɨ,106,chacontukanoan
+144972,cara1272,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144973,cube1242,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144974,tuca1252,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144975,tuyu1244,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144976,guan1269,OLD (AGED),b ɨ k ɨ,106,chacontukanoan
+144977,bara1380,WHITE,b o t i,162,chacontukanoan
+144978,desa1247,WHITE,b o d e,162,chacontukanoan
+144979,cara1272,WHITE,b o t i,162,chacontukanoan
+144980,kore1283,WHITE,p o,162,chacontukanoan
+144981,cube1242,WHITE,b o,162,chacontukanoan
+144982,orej1242,WHITE,b o,162,chacontukanoan
+144983,seco1241,WHITE,pˀ o,162,chacontukanoan
+144984,sion1247,WHITE,pˀ o,162,chacontukanoan
+144985,tani1257,WHITE,b o i,162,chacontukanoan
+144986,tuca1252,WHITE,b u t i,162,chacontukanoan
+144987,tuyu1244,WHITE,b u t i,162,chacontukanoan
+144988,guan1269,WHITE,b o ˀt a,162,chacontukanoan
+144989,bara1380,TOAD,m o m o,145,chacontukanoan
+144990,desa1247,TOAD,m o m a,145,chacontukanoan
+144991,kore1283,TOAD,h o h o,146,chacontukanoan
+144992,cube1242,TOAD,p o p o,146,chacontukanoan
+144993,seco1241,TOAD,h o h o,146,chacontukanoan
+144994,tuca1252,TOAD,m o ˀm o,145,chacontukanoan
+144995,guan1269,TOAD,w a ˀm u,147,chacontukanoan
+144996,bara1380,BREAK (DESTROY OR GET DESTROYED),b o h e,17,chacontukanoan
+144997,desa1247,BREAK (DESTROY OR GET DESTROYED),b o h e,17,chacontukanoan
+144998,kore1283,BREAK (DESTROY OR GET DESTROYED),h ũ h e,17,chacontukanoan
+144999,cube1242,BREAK (DESTROY OR GET DESTROYED),p o p e,17,chacontukanoan
+145000,orej1242,BREAK (DESTROY OR GET DESTROYED),h o a,17,chacontukanoan
+145001,seco1241,BREAK (DESTROY OR GET DESTROYED),h o ʔ a,17,chacontukanoan
+145002,tuca1252,BREAK (DESTROY OR GET DESTROYED),b o p e,17,chacontukanoan
+145003,tuyu1244,BREAK (DESTROY OR GET DESTROYED),p a a,17,chacontukanoan
+145004,guan1269,BREAK (DESTROY OR GET DESTROYED),p o ʔ a,17,chacontukanoan
+145005,bara1380,SWELL,m ĩ h ĩ,139,chacontukanoan
+145006,desa1247,SWELL,b i h i,139,chacontukanoan
+145007,orej1242,SWELL,h u h u,139,chacontukanoan
+145008,sion1247,SWELL,h u h u,139,chacontukanoan
+145009,tani1257,SWELL,ɸ ĩ ɸ i,139,chacontukanoan
+145010,tuca1252,SWELL,b i p i,139,chacontukanoan
+145011,tuyu1244,SWELL,b i p i,139,chacontukanoan
+145012,guan1269,SWELL,w i p i,139,chacontukanoan
+145013,bara1380,FATHER,h a k ɨ,52,chacontukanoan
+145014,desa1247,FATHER,p a g ɨ,52,chacontukanoan
+145015,cara1272,FATHER,p a k ɨ,52,chacontukanoan
+145016,kore1283,FATHER,h a kʰ ɨ,52,chacontukanoan
+145017,cube1242,FATHER,p a k ɨ,52,chacontukanoan
+145018,orej1242,FATHER,h a k ɨ,52,chacontukanoan
+145019,seco1241,FATHER,h a k ɨ,52,chacontukanoan
+145020,sion1247,FATHER,h a k ɨ,52,chacontukanoan
+145021,tani1257,FATHER,ɸ a k i,52,chacontukanoan
+145022,tuca1252,FATHER,p a k ɨ,52,chacontukanoan
+145023,tuyu1244,FATHER,p a k ɨ,52,chacontukanoan
+145024,guan1269,FATHER,pʰ ɨ k ɨ,52,chacontukanoan
+145025,bara1380,BIG,h a i,8,chacontukanoan
+145026,cara1272,BIG,p a i,8,chacontukanoan
+145027,orej1242,BIG,h a i,8,chacontukanoan
+145028,pira1254,BIG,p a h i,8,chacontukanoan
+145029,seco1241,BIG,h a i,8,chacontukanoan
+145030,sion1247,BIG,h a i,8,chacontukanoan
+145031,tuca1252,BIG,p a h i,8,chacontukanoan
+145032,tuyu1244,BIG,p a i,8,chacontukanoan
+145033,bara1380,ARMADILLO,h ã m õ,5,chacontukanoan
+145034,desa1247,ARMADILLO,p ã m õ,5,chacontukanoan
+145035,cara1272,ARMADILLO,p ã m õ,5,chacontukanoan
+145036,kore1283,ARMADILLO,h a m u,5,chacontukanoan
+145037,cube1242,ARMADILLO,p ã m ũ,5,chacontukanoan
+145038,pira1254,ARMADILLO,p ã m õ,5,chacontukanoan
+145039,seco1241,ARMADILLO,h ã m o,5,chacontukanoan
+145040,sion1247,ARMADILLO,h ã m u,5,chacontukanoan
+145041,tani1257,ARMADILLO,ɸ ã m ũ,5,chacontukanoan
+145042,tuca1252,ARMADILLO,p ã m õ,5,chacontukanoan
+145043,guan1269,ARMADILLO,p ã m õ,5,chacontukanoan
+145044,bara1380,FLOAT,h a j a,58,chacontukanoan
+145045,desa1247,FLOAT,p a j a,58,chacontukanoan
+145046,cara1272,FLOAT,p a s a,58,chacontukanoan
+145047,tuca1252,FLOAT,p a ˀs a,58,chacontukanoan
+145048,tuyu1244,FLOAT,p a s a,58,chacontukanoan
+145049,guan1269,FLOAT,p a ˀs a,58,chacontukanoan
+145050,bara1380,FIRE,h e a,54,chacontukanoan
+145051,desa1247,FIRE,p e a,54,chacontukanoan
+145052,cara1272,FIRE,p e e,54,chacontukanoan
+145053,kore1283,FIRE,h ẽ kʰ a,54,chacontukanoan
+145054,cube1242,FIRE,p e k a,54,chacontukanoan
+145055,orej1242,FIRE,h e k a,54,chacontukanoan
+145056,seco1241,FIRE,h e k a,54,chacontukanoan
+145057,sion1247,FIRE,h ẽ k a,54,chacontukanoan
+145058,tani1257,FIRE,ɸ e k a,54,chacontukanoan
+145059,tuca1252,FIRE,p e k a,54,chacontukanoan
+145060,tuyu1244,FIRE,p e k a,54,chacontukanoan
+145061,guan1269,FIRE,pʰ i tʃ a,54,chacontukanoan
+145062,bara1380,END (OF SPACE),h e d i,48,chacontukanoan
+145063,desa1247,END (OF SPACE),p e ˀd e a,48,chacontukanoan
+145064,tuca1252,END (OF SPACE),p e ˀt i,48,chacontukanoan
+145065,guan1269,END (OF SPACE),p i ˀt i,48,chacontukanoan
+145066,kore1283,PALM OF HAND,h ɨ̃ tʰ ɨ,109,chacontukanoan
+145067,cube1242,PALM OF HAND,p ɨ d ɨ,109,chacontukanoan
+145068,orej1242,PALM OF HAND,h ɨ̃ t ɨ,109,chacontukanoan
+145069,seco1241,PALM OF HAND,h ɨ̃ t ɨ,109,chacontukanoan
+145070,sion1247,PALM OF HAND,ɨ̃ t ɨ,109,chacontukanoan
+145071,tani1257,PALM OF HAND,ɸ i t a,109,chacontukanoan
+145072,bara1380,THORN,h o t a,142,chacontukanoan
+145073,desa1247,THORN,p o d a,142,chacontukanoan
+145074,cara1272,THORN,p o t a,142,chacontukanoan
+145075,tani1257,THORN,ɸ o t a,142,chacontukanoan
+145076,tuca1252,THORN,p o t a,142,chacontukanoan
+145077,guan1269,THORN,pʰ o t a,142,chacontukanoan
+145078,bara1380,BLOW (OF WIND),h u t i,15,chacontukanoan
+145079,desa1247,BLOW (OF WIND),p u d i,15,chacontukanoan
+145080,cara1272,BLOW (OF WIND),p u t i,15,chacontukanoan
+145081,kore1283,BLOW (OF WIND),h u i,15,chacontukanoan
+145082,cube1242,BLOW (OF WIND),p u,15,chacontukanoan
+145083,orej1242,BLOW (OF WIND),h ú/u i,15,chacontukanoan
+145084,seco1241,BLOW (OF WIND),h u,15,chacontukanoan
+145085,sion1247,BLOW (OF WIND),h u i,15,chacontukanoan
+145086,tuca1252,BLOW (OF WIND),p u t i,15,chacontukanoan
+145087,guan1269,BLOW (OF WIND),p u t i,15,chacontukanoan
+145088,bara1380,PACA,tʃ ẽ m ẽ,107,chacontukanoan
+145089,desa1247,PACA,s ẽ m ẽ,107,chacontukanoan
+145090,cara1272,PACA,h ẽ m ẽ,107,chacontukanoan
+145091,kore1283,PACA,s e m e,107,chacontukanoan
+145092,cube1242,PACA,h ẽ m ẽ,107,chacontukanoan
+145093,orej1242,PACA,s e m e,107,chacontukanoan
+145094,seco1241,PACA,s e m e,107,chacontukanoan
+145095,sion1247,PACA,s e m e,107,chacontukanoan
+145096,tani1257,PACA,h ẽ m ẽ,107,chacontukanoan
+145097,tuca1252,PACA,s ẽ m ẽ,107,chacontukanoan
+145098,guan1269,PACA,s ã m ã,107,chacontukanoan
+145099,bara1380,RUB,tʃ ĩ ŋ ẽ,124,chacontukanoan
+145100,cara1272,RUB,h ĩ k ẽ,124,chacontukanoan
+145101,cube1242,RUB,h ĩ h ũ,125,chacontukanoan
+145102,tuca1252,RUB,s ã ˀk ẽ,124,chacontukanoan
+145103,tuyu1244,RUB,t u u + s ã k ẽ,124,chacontukanoan
+145104,guan1269,RUB,tʰ u + s a ˀk a,124,chacontukanoan
+145105,bara1380,SPIDER MONKEY,i tʃ i k a m u,131,chacontukanoan
+145106,cara1272,SPIDER MONKEY,s i i,132,chacontukanoan
+145107,kore1283,SPIDER MONKEY,s i s i k o ˀɾ o ɾ o,132,chacontukanoan
+145108,cube1242,SPIDER MONKEY,h i h i j o,132,chacontukanoan
+145109,orej1242,SPIDER MONKEY,tʃ i tʃ i,132,chacontukanoan
+145110,sion1247,SPIDER MONKEY,s i s i,132,chacontukanoan
+145111,guan1269,SPIDER MONKEY,m ẽ n ẽ + ĩ ˀs ĩ,133,chacontukanoan
+145112,bara1380,SMOKE (INHALE),tʃ e tʃ o,127,chacontukanoan
+145113,desa1247,SMOKE (INHALE),s i j u,127,chacontukanoan
+145114,cara1272,SMOKE (INHALE),s i s o,127,chacontukanoan
+145115,kore1283,SMOKE (INHALE),s ɨ j o,127,chacontukanoan
+145116,cube1242,SMOKE (INHALE),h ɨ j o w a,127,chacontukanoan
+145117,orej1242,SMOKE (INHALE),s ɨ j o,127,chacontukanoan
+145118,seco1241,SMOKE (INHALE),s ɨ j o,127,chacontukanoan
+145119,sion1247,SMOKE (INHALE),s ẽ j o,127,chacontukanoan
+145120,tuca1252,SMOKE (INHALE),s ɨ ˀs o,127,chacontukanoan
+145121,guan1269,SMOKE (INHALE),s ɨ s o,127,chacontukanoan
+145122,desa1247,BACK,s ũ ŋ ũ,6,chacontukanoan
+145123,cara1272,BACK,h õ k ɨ̃,6,chacontukanoan
+145124,kore1283,BACK,s õ kʰ ɨ,6,chacontukanoan
+145125,tuca1252,BACK,s ũ k ũ,6,chacontukanoan
+145126,tuyu1244,BACK,s u k u,6,chacontukanoan
+145127,guan1269,BACK,s ũ k ũ,6,chacontukanoan
+145128,bara1380,POT,tʃ o t ɨ,120,chacontukanoan
+145129,desa1247,POT,s o d o,120,chacontukanoan
+145130,cara1272,POT,h o t ɨ,120,chacontukanoan
+145131,kore1283,POT,tʰ o tʰ o,120,chacontukanoan
+145132,cube1242,POT,h o d o,120,chacontukanoan
+145133,orej1242,POT,t o t o,120,chacontukanoan
+145134,seco1241,POT,s o t o,120,chacontukanoan
+145135,sion1247,POT,s o t o,120,chacontukanoan
+145136,tani1257,POT,h o t o,120,chacontukanoan
+145137,tuca1252,POT,s ɨ t ɨ,120,chacontukanoan
+145138,tuyu1244,POT,s o t ɨ,120,chacontukanoan
+145139,guan1269,POT,s i t u,120,chacontukanoan
+145140,bara1380,RED,tʃ ũ ã,121,chacontukanoan
+145141,cara1272,RED,h õ a,121,chacontukanoan
+145142,cube1242,RED,h ũ ã,121,chacontukanoan
+145143,tani1257,RED,h ũ ã,121,chacontukanoan
+145144,tuca1252,RED,s õ ʔ ã,121,chacontukanoan
+145145,tuyu1244,RED,s õ ã,121,chacontukanoan
+145146,guan1269,RED,s õ ʔ ã,121,chacontukanoan
+145147,desa1247,ROOT,n ũ ŋ ũ,123,chacontukanoan
+145148,cara1272,ROOT,n ɨ̃ ˀk õ,123,chacontukanoan
+145149,cube1242,ROOT,n ɨ̃ õ,123,chacontukanoan
+145150,tani1257,ROOT,ɾ ĩ k õ,123,chacontukanoan
+145151,tuca1252,ROOT,n ɨ̃ ˀk õ,123,chacontukanoan
+145152,tuyu1244,ROOT,n ɨ̃ k õ,123,chacontukanoan
+145153,guan1269,ROOT,n ɨ̃ ˀk õ,123,chacontukanoan
+145154,bara1380,HEAVY,ɾ ɨ̃ k ɨ̃,74,chacontukanoan
+145155,desa1247,HEAVY,n ɨ̃ k ɨ̃,74,chacontukanoan
+145156,cara1272,HEAVY,n ɨ̃ k ɨ̃,74,chacontukanoan
+145157,kore1283,HEAVY,ɾ ɨ kʰ ɨ,74,chacontukanoan
+145158,cube1242,HEAVY,d ɨ k ɨ,74,chacontukanoan
+145159,orej1242,HEAVY,d ɨ k ɨ,74,chacontukanoan
+145160,seco1241,HEAVY,d ɨ k ɨ,74,chacontukanoan
+145161,sion1247,HEAVY,d ɨ k ɨ,74,chacontukanoan
+145162,tani1257,HEAVY,ɾ ĩ k ĩ,74,chacontukanoan
+145163,tuca1252,HEAVY,n ɨ̃ k ɨ̃,74,chacontukanoan
+145164,tuyu1244,HEAVY,n ɨ̃ k ɨ̃,74,chacontukanoan
+145165,guan1269,HEAVY,n ɨ̃ k ɨ̃,74,chacontukanoan
+145166,cara1272,WIFE,n ɨ̃ m õ,163,chacontukanoan
+145167,kore1283,WIFE,ɾ ɨ h o,163,chacontukanoan
+145168,orej1242,WIFE,n ɨ h o,163,chacontukanoan
+145169,seco1241,WIFE,d ɨ h o,163,chacontukanoan
+145170,sion1247,WIFE,n ɨ̃ h o,163,chacontukanoan
+145171,tani1257,WIFE,ɾ ũ m ũ,163,chacontukanoan
+145172,tuca1252,WIFE,n ɨ̃ m õ,163,chacontukanoan
+145173,tuyu1244,WIFE,n ɨ̃ m õ,163,chacontukanoan
+145174,guan1269,WIFE,n ã m õ,163,chacontukanoan
+145175,bara1380,CUT,ɾ u t e,32,chacontukanoan
+145176,kore1283,CUT,ɾ u ˀtʰ e,32,chacontukanoan
+145177,orej1242,CUT,j ɨ i,33,chacontukanoan
+145178,sion1247,CUT,t ɨ̃ t e,32,chacontukanoan
+145179,tuca1252,CUT,d ɨ t e,32,chacontukanoan
+145180,guan1269,CUT,d ɨ t e,32,chacontukanoan
+145181,bara1380,WOMAN,ɾ õ m ĩ õ,165,chacontukanoan
+145182,desa1247,WOMAN,n õ m ẽ õ,165,chacontukanoan
+145183,cara1272,WOMAN,ɾ õ m ĩ õ,165,chacontukanoan
+145184,kore1283,WOMAN,ɾ o m i o,165,chacontukanoan
+145185,cube1242,WOMAN,n õ m ĩ,165,chacontukanoan
+145186,orej1242,WOMAN,n o m i o,165,chacontukanoan
+145187,seco1241,WOMAN,n õ m i o,165,chacontukanoan
+145188,sion1247,WOMAN,n o m i,165,chacontukanoan
+145189,tani1257,WOMAN,ɾ õ m õ,165,chacontukanoan
+145190,tuca1252,WOMAN,n ũ m ĩ õ,165,chacontukanoan
+145191,tuyu1244,WOMAN,n ũ m ĩ õ,165,chacontukanoan
+145192,guan1269,WOMAN,n ũ m ĩ n õ,165,chacontukanoan
+145193,bara1380,DOVE,ts i o ɾ o,37,chacontukanoan
+145194,kore1283,DOVE,s i ʔʷ i,40,chacontukanoan
+145195,cube1242,DOVE,h u d e,38,chacontukanoan
+145196,orej1242,DOVE,s ɨ n i,40,chacontukanoan
+145197,seco1241,DOVE,s ɨ ɾ a,41,chacontukanoan
+145198,sion1247,DOVE,tʃ i ʔʷ i,40,chacontukanoan
+145199,tuca1252,DOVE,s i ɾ i,42,chacontukanoan
+145200,guan1269,DOVE,s i ɾ i p i,39,chacontukanoan
+145201,bara1380,GATHER,ts ã a,63,chacontukanoan
+145202,cara1272,GATHER,h e e,63,chacontukanoan
+145203,kore1283,GATHER,s i a,63,chacontukanoan
+145204,cube1242,GATHER,h e w a,63,chacontukanoan
+145205,orej1242,GATHER,tʃ i a,63,chacontukanoan
+145206,seco1241,GATHER,s i a,63,chacontukanoan
+145207,sion1247,GATHER,tʃ i a,63,chacontukanoan
+145208,tuca1252,GATHER,s u a,63,chacontukanoan
+145209,guan1269,GATHER,s a a,63,chacontukanoan
+145210,bara1380,NAVEL,tʃ õ m ɨ̃,103,chacontukanoan
+145211,desa1247,NAVEL,s ũ m ũ,103,chacontukanoan
+145212,cara1272,NAVEL,h õ m ɨ̃,103,chacontukanoan
+145213,kore1283,NAVEL,s ũ h ũ,103,chacontukanoan
+145214,cube1242,NAVEL,h õ m ɨ̃,103,chacontukanoan
+145215,orej1242,NAVEL,s õ h õ,103,chacontukanoan
+145216,seco1241,NAVEL,s õ h õ,103,chacontukanoan
+145217,sion1247,NAVEL,tʃ õ h õ,103,chacontukanoan
+145218,tani1257,NAVEL,h ũ m ũ,103,chacontukanoan
+145219,tuca1252,NAVEL,s ũ m ũ,103,chacontukanoan
+145220,tuyu1244,NAVEL,s ũ m ũ ã,103,chacontukanoan
+145221,guan1269,NAVEL,s ɨ̃ m ɨ̃ k ã,103,chacontukanoan
+145222,bara1380,GRASS,t a a,68,chacontukanoan
+145223,desa1247,GRASS,t a a,68,chacontukanoan
+145224,cara1272,GRASS,t a a,68,chacontukanoan
+145225,kore1283,GRASS,tʰ a j a,68,chacontukanoan
+145226,cube1242,GRASS,d a,68,chacontukanoan
+145227,orej1242,GRASS,t a j a,68,chacontukanoan
+145228,seco1241,GRASS,t a j a,68,chacontukanoan
+145229,sion1247,GRASS,t a j a,68,chacontukanoan
+145230,tani1257,GRASS,t a j a,68,chacontukanoan
+145231,tuca1252,GRASS,t a a,68,chacontukanoan
+145232,tuyu1244,GRASS,t a a,68,chacontukanoan
+145233,guan1269,GRASS,tʰ a a,68,chacontukanoan
+145234,bara1380,MONKEY,g a k e,97,chacontukanoan
+145235,desa1247,MONKEY,g a k i,97,chacontukanoan
+145236,cara1272,MONKEY,a k e,97,chacontukanoan
+145237,kore1283,MONKEY,t ã kʰ e,97,chacontukanoan
+145238,cube1242,MONKEY,t a k e,97,chacontukanoan
+145239,orej1242,MONKEY,t ã k e,97,chacontukanoan
+145240,seco1241,MONKEY,t ã k e,97,chacontukanoan
+145241,sion1247,MONKEY,t ã k e,97,chacontukanoan
+145242,tani1257,MONKEY,t a k e,97,chacontukanoan
+145243,tuca1252,MONKEY,a k e,97,chacontukanoan
+145244,tuyu1244,MONKEY,a k e,97,chacontukanoan
+145245,guan1269,MONKEY,k a,97,chacontukanoan
+145246,kore1283,CHEW,j a k i,28,chacontukanoan
+145247,cube1242,CHEW,h ã h ɨ̃,27,chacontukanoan
+145248,orej1242,CHEW,n a k i,28,chacontukanoan
+145249,seco1241,CHEW,sˀ ã k i,28,chacontukanoan
+145250,tuca1252,CHEW,j a ˀg e,28,chacontukanoan
+145251,tuyu1244,CHEW,j a g e,28,chacontukanoan
+145252,guan1269,CHEW,j a ˀk a,28,chacontukanoan
+145253,desa1247,TOUCAN,n ã s ĩ,154,chacontukanoan
+145254,cara1272,TOUCAN,d a s a,154,chacontukanoan
+145255,kore1283,TOUCAN,j ã s e,154,chacontukanoan
+145256,cube1242,TOUCAN,h o e w e,155,chacontukanoan
+145257,seco1241,TOUCAN,j ã s e,154,chacontukanoan
+145258,sion1247,TOUCAN,j ã s e,154,chacontukanoan
+145259,tani1257,TOUCAN,n ã h ẽ,154,chacontukanoan
+145260,tuca1252,TOUCAN,ɾ a tʃ e,156,chacontukanoan
+145261,guan1269,TOUCAN,d a s e,154,chacontukanoan
+145262,bara1380,TONGUE,ɲ ẽ m ẽ,149,chacontukanoan
+145263,cara1272,TONGUE,ɲ ẽ m ẽ,149,chacontukanoan
+145264,kore1283,TONGUE,j e m e,149,chacontukanoan
+145265,cube1242,TONGUE,h ẽ m ẽ,149,chacontukanoan
+145266,orej1242,TONGUE,n e m e,149,chacontukanoan
+145267,seco1241,TONGUE,sˀ e m e,149,chacontukanoan
+145268,sion1247,TONGUE,sˀ e m e,149,chacontukanoan
+145269,tuca1252,TONGUE,ɲ ẽ m ẽ,149,chacontukanoan
+145270,tuyu1244,TONGUE,ɲ ẽ m ẽ,149,chacontukanoan
+145271,guan1269,TONGUE,ɲ ã m ã,149,chacontukanoan
+145272,bara1380,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145273,desa1247,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145274,cara1272,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145275,kore1283,BLACK,j i,12,chacontukanoan
+145276,cube1242,BLACK,ɲ ẽ m ĩ,11,chacontukanoan
+145277,orej1242,BLACK,n e a,11,chacontukanoan
+145278,sion1247,BLACK,sˀ i,12,chacontukanoan
+145279,tani1257,BLACK,n ẽ ʔ ĩ,11,chacontukanoan
+145280,tuca1252,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145281,tuyu1244,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145282,guan1269,BLACK,ɲ ĩ ĩ,11,chacontukanoan
+145283,bara1380,EGG,ɾ i a,46,chacontukanoan
+145284,cara1272,EGG,ɾ i a,46,chacontukanoan
+145285,kore1283,EGG,j i a,46,chacontukanoan
+145286,cube1242,EGG,h ĩ d ɨ,46,chacontukanoan
+145287,orej1242,EGG,j i a,46,chacontukanoan
+145288,seco1241,EGG,sˀ i a,46,chacontukanoan
+145289,sion1247,EGG,sˀ i a,46,chacontukanoan
+145290,tani1257,EGG,ɾ i a,46,chacontukanoan
+145291,tuca1252,EGG,d i e,47,chacontukanoan
+145292,tuyu1244,EGG,d i j e,47,chacontukanoan
+145293,guan1269,EGG,d i e,47,chacontukanoan
+145294,bara1380,FACE,ɾ i a,49,chacontukanoan
+145295,desa1247,FACE,d i a,49,chacontukanoan
+145296,cara1272,FACE,ɾ i a,49,chacontukanoan
+145297,kore1283,FACE,j i a,49,chacontukanoan
+145298,cube1242,FACE,h i w a,49,chacontukanoan
+145299,orej1242,FACE,j i a,49,chacontukanoan
+145300,seco1241,FACE,sˀ i a,49,chacontukanoan
+145301,tuca1252,FACE,d i a,49,chacontukanoan
+145302,tuyu1244,FACE,d i a + p o a,49,chacontukanoan
+145303,bara1380,RIVER,ɾ i a,122,chacontukanoan
+145304,desa1247,RIVER,d i a,122,chacontukanoan
+145305,cara1272,RIVER,ɾ i a,122,chacontukanoan
+145306,kore1283,RIVER,j i a,122,chacontukanoan
+145307,cube1242,RIVER,h i a,122,chacontukanoan
+145308,orej1242,RIVER,j i a,122,chacontukanoan
+145309,seco1241,RIVER,sˀ i a,122,chacontukanoan
+145310,sion1247,RIVER,sˀ i a,122,chacontukanoan
+145311,tani1257,RIVER,ɾ i a,122,chacontukanoan
+145312,tuca1252,RIVER,d i a,122,chacontukanoan
+145313,tuyu1244,RIVER,d i a,122,chacontukanoan
+145314,guan1269,RIVER,d i a,122,chacontukanoan
+145315,bara1380,BLOOD,ɾ i i,13,chacontukanoan
+145316,desa1247,BLOOD,d i i,13,chacontukanoan
+145317,cara1272,BLOOD,ɾ i i,13,chacontukanoan
+145318,kore1283,BLOOD,j i e,14,chacontukanoan
+145319,cube1242,BLOOD,h i w e,14,chacontukanoan
+145320,seco1241,BLOOD,sˀ i e,14,chacontukanoan
+145321,sion1247,BLOOD,sˀ i e,14,chacontukanoan
+145322,tani1257,BLOOD,ɾ i b e,13,chacontukanoan
+145323,tuca1252,BLOOD,d i i,13,chacontukanoan
+145324,tuyu1244,BLOOD,d i i,13,chacontukanoan
+145325,guan1269,BLOOD,d i,13,chacontukanoan
+145326,desa1247,LAKE,d i t a,89,chacontukanoan
+145327,cube1242,LAKE,h i t a,89,chacontukanoan
+145328,orej1242,LAKE,tʃ i t a,89,chacontukanoan
+145329,sion1247,LAKE,sˀ i t a d a,89,chacontukanoan
+145330,tuca1252,LAKE,d i t a,89,chacontukanoan
+145331,tuyu1244,LAKE,t a ɾ o,90,chacontukanoan
+145332,bara1380,HEAD,ɾ i h o,73,chacontukanoan
+145333,desa1247,HEAD,d i p u,73,chacontukanoan
+145334,cara1272,HEAD,ɾ ɨ p o,73,chacontukanoan
+145335,kore1283,HEAD,s ĩ h õ,73,chacontukanoan
+145336,cube1242,HEAD,h i p o,73,chacontukanoan
+145337,orej1242,HEAD,tʃ i o,73,chacontukanoan
+145338,seco1241,HEAD,s ĩ õ,73,chacontukanoan
+145339,sion1247,HEAD,sˀ ĩ h õ,73,chacontukanoan
+145340,tani1257,HEAD,ɾ u ɸ u,73,chacontukanoan
+145341,tuca1252,HEAD,d ɨ p o,73,chacontukanoan
+145342,tuyu1244,HEAD,d u p u,73,chacontukanoan
+145343,guan1269,HEAD,d a p u,73,chacontukanoan
+145344,bara1380,MOUTH,ɾ i tʃ e,99,chacontukanoan
+145345,desa1247,MOUTH,d i s i,99,chacontukanoan
+145346,cara1272,MOUTH,ɾ i s e,99,chacontukanoan
+145347,cube1242,MOUTH,h i h e,99,chacontukanoan
+145348,tani1257,MOUTH,ɾ i h o,99,chacontukanoan
+145349,tuca1252,MOUTH,ɨ ˀs e,99,chacontukanoan
+145350,tuyu1244,MOUTH,ɨ s e,99,chacontukanoan
+145351,guan1269,MOUTH,d ɨ s e,99,chacontukanoan
+145352,bara1380,FAR,j o a,51,chacontukanoan
+145353,desa1247,FAR,j o a,51,chacontukanoan
+145354,cara1272,FAR,j o a,51,chacontukanoan
+145355,cube1242,FAR,h o a,51,chacontukanoan
+145356,orej1242,FAR,d o a,51,chacontukanoan
+145357,seco1241,FAR,s o ʔ o,51,chacontukanoan
+145358,sion1247,FAR,sˀ o a,51,chacontukanoan
+145359,tani1257,FAR,j o e,51,chacontukanoan
+145360,tuca1252,FAR,j o a,51,chacontukanoan
+145361,tuyu1244,FAR,j o a,51,chacontukanoan
+145362,guan1269,FAR,j o a,51,chacontukanoan
+145363,bara1380,KINGFISHER,ɲ ã s ã,87,chacontukanoan
+145364,desa1247,KINGFISHER,s ã n ã,87,chacontukanoan
+145365,cara1272,KINGFISHER,ɲ ã s ã,87,chacontukanoan
+145366,kore1283,KINGFISHER,s ã ˀs a,87,chacontukanoan
+145367,cube1242,KINGFISHER,h ã h ã,87,chacontukanoan
+145368,seco1241,KINGFISHER,sˀ ã ˀs a,87,chacontukanoan
+145369,tani1257,KINGFISHER,h ã h ã,87,chacontukanoan
+145370,tuca1252,KINGFISHER,s ã n ã,87,chacontukanoan
+145371,guan1269,KINGFISHER,s ã n ã,87,chacontukanoan
+145372,bara1380,PECCARY,j e tʃ e,112,chacontukanoan
+145373,desa1247,PECCARY,j e s e,112,chacontukanoan
+145374,kore1283,PECCARY,s ẽ s e,112,chacontukanoan
+145375,cube1242,PECCARY,h ẽ h ẽ,112,chacontukanoan
+145376,orej1242,PECCARY,s ẽ s e,112,chacontukanoan
+145377,seco1241,PECCARY,s ẽ s e,112,chacontukanoan
+145378,sion1247,PECCARY,s ẽ s e,112,chacontukanoan
+145379,tani1257,PECCARY,h ẽ h ẽ,112,chacontukanoan
+145380,tuca1252,PECCARY,j e s e,112,chacontukanoan
+145381,tuyu1244,PECCARY,j e s e,112,chacontukanoan
+145382,guan1269,PECCARY,j e s e,112,chacontukanoan
+145383,desa1247,POISON,n ĩ m ã,119,chacontukanoan
+145384,cara1272,POISON,n ĩ m ã,119,chacontukanoan
+145385,kore1283,POISON,j i m a,119,chacontukanoan
+145386,cube1242,POISON,h ĩ m ã,119,chacontukanoan
+145387,seco1241,POISON,sˀ ĩ m a,119,chacontukanoan
+145388,tuca1252,POISON,n ĩ m ã,119,chacontukanoan
+145389,tuyu1244,POISON,n ĩ m ã,119,chacontukanoan
+145390,guan1269,POISON,ɲ ĩ m ã,119,chacontukanoan
+145391,bara1380,GREEN,ts ɨ̃ m ẽ,69,chacontukanoan
+145392,cara1272,GREEN,h ɨ̃ m ẽ,69,chacontukanoan
+145393,cube1242,GREEN,h ɨ̃ m ẽ,69,chacontukanoan
+145394,sion1247,GREEN,s ɨ h o,70,chacontukanoan
+145395,tani1257,GREEN,h ĩ ˀm ĩ,69,chacontukanoan
+145396,tuca1252,GREEN,s ɨ ˀm e,69,chacontukanoan
+145397,tuyu1244,GREEN,s ɨ̃ m ẽ ɾ̃ ẽ,69,chacontukanoan
+145398,bara1380,COLD (OF WEATHER),ɨ ts a,30,chacontukanoan
+145399,desa1247,COLD (OF WEATHER),j ɨ s a,30,chacontukanoan
+145400,kore1283,COLD (OF WEATHER),s ɨ s ɨ,30,chacontukanoan
+145401,cube1242,COLD (OF WEATHER),h ɨ h ɨ,30,chacontukanoan
+145402,orej1242,COLD (OF WEATHER),s ɨ s ɨ,30,chacontukanoan
+145403,seco1241,COLD (OF WEATHER),s ɨ s ɨ,30,chacontukanoan
+145404,sion1247,COLD (OF WEATHER),s ɨ s ɨ,30,chacontukanoan
+145405,tani1257,COLD (OF WEATHER),h i ˀh i a,30,chacontukanoan
+145406,tuca1252,COLD (OF WEATHER),j ɨ s ɨ a,30,chacontukanoan
+145407,tuyu1244,COLD (OF WEATHER),j ɨ s ɨ a,30,chacontukanoan
+145408,guan1269,COLD (OF WEATHER),j ɨ s ɨ,30,chacontukanoan
+145409,bara1380,TREE,j u k ɨ,157,chacontukanoan
+145410,desa1247,TREE,j u k ɨ,157,chacontukanoan
+145411,cara1272,TREE,j u k ɨ,157,chacontukanoan
+145412,kore1283,TREE,s ũ k i j̃ ɨ,157,chacontukanoan
+145413,cube1242,TREE,h o k ɨ,157,chacontukanoan
+145414,orej1242,TREE,s ũ k i j̃ i,157,chacontukanoan
+145415,seco1241,TREE,s õ k ɨ,157,chacontukanoan
+145416,sion1247,TREE,s ũ k i,157,chacontukanoan
+145417,tani1257,TREE,h ũ k ĩ,157,chacontukanoan
+145418,tuca1252,TREE,j u k ɨ,157,chacontukanoan
+145419,tuyu1244,TREE,j u k ɨ,157,chacontukanoan
+145420,guan1269,TREE,j u k ɨ,157,chacontukanoan
+145421,bara1380,INSECT,u s i,83,chacontukanoan
+145422,kore1283,INSECT,s ũ s i,83,chacontukanoan
+145423,cube1242,INSECT,h u h i,83,chacontukanoan
+145424,sion1247,INSECT,s u s i,83,chacontukanoan
+145425,guan1269,INSECT,j ĩ,84,chacontukanoan
+145426,bara1380,FRUIT,t o a,61,chacontukanoan
+145427,kore1283,FRUIT,tʰ o a,61,chacontukanoan
+145428,cube1242,FRUIT,t o a,61,chacontukanoan
+145429,orej1242,FRUIT,t o a,61,chacontukanoan
+145430,seco1241,FRUIT,t o a,61,chacontukanoan
+145431,sion1247,FRUIT,t o a,61,chacontukanoan
+145432,tuca1252,FRUIT,t o a,61,chacontukanoan
+145433,guan1269,FRUIT,tʰ o a,61,chacontukanoan
+145434,bara1380,TREE STUMP,t u t u,158,chacontukanoan
+145435,desa1247,TREE STUMP,t u d u,158,chacontukanoan
+145436,cara1272,TREE STUMP,t u t u,158,chacontukanoan
+145437,kore1283,TREE STUMP,tʰ u u,158,chacontukanoan
+145438,cube1242,TREE STUMP,t u t u d i,158,chacontukanoan
+145439,orej1242,TREE STUMP,t u,158,chacontukanoan
+145440,seco1241,TREE STUMP,t u,158,chacontukanoan
+145441,sion1247,TREE STUMP,t u,158,chacontukanoan
+145442,tuca1252,TREE STUMP,t u t u,158,chacontukanoan
+145443,guan1269,TREE STUMP,tʰ u t u,158,chacontukanoan
+145444,bara1380,PACU,u h u,108,chacontukanoan
+145445,desa1247,PACU,u h u,108,chacontukanoan
+145446,tuca1252,PACU,u h u,108,chacontukanoan
+145447,bara1380,BREAST,õ h ẽ,18,chacontukanoan
+145448,desa1247,BREAST,ã p ĩ,18,chacontukanoan
+145449,cara1272,BREAST,ũ p ẽ,18,chacontukanoan
+145450,kore1283,BREAST,o h e,18,chacontukanoan
+145451,cube1242,BREAST,o p e,18,chacontukanoan
+145452,orej1242,BREAST,o h e,18,chacontukanoan
+145453,seco1241,BREAST,o h e,18,chacontukanoan
+145454,sion1247,BREAST,o h e,18,chacontukanoan
+145455,tani1257,BREAST,ũ ˀp e,18,chacontukanoan
+145456,tuca1252,BREAST,õ p ẽ,18,chacontukanoan
+145457,tuyu1244,BREAST,õ p ẽ ã,18,chacontukanoan
+145458,guan1269,BREAST,p ẽ n õ,18,chacontukanoan
+145459,bara1380,WASP,u t i,160,chacontukanoan
+145460,desa1247,WASP,u t i,160,chacontukanoan
+145461,cara1272,WASP,u t i,160,chacontukanoan
+145462,kore1283,WASP,u tʰ i,160,chacontukanoan
+145463,cube1242,WASP,u tʃ i,160,chacontukanoan
+145464,orej1242,WASP,u t i,160,chacontukanoan
+145465,seco1241,WASP,u t i,160,chacontukanoan
+145466,sion1247,WASP,u t i,160,chacontukanoan
+145467,tani1257,WASP,u t i,160,chacontukanoan
+145468,tuca1252,WASP,u t i,160,chacontukanoan
+145469,tuyu1244,WASP,u t i a,160,chacontukanoan
+145470,guan1269,WASP,t i,160,chacontukanoan
+145471,bara1380,FISHING (WITH A NET),w a j a,56,chacontukanoan
+145472,desa1247,FISHING (WITH A NET),w a j a,56,chacontukanoan
+145473,kore1283,FISHING (WITH A NET),w a j o,56,chacontukanoan
+145474,orej1242,FISHING (WITH A NET),b e j o,56,chacontukanoan
+145475,tuca1252,FISHING (WITH A NET),w a ˀs a,56,chacontukanoan
+145476,guan1269,FISHING (WITH A NET),w a ˀs a,56,chacontukanoan
+145477,bara1380,CHEEK,w a j u,26,chacontukanoan
+145478,desa1247,CHEEK,w a ˀj u,26,chacontukanoan
+145479,cara1272,CHEEK,w a s o,26,chacontukanoan
+145480,kore1283,CHEEK,w a j o,26,chacontukanoan
+145481,cube1242,CHEEK,w ɨ o,26,chacontukanoan
+145482,orej1242,CHEEK,b a j o,26,chacontukanoan
+145483,seco1241,CHEEK,w a j o,26,chacontukanoan
+145484,sion1247,CHEEK,w a j o,26,chacontukanoan
+145485,tuca1252,CHEEK,w a ˀs u,26,chacontukanoan
+145486,tuyu1244,CHEEK,w a s o p u,26,chacontukanoan
+145487,guan1269,CHEEK,w a ˀs u,26,chacontukanoan
+145488,bara1380,NAME,w̃ ã m ẽ,102,chacontukanoan
+145489,desa1247,NAME,w̃ ã ĩ,102,chacontukanoan
+145490,cara1272,NAME,w̃ ã m ẽ,102,chacontukanoan
+145491,kore1283,NAME,m a m i,102,chacontukanoan
+145492,cube1242,NAME,ã m ĩ,102,chacontukanoan
+145493,orej1242,NAME,m a m i,102,chacontukanoan
+145494,seco1241,NAME,m a m i,102,chacontukanoan
+145495,sion1247,NAME,m a m i,102,chacontukanoan
+145496,tani1257,NAME,w̃ ã m ẽ,102,chacontukanoan
+145497,tuca1252,NAME,w̃ ã m ẽ,102,chacontukanoan
+145498,tuyu1244,NAME,w̃ ã m ẽ,102,chacontukanoan
+145499,guan1269,NAME,w̃ ã m ã,102,chacontukanoan
+145500,bara1380,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145501,desa1247,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145502,cara1272,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145503,kore1283,MYTHICAL BEING,w a tʰ i,101,chacontukanoan
+145504,cube1242,MYTHICAL BEING,ã tʃ ĩ,101,chacontukanoan
+145505,orej1242,MYTHICAL BEING,ã i,101,chacontukanoan
+145506,seco1241,MYTHICAL BEING,w a t i,101,chacontukanoan
+145507,sion1247,MYTHICAL BEING,w a t i,101,chacontukanoan
+145508,tani1257,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145509,tuca1252,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145510,guan1269,MYTHICAL BEING,w ã t i,101,chacontukanoan
+145511,bara1380,FISH,w a i,55,chacontukanoan
+145512,desa1247,FISH,w a ʔ i,55,chacontukanoan
+145513,kore1283,FISH,w a ʔ i,55,chacontukanoan
+145514,cube1242,FISH,w a w i,55,chacontukanoan
+145515,orej1242,FISH,b a i,55,chacontukanoan
+145516,seco1241,FISH,w a ʔ i,55,chacontukanoan
+145517,sion1247,FISH,w a ʔ i,55,chacontukanoan
+145518,tani1257,FISH,w a ʔ i,55,chacontukanoan
+145519,tuca1252,FISH,w a ʔ i,55,chacontukanoan
+145520,tuyu1244,FISH,w a i,55,chacontukanoan
+145521,guan1269,FISH,w a ʔ i,55,chacontukanoan
+145522,bara1380,TAPIR,w e k ɨ,140,chacontukanoan
+145523,desa1247,TAPIR,w e k ɨ,140,chacontukanoan
+145524,kore1283,TAPIR,w e kʰ ɨ,140,chacontukanoan
+145525,cube1242,TAPIR,w e k ɨ,140,chacontukanoan
+145526,orej1242,TAPIR,b e k ɨ,140,chacontukanoan
+145527,seco1241,TAPIR,w ẽ k ɨ,140,chacontukanoan
+145528,sion1247,TAPIR,w e k ɨ,140,chacontukanoan
+145529,tuca1252,TAPIR,w e k ɨ,140,chacontukanoan
+145530,tuyu1244,TAPIR,w e k ɨ,140,chacontukanoan
+145531,guan1269,TAPIR,w a tʃ ɨ,140,chacontukanoan
+145532,bara1380,PARROT,w e k o,110,chacontukanoan
+145533,desa1247,PARROT,w e k o,110,chacontukanoan
+145534,cara1272,PARROT,w e k o,110,chacontukanoan
+145535,kore1283,PARROT,w e k o,110,chacontukanoan
+145536,cube1242,PARROT,w e k o,110,chacontukanoan
+145537,orej1242,PARROT,b e k o,110,chacontukanoan
+145538,seco1241,PARROT,w e k o,110,chacontukanoan
+145539,sion1247,PARROT,w e k o,110,chacontukanoan
+145540,tuca1252,PARROT,w e k o,110,chacontukanoan
+145541,tuyu1244,PARROT,w e k o,110,chacontukanoan
+145542,guan1269,PARROT,w a tʃ o,110,chacontukanoan
+145543,bara1380,GARDEN,w e ts e,62,chacontukanoan
+145544,desa1247,GARDEN,w e s e,62,chacontukanoan
+145545,kore1283,GARDEN,w e ˀs e,62,chacontukanoan
+145546,orej1242,GARDEN,b e s e,62,chacontukanoan
+145547,seco1241,GARDEN,w e ˀs e,62,chacontukanoan
+145548,tuca1252,GARDEN,w e s e,62,chacontukanoan
+145549,tuyu1244,GARDEN,w e s e,62,chacontukanoan
+145550,guan1269,GARDEN,w e s e,62,chacontukanoan
+145551,bara1380,INK,w e i,82,chacontukanoan
+145552,cube1242,INK,w e i,82,chacontukanoan
+145553,bara1380,WIND,m ĩ n õ,164,chacontukanoan
+145554,desa1247,WIND,m ĩ n ũ,164,chacontukanoan
+145555,cara1272,WIND,w̃ ĩ n õ,164,chacontukanoan
+145556,tani1257,WIND,w ĩ ɾ õ,164,chacontukanoan
+145557,tuca1252,WIND,w ĩ n õ,164,chacontukanoan
+145558,tuyu1244,WIND,w ĩ n õ,164,chacontukanoan
+145559,guan1269,WIND,w ĩ n õ,164,chacontukanoan
+145560,bara1380,HOUSE,w i,78,chacontukanoan
+145561,desa1247,HOUSE,w i ʔ i,78,chacontukanoan
+145562,cara1272,HOUSE,w i i,78,chacontukanoan
+145563,kore1283,HOUSE,w ɨ ʔ e,78,chacontukanoan
+145564,cube1242,HOUSE,w ɨ e,78,chacontukanoan
+145565,orej1242,HOUSE,u e,79,chacontukanoan
+145566,seco1241,HOUSE,w ɨ ʔ e,78,chacontukanoan
+145567,sion1247,HOUSE,w ɨ ʔ e,78,chacontukanoan
+145568,tani1257,HOUSE,w i ʔ i,78,chacontukanoan
+145569,tuca1252,HOUSE,w i ʔ i,78,chacontukanoan
+145570,tuyu1244,HOUSE,w i i,78,chacontukanoan
+145571,guan1269,HOUSE,w ɨ ʔ ɨ,78,chacontukanoan
+145572,bara1380,THUNDER,b ɨ h o,144,chacontukanoan
+145573,desa1247,THUNDER,b u p u,144,chacontukanoan
+145574,cube1242,THUNDER,õ p õ,144,chacontukanoan
+145575,orej1242,THUNDER,m ɨ h a,144,chacontukanoan
+145576,seco1241,THUNDER,m o h o,144,chacontukanoan
+145577,sion1247,THUNDER,m ɨ h o,144,chacontukanoan
+145578,tani1257,THUNDER,a w ĩ ɸ o,144,chacontukanoan
+145579,tuca1252,THUNDER,b ɨ p o,144,chacontukanoan
+145580,tuyu1244,THUNDER,b ɨ p o,144,chacontukanoan
+145581,guan1269,THUNDER,w ɨ p o,144,chacontukanoan
+145582,bara1380,AGOUTI,b u u,1,chacontukanoan
+145583,desa1247,AGOUTI,b u i,1,chacontukanoan
+145584,cara1272,AGOUTI,b u u,1,chacontukanoan
+145585,kore1283,AGOUTI,w ɨ ɨ,2,chacontukanoan
+145586,cube1242,AGOUTI,b u ɨ,1,chacontukanoan
+145587,seco1241,AGOUTI,w ɨ,2,chacontukanoan
+145588,sion1247,AGOUTI,w ɨ,2,chacontukanoan
+145589,tani1257,AGOUTI,b u i,1,chacontukanoan
+145590,tuca1252,AGOUTI,b u u,1,chacontukanoan
+145591,guan1269,AGOUTI,b u u,1,chacontukanoan
+145592,bara1380,STONE,ŋ ɨ̃ t ã,136,chacontukanoan
+145593,desa1247,STONE,ɨ̃ t ã,136,chacontukanoan
+145594,cara1272,STONE,ɨ̃ t ã,136,chacontukanoan
+145595,kore1283,STONE,k a tʰ a,136,chacontukanoan
+145596,pira1254,STONE,k ɨ̃ t ã,136,chacontukanoan
+145597,seco1241,STONE,k ɨ n a,137,chacontukanoan
+145598,sion1247,STONE,kˀ a t a,136,chacontukanoan
+145599,tani1257,STONE,ã t a,136,chacontukanoan
+145600,tuca1252,STONE,ɨ̃ t ã,136,chacontukanoan
+145601,tuyu1244,STONE,ɨ̃ t ã,136,chacontukanoan

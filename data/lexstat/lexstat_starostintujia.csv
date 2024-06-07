@@ -1,0 +1,514 @@
+id,doculect,concept,forms,lexstatid,db
+311933,nort2732,I,ŋ a ²⁴,95,starostintujia
+311934,nort2732,I,ŋ a ²⁴,95,starostintujia
+311935,nort2732,I,ŋ a ³⁵,95,starostintujia
+311936,sout2739,I,ŋ o ³³,95,starostintujia
+311937,sout2739,I,ŋ o ³³,95,starostintujia
+311938,nort2732,ALL,x u ²⁴ + n i ⁵⁵,1,starostintujia
+311939,nort2732,ALL,x u ²⁴ + n i ⁴⁴,1,starostintujia
+311940,nort2732,ALL,x u ³⁵ + n i ⁵⁵,1,starostintujia
+311941,sout2739,ALL,b u ¹³ + l i ⁵³,2,starostintujia
+311942,sout2739,ALL,b u ¹³,2,starostintujia
+311943,nort2732,ASH,p u ²¹ + tɕʰ i ²⁴,3,starostintujia
+311944,nort2732,ASH,p u ²¹ + tsʰ i ⁵³,3,starostintujia
+311945,nort2732,ASH,p u ²¹ + tsʰ i ³⁵,3,starostintujia
+311946,sout2739,ASH,m u ²¹ + tsʰ i ⁵³,3,starostintujia
+311947,sout2739,ASH,m u ¹³ + tsʰ i ⁵⁵,3,starostintujia
+311948,nort2732,BARK,kʰ a ²¹ + tʰ a ²⁴ + pʰ a ²¹,4,starostintujia
+311949,nort2732,BELLY,m ɤ ²¹ + tsʰ i ²¹ + kʰ ɤ ⁵⁵,5,starostintujia
+311950,nort2732,BELLY,m ɨ e ²¹,6,starostintujia
+311951,nort2732,BELLY,m ɨ e ²¹,6,starostintujia
+311952,sout2739,BELLY,m ɨ e ²¹ + tɕ i ⁵³,6,starostintujia
+311953,sout2739,BELLY,m ɨ e ¹³ + tɕ i ⁵⁵,6,starostintujia
+311954,nort2732,BIG,tsʰ i ²¹,7,starostintujia
+311955,nort2732,BIG,tsʰ i ⁵³,7,starostintujia
+311956,nort2732,BIG,tsʰ i ⁵⁵,7,starostintujia
+311957,sout2739,BIG,tɕʰ i ³³,7,starostintujia
+311958,sout2739,BIG,tɕʰ i ³³,7,starostintujia
+311959,nort2732,BIRD,n j ɛ ²⁴ + p i ⁵⁵,8,starostintujia
+311960,nort2732,BIRD,n i e ²¹ + p i ⁵³,8,starostintujia
+311961,nort2732,BIRD,n e ³⁵ + p i ³⁵,8,starostintujia
+311962,sout2739,BIRD,k ɨ ²¹ + ts o ²¹ + n ũ ²¹,9,starostintujia
+311963,sout2739,BIRD,k ɨ ²¹ + ts o ²¹,9,starostintujia
+311964,nort2732,BITE,k a ²⁴,10,starostintujia
+311965,nort2732,BITE,k a ²⁴,10,starostintujia
+311966,sout2739,BITE,ɡ o ¹³,11,starostintujia
+311967,nort2732,BLACK,l a ŋ ²⁴ + k a ⁵⁵,12,starostintujia
+311968,nort2732,BLACK,l ã ⁴⁴ + k a ⁴⁴ + t i e ²¹,12,starostintujia
+311969,nort2732,BLACK,l ã ³⁵ + k a ⁵⁵,12,starostintujia
+311970,sout2739,BLACK,n o ²¹,13,starostintujia
+311971,sout2739,BLACK,l o ²¹,14,starostintujia
+311972,nort2732,BLOOD,m j ɛ ²¹,15,starostintujia
+311973,nort2732,BLOOD,m i e ⁵³,15,starostintujia
+311974,nort2732,BLOOD,m e ⁵⁵,17,starostintujia
+311975,sout2739,BLOOD,m i e ²¹ + m i e ²¹,16,starostintujia
+311976,sout2739,BLOOD,m e ²¹ + m e ²¹,16,starostintujia
+311977,nort2732,BONE,l u ⁵⁵ + k a ⁵⁵,18,starostintujia
+311978,nort2732,BONE,l u ⁴⁴ + k a ⁴⁴,18,starostintujia
+311979,nort2732,BONE,l u ⁵⁵ + k a ⁵⁵,18,starostintujia
+311980,sout2739,BONE,kʰ a ²¹ + kʰ ɨ e ⁵³,19,starostintujia
+311981,sout2739,BONE,kʰ a ²¹ + k ɨ ²¹,19,starostintujia
+311982,nort2732,BREAST,l i ⁵⁵ + k w ɔ ⁵⁵ + tsʰ ɔ ŋ ⁵⁵,20,starostintujia
+311983,nort2732,BREAST,ɕ ĩ ⁴⁴ + tʰ ã ²¹,22,starostintujia
+311984,nort2732,BREAST,l i ⁵⁵ + kʰ o ⁵⁵ + tsʰ ũ ⁵⁵,20,starostintujia
+311985,sout2739,BREAST,d ẽ ³³ + ɡ o ¹³ + l ẽ ³³,21,starostintujia
+311986,sout2739,BREAST,ɕ i õ ⁵⁵ + k ẽ ²¹ + dʑ i ã ²¹,23,starostintujia
+311987,nort2732,BURN (SOMETHING),z a ²¹,24,starostintujia
+311988,nort2732,BURN (SOMETHING),tɕ i a u ⁴⁴,25,starostintujia
+311989,sout2739,BURN (SOMETHING),tɕ i a ʉ ³³,25,starostintujia
+311990,nort2732,CLAW OR NAIL,kʰ w ɔ ²⁴ + tʰ a ⁵⁵,26,starostintujia
+311991,nort2732,CLAW OR NAIL,kʰ o ⁵³ + tʰ a ⁵³,26,starostintujia
+311992,nort2732,CLAW OR NAIL,kʰ o ⁵⁵ + tʰ a ⁵⁵,26,starostintujia
+311993,sout2739,CLAW OR NAIL,dʑ i e ⁵³ + m ũ ²¹ + k o ²¹ + l o ²¹,27,starostintujia
+311994,sout2739,CLAW OR NAIL,dʑ e ⁵⁵ + m o ⁵⁵ + kʰ o ²¹,28,starostintujia
+311995,nort2732,CLOUD,m e ²⁴ + l a ⁵⁵ + ɔ ŋ ²¹,29,starostintujia
+311996,nort2732,CLOUD,m ɨ e ³⁵ + l a ⁵⁵ + ɣ ũ ²¹,29,starostintujia
+311997,sout2739,CLOUD,j ẽ ²¹ + d o ʉ ³³,30,starostintujia
+311998,sout2739,CLOUD,j y ẽ ³³,31,starostintujia
+311999,nort2732,COLD,s a ²¹,32,starostintujia
+312000,nort2732,COLD,s a ⁵³,32,starostintujia
+312001,nort2732,COLD,s a ⁵⁵,32,starostintujia
+312002,sout2739,COLD,s i ²¹ + dz a ²¹,33,starostintujia
+312003,sout2739,COLD,s i ²¹ + dz a ¹³,33,starostintujia
+312004,nort2732,COME,ɤ ŋ ²¹ + tɕ j u ²¹,34,starostintujia
+312005,nort2732,COME,ẽ ²¹ + ts i ²¹,36,starostintujia
+312006,nort2732,COME,ẽ ²¹ + ts i ²¹,36,starostintujia
+312007,sout2739,COME,ɣ ɨ ²¹ + d ɨ ⁵³,35,starostintujia
+312008,sout2739,COME,ʔ ɨ ¹³ + d ɨ ⁵⁵,37,starostintujia
+312009,nort2732,DIE,s ɤ ²⁴,38,starostintujia
+312010,nort2732,DIE,s e ²⁴,38,starostintujia
+312011,nort2732,DIE,s e ³⁵,38,starostintujia
+312012,sout2739,DIE,s e ²¹,38,starostintujia
+312013,sout2739,DIE,s e ²¹,38,starostintujia
+312014,nort2732,DOG,x a ²¹ + l j ɛ ²¹,39,starostintujia
+312015,nort2732,DOG,x a ⁵³ + l i e ²¹,39,starostintujia
+312016,nort2732,DOG,x a ⁵⁵ + l e ²¹,39,starostintujia
+312017,sout2739,DOG,tsʰ e ⁵³,40,starostintujia
+312018,sout2739,DOG,tsʰ e ⁵⁵,40,starostintujia
+312019,nort2732,DRINK,x u ²¹,41,starostintujia
+312020,nort2732,DRINK,x u ²¹,41,starostintujia
+312021,nort2732,DRINK,x u ²¹,41,starostintujia
+312022,sout2739,DRINK,dz o ʉ ³³,42,starostintujia
+312023,sout2739,DRINK,dz ʉ ³³,42,starostintujia
+312024,nort2732,DRY,k a ²¹,43,starostintujia
+312025,nort2732,DRY,a ⁵³ + k a ²¹,43,starostintujia
+312026,nort2732,DRY,k a ²¹,43,starostintujia
+312027,sout2739,DRY,ɡ o ¹³,43,starostintujia
+312028,sout2739,DRY,ɡ o ⁵⁵,43,starostintujia
+312029,nort2732,EAR,ɤ ŋ ²¹ + tɕʰ j ɛ ²⁴,44,starostintujia
+312030,nort2732,EAR,ũ ²¹ + tɕʰ i e ⁴⁴,46,starostintujia
+312031,nort2732,EAR,ẽ ²¹ + tɕʰ e ³⁵,44,starostintujia
+312032,sout2739,EAR,ts a ²¹ + p o ⁵³,45,starostintujia
+312033,sout2739,EAR,ts ã ²¹ + p ʉ ⁵⁵,45,starostintujia
+312034,nort2732,EARTH (SOIL),z w ɔ ²¹,47,starostintujia
+312035,nort2732,EARTH (SOIL),z o ⁵³,47,starostintujia
+312036,nort2732,EARTH (SOIL),z o ⁵⁵,47,starostintujia
+312037,sout2739,EARTH (SOIL),z a ⁵³,47,starostintujia
+312038,sout2739,EARTH (SOIL),z a ⁵⁵,47,starostintujia
+312039,nort2732,EAT,k a ²⁴,48,starostintujia
+312040,nort2732,EAT,k a ²⁴,48,starostintujia
+312041,nort2732,EAT,k a ³⁵,48,starostintujia
+312042,sout2739,EAT,ɣ ɨ e ¹³,49,starostintujia
+312043,sout2739,EAT,ɣ ɨ e ³⁵,49,starostintujia
+312044,nort2732,EGG,a ⁵⁵ + l j ɛ ⁵⁵,50,starostintujia
+312045,nort2732,EGG,a ⁵⁵ + l e ⁵⁵,50,starostintujia
+312046,sout2739,EGG,s i ²¹ + ŋ ɨ e ²¹ + a ¹³ + l ɨ e ⁵³,51,starostintujia
+312047,sout2739,EGG,ʔ a ²¹ + l e ⁵⁵,52,starostintujia
+312048,nort2732,EYE,l w ɔ ²⁴ + p u ⁵⁵,53,starostintujia
+312049,nort2732,EYE,l o ²⁴ + p u ⁴⁴,53,starostintujia
+312050,nort2732,EYE,l o ³⁵ + p u ³⁵,53,starostintujia
+312051,sout2739,EYE,a ²¹ + l a ⁵³,54,starostintujia
+312052,sout2739,EYE,ʔ a ²¹ + l a ⁵⁵,54,starostintujia
+312053,nort2732,FAR,ɣ ɨ e ²¹,55,starostintujia
+312054,nort2732,FAR,ɣ ɨ e ²¹,55,starostintujia
+312055,sout2739,FAR,ɣ o ʉ ²¹ + i ⁵³,56,starostintujia
+312056,sout2739,FAR,ʔ ʉ ¹³ + j i ⁵⁵,57,starostintujia
+312057,nort2732,FEATHER,s i ²⁴ + k a ²¹,58,starostintujia
+312058,nort2732,FEATHER,tɕ i ²⁴ + k a ⁴⁴,58,starostintujia
+312059,sout2739,FEATHER,a ³³ + s o ³³,59,starostintujia
+312060,nort2732,FIRE,m i ²¹,60,starostintujia
+312061,nort2732,FIRE,m i ⁵³,60,starostintujia
+312062,nort2732,FIRE,m i ⁵⁵,60,starostintujia
+312063,sout2739,FIRE,m i ⁵³,60,starostintujia
+312064,sout2739,FIRE,m i ⁵⁵,60,starostintujia
+312065,nort2732,FISH,s ɔ ŋ ²⁴,61,starostintujia
+312066,nort2732,FISH,s ũ ²⁴,63,starostintujia
+312067,nort2732,FISH,s ũ ³⁵,63,starostintujia
+312068,sout2739,FISH,s i ²¹ + ŋ e ²¹,62,starostintujia
+312069,sout2739,FISH,s i ²¹ + ŋ ɨ ²¹,62,starostintujia
+312070,nort2732,FLY (MOVE THROUGH AIR),z a ²⁴,64,starostintujia
+312071,nort2732,FLY (MOVE THROUGH AIR),z a ⁵³,64,starostintujia
+312072,nort2732,FLY (MOVE THROUGH AIR),z a ⁵⁵,64,starostintujia
+312073,sout2739,FLY (MOVE THROUGH AIR),m u ³³ + dʑ i ³³,65,starostintujia
+312074,sout2739,FLY (MOVE THROUGH AIR),m u ³³ + dz i ³³,65,starostintujia
+312075,nort2732,FOOT,tɕ i ²¹,66,starostintujia
+312076,nort2732,FOOT,tɕ i ²¹ + pʰ a ²¹,66,starostintujia
+312077,nort2732,FOOT,tɕ i ²¹,66,starostintujia
+312078,sout2739,FOOT,a ³³ + dʑ i ¹³,67,starostintujia
+312079,sout2739,FOOT,ʔ a ³³ + dʑ i ³⁵,67,starostintujia
+312080,nort2732,FULL,m ã ⁵³,68,starostintujia
+312081,nort2732,FULL,m ã ⁵⁵,68,starostintujia
+312082,sout2739,FULL,m o ʉ ⁵³,69,starostintujia
+312083,sout2739,FULL,m ʉ ³³,70,starostintujia
+312084,nort2732,GIVE,l j ɛ ²⁴,71,starostintujia
+312085,nort2732,GIVE,l i e ²⁴,71,starostintujia
+312086,nort2732,GIVE,l e ³⁵,71,starostintujia
+312087,sout2739,GIVE,l i e ⁵³,71,starostintujia
+312088,sout2739,GIVE,l e ⁵⁵,71,starostintujia
+312089,nort2732,GOOD,tsʰ a ²⁴,72,starostintujia
+312090,nort2732,GOOD,tsʰ a ²⁴,72,starostintujia
+312091,nort2732,GOOD,tsʰ a ³⁵,72,starostintujia
+312092,sout2739,GOOD,tsʰ o ²¹,72,starostintujia
+312093,sout2739,GOOD,tsʰ o ³³,72,starostintujia
+312094,nort2732,GREEN,ɕ i ŋ ²⁴ + k a ⁵⁵,73,starostintujia
+312095,nort2732,GREEN,l u ²¹ + l u ²¹ + t i ⁴⁴,75,starostintujia
+312096,nort2732,GREEN,l u ³⁵ + k a ⁵⁵,77,starostintujia
+312097,sout2739,GREEN,ɕ i ²¹,74,starostintujia
+312098,sout2739,GREEN,l u ²¹,76,starostintujia
+312099,nort2732,HAIR,s a ²⁴ + tɕʰ i ⁵⁵,78,starostintujia
+312100,nort2732,HAIR,s a ²⁴ + tɕʰ i ⁴⁴,78,starostintujia
+312101,nort2732,HAIR,s a ³⁵ + tɕʰ i ⁵⁵,78,starostintujia
+312102,sout2739,HAIR,a ²¹ + b o ⁵³ + a ²¹ + s o ²¹,79,starostintujia
+312103,sout2739,HAIR,ʔ a ²¹ + s o ²¹,80,starostintujia
+312104,nort2732,HAND,tɕ j ɛ ²⁴,81,starostintujia
+312105,nort2732,HAND,tɕ i e ²⁴,81,starostintujia
+312106,nort2732,HAND,tɕ e ³⁵,81,starostintujia
+312107,sout2739,HAND,a ²¹ + dʑ i e ⁵³,82,starostintujia
+312108,sout2739,HAND,ʔ a ²¹ + dʑ e ⁵⁵,83,starostintujia
+312109,nort2732,HEAD,kʰ a ⁵⁵ + tʰ a ⁵⁵,84,starostintujia
+312110,nort2732,HEAD,kʰ o ⁵³ + p a ⁵³,86,starostintujia
+312111,nort2732,HEAD,kʰ o ⁵⁵ + p a ⁵⁵,86,starostintujia
+312112,sout2739,HEAD,a ²¹ + b o ⁵³ + b u ²¹,85,starostintujia
+312113,sout2739,HEAD,ʔ a ²¹ + b o ⁵⁵,85,starostintujia
+312114,nort2732,HEAR,ɕ i ²¹,87,starostintujia
+312115,nort2732,HEAR,z u ²¹,87,starostintujia
+312116,nort2732,HEAR,z u ²¹,87,starostintujia
+312117,sout2739,HEAR,x o ³³ + z i ³³,88,starostintujia
+312118,sout2739,HEAR,ħ o ³³ + z i ³³,88,starostintujia
+312119,nort2732,HEART,l i ⁵⁵ + kʰ w ɔ ⁵⁵ + l w ɔ ⁵⁵,89,starostintujia
+312120,nort2732,HEART,l i ⁵³ + kʰ o ⁴⁴ + l o ⁴⁴,89,starostintujia
+312121,nort2732,HEART,l i ⁵⁵ + kʰ o ⁵⁵ + l o ³⁵,89,starostintujia
+312122,sout2739,HEART,t u ¹³ + s ẽ ³³,90,starostintujia
+312123,sout2739,HEART,l i ²¹ + ŋ a ²¹,91,starostintujia
+312124,nort2732,HEAVY,t u ²¹,92,starostintujia
+312125,nort2732,HEAVY,t u ⁵³,92,starostintujia
+312126,nort2732,HEAVY,t u ⁵⁵,92,starostintujia
+312127,sout2739,HEAVY,d o ʉ ¹³,92,starostintujia
+312128,sout2739,HEAVY,d ʉ ³⁵,92,starostintujia
+312129,nort2732,HORN (ANATOMY),kʰ ɤ ²¹,93,starostintujia
+312130,nort2732,HORN (ANATOMY),kʰ ɨ e ⁵³,93,starostintujia
+312131,nort2732,HORN (ANATOMY),kʰ ɨ e ⁵⁵,93,starostintujia
+312132,sout2739,HORN (ANATOMY),a ³³ + kʰ ɨ e ³³,94,starostintujia
+312133,sout2739,HORN (ANATOMY),ʔ a ³³ + kʰ ɨ e ³³,94,starostintujia
+312134,nort2732,KILL,p u ²⁴,96,starostintujia
+312135,nort2732,KILL,p u ²⁴,96,starostintujia
+312136,nort2732,KILL,p u ³⁵,96,starostintujia
+312137,sout2739,KILL,ɣ ɨ e ¹³,97,starostintujia
+312138,sout2739,KILL,ʔ ɨ ¹³,98,starostintujia
+312139,nort2732,KNEE,tɕ i ²¹ + tʰ i ²¹ + kʰ e ⁵³ + k a i ²⁴ + k a i ²⁴,99,starostintujia
+312140,nort2732,KNEE,tɕ i ²¹ + tʰ i ²¹ + kʰ ɨ e ⁵⁵,99,starostintujia
+312141,sout2739,KNEE,dʑ i ²¹ + t o ²¹ + ŋ o ¹³,100,starostintujia
+312142,sout2739,KNEE,ʔ a ²¹ + dʑ i ³⁵ + p o ³³ + l o ³³,101,starostintujia
+312143,nort2732,KNOW (SOMETHING),x a ²¹ + z i ²¹,102,starostintujia
+312144,nort2732,KNOW (SOMETHING),x a u ⁵³ + ɕ i ⁴⁴,102,starostintujia
+312145,nort2732,KNOW (SOMETHING),x a u ⁵⁵ + ɕ i ³⁵,102,starostintujia
+312146,sout2739,KNOW (SOMETHING),ɕ i e ⁵³,103,starostintujia
+312147,sout2739,KNOW (SOMETHING),ɕ e ⁵⁵ + tsʰ e ⁵⁵,104,starostintujia
+312148,nort2732,LEAF,ɣ ɤ ⁵⁵ + tʰ a ⁵⁵,105,starostintujia
+312149,nort2732,LEAF,ɣ ɨ e ⁵³ + tʰ a ⁵³,105,starostintujia
+312150,nort2732,LEAF,ɣ ɨ e ⁵⁵ + tʰ a ⁵⁵,105,starostintujia
+312151,sout2739,LEAF,a ³³ + ɣ ɨ e ³³,106,starostintujia
+312152,sout2739,LEAF,ʔ a ²¹ + ɣ ɨ e ²¹,106,starostintujia
+312153,nort2732,LIE (REST),pʰ ɤ ²¹,107,starostintujia
+312154,nort2732,LIE (REST),n i e ²⁴ + p o ⁴⁴,109,starostintujia
+312155,sout2739,LIE (REST),kʰ a ʉ ¹³,108,starostintujia
+312156,nort2732,LIVER,a ŋ ⁵⁵ + a ⁵⁵,110,starostintujia
+312157,nort2732,LIVER,a ⁵³ + ŋ a i ⁴⁴,112,starostintujia
+312158,nort2732,LIVER,ã ⁵⁵ + ŋ a ⁵⁵,112,starostintujia
+312159,sout2739,LIVER,k æ̃ ³³,111,starostintujia
+312160,sout2739,LIVER,k ã ³³,111,starostintujia
+312161,nort2732,LONG,ɣ ɤ ²¹,113,starostintujia
+312162,nort2732,LONG,ɣ ɨ e ²¹,113,starostintujia
+312163,nort2732,LONG,ɣ ɨ e ²¹,113,starostintujia
+312164,sout2739,LONG,ɣ ɨ e ¹³,113,starostintujia
+312165,sout2739,LONG,ɣ ɨ e ³⁵,113,starostintujia
+312166,nort2732,LOUSE,s i ⁵⁵ + s i ⁵⁵,114,starostintujia
+312167,nort2732,LOUSE,s i ⁵³ + s i ⁴⁴,114,starostintujia
+312168,nort2732,LOUSE,s i ⁵⁵ + s i ⁵⁵,114,starostintujia
+312169,sout2739,LOUSE,a ²¹ + s i ⁵³ + l ũ ³³,115,starostintujia
+312170,sout2739,LOUSE,ʔ a ²¹ + s i ⁵⁵,116,starostintujia
+312171,nort2732,MAN,ts w ɔ ⁵⁵ + p a ⁵⁵,117,starostintujia
+312172,nort2732,MAN,n o ⁵³ + p a ⁴⁴ + ts e ⁴⁴,117,starostintujia
+312173,nort2732,MAN,n o ⁵⁵ + p a ⁵⁵,117,starostintujia
+312174,sout2739,MAN,a ²¹ + k o ²¹ + b i e ²¹,118,starostintujia
+312175,sout2739,MAN,ʔ a ²¹ + k o ²¹ + b e ²¹ + ŋ ɨ ²¹,118,starostintujia
+312176,nort2732,MANY,z i ²¹,119,starostintujia
+312177,nort2732,MANY,z i ²¹,119,starostintujia
+312178,nort2732,MANY,z i ²¹,119,starostintujia
+312179,sout2739,MANY,z i ⁴⁵,119,starostintujia
+312180,sout2739,MANY,z i ³⁵,119,starostintujia
+312181,nort2732,MEAT,s i ²¹,120,starostintujia
+312182,nort2732,MEAT,s i ²¹,120,starostintujia
+312183,nort2732,MEAT,s i ²¹,120,starostintujia
+312184,sout2739,MEAT,s i ¹³,120,starostintujia
+312185,sout2739,MEAT,s i ³⁵,120,starostintujia
+312186,nort2732,MOON,s u ²¹ + s u ²¹,121,starostintujia
+312187,nort2732,MOON,s u ²¹ + s u ²¹ + kʰ a ²¹ + tɕ j e ⁴⁴,121,starostintujia
+312188,nort2732,MOON,s u ²¹ + s u ²¹,121,starostintujia
+312189,sout2739,MOON,j e ²¹ + l i ã ⁴⁵,122,starostintujia
+312190,sout2739,MOON,l o ³⁵ + ɕ i ⁵⁵ + d ʉ ³⁵,123,starostintujia
+312191,nort2732,MOUNTAIN,kʰ u ⁵⁵ + l j ɛ ⁵⁵,124,starostintujia
+312192,nort2732,MOUNTAIN,kʰ u ⁵³ + ts a ⁵³,126,starostintujia
+312193,nort2732,MOUNTAIN,kʰ u ⁵⁵ + ts a ⁵⁵,126,starostintujia
+312194,sout2739,MOUNTAIN,z a ⁵³ + kʰ a ²¹,125,starostintujia
+312195,sout2739,MOUNTAIN,z a ⁵⁵,127,starostintujia
+312196,nort2732,MOUTH,ts a ²⁴ + tɕʰ i ⁵⁵,128,starostintujia
+312197,nort2732,MOUTH,ts a ²⁴ + tɕʰ i ⁴⁴,128,starostintujia
+312198,nort2732,MOUTH,ts a ³⁵ + tɕʰ i ⁵⁵,128,starostintujia
+312199,sout2739,MOUTH,a ²¹ + z e ²¹,129,starostintujia
+312200,sout2739,MOUTH,ʔ a ²¹ + z e ²¹,129,starostintujia
+312201,nort2732,NAME,m ĩ ²¹ + ts i ²⁴,130,starostintujia
+312202,nort2732,NAME,m ĩ ²¹ + ts i ³⁵,130,starostintujia
+312203,sout2739,NAME,n i o ʉ ³³,131,starostintujia
+312204,sout2739,NAME,n i ʉ ³⁵ + b o ²¹,132,starostintujia
+312205,nort2732,NEAR,ts ũ ⁵³,133,starostintujia
+312206,nort2732,NEAR,ts ũ ⁵⁵,133,starostintujia
+312207,sout2739,NEAR,ɣ o ʉ ²¹ + dz a ²¹,134,starostintujia
+312208,sout2739,NEAR,ʔ ʉ ¹³ + dz a ³³,135,starostintujia
+312209,nort2732,NECK,kʰ ɔ ŋ ⁵⁵ + t i ⁵⁵,136,starostintujia
+312210,nort2732,NECK,kʰ ũ ⁴⁴ + t i ⁴⁴,136,starostintujia
+312211,nort2732,NECK,kʰ ũ ⁵⁵ + t i ⁵⁵,136,starostintujia
+312212,sout2739,NECK,k u a ¹³ + l a ⁵³,137,starostintujia
+312213,sout2739,NECK,ɡ u a ²¹ + l a ⁵⁵,137,starostintujia
+312214,nort2732,NEW,a ²⁴ + ɕ i ⁵⁵,138,starostintujia
+312215,nort2732,NEW,ɣ a ²⁴ + s i ⁴⁴,138,starostintujia
+312216,nort2732,NEW,a ³⁵ + s i ³⁵,138,starostintujia
+312217,sout2739,NEW,a ³³ + ɕ i ³³,138,starostintujia
+312218,sout2739,NEW,ʔ a ⁵⁵ + ɕ i ²¹,138,starostintujia
+312219,nort2732,NIGHT,pʰ ɤ ⁵⁵,139,starostintujia
+312220,nort2732,NOSE,ɤ ŋ ²⁴ + tɕʰ i ⁵⁵,140,starostintujia
+312221,nort2732,NOSE,ũ ²⁴ + tɕʰ i ⁴⁴,140,starostintujia
+312222,nort2732,NOSE,ẽ ³⁵ + tɕʰ i ⁵⁵,140,starostintujia
+312223,sout2739,NOSE,k o ʉ ²¹ + tɕ i ⁵³,141,starostintujia
+312224,sout2739,NOSE,k ʉ ¹³ + tɕ i ⁵⁵ + d ʉ ³⁵,142,starostintujia
+312225,nort2732,NOT,t a ²⁴,143,starostintujia
+312226,nort2732,NOT,tʰ a ⁵³,143,starostintujia
+312227,nort2732,NOT,tʰ a ⁵⁵,143,starostintujia
+312228,sout2739,NOT,l æ̃,144,starostintujia
+312229,sout2739,NOT,m a ⁵³,145,starostintujia
+312230,nort2732,ONE,l a ²⁴,146,starostintujia
+312231,nort2732,ONE,n a ²⁴,147,starostintujia
+312232,nort2732,ONE,n a ³⁵,147,starostintujia
+312233,sout2739,ONE,l a ³³,146,starostintujia
+312234,sout2739,ONE,l a ⁵⁵,146,starostintujia
+312235,nort2732,PERSON,l w ɔ ²¹,148,starostintujia
+312236,nort2732,PERSON,n o ⁵⁵,150,starostintujia
+312237,sout2739,PERSON,n i a ³³,149,starostintujia
+312238,nort2732,RAIN (PRECIPITATION),m ɤ ²⁴ + z ɤ ²¹,151,starostintujia
+312239,nort2732,RAIN (PRECIPITATION),m ɨ e ²⁴ + ts e ²¹,151,starostintujia
+312240,nort2732,RAIN (PRECIPITATION),m ɨ e ³⁵ + ts e ²¹,151,starostintujia
+312241,sout2739,RAIN (PRECIPITATION),z e ¹³,152,starostintujia
+312242,sout2739,RAIN (PRECIPITATION),z e ³⁵,152,starostintujia
+312243,nort2732,RED,m j ɛ n ⁵⁵ + tɕ j ɛ ⁵⁵,153,starostintujia
+312244,nort2732,RED,m i ã ⁵³ + tɕ i e ⁴⁴,155,starostintujia
+312245,nort2732,RED,m i ã ⁵⁵ + tɕ e ⁵⁵,155,starostintujia
+312246,sout2739,RED,b o ²¹ + n i ²¹,154,starostintujia
+312247,sout2739,RED,b o ³³ + n i ¹³,154,starostintujia
+312248,nort2732,ROAD,l a ²¹,156,starostintujia
+312249,nort2732,ROAD,l a ⁵⁵,156,starostintujia
+312250,sout2739,ROAD,l o ³³,156,starostintujia
+312251,nort2732,ROOT,tɕ i ⁵⁵ + l a ²¹,157,starostintujia
+312252,nort2732,ROOT,tɕ i ⁵³ + l a ²¹,157,starostintujia
+312253,nort2732,ROOT,tɕ i ⁵⁵ + l a ²¹,157,starostintujia
+312254,sout2739,ROOT,k ẽ ³³,158,starostintujia
+312255,nort2732,ROUND,p ɔ ²¹ + l w ɔ ⁵⁵ + l w ɔ ⁵⁵,159,starostintujia
+312256,nort2732,ROUND,tʰ u ã ²¹ + kʰ o ⁵³ + l i ⁴⁴,161,starostintujia
+312257,nort2732,ROUND,kʰ u ²¹ + l o ⁵⁵ + l o ²¹,162,starostintujia
+312258,sout2739,ROUND,d u æ̃ ³³,160,starostintujia
+312259,sout2739,ROUND,d u ã ³³,160,starostintujia
+312260,nort2732,SALT,l a ²⁴ + p u ⁵⁵,163,starostintujia
+312261,nort2732,SALT,l a ²⁴ + p u ⁴⁴,163,starostintujia
+312262,nort2732,SALT,l a ³⁵ + p u ³⁵,163,starostintujia
+312263,sout2739,SALT,a ²¹ + s i ⁵³,164,starostintujia
+312264,sout2739,SALT,ʔ a ²¹ + s i ⁵⁵,164,starostintujia
+312265,nort2732,SAND,a ²¹ + p u ²⁴ + l i ⁵⁵,165,starostintujia
+312266,nort2732,SAND,ɣ a ²¹ + pʰ i ²⁴ + pʰ i ⁵³,167,starostintujia
+312267,nort2732,SAND,a ²¹ + p u ³⁵ + l i ³⁵,165,starostintujia
+312268,sout2739,SAND,s a ⁵³ + ts i ²¹,166,starostintujia
+312269,sout2739,SAND,l ʉ ³⁵ + s a ⁵⁵ + ts i ²¹,166,starostintujia
+312270,nort2732,SAY,l i ²¹,168,starostintujia
+312271,nort2732,SAY,l i ²¹,168,starostintujia
+312272,nort2732,SAY,l i ²¹,168,starostintujia
+312273,sout2739,SAY,x ɨ e ⁵³,169,starostintujia
+312274,sout2739,SAY,ħ ɨ ⁵⁵,170,starostintujia
+312275,nort2732,SEE,j i ²¹,171,starostintujia
+312276,nort2732,SEE,p a ⁵³ + t o ²¹ + l i a w ²¹,173,starostintujia
+312277,nort2732,SEE,j i ²¹,171,starostintujia
+312278,sout2739,SEE,b o ¹³ + i ⁴⁵,172,starostintujia
+312279,sout2739,SEE,b o ¹³ + j i ³⁵,172,starostintujia
+312280,nort2732,SEED,n j ɛ ⁵⁵ + l a ŋ ⁵⁵,174,starostintujia
+312281,nort2732,SEED,p u ²⁴ + l i ⁵³,176,starostintujia
+312282,nort2732,SEED,n e ⁵⁵ + n ã ⁵⁵,177,starostintujia
+312283,sout2739,SEED,a ³³ + l i e ³³,175,starostintujia
+312284,sout2739,SEED,ʔ a ³³ + l e ³³,175,starostintujia
+312285,nort2732,SHORT,ts ɔ ŋ ²¹,178,starostintujia
+312286,nort2732,SHORT,ts ũ ⁵³,179,starostintujia
+312287,nort2732,SHORT,ts ũ ⁵⁵,179,starostintujia
+312288,sout2739,SHORT,dz o ʉ ¹³,179,starostintujia
+312289,sout2739,SHORT,dz ʉ ¹³,179,starostintujia
+312290,nort2732,SIT,ɔ ŋ ²¹,180,starostintujia
+312291,nort2732,SIT,ũ ²¹,182,starostintujia
+312292,nort2732,SIT,ũ ²¹,182,starostintujia
+312293,sout2739,SIT,ɣ o ʉ ¹³,181,starostintujia
+312294,sout2739,SIT,ʔ ʉ ³⁵,183,starostintujia
+312295,nort2732,SKIN,tʰ a ²⁴ + pʰ a ²¹,184,starostintujia
+312296,nort2732,SKIN,tʰ a ⁵³ + pʰ a ²¹,184,starostintujia
+312297,nort2732,SKIN,tʰ a ⁵⁵ + pʰ a ²¹,184,starostintujia
+312298,sout2739,SKIN,k o ³³ + l o ³³,185,starostintujia
+312299,sout2739,SKIN,k ɨ ²¹ + l o ²¹,186,starostintujia
+312300,nort2732,SLEEP,n j ɛ ²⁴ + p j ɛ ²¹,187,starostintujia
+312301,nort2732,SLEEP,n i e ²⁴,188,starostintujia
+312302,nort2732,SLEEP,n e ³⁵,188,starostintujia
+312303,sout2739,SLEEP,n i e ²¹,188,starostintujia
+312304,sout2739,SLEEP,n e ²¹,188,starostintujia
+312305,nort2732,SMALL,s w a n ²¹,189,starostintujia
+312306,nort2732,SMALL,s u ã ⁵³,191,starostintujia
+312307,nort2732,SMALL,s u ã ⁵⁵,191,starostintujia
+312308,sout2739,SMALL,s a ³³,190,starostintujia
+312309,sout2739,SMALL,s a ³³,190,starostintujia
+312310,nort2732,SMOKE (EXHAUST),kʰ e ⁵³ + kʰ a ²¹,192,starostintujia
+312311,nort2732,SMOKE (EXHAUST),kʰ ɨ e ⁵⁵ + kʰ a ²¹,192,starostintujia
+312312,sout2739,SMOKE (EXHAUST),kʰ ɨ e ⁵³ + s a ²¹,193,starostintujia
+312313,sout2739,SMOKE (EXHAUST),k ɨ e ⁵⁵ + s a ²¹,193,starostintujia
+312314,nort2732,SNAKE,w ɔ ²¹,194,starostintujia
+312315,nort2732,SNAKE,u o ⁵³,196,starostintujia
+312316,nort2732,SNAKE,w o ⁵⁵,194,starostintujia
+312317,sout2739,SNAKE,t ɨ j ⁵³ + p ɨ e ⁴⁵ + n ũ ³³,195,starostintujia
+312318,sout2739,SNAKE,t e i ³³ + pʰ ɨ e ³⁵,197,starostintujia
+312319,nort2732,STAND,ts u ⁵⁵ + ts u ²¹,198,starostintujia
+312320,nort2732,STAND,ts u ⁵³ + ts u ⁵³,198,starostintujia
+312321,nort2732,STAND,ts u ⁵⁵ + ts u ⁵⁵,198,starostintujia
+312322,sout2739,STAND,d u ³³,199,starostintujia
+312323,sout2739,STAND,d u ³³,199,starostintujia
+312324,nort2732,STAR,ɕ i ²¹ + p u ²⁴ + l i ⁵⁵,200,starostintujia
+312325,nort2732,STAR,s i ⁵³ + z i ²¹,202,starostintujia
+312326,nort2732,STAR,s i ⁵¹ + z i ²¹,202,starostintujia
+312327,sout2739,STAR,tʰ i æ̃ ³³ + s ẽ ³³ + ts i ⁵³,201,starostintujia
+312328,sout2739,STAR,ɕ ẽ ³³ + ts i ³³,203,starostintujia
+312329,nort2732,STONE,a ²¹ + p a ²¹,204,starostintujia
+312330,nort2732,STONE,ɣ a ²¹ + p a ²¹,204,starostintujia
+312331,nort2732,STONE,a ²¹ + p a ²¹,204,starostintujia
+312332,sout2739,STONE,l o ʉ ¹³ + k o ʉ ²¹ + d o ʉ ¹³,205,starostintujia
+312333,sout2739,STONE,l ʉ ³⁵,206,starostintujia
+312334,nort2732,SUN,l a w ²¹,207,starostintujia
+312335,nort2732,SUN,n a w ²¹ + tsʰ i ²¹,207,starostintujia
+312336,nort2732,SUN,n a w ²¹,207,starostintujia
+312337,sout2739,SUN,n o ⁴⁵ + d o ʉ ³³,208,starostintujia
+312338,sout2739,SUN,l o ³⁵ + j i ³³ + d ʉ ¹³,209,starostintujia
+312339,nort2732,SWIM,tɕ j ɛ ²⁴ + t a ⁵⁵ + w u ²¹,210,starostintujia
+312340,nort2732,SWIM,tsʰ e ²¹ + tɕʰ i w ²¹,211,starostintujia
+312341,nort2732,TAIL,l j ɛ ²¹ + pʰ ɔ ŋ ²⁴,212,starostintujia
+312342,nort2732,TAIL,n i e ²¹ + pʰ ũ ⁵³,214,starostintujia
+312343,nort2732,TAIL,l e ²¹ + pʰ ũ ³⁵,212,starostintujia
+312344,sout2739,TAIL,l i ã ²¹ + t o ⁵³,213,starostintujia
+312345,sout2739,TAIL,j i ã ²¹ + t ʉ ⁵⁵,215,starostintujia
+312346,nort2732,THAT,a j ⁵⁵,216,starostintujia
+312347,nort2732,THAT,a j ⁵³ + t i ⁴⁴,216,starostintujia
+312348,nort2732,THAT,a j ⁵⁵,216,starostintujia
+312349,sout2739,THAT,t a ³³ + b u ³³,217,starostintujia
+312350,sout2739,THAT,t a ²¹,218,starostintujia
+312351,nort2732,THIN (OF SHAPE OF OBJECT),s a ²¹ + s a ²¹,219,starostintujia
+312352,nort2732,THIN (OF SHAPE OF OBJECT),s a ²¹ + s a j ⁴⁴,219,starostintujia
+312353,nort2732,THIN (OF SHAPE OF OBJECT),s a ²¹ + s a ³¹,219,starostintujia
+312354,sout2739,THIN (OF SHAPE OF OBJECT),s o ²¹ + s o ⁵³,219,starostintujia
+312355,sout2739,THIN (OF SHAPE OF OBJECT),s o ²¹ + s o ⁵⁵,219,starostintujia
+312356,nort2732,THIS,ɤ ŋ ⁵⁵,220,starostintujia
+312357,nort2732,THIS,k a j ²⁴ + t i ⁴⁴,222,starostintujia
+312358,nort2732,THIS,ũ ⁵⁵,223,starostintujia
+312359,sout2739,THIS,dʑ i a ²¹ + b u ²¹,221,starostintujia
+312360,sout2739,THIS,dʑ i a ²¹,221,starostintujia
+312361,nort2732,THIS,k a j ²⁴,222,starostintujia
+312362,nort2732,THIS,k a j ³⁵,222,starostintujia
+312363,nort2732,THOU,n i ²⁴,224,starostintujia
+312364,nort2732,THOU,n i ²⁴,224,starostintujia
+312365,nort2732,THOU,n i ³⁵,224,starostintujia
+312366,sout2739,THOU,n i ³³,224,starostintujia
+312367,sout2739,THOU,n i ³³,224,starostintujia
+312368,nort2732,TONGUE,j i ²⁴ + l a ⁵⁵,225,starostintujia
+312369,nort2732,TONGUE,i ²⁴ + l a ⁵³,225,starostintujia
+312370,nort2732,TONGUE,j i ³⁵ + l a ⁵⁵,225,starostintujia
+312371,sout2739,TONGUE,dz i ²¹ + l a ²¹,226,starostintujia
+312372,sout2739,TONGUE,dz i ²¹ + l a ²¹,226,starostintujia
+312373,nort2732,TOOTH,s i ⁵⁵ + s i ⁵⁵,227,starostintujia
+312374,nort2732,TOOTH,s i ⁴⁴ + s i ⁴⁴,227,starostintujia
+312375,nort2732,TOOTH,s i ⁵⁵ + s i ⁵⁵,227,starostintujia
+312376,sout2739,TOOTH,s i ³³ + t a ¹³,228,starostintujia
+312377,sout2739,TOOTH,s i ³³ + t a ³⁵,228,starostintujia
+312378,nort2732,TREE,kʰ a ²¹ + m ɔ ŋ ²¹,229,starostintujia
+312379,nort2732,TREE,kʰ a ²¹ + m ũ ²¹,229,starostintujia
+312380,nort2732,TREE,kʰ a ²¹ + m ũ ²¹,229,starostintujia
+312381,sout2739,TREE,kʰ o ¹³ + m ũ ²¹,229,starostintujia
+312382,sout2739,TREE,kʰ o ³⁵,229,starostintujia
+312383,nort2732,TWO,n j ɛ ⁵⁵,230,starostintujia
+312384,nort2732,TWO,n i e ⁵³,231,starostintujia
+312385,nort2732,TWO,n e ⁵⁵,230,starostintujia
+312386,sout2739,TWO,n i e ⁵³,231,starostintujia
+312387,sout2739,TWO,l e ⁵⁵,232,starostintujia
+312388,nort2732,WALK,ɣ i ²⁴,233,starostintujia
+312389,nort2732,WALK,ɣ ɨ ²⁴,233,starostintujia
+312390,nort2732,WALK,ɣ ɨ ³⁵,233,starostintujia
+312391,sout2739,WALK,dz o ʉ ¹³,234,starostintujia
+312392,sout2739,WALK,j e ²¹,235,starostintujia
+312393,nort2732,WARM,k i ²¹,236,starostintujia
+312394,nort2732,WARM,k ɨ ²¹,236,starostintujia
+312395,nort2732,WARM,k ɨ ²¹,236,starostintujia
+312396,sout2739,WARM,s i ²¹ + t o ²¹,237,starostintujia
+312397,sout2739,WARM,s i ²¹ + t o ¹³,237,starostintujia
+312398,nort2732,WATER,tɕʰ ɤ ²¹,238,starostintujia
+312399,nort2732,WATER,tsʰ e ²¹,238,starostintujia
+312400,nort2732,WATER,tsʰ e ²¹,238,starostintujia
+312401,sout2739,WATER,tsʰ e ¹³,238,starostintujia
+312402,sout2739,WATER,tsʰ e ³⁵,238,starostintujia
+312403,nort2732,WE,a ŋ ²⁴ + n i ⁵⁵,239,starostintujia
+312404,nort2732,WE,ŋ a ²⁴ + n i ⁴⁴,239,starostintujia
+312405,nort2732,WE,ŋ a ³⁵ + n i ³⁵,239,starostintujia
+312406,sout2739,WE,a ³³ + n i ³³,240,starostintujia
+312407,sout2739,WE,ʔ a ²¹ + n i ³³,240,starostintujia
+312408,nort2732,WHAT,tɕʰ j ɛ ²¹,241,starostintujia
+312409,nort2732,WHAT,n a j ⁵³ + ɕ i ²¹,243,starostintujia
+312410,nort2732,WHAT,n a j ⁵⁵ + ɕ i ²¹,243,starostintujia
+312411,sout2739,WHAT,tsʰ u ⁵³ + u ³³,242,starostintujia
+312412,sout2739,WHAT,tsʰ u ⁵⁵ + m o ²¹,244,starostintujia
+312413,nort2732,WHITE,a ²¹ + s i ²¹,245,starostintujia
+312414,nort2732,WHITE,a ²¹ + s i ²¹,245,starostintujia
+312415,nort2732,WHITE,a ²¹ + s i ²¹,245,starostintujia
+312416,sout2739,WHITE,s i ³³,246,starostintujia
+312417,sout2739,WHITE,s i ³³,246,starostintujia
+312418,nort2732,WHO,a ²¹ + s ɤ ²¹,247,starostintujia
+312419,nort2732,WHO,a ⁵³ + s o ²¹,247,starostintujia
+312420,nort2732,WHO,a ⁵⁵ + s e ²¹,247,starostintujia
+312421,sout2739,WHO,a ³³ + s i ³³ + ŋ e ³³,248,starostintujia
+312422,sout2739,WHO,ʔ a ³³ + s i ³³,248,starostintujia
+312423,nort2732,WIND,z ɤ ²⁴,249,starostintujia
+312424,nort2732,WIND,z e ²⁴ + s u ⁵³,249,starostintujia
+312425,nort2732,WIND,z e ³⁵ + s u ⁵⁵,249,starostintujia
+312426,sout2739,WIND,z e ²¹ + ŋ e j ⁴⁵,250,starostintujia
+312427,sout2739,WIND,z e ²¹ + ŋ ɨ ²¹,251,starostintujia
+312428,nort2732,WOMAN,m a ²¹ + m a ⁵⁵,252,starostintujia
+312429,nort2732,WOMAN,m a ²¹ + m a ²¹ + ts e ⁴⁴,252,starostintujia
+312430,nort2732,WOMAN,m a ²¹ + m a ²¹ + t e ⁵⁵,252,starostintujia
+312431,sout2739,WOMAN,a ¹³ + i o ⁵³ + b i e ²¹,253,starostintujia
+312432,sout2739,WOMAN,ʔ a ²¹ + j i o ⁵⁵ + b e ²¹ + ŋ ɨ ²¹,254,starostintujia
+312433,nort2732,WORM,kʰ w a j ⁵⁵ + tɕʰ i ⁵⁵ + l a ⁵⁵,255,starostintujia
+312434,nort2732,WORM,kʰ u a j ²⁴ + tɕʰ i ²¹ + l a ²¹,255,starostintujia
+312435,nort2732,WORM,kʰ u a j ³⁵ + tɕʰ i ⁵⁵ + l a ⁵⁵,255,starostintujia
+312436,sout2739,WORM,k a ⁵³ + d o ʉ ¹³ + s e ²¹,256,starostintujia
+312437,sout2739,WORM,k a ²¹ + d ʉ ³⁵ + s e ²¹,256,starostintujia
+312438,nort2732,YEAR,l ɔ ŋ ⁵⁵,257,starostintujia
+312439,nort2732,YEAR,n ũ ²¹,259,starostintujia
+312440,sout2739,YEAR,n i ʉ ³⁵,258,starostintujia
+312441,nort2732,YELLOW,w a n ²¹ + k a ⁵⁵ + l a ⁵⁵,260,starostintujia
+312442,nort2732,YELLOW,u ã ²¹ + k a ⁵³ + l i e ⁴⁴,262,starostintujia
+312443,nort2732,YELLOW,w ã ²¹ + k a ⁵⁵ + l a ⁵⁵,260,starostintujia
+312444,sout2739,YELLOW,x o ʉ ³³,261,starostintujia
+312445,sout2739,YELLOW,ħ ʉ ³³,263,starostintujia

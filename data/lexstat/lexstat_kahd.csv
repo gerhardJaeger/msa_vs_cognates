@@ -1,0 +1,1669 @@
+id,doculect,concept,forms,lexstatid,db
+230314,deni1241,AXE,b a r i,40,kahd
+230315,jama1261,AXE,b a r i,40,kahd
+230316,culi1244,AXE,dz a m i,39,kahd
+230317,culi1244,AXE,b a ɾ i,40,kahd
+230318,suru1263,AXE,b aː ɾ i,40,kahd
+230319,deni1241,GOOD,a m o tsʰ i,341,kahd
+230320,jama1261,GOOD,a m o s a,341,kahd
+230321,paum1247,GOOD,dʒ a h a,343,kahd
+230322,paum1247,GOOD,m a kʰ a n i,344,kahd
+230323,amar1274,GOOD,n/d a k,340,kahd
+230324,kana1291,GOOD,n u k,342,kahd
+230325,deni1241,FIRE,j i pʰ o,283,kahd
+230326,jama1261,FIRE,j i ɸ o,283,kahd
+230327,culi1244,FIRE,j i pʰ o,283,kahd
+230328,paum1247,FIRE,s i h o,284,kahd
+230329,suru1263,FIRE,a b i,285,kahd
+230330,deni1241,FISH,a b a,293,kahd
+230331,deni1241,FISH,k o r o b o,295,kahd
+230332,jama1261,FISH,a b a,293,kahd
+230333,jama1261,FISH,k o r o b o,295,kahd
+230334,jama1261,FISH,s i r a b a,293,kahd
+230335,culi1244,FISH,a b a,293,kahd
+230336,culi1244,FISH,kʰ o ɾ o b o,295,kahd
+230337,paum1247,FISH,a b a i s a n a,294,kahd
+230338,paum1247,FISH,s i r a b a,293,kahd
+230339,suru1263,FISH,a b a,293,kahd
+230340,suru1263,FISH,aː b a,293,kahd
+230341,amar1274,FISH,m/b i ʔ i g ŋ,292,kahd
+230342,deni1241,HOUSE,j a m a r i,396,kahd
+230343,suru1263,HOUSE,uː d a,397,kahd
+230344,amar1274,HOUSE,h a k,395,kahd
+230345,deni1241,LAKE,k o r i j a,429,kahd
+230346,culi1244,LAKE,k o ɾ i j a,429,kahd
+230347,culi1244,LAKE,k o ɾ i dz a,429,kahd
+230348,paum1247,LAKE,ɗ a k o,430,kahd
+230349,suru1263,LAKE,t a k i,430,kahd
+230350,deni1241,MAN,dz a b i ts u,467,kahd
+230351,deni1241,MAN,m a kʰ i,466,kahd
+230352,jama1261,MAN,m a k i t i,466,kahd
+230353,culi1244,MAN,m a kʰ i,466,kahd
+230354,paum1247,MAN,m a kʰ i r a,466,kahd
+230355,suru1263,MAN,i m e k i,466,kahd
+230356,deni1241,MOON,a b a j i k o,485,kahd
+230357,jama1261,MOON,a b a r i k o,485,kahd
+230358,culi1244,MOON,a b a j i k o,485,kahd
+230359,paum1247,MOON,m a s i k o,485,kahd
+230360,suru1263,MOON,m a s i k i,485,kahd
+230361,kana1291,MOON,w a dʒ a,486,kahd
+230362,amar1274,MOON,p u g n,484,kahd
+230363,deni1241,STAR,a m o w a,717,kahd
+230364,jama1261,STAR,a m o w a,717,kahd
+230365,culi1244,STAR,a m o w a,717,kahd
+230366,suru1263,STAR,a m u w a,717,kahd
+230367,deni1241,TAPIR,a w i,753,kahd
+230368,jama1261,TAPIR,a w i,753,kahd
+230369,culi1244,TAPIR,a w i,753,kahd
+230370,suru1263,TAPIR,m aː h u n ɨ,754,kahd
+230371,amar1274,TAPIR,k e m e,752,kahd
+230372,deni1241,WHITE-LIPPED PECCARY,h i j a m a,832,kahd
+230373,jama1261,WHITE-LIPPED PECCARY,h i j a m a,832,kahd
+230374,culi1244,WHITE-LIPPED PECCARY,h i j a m a,832,kahd
+230375,suru1263,WHITE-LIPPED PECCARY,i j a m a,832,kahd
+230376,suru1263,WHITE-LIPPED PECCARY,k a h i ɾ i,833,kahd
+230377,suru1263,WHITE-LIPPED PECCARY,dʒ a m a k a h i ɾ i,833,kahd
+230378,suru1263,WHITE-LIPPED PECCARY,dʒ a m ə k a h i ɾ i,833,kahd
+230379,jama1261,FOOT,t e m e,314,kahd
+230380,culi1244,FOOT,a m o ɾ i,313,kahd
+230381,paum1247,FOOT,ɗ a m a,314,kahd
+230382,suru1263,FOOT,d a m a,314,kahd
+230383,suru1263,FOOT,u d̥ ɨ,316,kahd
+230384,deni1241,FOOT,a m u r i,313,kahd
+230385,amar1274,FOOT,ʔ i,312,kahd
+230386,kana1291,FOOT,iː,315,kahd
+230387,deni1241,HAND,j a p a,365,kahd
+230388,jama1261,HAND,j a h i,366,kahd
+230389,jama1261,HAND,j e f e,365,kahd
+230390,culi1244,HAND,dz ɛ p ɛ,365,kahd
+230391,culi1244,HAND,j a p a,365,kahd
+230392,paum1247,HAND,s a ʔ a,364,kahd
+230393,suru1263,HAND,b i h i,364,kahd
+230394,suru1263,HAND,s a h a n i,364,kahd
+230395,amar1274,HAND,m/b a ʔ,364,kahd
+230396,deni1241,JAGUAR,j o m a h i,414,kahd
+230397,jama1261,JAGUAR,j o m a h i,414,kahd
+230398,culi1244,JAGUAR,j o m a h i,414,kahd
+230399,paum1247,JAGUAR,j o m a h i,414,kahd
+230400,suru1263,JAGUAR,m a ɾ i h i,415,kahd
+230401,deni1241,ONE,o h a r i,534,kahd
+230402,jama1261,ONE,o h a r i,534,kahd
+230403,culi1244,ONE,o h a ɾ i,534,kahd
+230404,culi1244,ONE,o h a ɾ i,534,kahd
+230405,amar1274,ONE,n o ŋ + t i + n/d a,533,kahd
+230406,amar1274,ONE,n o ŋ + t i + n/d a,533,kahd
+230407,amar1274,ONE,n o ŋ + t i + n/d a,533,kahd
+230408,deni1241,SCROTUM,d e n e p h e,641,kahd
+230409,deni1241,SCROTUM,n e p h e,641,kahd
+230410,jama1261,SCROTUM,d a n e,641,kahd
+230411,culi1244,SCROTUM,d ɛ n ɛ pʰ ɛ,641,kahd
+230412,culi1244,SCROTUM,n ɛ pʰ ɛ,641,kahd
+230413,paum1247,SCROTUM,n a ɸ a,641,kahd
+230414,suru1263,SCROTUM,d a n a h a,641,kahd
+230415,suru1263,SCROTUM,i n a h ɨ,641,kahd
+230416,deni1241,SUN,m a h i,739,kahd
+230417,jama1261,SUN,m a h i,739,kahd
+230418,culi1244,SUN,m a h i,739,kahd
+230419,paum1247,SUN,m a h i,739,kahd
+230420,suru1263,SUN,m a s i c i,741,kahd
+230421,kana1291,SUN,tʃ a ŋ,740,kahd
+230422,deni1241,TWO,p a m a,796,kahd
+230423,jama1261,TWO,ɸ a m a,796,kahd
+230424,culi1244,TWO,p a m a,796,kahd
+230425,suru1263,TWO,o h a m a,796,kahd
+230426,amar1274,TWO,m/b o t t a ʔ,796,kahd
+230427,deni1241,WATER,p a ts u,821,kahd
+230428,deni1241,WATER,pʰ a,821,kahd
+230429,jama1261,WATER,ɸ a h a,821,kahd
+230430,culi1244,WATER,p a tsʰ o,821,kahd
+230431,culi1244,WATER,pʰ a h a,821,kahd
+230432,paum1247,WATER,p a h a,821,kahd
+230433,suru1263,WATER,b a m i,821,kahd
+230434,amar1274,WATER,w ẽ ʔ ẽ j̃,820,kahd
+230435,deni1241,TURTLE,tsʰ i r i,794,kahd
+230436,jama1261,TURTLE,s i r e,794,kahd
+230437,culi1244,TURTLE,tsʰ i ɾ i,794,kahd
+230438,paum1247,TURTLE,s i r i,794,kahd
+230439,suru1263,TURTLE,k u w a s a,795,kahd
+230440,deni1241,ANT,j o m o,19,kahd
+230441,deni1241,ANT,m a p o,20,kahd
+230442,deni1241,ANT,k a p o s h i r i,22,kahd
+230443,deni1241,ANT,m e ʔ i,23,kahd
+230444,jama1261,ANT,m a ɸ o,20,kahd
+230445,jama1261,ANT,m e m e,21,kahd
+230446,culi1244,ANT,d a tsʰ a,18,kahd
+230447,culi1244,ANT,j o m o,19,kahd
+230448,culi1244,ANT,m a p o,20,kahd
+230449,culi1244,ANT,m ɛ ʔ i,23,kahd
+230450,paum1247,ANT,m a ɸ o,20,kahd
+230451,paum1247,ANT,k a p o h i,22,kahd
+230452,suru1263,ANT,d a s a ɾ i,18,kahd
+230453,jama1261,ANT,t a k a s i r i,18,kahd
+230454,suru1263,ANT,t a k a s i ɾ i,18,kahd
+230455,deni1241,ANTEATER,m o d o,24,kahd
+230456,jama1261,ANTEATER,m o d o,24,kahd
+230457,culi1244,ANTEATER,m o d o,24,kahd
+230458,culi1244,ANTEATER,h o j a w a,27,kahd
+230459,paum1247,ANTEATER,h i β a,25,kahd
+230460,suru1263,ANTEATER,dʒ u k i t ɛ ɾ i dʒ a,26,kahd
+230461,jama1261,ACAI PALM,ɸ a r e,4,kahd
+230462,culi1244,ACAI PALM,p a ɾ a ʔ i,4,kahd
+230463,paum1247,ACAI PALM,p a r a i,4,kahd
+230464,suru1263,ACAI PALM,h a ɾ a m i,4,kahd
+230465,deni1241,ACAI PALM,m a r a k a,5,kahd
+230466,deni1241,BAMBOO,h a d o,49,kahd
+230467,deni1241,BAMBOO,a p i,51,kahd
+230468,jama1261,BAMBOO,h a d o,49,kahd
+230469,jama1261,BAMBOO,a ɸ i,51,kahd
+230470,culi1244,BAMBOO,h a d o,49,kahd
+230471,culi1244,BAMBOO,t o t o ɾ ɛ,50,kahd
+230472,culi1244,BAMBOO,a p i,51,kahd
+230473,paum1247,BAMBOO,h a d o,49,kahd
+230474,deni1241,BARK,e t e r o,54,kahd
+230475,jama1261,BARK,a t o r i,55,kahd
+230476,culi1244,BARK,ɛ t ɛ ɾ o,54,kahd
+230477,suru1263,BARK,a s i h i,56,kahd
+230478,paum1247,BARK,a s a ɸ i,56,kahd
+230479,deni1241,BE ANGRY,h a m i ʔ e,62,kahd
+230480,jama1261,BE ANGRY,h a m i n i,62,kahd
+230481,jama1261,BE ANGRY,j a w a,63,kahd
+230482,paum1247,BE ANGRY,k a j a β a,63,kahd
+230483,suru1263,BE ANGRY,j a w a,63,kahd
+230484,paum1247,BURN (INJURY),h a ɗ i,122,kahd
+230485,deni1241,BE HUNGRY,p e m i,64,kahd
+230486,jama1261,BE HUNGRY,ɸ i m i h a,64,kahd
+230487,culi1244,BE HUNGRY,p ɛ m i,64,kahd
+230488,paum1247,BE HUNGRY,β a i ʔ a m i,65,kahd
+230489,deni1241,BEE,h i j i,71,kahd
+230490,jama1261,BEE,h i j i,71,kahd
+230491,culi1244,BEE,h i j i,71,kahd
+230492,suru1263,BEE,m u k u kʷ a,72,kahd
+230493,deni1241,BELCH,d e,75,kahd
+230494,culi1244,BELCH,d ɛ ɾ ɛ ɾ ɛ,74,kahd
+230495,deni1241,BITTER,b i d a r o,87,kahd
+230496,jama1261,BITTER,b i d a r o,87,kahd
+230497,culi1244,BITTER,b i d a,87,kahd
+230498,deni1241,BLOOD,a m a,93,kahd
+230499,jama1261,BLOOD,a m e,93,kahd
+230500,culi1244,BLOOD,a m a,93,kahd
+230501,paum1247,BLOOD,a m a,93,kahd
+230502,suru1263,BLOOD,a m aː,93,kahd
+230503,kana1291,BLOOD,m i m i,93,kahd
+230504,deni1241,BRANCH,i n i,106,kahd
+230505,jama1261,BRANCH,i n i,106,kahd
+230506,culi1244,BRANCH,i n i,106,kahd
+230507,suru1263,BRANCH,i n i,106,kahd
+230508,deni1241,BREAK (DESTROY OR GET DESTROYED),b a k a,108,kahd
+230509,deni1241,BREAK (DESTROY OR GET DESTROYED),d o b e,109,kahd
+230510,jama1261,BREAK (DESTROY OR GET DESTROYED),b a k a,108,kahd
+230511,paum1247,BREAK (DESTROY OR GET DESTROYED),o b a,109,kahd
+230512,suru1263,BREAK (DESTROY OR GET DESTROYED),o b o,109,kahd
+230513,suru1263,BREAK (DESTROY OR GET DESTROYED),k a w a ɾ u,110,kahd
+230514,suru1263,BREAK (DESTROY OR GET DESTROYED),k a w a,110,kahd
+230515,amar1274,BREAK (DESTROY OR GET DESTROYED),s a k,107,kahd
+230516,deni1241,BREAST,j o h o r i,112,kahd
+230517,jama1261,BREAST,j o h a r i,112,kahd
+230518,culi1244,BREAST,b a kʰ o,111,kahd
+230519,culi1244,BREAST,j o h o ɾ i,112,kahd
+230520,paum1247,BREAST,j o h o,112,kahd
+230521,suru1263,BREAST,j o h o,112,kahd
+230522,deni1241,YAM,b i h a,850,kahd
+230523,jama1261,YAM,b i h a,850,kahd
+230524,culi1244,YAM,b i h a,850,kahd
+230525,suru1263,YAM,uː s ə,852,kahd
+230526,suru1263,YAM,a h a z u b i,853,kahd
+230527,kana1291,YAM,m a k u n a,851,kahd
+230528,jama1261,CASHEW,w i n i k a,134,kahd
+230529,suru1263,CASHEW,a j o w a,135,kahd
+230530,suru1263,CASHEW,i n i k a,134,kahd
+230531,suru1263,CASHEW,a z u w a,136,kahd
+230532,deni1241,CASHEW,z u p a t i,133,kahd
+230533,jama1261,CATCH,w a t a,139,kahd
+230534,paum1247,CATCH,g a t̪ʰ i,139,kahd
+230535,suru1263,CATCH,g a t a,139,kahd
+230536,deni1241,CHEEK,e b e t h e,143,kahd
+230537,jama1261,CHEEK,e b e t e,143,kahd
+230538,culi1244,CHEEK,ɛ b ɛ t̪ʰ ɛ,143,kahd
+230539,deni1241,CHEST,b a kʰ o,144,kahd
+230540,jama1261,CHEST,b a k i,144,kahd
+230541,culi1244,CHEST,b a kʰ o,144,kahd
+230542,paum1247,CHEST,m a kʰ o + ʔ i n i,145,kahd
+230543,paum1247,CHEST,m a kʰ o + ʔ i n i,145,kahd
+230544,deni1241,NEAR,b o k o,507,kahd
+230545,deni1241,NEAR,v a h i r a d e,509,kahd
+230546,culi1244,NEAR,b o k o,507,kahd
+230547,paum1247,NEAR,m aː k a r i,508,kahd
+230548,paum1247,NEAR,ʔ d i h a n ia,510,kahd
+230549,paum1247,NEAR,i ʔ oa r i n i,511,kahd
+230550,jama1261,FRIEND,t e s e,323,kahd
+230551,culi1244,FRIEND,t ɛ tsʰ ɛ,323,kahd
+230552,deni1241,COUGH,t̪ʰ o h o,177,kahd
+230553,jama1261,COUGH,t o h o,177,kahd
+230554,culi1244,COUGH,t̪ʰ o h o,177,kahd
+230555,paum1247,COUGH,o t o h o,177,kahd
+230556,suru1263,COUGH,t o h o,177,kahd
+230557,deni1241,DEER,b a d o,192,kahd
+230558,jama1261,DEER,b a t o,192,kahd
+230559,culi1244,DEER,b a d o,192,kahd
+230560,suru1263,DEER,z uː m i,193,kahd
+230561,kana1291,DEER,b a tʃ i,192,kahd
+230562,deni1241,PATTERN,h a n o,555,kahd
+230563,culi1244,PATTERN,h a n o,555,kahd
+230564,deni1241,DRY,h o k o,216,kahd
+230565,deni1241,DRY,k u k u t u n a d e,218,kahd
+230566,jama1261,DRY,h o k o r i,216,kahd
+230567,culi1244,DRY,h o k o,216,kahd
+230568,suru1263,DRY,g a h u,217,kahd
+230569,suru1263,DRY,k a s ɨ ɾ u,219,kahd
+230570,suru1263,DRY,k a s a k a ɾ i,220,kahd
+230571,deni1241,EAR,w a r i b o,226,kahd
+230572,culi1244,EAR,a ɾ i b o,226,kahd
+230573,paum1247,EAR,m o r o b o,226,kahd
+230574,paum1247,EAR,n a r a b i,227,kahd
+230575,suru1263,EAR,w a ɾ o b a,226,kahd
+230576,deni1241,EARTHWORM,tsʰ o m i,230,kahd
+230577,jama1261,EARTHWORM,s o m i,230,kahd
+230578,culi1244,EARTHWORM,tsʰ o m i,230,kahd
+230579,suru1263,EARTHWORM,s o m i,230,kahd
+230580,suru1263,EARTHWORM,s ʊː m i,230,kahd
+230581,deni1241,ELECTRIC EEL,m i n a t i,243,kahd
+230582,culi1244,ELECTRIC EEL,m i n a t i,243,kahd
+230583,paum1247,ELECTRIC EEL,m i n a ɗ i,243,kahd
+230584,suru1263,ELECTRIC EEL,h ʊː s u t i,244,kahd
+230585,deni1241,EXCHANGE,m a n a k o,245,kahd
+230586,jama1261,EXCHANGE,m a n a k o,245,kahd
+230587,culi1244,EXCHANGE,m a n a k o,245,kahd
+230588,suru1263,FAN (OBJECT),s aː d ʊ w i,255,kahd
+230589,jama1261,FATHER,a b i,265,kahd
+230590,culi1244,FATHER,a b i,265,kahd
+230591,paum1247,FATHER,b i ʔ i,267,kahd
+230592,suru1263,FATHER,a b i,265,kahd
+230593,suru1263,FATHER,a h a d i,268,kahd
+230594,deni1241,FATHER,a b i,265,kahd
+230595,amar1274,FATHER,p a g ŋ,264,kahd
+230596,kana1291,FATHER,p a m a,266,kahd
+230597,jama1261,PATERNAL UNCLE (FATHER'S BROTHER),b a d i s e,552,kahd
+230598,paum1247,PATERNAL UNCLE (FATHER'S BROTHER),b a d i a,552,kahd
+230599,deni1241,PATERNAL AUNT (FATHER'S SISTER),a tsʰ o,551,kahd
+230600,deni1241,PATERNAL AUNT (FATHER'S SISTER),m a tsʰ o d i n i,551,kahd
+230601,jama1261,PATERNAL AUNT (FATHER'S SISTER),a s o,551,kahd
+230602,culi1244,PATERNAL AUNT (FATHER'S SISTER),a tsʰ o,551,kahd
+230603,culi1244,PATERNAL AUNT (FATHER'S SISTER),m a tsʰ o d i n i,551,kahd
+230604,paum1247,PATERNAL AUNT (FATHER'S SISTER),ʔ a a s o,551,kahd
+230605,paum1247,PATERNAL AUNT (FATHER'S SISTER),m a s o d i n i,551,kahd
+230606,suru1263,PATERNAL AUNT (FATHER'S SISTER),a s o,551,kahd
+230607,deni1241,FAECES (EXCREMENT),i j o,249,kahd
+230608,jama1261,FAECES (EXCREMENT),i j o,249,kahd
+230609,culi1244,FAECES (EXCREMENT),i j o,249,kahd
+230610,paum1247,FAECES (EXCREMENT),i j o,249,kahd
+230611,suru1263,FAECES (EXCREMENT),i j o,249,kahd
+230612,suru1263,FAECES (EXCREMENT),iː dʒ u,250,kahd
+230613,jama1261,FOOD,j a m a t a,309,kahd
+230614,culi1244,FOOD,j a m a t a p a,309,kahd
+230615,suru1263,FOOD,a h a,310,kahd
+230616,jama1261,FOOD,t a ɸ e,309,kahd
+230617,culi1244,FOOD,t a p a ɾ i,309,kahd
+230618,suru1263,FOOD,z aː m a + h a w aː ɾ u,311,kahd
+230619,suru1263,FOOD,z aː m a + h a w aː ɾ u,311,kahd
+230620,amar1274,FOOD,a j p o,308,kahd
+230621,deni1241,TAKE,d a m a,750,kahd
+230622,jama1261,TAKE,d a m a,750,kahd
+230623,suru1263,TAKE,a g a,751,kahd
+230624,deni1241,GROUND,n a m i,355,kahd
+230625,culi1244,GROUND,n a m i,355,kahd
+230626,paum1247,GROUND,n a m i,355,kahd
+230627,deni1241,GUAN,d a p o,357,kahd
+230628,jama1261,GUAN,d a ɸ o,357,kahd
+230629,culi1244,GUAN,d a p o,357,kahd
+230630,suru1263,GUAN,d a h o,357,kahd
+230631,deni1241,HAIR,k o n e,358,kahd
+230632,jama1261,HAIR,k o n e,358,kahd
+230633,culi1244,HAIR,k o n a,358,kahd
+230634,suru1263,HAIR,k o n a,358,kahd
+230635,suru1263,HAIR,k a s u k ɨ,360,kahd
+230636,paum1247,HAIR,a ɸ a,359,kahd
+230637,deni1241,HAMMOCK,pʰ o ʔ i,361,kahd
+230638,jama1261,HAMMOCK,j i ɸ o,362,kahd
+230639,culi1244,HAMMOCK,pʰ o ʔ i,361,kahd
+230640,suru1263,HAMMOCK,h o w i,363,kahd
+230641,deni1241,HEAD,t a t i,373,kahd
+230642,jama1261,HEAD,t a t i,373,kahd
+230643,culi1244,HEAD,t a t i,373,kahd
+230644,paum1247,HEAD,ɗ a ɗ i,373,kahd
+230645,paum1247,HEAD,a t ɨ,373,kahd
+230646,paum1247,HEAD,i n a k ɨ,374,kahd
+230647,amar1274,HEAD,k u,372,kahd
+230648,culi1244,HEART,b o n o kʰ o ɾ i,376,kahd
+230649,suru1263,HEART,gʲ a z u b u n i,377,kahd
+230650,suru1263,HEART,gʲ ã z u b u n i,377,kahd
+230651,paum1247,HEART,k a n a b i d i,377,kahd
+230652,deni1241,HEART,v a b u n u kʰ u r i,376,kahd
+230653,deni1241,HEAVY,k a n a h a,378,kahd
+230654,culi1244,HEAVY,kʰ a n a h a,378,kahd
+230655,paum1247,HEAVY,kʰ a n a,378,kahd
+230656,suru1263,HEAVY,k a z a h a,378,kahd
+230657,suru1263,HEAVY,k a z a,378,kahd
+230658,deni1241,HERE,a h i,379,kahd
+230659,jama1261,HERE,a h i,379,kahd
+230660,culi1244,HERE,a h i,379,kahd
+230661,paum1247,HERE,h i d a,379,kahd
+230662,suru1263,HERE,h i a,379,kahd
+230663,suru1263,HERE,hʲ aː,379,kahd
+230664,deni1241,HERON,h o n o r e,381,kahd
+230665,jama1261,HERON,j a w i r o,382,kahd
+230666,jama1261,HERON,a n a ɸ i,380,kahd
+230667,culi1244,HERON,a n o p i,380,kahd
+230668,culi1244,HERON,h o n o ɾ ɛ,381,kahd
+230669,paum1247,HERON,j a β i r a,382,kahd
+230670,paum1247,HERON,h o n o r i,381,kahd
+230671,deni1241,HIGH OR TALL,p o t a h a,384,kahd
+230672,culi1244,HIGH OR TALL,p o t a,384,kahd
+230673,deni1241,MOUNTAIN OR HILL,a d a m i,495,kahd
+230674,jama1261,MOUNTAIN OR HILL,a d a m i,495,kahd
+230675,culi1244,MOUNTAIN OR HILL,a d a m i,495,kahd
+230676,paum1247,MOUNTAIN OR HILL,a d a m i,495,kahd
+230677,suru1263,MOUNTAIN OR HILL,a d a + m i,496,kahd
+230678,suru1263,MOUNTAIN OR HILL,a d a + m i,496,kahd
+230679,deni1241,POISON,i h a,580,kahd
+230680,suru1263,POISON,k a s iː m e n i,581,kahd
+230681,deni1241,HOLE,o d i,386,kahd
+230682,jama1261,HOLE,h o d i,386,kahd
+230683,culi1244,HOLE,o d i,386,kahd
+230684,paum1247,HOLE,h o d i,386,kahd
+230685,suru1263,HOLE,d a d ɨ,386,kahd
+230686,deni1241,HOWLER MONKEY,j a j i ʔ o,398,kahd
+230687,jama1261,HOWLER MONKEY,j i k o,399,kahd
+230688,culi1244,HOWLER MONKEY,j a j i o,398,kahd
+230689,paum1247,HOWLER MONKEY,k a β i n a,400,kahd
+230690,suru1263,HOWLER MONKEY,k a n i a,400,kahd
+230691,deni1241,LIGHT (RADIATION),p i r i,449,kahd
+230692,jama1261,LIGHT (RADIATION),ɸ i r i,449,kahd
+230693,culi1244,LIGHT (RADIATION),p i ɾ i,449,kahd
+230694,suru1263,LIGHT (RADIATION),h a r a r i,450,kahd
+230695,suru1263,LIGHT (RADIATION),d u k u m a,451,kahd
+230696,deni1241,INSIDE,b o d i,409,kahd
+230697,deni1241,INSIDE,d o r o,410,kahd
+230698,jama1261,INSIDE,d o r o,410,kahd
+230699,culi1244,INSIDE,b o d i,409,kahd
+230700,culi1244,INSIDE,d o ɾ o,410,kahd
+230701,paum1247,INSIDE,b o d i,409,kahd
+230702,suru1263,INSIDE,h ʊː ɾ i,411,kahd
+230703,jama1261,FAT (ORGANIC SUBSTANCE),j a h i,261,kahd
+230704,culi1244,FAT (ORGANIC SUBSTANCE),o k i n ɛ,260,kahd
+230705,suru1263,FAT (ORGANIC SUBSTANCE),a m u dz ɨ,263,kahd
+230706,paum1247,FAT (ORGANIC SUBSTANCE),b a s i n a,262,kahd
+230707,deni1241,THING,j a m a,767,kahd
+230708,jama1261,THING,j a m a,767,kahd
+230709,suru1263,THING,j a m a,767,kahd
+230710,suru1263,THING,z aː m a,767,kahd
+230711,deni1241,KINGFISHER,kʰ e r e,422,kahd
+230712,jama1261,KINGFISHER,k e r e,422,kahd
+230713,culi1244,KINGFISHER,d i ɾ o d i ɾ o,421,kahd
+230714,culi1244,KINGFISHER,kʰ ɛ ɾ ɛ,422,kahd
+230715,paum1247,KINGFISHER,t i r o t i r o,421,kahd
+230716,deni1241,MOSQUITO,b i t h a,489,kahd
+230717,jama1261,MOSQUITO,b i t a,489,kahd
+230718,paum1247,MOSQUITO,b i ʈʰ a,489,kahd
+230719,suru1263,MOSQUITO,w a h a ɾ a,488,kahd
+230720,suru1263,MOSQUITO,m a h i ɾ i,490,kahd
+230721,culi1244,MOSQUITO,w a h a r a,488,kahd
+230722,deni1241,MOSQUITO,w a h a r a,488,kahd
+230723,jama1261,MOSQUITO,w a h a r o,488,kahd
+230724,suru1263,MOSQUITO,w a h a ɾ a,488,kahd
+230725,deni1241,LEAF,a pʰ a,435,kahd
+230726,jama1261,LEAF,a ɸ e,435,kahd
+230727,culi1244,LEAF,a pʰ a,435,kahd
+230728,paum1247,LEAF,a ɸ a,435,kahd
+230729,suru1263,LEAF,a h a b a,435,kahd
+230730,suru1263,LEAF,a h ɨ,436,kahd
+230731,amar1274,LEAF,m/b a ʔ,435,kahd
+230732,kana1291,LEAF,b a,435,kahd
+230733,deni1241,LIVER,a t i,455,kahd
+230734,jama1261,LIVER,w a t i,455,kahd
+230735,culi1244,LIVER,w a t i,455,kahd
+230736,paum1247,LIVER,β a ʔ i,456,kahd
+230737,deni1241,MEASURE,n a t h o m e,472,kahd
+230738,jama1261,MEASURE,t o m i,472,kahd
+230739,culi1244,MEASURE,n a t̪ʰ o m ɛ,472,kahd
+230740,deni1241,FLESH OR MEAT,i m a,300,kahd
+230741,jama1261,FLESH OR MEAT,i m e,300,kahd
+230742,culi1244,FLESH OR MEAT,b a n i + m ɛ kʰ ɛ,299,kahd
+230743,culi1244,FLESH OR MEAT,b a n i + m ɛ kʰ ɛ,299,kahd
+230744,culi1244,FLESH OR MEAT,i m a,300,kahd
+230745,paum1247,FLESH OR MEAT,i m a,300,kahd
+230746,suru1263,FLESH OR MEAT,i m e,300,kahd
+230747,suru1263,FLESH OR MEAT,ɨ m ɨ,300,kahd
+230748,deni1241,MONTH,a b a j i k o,483,kahd
+230749,jama1261,MONTH,a b a r i k o,483,kahd
+230750,culi1244,MONTH,a b a j i k o,483,kahd
+230751,deni1241,MOTHER,a m i,493,kahd
+230752,jama1261,MOTHER,a m i,493,kahd
+230753,culi1244,MOTHER,a m i,493,kahd
+230754,paum1247,MOTHER,m i a,493,kahd
+230755,suru1263,MOTHER,a m i j i,493,kahd
+230756,suru1263,MOTHER,a m a d i n i,494,kahd
+230757,amar1274,MOTHER,n ã ŋ,492,kahd
+230758,kana1291,MOTHER,ɲ a m a,493,kahd
+230759,deni1241,NAKED,kʰ o r o h i,502,kahd
+230760,culi1244,NAKED,k o ɾ o h a,502,kahd
+230761,suru1263,NAKED,a m a ɾ a,503,kahd
+230762,jama1261,NECK,n a m i d i,513,kahd
+230763,culi1244,NECK,m a t̪ʰ o,512,kahd
+230764,suru1263,NECK,a s a m i,514,kahd
+230765,paum1247,NECK,n a b i d i,513,kahd
+230766,deni1241,NECK,m a tʰ o,512,kahd
+230767,paum1247,NECK,m a tʰ a,512,kahd
+230768,jama1261,NECKLACE,k a s a r o,515,kahd
+230769,suru1263,NECKLACE,k a s a ɾ o,515,kahd
+230770,deni1241,LEAF SPINE,b e h e,437,kahd
+230771,jama1261,LEAF SPINE,b a h i,437,kahd
+230772,deni1241,OLD,b o t e,528,kahd
+230773,deni1241,OLD,h u r a tʃ a,529,kahd
+230774,deni1241,OLD,kʰ a r a v i,531,kahd
+230775,deni1241,OLD,h o r a s a,529,kahd
+230776,jama1261,OLD,b o t e,528,kahd
+230777,culi1244,OLD,b o t ɛ,528,kahd
+230778,culi1244,OLD,h a d a i,530,kahd
+230779,paum1247,OLD,b o ɗ a,528,kahd
+230780,suru1263,OLD,h o s a,529,kahd
+230781,suru1263,OLD,h uː s a,529,kahd
+230782,deni1241,OLDER SISTER,a s i,532,kahd
+230783,jama1261,OLDER SISTER,a d i,532,kahd
+230784,culi1244,OLDER SISTER,a ts i,532,kahd
+230785,paum1247,OLDER SISTER,ʔ a d i a,532,kahd
+230786,deni1241,OWL,b o b o,537,kahd
+230787,jama1261,OWL,b o b o,537,kahd
+230788,culi1244,OWL,b o b o,537,kahd
+230789,paum1247,OWL,β a p ao r i,538,kahd
+230790,culi1244,OWL,w a b a,538,kahd
+230791,deni1241,OWL,w a b a,538,kahd
+230792,jama1261,OWL,w a ɸ a,538,kahd
+230793,suru1263,OWL,w a h a,538,kahd
+230794,deni1241,PAIN,k o m a,543,kahd
+230795,culi1244,PAIN,k o m a,543,kahd
+230796,suru1263,PAIN,k o w i,544,kahd
+230797,deni1241,PALM TREE,j a n i,545,kahd
+230798,deni1241,PALM TREE,j a w a n a,545,kahd
+230799,jama1261,PALM TREE,j a n i,545,kahd
+230800,jama1261,PALM TREE,j a w a n a,545,kahd
+230801,culi1244,PALM TREE,j a n i,545,kahd
+230802,culi1244,PALM TREE,j a w a n a,545,kahd
+230803,suru1263,PALM TREE,ɨ ɾ ɨ,546,kahd
+230804,suru1263,PALM TREE,k o a s a k i,547,kahd
+230805,deni1241,PATH OR ROAD,h a w i,553,kahd
+230806,jama1261,PATH OR ROAD,h a w i,553,kahd
+230807,culi1244,PATH OR ROAD,h a w i,553,kahd
+230808,paum1247,PATH OR ROAD,h a g i h i,553,kahd
+230809,suru1263,PATH OR ROAD,a g i,554,kahd
+230810,deni1241,PIERCE,s a k a,568,kahd
+230811,jama1261,PIERCE,s a k a,568,kahd
+230812,jama1261,PIERCE,i d a,569,kahd
+230813,culi1244,PIERCE,ts a k a,568,kahd
+230814,paum1247,PIERCE,s a k a,568,kahd
+230815,suru1263,PIERCE,i d a,569,kahd
+230816,suru1263,PIERCE,s u t i k a,570,kahd
+230817,deni1241,PINEAPPLE,tsʰ a m i,571,kahd
+230818,jama1261,PINEAPPLE,s a m i,571,kahd
+230819,suru1263,PINEAPPLE,ts a m i,571,kahd
+230820,culi1244,PINEAPPLE,tsʰ a m i,571,kahd
+230821,culi1244,PINEAPPLE,n a n a,573,kahd
+230822,suru1263,PINEAPPLE,a ɾ a g u n a,574,kahd
+230823,kana1291,PINEAPPLE,w a k a k,572,kahd
+230824,deni1241,PORCUPINE,m i tsʰ e,583,kahd
+230825,jama1261,PORCUPINE,m i s a,583,kahd
+230826,culi1244,PORCUPINE,m i tsʰ ɛ,583,kahd
+230827,suru1263,PORCUPINE,m i s i,583,kahd
+230828,deni1241,POT,j i p a,584,kahd
+230829,jama1261,POT,j i w a h a,585,kahd
+230830,culi1244,POT,j i p a,584,kahd
+230831,paum1247,POT,s i ʔ a h a,585,kahd
+230832,suru1263,POT,i s a h a,585,kahd
+230833,deni1241,ROAST OR FRY,b a n a,615,kahd
+230834,deni1241,ROAST OR FRY,t a b i tsʰ i,616,kahd
+230835,jama1261,ROAST OR FRY,t a b a s i,616,kahd
+230836,culi1244,ROAST OR FRY,b a n a,615,kahd
+230837,culi1244,ROAST OR FRY,t a b i tsʰ ɛ,616,kahd
+230838,suru1263,ROAST OR FRY,s u k i,617,kahd
+230839,deni1241,ROTTEN,b a t h a,623,kahd
+230840,jama1261,ROTTEN,b a t a,623,kahd
+230841,culi1244,ROTTEN,b a t̪ʰ a,623,kahd
+230842,paum1247,ROTTEN,b a t h a,623,kahd
+230843,suru1263,ROTTEN,h a t a,623,kahd
+230844,suru1263,ROTTEN,h a t a ɾ i,623,kahd
+230845,deni1241,SAND,tʃ i k i,631,kahd
+230846,deni1241,SAND,tsʰ i k i,631,kahd
+230847,jama1261,SAND,s i k i,631,kahd
+230848,culi1244,SAND,tsʰ i k i + w ɛ tsʰ ɛ,631,kahd
+230849,culi1244,SAND,tsʰ i k i + w ɛ tsʰ ɛ,631,kahd
+230850,culi1244,SAND,tsʰ i k i,631,kahd
+230851,paum1247,SAND,k aː s i,632,kahd
+230852,suru1263,SAND,a s i dʒ u,633,kahd
+230853,deni1241,SMALL,b e d e n i,679,kahd
+230854,deni1241,SMALL,b i r i h a,681,kahd
+230855,deni1241,SMALL,h i r a r i d e,682,kahd
+230856,culi1244,SMALL,b ɛ d i,679,kahd
+230857,culi1244,SMALL,b i ɾ i h a,681,kahd
+230858,suru1263,SMALL,a d j e,680,kahd
+230859,deni1241,EAGLE OR HAWK,tsʰ i b i r i,223,kahd
+230860,jama1261,EAGLE OR HAWK,s i b i r i,223,kahd
+230861,culi1244,EAGLE OR HAWK,ts i b i ɾ i,223,kahd
+230862,paum1247,EAGLE OR HAWK,k o k o i,224,kahd
+230863,paum1247,EAGLE OR HAWK,s a b i r a,223,kahd
+230864,suru1263,EAGLE OR HAWK,s i b i ɾ i,223,kahd
+230865,suru1263,EAGLE OR HAWK,t o b a j a ɾ o,225,kahd
+230866,suru1263,EAGLE OR HAWK,ʃ i b i ɾ i,223,kahd
+230867,jama1261,EAGLE OR HAWK,t o b e j o,225,kahd
+230868,jama1261,SNAIL,w a h o,691,kahd
+230869,paum1247,SNAIL,g a h o,691,kahd
+230870,suru1263,SNAIL,d ɨ h ɨ w a,692,kahd
+230871,paum1247,SNAIL,t o p a β a,693,kahd
+230872,deni1241,SNAKE,m a kʰ a,694,kahd
+230873,jama1261,SNAKE,m a k a,694,kahd
+230874,culi1244,SNAKE,m a kʰ a,694,kahd
+230875,culi1244,SNAKE,j o n i,696,kahd
+230876,paum1247,SNAKE,m a kʰ a,694,kahd
+230877,paum1247,SNAKE,j o n i + r a r a,696,kahd
+230878,paum1247,SNAKE,j o n i + r a r a,696,kahd
+230879,suru1263,SNAKE,k u w i ɾ i,695,kahd
+230880,deni1241,STEAL,b o t i,718,kahd
+230881,jama1261,STEAL,b o t i,718,kahd
+230882,culi1244,STEAL,b o t i,718,kahd
+230883,paum1247,STEAL,b o ʔ i,718,kahd
+230884,deni1241,STINGRAY,b o t a n i,724,kahd
+230885,jama1261,STINGRAY,b o t e,724,kahd
+230886,culi1244,STINGRAY,b o t a n i,724,kahd
+230887,paum1247,STINGRAY,b o ɗ a n i,724,kahd
+230888,suru1263,STINGRAY,m i ʃʲ a,725,kahd
+230889,jama1261,SICK,k i j a,664,kahd
+230890,culi1244,SICK,k i j a,664,kahd
+230891,suru1263,SICK,ʝ u m u r i,665,kahd
+230892,jama1261,CATFISH,b a h a m a,141,kahd
+230893,paum1247,CATFISH,b a h a m a,141,kahd
+230894,deni1241,UPPER LEG (THIGH),p a n a kʰ o,799,kahd
+230895,jama1261,UPPER LEG (THIGH),ɸ a n a k o,799,kahd
+230896,culi1244,UPPER LEG (THIGH),p a n a kʰ o,799,kahd
+230897,deni1241,THORN,a t i w a,769,kahd
+230898,jama1261,THORN,a t i w a,769,kahd
+230899,culi1244,THORN,a t i,769,kahd
+230900,suru1263,THORN,h a ʃ i n i,770,kahd
+230901,deni1241,STRIKE OR BEAT,d a k a,733,kahd
+230902,deni1241,STRIKE OR BEAT,w a kʰ a,733,kahd
+230903,deni1241,STRIKE OR BEAT,b aː,735,kahd
+230904,deni1241,STRIKE OR BEAT,b aː,735,kahd
+230905,deni1241,STRIKE OR BEAT,k o b a,735,kahd
+230906,jama1261,STRIKE OR BEAT,w a k a,733,kahd
+230907,jama1261,STRIKE OR BEAT,b aː,735,kahd
+230908,jama1261,STRIKE OR BEAT,b aː,735,kahd
+230909,culi1244,STRIKE OR BEAT,d a,732,kahd
+230910,culi1244,STRIKE OR BEAT,w a kʰ a,733,kahd
+230911,culi1244,STRIKE OR BEAT,i d a,732,kahd
+230912,culi1244,STRIKE OR BEAT,pʰ a,735,kahd
+230913,culi1244,STRIKE OR BEAT,k o b a,735,kahd
+230914,paum1247,STRIKE OR BEAT,d a,732,kahd
+230915,paum1247,STRIKE OR BEAT,b a kʰ a,735,kahd
+230916,paum1247,STRIKE OR BEAT,b aː,735,kahd
+230917,paum1247,STRIKE OR BEAT,b aː,735,kahd
+230918,paum1247,STRIKE OR BEAT,o b a,735,kahd
+230919,suru1263,STRIKE OR BEAT,b a t o h a,734,kahd
+230920,suru1263,STRIKE OR BEAT,b a t o h a,734,kahd
+230921,deni1241,BITE,w a j i,86,kahd
+230922,jama1261,BITE,w a j i,86,kahd
+230923,culi1244,BITE,kʰ a,85,kahd
+230924,deni1241,BURN,s a r o,119,kahd
+230925,jama1261,BURN,s a r i,119,kahd
+230926,culi1244,BURN,b o t̪ʰ a,118,kahd
+230927,suru1263,BURN,tʲ ɛ h ɛ,120,kahd
+230928,suru1263,BURN,k a ʃ uː h u,121,kahd
+230929,deni1241,CRY,o h i,180,kahd
+230930,jama1261,CRY,o h i,180,kahd
+230931,culi1244,CRY,o h i,180,kahd
+230932,suru1263,CRY,a z a n a,181,kahd
+230933,deni1241,DIG,w i,195,kahd
+230934,jama1261,DIG,w i i,195,kahd
+230935,culi1244,DIG,w i,195,kahd
+230936,deni1241,DRINK,p o w a,214,kahd
+230937,jama1261,DRINK,ɸ a w a,214,kahd
+230938,culi1244,DRINK,dz ɛ,213,kahd
+230939,paum1247,DRINK,ʔ a β i,214,kahd
+230940,suru1263,DRINK,h a w ɨ,214,kahd
+230941,amar1274,DRINK,m a j,212,kahd
+230942,deni1241,GO,kʰ a,339,kahd
+230943,deni1241,GO,w a h i,338,kahd
+230944,jama1261,GO,k a,339,kahd
+230945,culi1244,GO,kʰ a n i,339,kahd
+230946,paum1247,GO,a β a,339,kahd
+230947,paum1247,GO,kʰ a,339,kahd
+230948,suru1263,GO,g a w a,339,kahd
+230949,amar1274,GO,w a ʔ,338,kahd
+230950,deni1241,HEAR,m i t h a,375,kahd
+230951,jama1261,HEAR,m i t a,375,kahd
+230952,culi1244,HEAR,m i t̪ʰ a,375,kahd
+230953,paum1247,HEAR,m i t h a,375,kahd
+230954,suru1263,HEAR,m i t a,375,kahd
+230955,deni1241,KNOW,n a w a t o,428,kahd
+230956,jama1261,KNOW,w a t o,428,kahd
+230957,culi1244,KNOW,n a ʔ a t o,428,kahd
+230958,deni1241,LAUGH,h a h a,434,kahd
+230959,jama1261,LAUGH,h a h a,434,kahd
+230960,culi1244,LAUGH,h a h a,434,kahd
+230961,paum1247,LAUGH,h a h a,434,kahd
+230962,suru1263,LAUGH,h a k a,434,kahd
+230963,suru1263,LAUGH,h a k a,434,kahd
+230964,deni1241,LIE (REST),p o m a,445,kahd
+230965,jama1261,LIE (REST),h o m a,445,kahd
+230966,culi1244,LIE (REST),d o m o + p o n a,444,kahd
+230967,culi1244,LIE (REST),d o m o + p o n a,444,kahd
+230968,culi1244,LIE (REST),k o d a,447,kahd
+230969,culi1244,LIE (REST),p o n a,445,kahd
+230970,paum1247,LIE (REST),ʔ o m a,445,kahd
+230971,suru1263,LIE (REST),k u s u n a,446,kahd
+230972,jama1261,LIKE,n o ɸ a,452,kahd
+230973,paum1247,LIKE,n o ɸ i,452,kahd
+230974,suru1263,LIKE,n o h a m a,452,kahd
+230975,deni1241,PULL,p o r e,591,kahd
+230976,jama1261,PULL,b o r e,591,kahd
+230977,culi1244,PULL,h o k a,590,kahd
+230978,culi1244,PULL,p o ɾ ɛ,591,kahd
+230979,deni1241,PUSH,j o k o,595,kahd
+230980,jama1261,PUSH,j o k o,595,kahd
+230981,culi1244,PUSH,j o,595,kahd
+230982,paum1247,PUSH,d o k h o,596,kahd
+230983,suru1263,PUSH,j o k o n a,595,kahd
+230984,suru1263,PUSH,z u hʷ a n a,597,kahd
+230985,deni1241,SEE,k h i,645,kahd
+230986,jama1261,SEE,k iː,645,kahd
+230987,jama1261,SEE,a w a,646,kahd
+230988,culi1244,SEE,kʰ i,645,kahd
+230989,amar1274,SEE,t ia w a j,644,kahd
+230990,deni1241,SHOW,j o p i,659,kahd
+230991,jama1261,SHOW,j o ɸ i,659,kahd
+230992,culi1244,SHOW,j o p i,659,kahd
+230993,culi1244,SHOW,n o w ɛ,661,kahd
+230994,paum1247,SHOW,n a m i t h a,660,kahd
+230995,paum1247,SHOW,r a j o ʔ i,659,kahd
+230996,paum1247,SHOW,n o k i,662,kahd
+230997,deni1241,SMELL,h i tsʰ i,683,kahd
+230998,deni1241,SMELL,v a d,685,kahd
+230999,deni1241,SMELL,m a h o,684,kahd
+231000,jama1261,SMELL,h i s i,683,kahd
+231001,jama1261,SMELL,m a h i,684,kahd
+231002,culi1244,SMELL,h i tsʰ i,683,kahd
+231003,culi1244,SMELL,m a h o,684,kahd
+231004,paum1247,SMELL,m a h o r a,684,kahd
+231005,suru1263,SMELL,h i s i n a,683,kahd
+231006,suru1263,SMELL,m a h i,684,kahd
+231007,jama1261,TELL,h i j a r i,758,kahd
+231008,suru1263,TELL,h i j a ɾ a,758,kahd
+231009,deni1241,TIE,m a d o,777,kahd
+231010,culi1244,TIE,tsʰ o k ɛ,776,kahd
+231011,paum1247,TIE,a h o,778,kahd
+231012,suru1263,TIE,k a h o,778,kahd
+231013,deni1241,TOUCAN,j a kʰ i,789,kahd
+231014,jama1261,TOUCAN,j a k i,789,kahd
+231015,culi1244,TOUCAN,j a kʰ i,789,kahd
+231016,paum1247,TOUCAN,j a k o a k o a,789,kahd
+231017,suru1263,TOUCAN,s a k i,789,kahd
+231018,deni1241,TREE,a w a,790,kahd
+231019,jama1261,TREE,a w a,790,kahd
+231020,jama1261,TREE,w a k a n a,791,kahd
+231021,culi1244,TREE,a w a,790,kahd
+231022,paum1247,TREE,a β a,790,kahd
+231023,suru1263,TREE,a g a,791,kahd
+231024,suru1263,TREE,w a k a n a,791,kahd
+231025,amar1274,TREE,w ẽ j̃,790,kahd
+231026,deni1241,VINE,t o p i,805,kahd
+231027,deni1241,VINE,m a d o,808,kahd
+231028,jama1261,VINE,h a m a h a,806,kahd
+231029,jama1261,VINE,t o ɸ i,805,kahd
+231030,jama1261,VINE,m a d i,808,kahd
+231031,culi1244,VINE,tsʰ a h i,804,kahd
+231032,culi1244,VINE,m a d o,808,kahd
+231033,paum1247,VINE,h a m a,806,kahd
+231034,suru1263,VINE,h a i,807,kahd
+231035,jama1261,VOICE,a t i,810,kahd
+231036,culi1244,VOICE,a t̪ʰ i,810,kahd
+231037,paum1247,VOICE,a t h i,810,kahd
+231038,suru1263,VOICE,a t i,810,kahd
+231039,deni1241,WASP,a w a n i,818,kahd
+231040,deni1241,WASP,d e ts i s i,819,kahd
+231041,jama1261,WASP,a w a n i,818,kahd
+231042,jama1261,WASP,d i s i,819,kahd
+231043,culi1244,WASP,a w a n i,818,kahd
+231044,culi1244,WASP,d a tsʰ i tsʰ i,819,kahd
+231045,suru1263,WASP,a w a n i,818,kahd
+231046,deni1241,WEASEL,tsʰ a w a,825,kahd
+231047,jama1261,WEASEL,s a w a,825,kahd
+231048,culi1244,WEASEL,tsʰ a w a,825,kahd
+231049,suru1263,WEASEL,s a w a ɾ i,825,kahd
+231050,deni1241,SPIDER,h a k o,704,kahd
+231051,jama1261,SPIDER,h a k o,704,kahd
+231052,culi1244,SPIDER,h a k o,704,kahd
+231053,suru1263,SPIDER,h a h a k o,704,kahd
+231054,culi1244,SPIDER,w a n a k o n i,705,kahd
+231055,deni1241,SPIDER,w a n a k o n i,705,kahd
+231056,jama1261,SPIDER,w a n a k o r i,705,kahd
+231057,jama1261,MONKEY,w a ɸ a,481,kahd
+231058,culi1244,MONKEY,w a pʰ a,481,kahd
+231059,suru1263,MONKEY,g a h a,482,kahd
+231060,suru1263,MONKEY,k a nʲ a,482,kahd
+231061,deni1241,YAWN,a w a,854,kahd
+231062,paum1247,YAWN,a g aː,855,kahd
+231063,jama1261,YOUNGER SISTER,a s i m a,864,kahd
+231064,paum1247,YOUNGER SISTER,k a dʒ o ʔ o,865,kahd
+231065,paum1247,YOUNGER SISTER,ʃ o n i,867,kahd
+231066,suru1263,YOUNGER SISTER,k u ɾ u,866,kahd
+231067,deni1241,COOK (SOMETHING),k a ʔ a,171,kahd
+231068,jama1261,COOK (SOMETHING),k a h a,171,kahd
+231069,culi1244,COOK (SOMETHING),k aː ɾ i,170,kahd
+231070,paum1247,COOK (SOMETHING),k a i,170,kahd
+231071,amar1274,COOK (SOMETHING),w ẽ j̃ ã,169,kahd
+231072,suru1263,COOK (SOMETHING),b ɨ h a,172,kahd
+231073,deni1241,LARVA,m o h o,431,kahd
+231074,deni1241,LARVA,w a k a r i,432,kahd
+231075,culi1244,LARVA,m o h o,431,kahd
+231076,suru1263,LARVA,m o h o,431,kahd
+231077,jama1261,SOUND OR NOISE,m o n i,702,kahd
+231078,deni1241,BE,h a,59,kahd
+231079,culi1244,BE,h a,59,kahd
+231080,paum1247,BE,h a,59,kahd
+231081,suru1263,BE,h a,59,kahd
+231082,deni1241,GRASSHOPPER,a b i tsʰ a,352,kahd
+231083,jama1261,GRASSHOPPER,h a b i s e,352,kahd
+231084,culi1244,GRASSHOPPER,a b i tsʰ a,352,kahd
+231085,deni1241,ROOT,h a b o,619,kahd
+231086,jama1261,ROOT,h a b o,619,kahd
+231087,culi1244,ROOT,h a b o,619,kahd
+231088,suru1263,ROOT,a b u ɾ i,620,kahd
+231089,deni1241,RIPE,h a d a,612,kahd
+231090,jama1261,RIPE,h a d a,612,kahd
+231091,culi1244,RIPE,h a d a,612,kahd
+231092,paum1247,RIPE,h a d a,612,kahd
+231093,suru1263,RIPE,a d a,612,kahd
+231094,deni1241,SNEEZE,h a d i tsʰ a,697,kahd
+231095,culi1244,SNEEZE,h ɛ d i tsʰ i,697,kahd
+231096,paum1247,SNEEZE,a d i s a,697,kahd
+231097,suru1263,SNEEZE,h a t i s i,697,kahd
+231098,deni1241,BLOW (WITH MOUTH),h a p h o,96,kahd
+231099,deni1241,BLOW (WITH MOUTH),k a r i b a h a,99,kahd
+231100,jama1261,BLOW (WITH MOUTH),a ɸ o,96,kahd
+231101,jama1261,BLOW (WITH MOUTH),k a r a b o w a,99,kahd
+231102,culi1244,BLOW (WITH MOUTH),t o m i,95,kahd
+231103,culi1244,BLOW (WITH MOUTH),h a pʰ o,96,kahd
+231104,culi1244,BLOW (WITH MOUTH),k a ɾ i b ɛ h ɛ,99,kahd
+231105,paum1247,BLOW (WITH MOUTH),ɸ oː ɸ oː,97,kahd
+231106,suru1263,BLOW (WITH MOUTH),k a ɾ o k o b a,98,kahd
+231107,paum1247,BLOW (WITH MOUTH),k a r a ʔ o h a,99,kahd
+231108,suru1263,BLOW (WITH MOUTH),a h u k a,100,kahd
+231109,deni1241,BREATHE,h a tsʰ i,113,kahd
+231110,jama1261,BREATHE,h a s i,113,kahd
+231111,culi1244,BREATHE,h a tsʰ i,113,kahd
+231112,paum1247,BREATHE,h a s i,113,kahd
+231113,suru1263,BREATHE,h a s a,113,kahd
+231114,deni1241,YES,h e ʔ e,859,kahd
+231115,culi1244,YES,h ɛ ʔ ɛ,859,kahd
+231116,paum1247,YES,h a ʔ a,859,kahd
+231117,deni1241,PUT,i b a,599,kahd
+231118,jama1261,PUT,i b a,599,kahd
+231119,culi1244,PUT,a t̪ʰ a,598,kahd
+231120,culi1244,PUT,i b a,599,kahd
+231121,paum1247,PUT,i b a β i,599,kahd
+231122,jama1261,GRANDFATHER,i d i,348,kahd
+231123,culi1244,GRANDFATHER,i d i,348,kahd
+231124,deni1241,TOOTH,i n o,785,kahd
+231125,jama1261,TOOTH,i n i,785,kahd
+231126,culi1244,TOOTH,i n o,785,kahd
+231127,paum1247,TOOTH,i n o,785,kahd
+231128,suru1263,TOOTH,z uː m ɨ,786,kahd
+231129,amar1274,TOOTH,ʔ i d n,784,kahd
+231130,jama1261,SHAMAN (FOLK HEALER),i n a w a,652,kahd
+231131,suru1263,SHAMAN (FOLK HEALER),i n i o w a,652,kahd
+231132,suru1263,SHAMAN (FOLK HEALER),i nʲ u w a,652,kahd
+231133,deni1241,LIP,i p o,454,kahd
+231134,jama1261,LIP,i ɸ i,454,kahd
+231135,culi1244,LIP,i p o,454,kahd
+231136,paum1247,LIP,i h i,454,kahd
+231137,deni1241,LEG,i tsʰ o,439,kahd
+231138,jama1261,LEG,i s i,439,kahd
+231139,culi1244,LEG,i tsʰ o,439,kahd
+231140,suru1263,LEG,i s o + w a t a,441,kahd
+231141,suru1263,LEG,i s o + w a t a,441,kahd
+231142,paum1247,LEG,a v ai,440,kahd
+231143,deni1241,NEW,dz a t i,518,kahd
+231144,deni1241,NEW,j a t i,518,kahd
+231145,jama1261,NEW,j a t i,518,kahd
+231146,culi1244,NEW,dz a t i,518,kahd
+231147,culi1244,NEW,j a t i,518,kahd
+231148,paum1247,NEW,j a ɗ i,518,kahd
+231149,suru1263,NEW,w a s i,519,kahd
+231150,jama1261,STONE,j a t i,729,kahd
+231151,culi1244,STONE,ts i b a,728,kahd
+231152,paum1247,STONE,j a ɗ i,729,kahd
+231153,suru1263,STONE,z a s i,730,kahd
+231154,amar1274,STONE,w i d n,727,kahd
+231155,deni1241,SLOTH,j a ʔ o,677,kahd
+231156,jama1261,SLOTH,j a o,677,kahd
+231157,culi1244,SLOTH,j a ʔ o,677,kahd
+231158,culi1244,SLOTH,k ɨ r ɨ w ɨ,678,kahd
+231159,deni1241,RAT,j a p i,606,kahd
+231160,jama1261,RAT,j a ɸ i,606,kahd
+231161,culi1244,RAT,j a p i,606,kahd
+231162,suru1263,RAT,j a h i,606,kahd
+231163,deni1241,PEACH PALM,j a w i d a,556,kahd
+231164,jama1261,PEACH PALM,j a w i d a,556,kahd
+231165,culi1244,PEACH PALM,j a ʔ i d a,556,kahd
+231166,suru1263,PEACH PALM,m aː s a,557,kahd
+231167,deni1241,URINE,j o kʰ a r i,800,kahd
+231168,culi1244,URINE,j o kʰ ɛ ɾ i,800,kahd
+231169,paum1247,URINE,j o kʰ a,800,kahd
+231170,suru1263,URINE,k a s u k a,801,kahd
+231171,deni1241,SCORPION,j o m a tsʰ a,638,kahd
+231172,jama1261,SCORPION,j o m a s a,638,kahd
+231173,culi1244,SCORPION,j o m o w a tsʰ a,638,kahd
+231174,deni1241,TAIL,j i f o r i,749,kahd
+231175,jama1261,TAIL,j o ɸ a r i,749,kahd
+231176,culi1244,TAIL,dz o p o ɾ i,749,kahd
+231177,culi1244,TAIL,j o p o ɾ i,749,kahd
+231178,deni1241,ORDER,j o tsʰ e,535,kahd
+231179,jama1261,ORDER,j o s e,535,kahd
+231180,culi1244,ORDER,j o tsʰ ɛ ʔ ɛ,535,kahd
+231181,deni1241,BUTTOCKS,j o t o,124,kahd
+231182,deni1241,BUTTOCKS,m a t a,125,kahd
+231183,jama1261,BUTTOCKS,j o t i,124,kahd
+231184,jama1261,BUTTOCKS,m a t e,125,kahd
+231185,culi1244,BUTTOCKS,j o t o,124,kahd
+231186,culi1244,BUTTOCKS,m a t a,125,kahd
+231187,paum1247,BUTTOCKS,j o ʔ o,124,kahd
+231188,suru1263,BUTTOCKS,m a t e,125,kahd
+231189,deni1241,COATI (COATIMUNDI),j o t o m i,161,kahd
+231190,jama1261,COATI (COATIMUNDI),j o t o m i,161,kahd
+231191,culi1244,COATI (COATIMUNDI),j o t o m i,161,kahd
+231192,suru1263,COATI (COATIMUNDI),b a ɾ i h i n i,162,kahd
+231193,deni1241,LOUSE,k a m a t i,461,kahd
+231194,jama1261,LOUSE,k a m a t i,461,kahd
+231195,culi1244,LOUSE,k a m a t i,461,kahd
+231196,paum1247,LOUSE,k a m a ʔ i,461,kahd
+231197,deni1241,CHIN,a n a d a,150,kahd
+231198,jama1261,CHIN,a n a d e,150,kahd
+231199,culi1244,CHIN,a n a d a,150,kahd
+231200,paum1247,CHIN,k a n a d a,150,kahd
+231201,suru1263,CHIN,z a ɾ a d ɨ,151,kahd
+231202,deni1241,HORSEFLY,k a r a j a t i,392,kahd
+231203,jama1261,HORSEFLY,k a r i t i,392,kahd
+231204,suru1263,HORSEFLY,k a ɾ i t i,392,kahd
+231205,deni1241,MAIZE,k i m i,465,kahd
+231206,jama1261,MAIZE,k i m i,465,kahd
+231207,suru1263,MAIZE,k i m i,465,kahd
+231208,deni1241,FIRST,t a t i d e,290,kahd
+231209,jama1261,FIRST,d a i,290,kahd
+231210,culi1244,FIRST,t a ʔ i d ɛ,290,kahd
+231211,suru1263,FIRST,k a t aː w ɨ,291,kahd
+231212,deni1241,MATERNAL UNCLE (MOTHER'S BROTHER),k o k o,471,kahd
+231213,jama1261,MATERNAL UNCLE (MOTHER'S BROTHER),k o k o,471,kahd
+231214,culi1244,MATERNAL UNCLE (MOTHER'S BROTHER),k o k o,471,kahd
+231215,paum1247,MATERNAL UNCLE (MOTHER'S BROTHER),k o k o,471,kahd
+231216,suru1263,MATERNAL UNCLE (MOTHER'S BROTHER),k o k o,471,kahd
+231217,jama1261,HOME,t a b o r a,387,kahd
+231218,jama1261,MEDICINE,t a h i,473,kahd
+231219,paum1247,MEDICINE,i h a,474,kahd
+231220,deni1241,SUCK,s o s o,737,kahd
+231221,jama1261,SUCK,k o m i,736,kahd
+231222,culi1244,SUCK,t o m i,736,kahd
+231223,culi1244,SUCK,h i t s i,738,kahd
+231224,paum1247,SUCK,s o s o,737,kahd
+231225,deni1241,WOODPECKER,k o k a,846,kahd
+231226,jama1261,WOODPECKER,k o k a,846,kahd
+231227,culi1244,WOODPECKER,k o k a,846,kahd
+231228,paum1247,WOODPECKER,o k a j o r i,847,kahd
+231229,deni1241,THROW,k o r o,773,kahd
+231230,jama1261,THROW,k o r o,773,kahd
+231231,culi1244,THROW,k o ɾ o,773,kahd
+231232,culi1244,THROW,k o ɾ o,773,kahd
+231233,deni1241,WHIP,k o tsʰ i,828,kahd
+231234,jama1261,WHIP,k o s i,828,kahd
+231235,culi1244,WHIP,k o ts i,828,kahd
+231236,deni1241,TORTOISE,j a n i + k o w a,787,kahd
+231237,deni1241,TORTOISE,j a n i + k o w a,787,kahd
+231238,jama1261,TORTOISE,k o w a,788,kahd
+231239,culi1244,TORTOISE,j a n i + k o a,787,kahd
+231240,culi1244,TORTOISE,j a n i + k o a,787,kahd
+231241,suru1263,TORTOISE,k o w a s a,788,kahd
+231242,deni1241,WEAVE,k o w a,826,kahd
+231243,jama1261,WEAVE,k o w a,826,kahd
+231244,culi1244,WEAVE,k o w a,826,kahd
+231245,suru1263,WEAVE,o w a,826,kahd
+231246,jama1261,WHISTLE,k o w a,829,kahd
+231247,suru1263,WHISTLE,k o w i k a,829,kahd
+231248,jama1261,BOX,w i j e,105,kahd
+231249,jama1261,BAT,m a s i,57,kahd
+231250,paum1247,BAT,m a s i,57,kahd
+231251,jama1261,TERMITE,m o t o t o,759,kahd
+231252,suru1263,TERMITE,m o t o t o w a,759,kahd
+231253,jama1261,FLOWER,m o w e,301,kahd
+231254,culi1244,FLOWER,m o w ɛ,301,kahd
+231255,paum1247,FLOWER,m o β a,301,kahd
+231256,suru1263,FLOWER,m a w a,301,kahd
+231257,deni1241,FLOWER,k a r a b u n i,302,kahd
+231258,deni1241,BIG,p u t a h a r i,83,kahd
+231259,deni1241,BIG,n a p i,84,kahd
+231260,jama1261,BIG,n a ɸ i,84,kahd
+231261,culi1244,BIG,i m ɛ i,82,kahd
+231262,culi1244,BIG,n a p i,84,kahd
+231263,paum1247,BIG,n a ɓ a h a,84,kahd
+231264,suru1263,BIG,n a h i,84,kahd
+231265,amar1274,BIG,m/b o r o ʔ,81,kahd
+231266,deni1241,SQUEEZE,n i k i,712,kahd
+231267,jama1261,SQUEEZE,n i k i,712,kahd
+231268,culi1244,SQUEEZE,tsʰ i p o,711,kahd
+231269,culi1244,SQUEEZE,n i k i,712,kahd
+231270,paum1247,WAIT (FOR),n o kʰ a,813,kahd
+231271,deni1241,DOOR,n o k h o,208,kahd
+231272,jama1261,DOOR,n o k o b i,208,kahd
+231273,culi1244,DOOR,n o kʰ o b i h i,208,kahd
+231274,deni1241,GENIPA,o r a,335,kahd
+231275,jama1261,GENIPA,o r a,335,kahd
+231276,culi1244,GENIPA,o ɾ a,335,kahd
+231277,deni1241,PADDLE,o r i,542,kahd
+231278,jama1261,PADDLE,o r i,542,kahd
+231279,culi1244,PADDLE,o ɾ i,542,kahd
+231280,deni1241,WIFE,p a n a d i,834,kahd
+231281,jama1261,WIFE,ɸ a d i,834,kahd
+231282,suru1263,WIFE,h a z a w a,835,kahd
+231283,kana1291,WIFE,u b a tʃ a w a,834,kahd
+231284,deni1241,WOMAN,a m u n e h e,842,kahd
+231285,deni1241,WOMAN,d z u v a t u,845,kahd
+231286,jama1261,WOMAN,ɸ a n a,843,kahd
+231287,culi1244,WOMAN,a m o n ɛ h ɛ,842,kahd
+231288,suru1263,WOMAN,h a dʒ i n i,844,kahd
+231289,amar1274,WOMAN,w e t t o n e,841,kahd
+231290,jama1261,SPIT,ɸ i r o,710,kahd
+231291,culi1244,SPIT,pʰ i t o,709,kahd
+231292,deni1241,MORTAR,pʰ o w a,487,kahd
+231293,jama1261,MORTAR,ɸ o w a,487,kahd
+231294,culi1244,MORTAR,pʰ o w a,487,kahd
+231295,suru1263,MORTAR,h o w a,487,kahd
+231296,deni1241,SHARPEN (SOMETHING),j o,654,kahd
+231297,jama1261,SHARPEN (SOMETHING),s e o,655,kahd
+231298,paum1247,SHARPEN (SOMETHING),s a j o,654,kahd
+231299,suru1263,SHARPEN (SOMETHING),k a + z u m a ɾ i,656,kahd
+231300,suru1263,SHARPEN (SOMETHING),k a + z u m a ɾ i,656,kahd
+231301,deni1241,PEEL,t e r o,561,kahd
+231302,deni1241,PEEL,ʃ a,560,kahd
+231303,deni1241,PEEL,s a,560,kahd
+231304,culi1244,PEEL,ʃ a,560,kahd
+231305,paum1247,PEEL,ɗ a r o,561,kahd
+231306,amar1274,PEEL,s i ʔ,559,kahd
+231307,deni1241,OTTER,tsʰ a b i r a,536,kahd
+231308,jama1261,OTTER,s a b i r a,536,kahd
+231309,culi1244,OTTER,tsʰ a b i ɾ a,536,kahd
+231310,deni1241,TOBACCO,tsʰ i n a,781,kahd
+231311,jama1261,TOBACCO,s i n a,781,kahd
+231312,culi1244,TOBACCO,tsʰ i n a,781,kahd
+231313,suru1263,TOBACCO,k u m a d i,782,kahd
+231314,deni1241,AGOUTI,tsʰ i n a m a,6,kahd
+231315,jama1261,AGOUTI,s i n a m a,6,kahd
+231316,culi1244,AGOUTI,tsʰ i n a m a,6,kahd
+231317,suru1263,AGOUTI,i n a m ɨ,6,kahd
+231318,paum1247,AGOUTI,dʒ ao ʔ o r o,7,kahd
+231319,deni1241,COLD,m i m i d e,165,kahd
+231320,deni1241,COLD,tsʰ i r i n i,164,kahd
+231321,jama1261,COLD,s i r i,164,kahd
+231322,culi1244,COLD,tsʰ i ɾ i,164,kahd
+231323,culi1244,COLD,ts i ɾ i,164,kahd
+231324,paum1247,COLD,p a h i s i r i,164,kahd
+231325,deni1241,NAVEL,tsʰ o b o r i,506,kahd
+231326,suru1263,NAVEL,s o b o ɾ i,506,kahd
+231327,deni1241,WASH,v a h i r a d e,816,kahd
+231328,deni1241,WASH,tsʰ o k o,817,kahd
+231329,jama1261,WASH,s o k o,817,kahd
+231330,culi1244,WASH,tsʰ a w a,815,kahd
+231331,paum1247,WASH,s o k o,817,kahd
+231332,deni1241,FASTEN,tsʰ o k i,259,kahd
+231333,jama1261,FASTEN,s o k i,259,kahd
+231334,culi1244,FASTEN,tsʰ o k ɛ,259,kahd
+231335,deni1241,ARM,b i h i,29,kahd
+231336,culi1244,ARM,b i h i,29,kahd
+231337,kana1291,ARM,p a ŋ,30,kahd
+231338,deni1241,BAD,h i r a d e,45,kahd
+231339,culi1244,BAD,b i tsʰ a,44,kahd
+231340,culi1244,BAD,t a b a kʰ o ɾ a,47,kahd
+231341,culi1244,BAD,w ai d i ɾ a,48,kahd
+231342,paum1247,BAD,dʒ a h a r i k i,46,kahd
+231343,deni1241,BATHE,k o n a h a,58,kahd
+231344,culi1244,BATHE,k o n a,58,kahd
+231345,paum1247,BATHE,k o n a,58,kahd
+231346,deni1241,BEAK,b o n o,66,kahd
+231347,culi1244,BEAK,b o n o,66,kahd
+231348,paum1247,BEAK,b o n o,66,kahd
+231349,deni1241,BEETLE,h i j a b o,73,kahd
+231350,jama1261,BEETLE,h i j a b o,73,kahd
+231351,culi1244,BEETLE,h i j a b o,73,kahd
+231352,deni1241,BELLY,dz a h a,77,kahd
+231353,deni1241,BELLY,j e h e,77,kahd
+231354,culi1244,BELLY,i dz o n i,76,kahd
+231355,paum1247,BELLY,j a h a,77,kahd
+231356,suru1263,BELLY,m a k a w ɨ,78,kahd
+231357,deni1241,BLACK,k i r i d e,90,kahd
+231358,culi1244,BLACK,ts o w ɛ,89,kahd
+231359,suru1263,BLACK,a s a,92,kahd
+231360,paum1247,BLACK,b a r a,91,kahd
+231361,amar1274,BLACK,s k,88,kahd
+231362,deni1241,CORPSE,a b a p o,173,kahd
+231363,deni1241,CORRECT (RIGHT),n a n i a r i n i,174,kahd
+231364,deni1241,DAY (NOT NIGHT),v a d a,189,kahd
+231365,paum1247,DAY (NOT NIGHT),m a h i,190,kahd
+231366,deni1241,DIRTY,k i r i,197,kahd
+231367,culi1244,DIRTY,o b a,196,kahd
+231368,paum1247,DIRTY,ɓ iː ʃ a,198,kahd
+231369,suru1263,DIRTY,a s a,199,kahd
+231370,suru1263,DIRTY,k a s iː k ɨ,200,kahd
+231371,deni1241,FAR,v a h i n i,256,kahd
+231372,culi1244,FAR,w a h i,256,kahd
+231373,paum1247,FAR,a d a,257,kahd
+231374,deni1241,FIX,t a,297,kahd
+231375,paum1247,FIX,ɗ a kʰ a,297,kahd
+231376,deni1241,FOREHEAD,a t h a,317,kahd
+231377,paum1247,FOREHEAD,a t h a,317,kahd
+231378,suru1263,FOREHEAD,a t a,317,kahd
+231379,deni1241,FROG,b o k o,325,kahd
+231380,deni1241,FROG,j o i w a,326,kahd
+231381,deni1241,FROG,o w a w a,326,kahd
+231382,jama1261,FROG,b o k a,325,kahd
+231383,jama1261,FROG,o w a w a,326,kahd
+231384,culi1244,FROG,j a pʰ a ʔ i,324,kahd
+231385,suru1263,FROG,b u w a b u w a,326,kahd
+231386,suru1263,FROG,j a h o w a,327,kahd
+231387,deni1241,FRUIT,b u n u,328,kahd
+231388,culi1244,FRUIT,b o n o,328,kahd
+231389,paum1247,FRUIT,b o n o,328,kahd
+231390,suru1263,FRUIT,m i dʒ i ɾ i,329,kahd
+231391,deni1241,BLUE OR GREEN,t e r e ɸ e d e,102,kahd
+231392,paum1247,BLUE OR GREEN,k o r i,103,kahd
+231393,suru1263,BLUE OR GREEN,k a r a k o r i,103,kahd
+231394,deni1241,HARD,kʰ a r a,368,kahd
+231395,culi1244,HARD,kʰ a ɾ a,368,kahd
+231396,paum1247,HARD,k aː r a,368,kahd
+231397,deni1241,KNEE,kʰ o b o r i,423,kahd
+231398,culi1244,KNEE,kʰ o b o ɾ i,423,kahd
+231399,culi1244,KNEE,p i t o,426,kahd
+231400,culi1244,KNEE,t i dz o ɾ i,427,kahd
+231401,suru1263,KNEE,s u w a t ɨ,425,kahd
+231402,paum1247,KNEE,k a dʒ o ʔ a tʰ a,424,kahd
+231403,deni1241,LATE,n a h o,433,kahd
+231404,paum1247,LATE,n a o t h i,433,kahd
+231405,deni1241,STORY,i m a,731,kahd
+231406,culi1244,STORY,i m a,731,kahd
+231407,deni1241,LIMP,d o k i,453,kahd
+231408,paum1247,LIMP,d o kʰ i r i,453,kahd
+231409,deni1241,MOTH,d a pʰ o pʰ o,491,kahd
+231410,culi1244,MOTH,d a pʰ o pʰ o,491,kahd
+231411,suru1263,MOTH,d a h o h o,491,kahd
+231412,deni1241,NAME,o n i,505,kahd
+231413,jama1261,NAME,o n i,505,kahd
+231414,culi1244,NAME,o n i,505,kahd
+231415,paum1247,NAME,o n i,505,kahd
+231416,amar1274,NAME,n/d i k,504,kahd
+231417,deni1241,NIGHT,dz u m e,520,kahd
+231418,paum1247,NIGHT,dʒ o m a,520,kahd
+231419,culi1244,NIGHT,z o m e,520,kahd
+231420,deni1241,NOSE,e n e,521,kahd
+231421,culi1244,NOSE,ɛ n ɛ,521,kahd
+231422,paum1247,NOSE,β i r i d i,523,kahd
+231423,kana1291,NOSE,u p a k,522,kahd
+231424,deni1241,PEPPER,k a tsʰ i ʔ i,563,kahd
+231425,culi1244,PEPPER,k a tsʰ i,563,kahd
+231426,paum1247,PEPPER,k a s i,563,kahd
+231427,deni1241,PIECE,b o b i,566,kahd
+231428,culi1244,PIECE,b o b i,566,kahd
+231429,paum1247,PIECE,b o b i,566,kahd
+231430,suru1263,PIECE,i b i s i n i,567,kahd
+231431,deni1241,DOVE,o k o k o,209,kahd
+231432,deni1241,DOVE,k a m o w a,210,kahd
+231433,jama1261,DOVE,o k o k o,209,kahd
+231434,culi1244,DOVE,o k o k o,209,kahd
+231435,paum1247,DOVE,k a m o a,210,kahd
+231436,deni1241,PREGNANT,j a h a n i,587,kahd
+231437,paum1247,PREGNANT,i s a,588,kahd
+231438,deni1241,PRETEND,w a d a w a d a,589,kahd
+231439,deni1241,PULL OUT,j o pʰ a,593,kahd
+231440,culi1244,PULL OUT,j o pʰ a,593,kahd
+231441,paum1247,PULL OUT,r a s o h a,594,kahd
+231442,deni1241,RED,m a k u d e,607,kahd
+231443,culi1244,RED,m a kʰ o,607,kahd
+231444,culi1244,RED,m a pʰ a ɾ a,610,kahd
+231445,suru1263,RED,a d̥ a,609,kahd
+231446,paum1247,RED,n a d a r a,608,kahd
+231447,deni1241,RESIN,m o j a,611,kahd
+231448,culi1244,RESIN,m o j a,611,kahd
+231449,suru1263,RESIN,m o j a,611,kahd
+231450,deni1241,RIVER,p a t s u,614,kahd
+231451,culi1244,RIVER,w ɛ n i,613,kahd
+231452,paum1247,RIVER,β ai n i,613,kahd
+231453,deni1241,SMOOTH,m e r u d e,690,kahd
+231454,deni1241,SON,d a ʔ o,698,kahd
+231455,jama1261,SON,d a o,698,kahd
+231456,suru1263,SON,a h i d i,699,kahd
+231457,deni1241,SHIT (DEFECATE),k i j a,657,kahd
+231458,paum1247,SHIT (DEFECATE),k i a,657,kahd
+231459,deni1241,SWELL,h a p h o,745,kahd
+231460,culi1244,SWELL,h i t ɛ,744,kahd
+231461,paum1247,SWELL,r a ɸ o,746,kahd
+231462,deni1241,THAT,a,760,kahd
+231463,deni1241,THICK,n a p i d e,763,kahd
+231464,deni1241,THIN,tsʰ e p e r i,765,kahd
+231465,culi1244,THIN,w ɛ ɾ i,764,kahd
+231466,paum1247,THIN,tʃ a p i,766,kahd
+231467,deni1241,THROAT,t a m i d i,771,kahd
+231468,culi1244,THROAT,t a m i d i,771,kahd
+231469,paum1247,THROAT,n a b i d i,772,kahd
+231470,deni1241,THUNDER,b a h i,774,kahd
+231471,jama1261,THUNDER,b a h i,774,kahd
+231472,paum1247,THUNDER,b a h i,774,kahd
+231473,suru1263,THUNDER,b a: i,774,kahd
+231474,suru1263,THUNDER,z aː m a + k u b u ɾ u n a ɾ u,775,kahd
+231475,suru1263,THUNDER,z aː m a + k u b u ɾ u n a ɾ u,775,kahd
+231476,deni1241,EAT,k a d a p i,233,kahd
+231477,deni1241,EAT,h a o,235,kahd
+231478,deni1241,EAT,k o m i,237,kahd
+231479,culi1244,EAT,h i p a,232,kahd
+231480,paum1247,EAT,h a,235,kahd
+231481,suru1263,EAT,h a w a,236,kahd
+231482,jama1261,EAT,t a ɸ a,234,kahd
+231483,amar1274,EAT,p e,231,kahd
+231484,deni1241,FALL,s o n a,252,kahd
+231485,culi1244,FALL,tsʰ o n a,252,kahd
+231486,culi1244,FALL,k a t o h a,254,kahd
+231487,suru1263,FALL,u b u ɾ i,253,kahd
+231488,amar1274,FALL,k a t,251,kahd
+231489,deni1241,GIVE,d a,337,kahd
+231490,culi1244,GIVE,d a,337,kahd
+231491,culi1244,GIVE,d a k a,337,kahd
+231492,paum1247,GIVE,d a,337,kahd
+231493,amar1274,GIVE,j o k,336,kahd
+231494,deni1241,STAND,w a,714,kahd
+231495,jama1261,STAND,w a,714,kahd
+231496,culi1244,STAND,w a,714,kahd
+231497,paum1247,STAND,g aː,715,kahd
+231498,suru1263,STAND,g a w ɨ j a,716,kahd
+231499,deni1241,VOMIT,k a p i,811,kahd
+231500,culi1244,VOMIT,k a p i,811,kahd
+231501,paum1247,VOMIT,a ɓ i,811,kahd
+231502,deni1241,TOAD,k o r e k o r e,779,kahd
+231503,suru1263,TOAD,k o ɾ a,780,kahd
+231504,deni1241,TONGUE,e b e n o,783,kahd
+231505,jama1261,TONGUE,a b a n e,783,kahd
+231506,culi1244,TONGUE,ɛ b ɛ n o,783,kahd
+231507,paum1247,TONGUE,a b a n i,783,kahd
+231508,suru1263,TONGUE,a b ɨ,783,kahd
+231509,deni1241,WHITE,p a k o,830,kahd
+231510,culi1244,WHITE,p a k o,830,kahd
+231511,paum1247,WHITE,b o kʰ o,830,kahd
+231512,suru1263,WHITE,a s iː kʲ a + h a ɾ u,831,kahd
+231513,suru1263,WHITE,a s iː kʲ a + h a ɾ u,831,kahd
+231514,deni1241,YELLOW,d e r e p e d e,858,kahd
+231515,culi1244,YELLOW,w ɛ tsʰ ɛ,857,kahd
+231516,deni1241,VISIBLE,a w a t o,809,kahd
+231517,culi1244,VISIBLE,a w a t o,809,kahd
+231518,deni1241,SHAKE,j a r a,650,kahd
+231519,culi1244,SHAKE,d o k o,649,kahd
+231520,paum1247,SHAKE,r o k o + r o k o,651,kahd
+231521,paum1247,SHAKE,ɗ a r a,650,kahd
+231522,deni1241,JUMP,t i,416,kahd
+231523,jama1261,JUMP,t i,416,kahd
+231524,paum1247,JUMP,ɗ i r i ɗ i r i,417,kahd
+231525,deni1241,GRATE (SOMETHING),h e k i,353,kahd
+231526,culi1244,GRATE (SOMETHING),h ɛ k i,353,kahd
+231527,paum1247,GRATE (SOMETHING),g i h a,354,kahd
+231528,deni1241,GRANDCHILD,h i n o d i n i,347,kahd
+231529,jama1261,GRANDCHILD,n o d i,347,kahd
+231530,culi1244,GRANDCHILD,h i n o d i,347,kahd
+231531,paum1247,GRANDCHILD,h a n o d i,347,kahd
+231532,suru1263,GRANDCHILD,i n i d i,347,kahd
+231533,deni1241,BACK,i d e,42,kahd
+231534,culi1244,BACK,n a t̪ʰ i,41,kahd
+231535,culi1244,BACK,i d ɛ,42,kahd
+231536,paum1247,BACK,i d a,42,kahd
+231537,suru1263,BACK,i s i,43,kahd
+231538,deni1241,INSECT,j a ʔ o,408,kahd
+231539,deni1241,BUTTERFLY,m a k o k o,123,kahd
+231540,culi1244,BUTTERFLY,m a k o k o,123,kahd
+231541,paum1247,BUTTERFLY,k a m o k o k o j o,123,kahd
+231542,deni1241,ARMADILLO,i ts i ʔ i,31,kahd
+231543,suru1263,ARMADILLO,k i s i m a,32,kahd
+231544,suru1263,ARMADILLO,b ʋː ɟ u,33,kahd
+231545,suru1263,ARMADILLO,c i ʃ i mʲ a,32,kahd
+231546,deni1241,SPILL (SOMETHING),k i tsʰ a,707,kahd
+231547,culi1244,SPILL (SOMETHING),k i tsʰ a,707,kahd
+231548,paum1247,SPILL (SOMETHING),k i tʃ o,707,kahd
+231549,deni1241,GROWL,k o r o,356,kahd
+231550,paum1247,GROWL,kʰ o r o r o,356,kahd
+231551,deni1241,FLY (INSECT),kʰ o r o r a,303,kahd
+231552,jama1261,FLY (INSECT),k o r o w i,303,kahd
+231553,suru1263,FLY (INSECT),k o ɾ o ɾ o,303,kahd
+231554,deni1241,WITH,w i j e h e,840,kahd
+231555,deni1241,RUN,w a tsʰ i,627,kahd
+231556,deni1241,INDIGENOUS PEOPLES OF THE AMERICAS,m a d i,407,kahd
+231557,jama1261,INDIGENOUS PEOPLES OF THE AMERICAS,m a d i,407,kahd
+231558,culi1244,INDIGENOUS PEOPLES OF THE AMERICAS,m a d i h a,407,kahd
+231559,suru1263,INDIGENOUS PEOPLES OF THE AMERICAS,m a d i,407,kahd
+231560,deni1241,AWAKE,n o kʰ o,38,kahd
+231561,culi1244,AWAKE,n o kʰ o,38,kahd
+231562,paum1247,AWAKE,n o kʰ o,38,kahd
+231563,deni1241,DISAPPEAR,pʰ i r i,201,kahd
+231564,paum1247,DISAPPEAR,ɓ i r i,201,kahd
+231565,suru1263,DISAPPEAR,s u w a n a,202,kahd
+231566,jama1261,ALLIGATOR,o n a,15,kahd
+231567,suru1263,ALLIGATOR,o n a,15,kahd
+231568,deni1241,ALLIGATOR,t u k u z u,14,kahd
+231569,culi1244,ALLIGATOR,w a m a,13,kahd
+231570,culi1244,ALLIGATOR,t o k o z o,14,kahd
+231571,jama1261,CRAB,a m o,178,kahd
+231572,culi1244,CRAB,a m o,178,kahd
+231573,suru1263,CRAB,a m u,178,kahd
+231574,jama1261,PACU,b a s e,541,kahd
+231575,suru1263,PACU,b a s a n i,541,kahd
+231576,jama1261,STIR,t a b o,726,kahd
+231577,paum1247,STIR,t a b o,726,kahd
+231578,suru1263,STIR,t a b o,726,kahd
+231579,jama1261,PULL OFF (SKIN),i t e,592,kahd
+231580,suru1263,PULL OFF (SKIN),i t e,592,kahd
+231581,jama1261,CASSAVA,k o j o,138,kahd
+231582,suru1263,CASSAVA,k o j o,138,kahd
+231583,paum1247,CASSAVA,s i m a k a,137,kahd
+231584,deni1241,CASSAVA,h i m e k a,137,kahd
+231585,jama1261,GARDEN,ɸ a d a r a,334,kahd
+231586,suru1263,GARDEN,h a d a ɾ a,334,kahd
+231587,jama1261,BANANA,s a t o w i,53,kahd
+231588,paum1247,BANANA,s a t o m i,53,kahd
+231589,deni1241,BANANA,dz i p a r i,52,kahd
+231590,jama1261,BANANA,s i b a t i,52,kahd
+231591,suru1263,BANANA,s ia r i,52,kahd
+231592,paum1247,BANANA,s i p a t i h i,52,kahd
+231593,suru1263,ALL,t u m i m a ɾ ɨ,11,kahd
+231594,deni1241,ALL,t u χ i r a r i ʔ a,9,kahd
+231595,deni1241,ALL,h i k a,12,kahd
+231596,paum1247,ALL,h a h a v i,10,kahd
+231597,paum1247,ALL,h e h a v i k i,10,kahd
+231598,culi1244,ALL,w a p i m a,8,kahd
+231599,culi1244,ALL,b a z i m a,8,kahd
+231600,culi1244,ANIMAL,b a n i,16,kahd
+231601,culi1244,ANIMAL,b a n i + ts i ɾ i,16,kahd
+231602,culi1244,ANIMAL,b a n i + ts i ɾ i,16,kahd
+231603,paum1247,ANIMAL,i g i tʰ a,17,kahd
+231604,suru1263,ANIMAL,i g a t ɨ,17,kahd
+231605,suru1263,ANIMAL,iː gʲ a t ɨ,17,kahd
+231606,deni1241,ANIMAL,b a n i,16,kahd
+231607,jama1261,ANIMAL,b a n i,16,kahd
+231608,suru1263,BONE,a t o n a,104,kahd
+231609,deni1241,BONE,t o n e,104,kahd
+231610,jama1261,BONE,t o n e,104,kahd
+231611,culi1244,BONE,t o n a,104,kahd
+231612,paum1247,BONE,k a t o n a,104,kahd
+231613,culi1244,CHILD,ɛ h ɛ d ɛ n i,147,kahd
+231614,paum1247,CHILD,b a d ia,148,kahd
+231615,paum1247,CHILD,i s ai,149,kahd
+231616,deni1241,CHILD,e h e v e,147,kahd
+231617,culi1244,CLOUD,m ɛ m ɛ + ɛ tsʰ ɛ,158,kahd
+231618,culi1244,CLOUD,m ɛ m ɛ + ɛ tsʰ ɛ,158,kahd
+231619,paum1247,CLOUD,b a h i,160,kahd
+231620,deni1241,CLOUD,a ʃ i v a n i,159,kahd
+231621,culi1244,DOG,ɛ t̪ʰ ɛ,204,kahd
+231622,paum1247,DOG,j o m a h i + v ao v ao h a,207,kahd
+231623,paum1247,DOG,j o m a h i + v ao v ao h a,207,kahd
+231624,deni1241,DOG,m e z e,205,kahd
+231625,amar1274,DOG,k u w a,203,kahd
+231626,kana1291,DOG,w aː p a,206,kahd
+231627,paum1247,DUST,χ o m a,222,kahd
+231628,paum1247,FOG,m a r o,306,kahd
+231629,paum1247,FOG,m a g i + m a g i,307,kahd
+231630,deni1241,FOG,a ʃ i v a n i,305,kahd
+231631,suru1263,FULL,h a b u k u,331,kahd
+231632,suru1263,FULL,h a r u n a r u,333,kahd
+231633,paum1247,FULL,dʒ i ʔ b i n i k i,330,kahd
+231634,paum1247,FULL,d ai k i,332,kahd
+231635,culi1244,HE,p o w a,371,kahd
+231636,culi1244,I,o w a,404,kahd
+231637,suru1263,I,a ɾ u,405,kahd
+231638,amar1274,I,n d o ʔ,403,kahd
+231639,culi1244,MANY,b a dz i m a,468,kahd
+231640,culi1244,MANY,w a p i m a,468,kahd
+231641,culi1244,MANY,ts i b ɛ m a,468,kahd
+231642,suru1263,MANY,aː m a s a,470,kahd
+231643,deni1241,MANY,h i r a h i r a n a ɸ i r i ʔ a,469,kahd
+231644,culi1244,SALT,ts a o,629,kahd
+231645,paum1247,SALT,j o k i r a,630,kahd
+231646,deni1241,SALT,dz o k i r a,630,kahd
+231647,culi1244,HAPPY,a kʰ a ɾ a,367,kahd
+231648,paum1247,HAPPY,a kʰ a r i,367,kahd
+231649,suru1263,SEED,a d̥ u h i ɾ i,647,kahd
+231650,suru1263,SHARP,z u m a,653,kahd
+231651,culi1244,SKIN,w a p i,671,kahd
+231652,paum1247,SKIN,a s a ɸ i,672,kahd
+231653,suru1263,SKIN,a s i h i,672,kahd
+231654,culi1244,SKY,m ɛ m ɛ,673,kahd
+231655,culi1244,THEY,p o w a,762,kahd
+231656,amar1274,THEY,k e n,761,kahd
+231657,culi1244,SAY,n a,636,kahd
+231658,amar1274,SAY,a ʔ,635,kahd
+231659,culi1244,SCRATCH,kʰ i ɾ i,639,kahd
+231660,paum1247,SCRATCH,h i r i + h i r i,640,kahd
+231661,suru1263,SCRATCH,k i ɾ i k a,639,kahd
+231662,paum1247,WET,a ʔ ɓ a,827,kahd
+231663,culi1244,YOU TWO,t i a,862,kahd
+231664,culi1244,YOU,t i a,861,kahd
+231665,suru1263,YOU,t aː,861,kahd
+231666,amar1274,YOU,o n,860,kahd
+231667,paum1247,LIGHT (IGNITE),o j i,448,kahd
+231668,suru1263,CATERPILLAR,z aː m a + k u s a,140,kahd
+231669,suru1263,CATERPILLAR,z aː m a + k u s a,140,kahd
+231670,culi1244,ASH,o k o n ɛ,36,kahd
+231671,deni1241,ASH,u n u n i,37,kahd
+231672,culi1244,BECAUSE,h i n i,69,kahd
+231673,culi1244,BELOW OR UNDER,n a m i,79,kahd
+231674,culi1244,EGG,n ɛ pʰ ɛ,240,kahd
+231675,suru1263,EGG,i nʲ a h ɨ,242,kahd
+231676,paum1247,EGG,χ o χ o r o,241,kahd
+231677,paum1247,EGG,n a ɸ a n i,240,kahd
+231678,deni1241,EGG,n a ɸ a n i,240,kahd
+231679,amar1274,EGG,k n d a,239,kahd
+231680,kana1291,EGG,p u,240,kahd
+231681,culi1244,EYE,n o kʰ o,246,kahd
+231682,paum1247,EYE,n o kʰ o,246,kahd
+231683,deni1241,EYE,n u kʰ u,246,kahd
+231684,suru1263,EYE,z u b i,247,kahd
+231685,culi1244,FINGERNAIL,n o k o tsʰ i,279,kahd
+231686,deni1241,FINGERNAIL,n u kʰ u ʃ i n i,279,kahd
+231687,paum1247,FINGERNAIL,ʔ d a m ai + k a n a k o ʔ d i n i,280,kahd
+231688,paum1247,FINGERNAIL,ʔ d a m ai + k a n a k o ʔ d i n i,280,kahd
+231689,deni1241,FINGERNAIL,s a ʔ ai + k a n a k o ʔ d i n i,281,kahd
+231690,deni1241,FINGERNAIL,s a ʔ ai + k a n a k o ʔ d i n i,281,kahd
+231691,amar1274,FINGERNAIL,m/b a ʔ + k u,278,kahd
+231692,amar1274,FINGERNAIL,m/b a ʔ + k u,278,kahd
+231693,culi1244,FOREST,dz a m a,319,kahd
+231694,culi1244,FOREST,j a m a,319,kahd
+231695,suru1263,FOREST,a g a + h ʊː ɾ i,320,kahd
+231696,suru1263,FOREST,a g a + h ʊː ɾ i,320,kahd
+231697,suru1263,FOREST,z a m a,319,kahd
+231698,paum1247,FOREST,dʒ a m a,319,kahd
+231699,deni1241,FOREST,z a m a,319,kahd
+231700,amar1274,FOREST,n/d u m b a,318,kahd
+231701,culi1244,GRASS,dz ɛ ɾ o + m a kʰ a,349,kahd
+231702,culi1244,GRASS,dz ɛ ɾ o + m a kʰ a,349,kahd
+231703,culi1244,GRASS,dz ɛ ɾ o + t aː p i,349,kahd
+231704,culi1244,GRASS,dz ɛ ɾ o + t aː p i,349,kahd
+231705,suru1263,GRASS,n a t u z a,351,kahd
+231706,deni1241,GRASS,h a m a ʃ i,350,kahd
+231707,culi1244,HORN (ANATOMY),o ɾ i,389,kahd
+231708,deni1241,HORN (ANATOMY),t a t i + m a ʃ i r i n e,390,kahd
+231709,deni1241,HORN (ANATOMY),t a t i + m a ʃ i r i n e,390,kahd
+231710,paum1247,HORN (ANATOMY),m o r o b o,391,kahd
+231711,culi1244,HUSBAND,m a kʰ i,402,kahd
+231712,paum1247,HUSBAND,m a kʰ i r a,402,kahd
+231713,suru1263,HUSBAND,i m e k i,402,kahd
+231714,deni1241,HUSBAND,m a kʰ i,402,kahd
+231715,culi1244,LONG,w i t̪ʰ a h i ɾ a,457,kahd
+231716,suru1263,LONG,dʒ u w a z ɨ,460,kahd
+231717,deni1241,LONG,a r a b u d e,458,kahd
+231718,paum1247,LONG,ʔ oa d a k i,459,kahd
+231719,culi1244,MOUTH,a h a ɾ i,497,kahd
+231720,suru1263,MOUTH,i j a h i,500,kahd
+231721,paum1247,MOUTH,b o d i,499,kahd
+231722,deni1241,MOUTH,a h a ɾ i,497,kahd
+231723,kana1291,MOUTH,n u k,498,kahd
+231724,culi1244,NOW,h i d a + p a n a,524,kahd
+231725,culi1244,NOW,h i d a + p a n a,524,kahd
+231726,paum1247,NOW,h i d a,524,kahd
+231727,culi1244,RAIN (PRECIPITATION),p a tsʰ o,602,kahd
+231728,suru1263,RAIN (PRECIPITATION),b a m i,603,kahd
+231729,deni1241,RAIN (PRECIPITATION),p a ʃ u,602,kahd
+231730,paum1247,RAIN (PRECIPITATION),b a h i,603,kahd
+231731,amar1274,RAIN (PRECIPITATION),w i,601,kahd
+231732,culi1244,ROPE,m a d o,621,kahd
+231733,suru1263,ROPE,a h u,622,kahd
+231734,culi1244,SMOKE (EXHAUST),ɛ tsʰ ɛ,687,kahd
+231735,suru1263,SMOKE (EXHAUST),a g a n ɨ,689,kahd
+231736,deni1241,SMOKE (EXHAUST),a ʃ i v a n i,688,kahd
+231737,culi1244,SONG,a h i ɛ,700,kahd
+231738,culi1244,SONG,t a h ɪ + ɛ ɾ i,701,kahd
+231739,culi1244,SONG,t a h ɪ + ɛ ɾ i,701,kahd
+231740,culi1244,SOUR,ts i k a t a,703,kahd
+231741,paum1247,SOUR,tʃ i k a ɗ a,703,kahd
+231742,suru1263,SOUR,s i h i t a,703,kahd
+231743,suru1263,SOUR,ʃ i hʲ a t a,703,kahd
+231744,culi1244,MIX,k ɛ ʔ ɛ m a,480,kahd
+231745,culi1244,CUT,w i tsʰ i,183,kahd
+231746,suru1263,CUT,t i j a,184,kahd
+231747,culi1244,CUT,t i,184,kahd
+231748,paum1247,CUT,s iː,183,kahd
+231749,culi1244,CUT,w i s h i,183,kahd
+231750,deni1241,CUT,w i tsʰ i,183,kahd
+231751,jama1261,CUT,w i s i,183,kahd
+231752,suru1263,CUT,w i s i,183,kahd
+231753,deni1241,CUT,t i r i,184,kahd
+231754,jama1261,CUT,t i i,184,kahd
+231755,suru1263,CUT,w i s i k i j a ɾ i,183,kahd
+231756,culi1244,DIE,dz o kʰ ɛ,194,kahd
+231757,culi1244,KILL,n a n a h i k a,419,kahd
+231758,culi1244,KILL,n a n a dz o kʰ ɛ,419,kahd
+231759,culi1244,KILL,n a p a m a h o n a,420,kahd
+231760,amar1274,KILL,a r a k,418,kahd
+231761,culi1244,BE ALIVE,m a d i,60,kahd
+231762,suru1263,BE ALIVE,a g i h a,61,kahd
+231763,culi1244,PLAY,i t̪ʰ o m ɛ,578,kahd
+231764,suru1263,PLAY,g a m a k ɨ z a,579,kahd
+231765,culi1244,RUB,p i k o,625,kahd
+231766,paum1247,RUB,r a β i s o,626,kahd
+231767,culi1244,SING,h i ɾ i,668,kahd
+231768,paum1247,SING,a h i a,669,kahd
+231769,culi1244,SIT,w i t̪ʰ a,670,kahd
+231770,paum1247,SIT,β i t h a,670,kahd
+231771,deni1241,SIT,w i t h a,670,kahd
+231772,jama1261,SIT,i t a,670,kahd
+231773,suru1263,SIT,i t a,670,kahd
+231774,culi1244,SLEEP,w a d a,675,kahd
+231775,amar1274,SLEEP,t a j,674,kahd
+231776,suru1263,SLEEP,g u m a r i,676,kahd
+231777,culi1244,SLEEP,w a d a,675,kahd
+231778,culi1244,SWIM,k o n a,747,kahd
+231779,suru1263,SWIM,k a ɾ u kʷ aː ɾ i,748,kahd
+231780,culi1244,TURN,p i k o,793,kahd
+231781,culi1244,WARM,pʰ o k o,814,kahd
+231782,culi1244,WE,i a,823,kahd
+231783,suru1263,WE,a ɾ i,824,kahd
+231784,amar1274,WE,o r o ʔ,822,kahd
+231785,culi1244,WIND,h o h o d ɛ,836,kahd
+231786,suru1263,WIND,z aː m a + s iu k a ɾ u,837,kahd
+231787,suru1263,WIND,z aː m a + s iu k a ɾ u,837,kahd
+231788,culi1244,WING,ɛ pʰ ɛ,839,kahd
+231789,culi1244,YEAR,w a h a n o,856,kahd
+231790,culi1244,WINDOW,k a t̪ʰ ɛ n a,838,kahd
+231791,paum1247,WINDOW,k a t h a n i,838,kahd
+231792,culi1244,STICK,p i n i,719,kahd
+231793,paum1247,STICK,a t h a n a,720,kahd
+231794,suru1263,STICK,a g a + d a ɾ u,721,kahd
+231795,suru1263,STICK,a g a + d a ɾ u,721,kahd
+231796,culi1244,BED,t a b o ɾ o,70,kahd
+231797,culi1244,FAST,w a tsʰ i,258,kahd
+231798,culi1244,GOURD,p a h o,345,kahd
+231799,paum1247,GOURD,β a o,346,kahd
+231800,paum1247,FEATHER,b i h i,272,kahd
+231801,deni1241,FEATHER,e ɸ e,271,kahd
+231802,deni1241,FEATHER,k u n e,273,kahd
+231803,culi1244,FEATHER,a ɸ a,270,kahd
+231804,paum1247,TEACH,n a + i m a,757,kahd
+231805,paum1247,TEACH,n a + i m a,757,kahd
+231806,paum1247,NERVE,a b a ʔ o,516,kahd
+231807,paum1247,MESSAGE,m o n i,475,kahd
+231808,paum1247,CICADA,ɗ i r i r i,154,kahd
+231809,suru1263,CICADA,d ie ɾ i d ie ɾ i,154,kahd
+231810,suru1263,CICADA,dʲ ɛ ɾ i dʲ ɛ ɾ i,154,kahd
+231811,culi1244,CICADA,w a h a n o,153,kahd
+231812,jama1261,CICADA,w a h a n a,153,kahd
+231813,paum1247,FRAGRANT,s i n a,322,kahd
+231814,paum1247,BLOW (OF WIND),s i r i + s i r i,94,kahd
+231815,suru1263,SCARED,o h i,637,kahd
+231816,suru1263,CLOTHES,t a h ɨ,157,kahd
+231817,paum1247,CLOTHES,m a k a r i,156,kahd
+231818,jama1261,CLOTHES,b o r a,155,kahd
+231819,suru1263,FLY (MOVE THROUGH AIR),b i hʲ a w a,304,kahd
+231820,suru1263,THIRST,ʃʲ u b u kʷ a,768,kahd
+231821,suru1263,ARROW,t ɨ b ɨ,35,kahd
+231822,amar1274,ARROW,p ĩã,34,kahd
+231823,suru1263,PLACE (POSITION),d ʋː k i,577,kahd
+231824,suru1263,PLACE (POSITION),d ʋ c i,577,kahd
+231825,suru1263,MACAW,k a w a,464,kahd
+231826,suru1263,JACKFRUIT,t a m i n o,413,kahd
+231827,deni1241,JACKFRUIT,t a m i n o,413,kahd
+231828,jama1261,JACKFRUIT,t a m i n o,413,kahd
+231829,suru1263,IMITATE,t ɨ m ɨ,406,kahd
+231830,culi1244,PAPAYA,k a p a j dz o,549,kahd
+231831,suru1263,TASTY,tʲ ɛ m ɛ,756,kahd
+231832,suru1263,BENCH,i tʲ a z a,80,kahd
+231833,suru1263,ROUND,dʲ ɛ ɾ ɛ,624,kahd
+231834,suru1263,SIEVE OR STRAIN,w i ɾʲ a n a,666,kahd
+231835,suru1263,SIEVE OR STRAIN,ʃʲ u ɾ u d ɨ,667,kahd
+231836,suru1263,HUNGER,h aː m ɨ,401,kahd
+231837,suru1263,SPIRIT,k u ɾ i mʲ a,708,kahd
+231838,suru1263,CURASSOW,n aː s i,182,kahd
+231839,suru1263,MUD,ʃʲ ɛ mʲ ɛ n i,501,kahd
+231840,suru1263,COCKROACH,ʃʲ u ɾ u hʷ a,163,kahd
+231841,suru1263,CAPYBARA,h iː ɾ i,132,kahd
+231842,suru1263,SQUIRREL,t aː w i,713,kahd
+231843,suru1263,BEAUTIFUL,ɨ m ɨ z ɨ,68,kahd
+231844,amar1274,BEAUTIFUL,u r u,67,kahd
+231845,suru1263,DAUGHTER,a h i d i n i,187,kahd
+231846,deni1241,DAUGHTER,t o,186,kahd
+231847,jama1261,DAUGHTER,t o,186,kahd
+231848,suru1263,DAUGHTER,z a m uː n i,188,kahd
+231849,suru1263,PECCARY,dʒ a n ɨ d u m u ɾ i,558,kahd
+231850,suru1263,PECCARY,dʒ ã d u m u ɾ i,558,kahd
+231851,suru1263,FISHHOOK,k a b ɨ k a n a,296,kahd
+231852,suru1263,HAVE SEX,s ɨ b ɨ,369,kahd
+231853,suru1263,EARTH (SOIL),a d̥ a h a,229,kahd
+231854,deni1241,EARTH (SOIL),n a m i,228,kahd
+231855,paum1247,EARTH (SOIL),n a m i,228,kahd
+231856,culi1244,EARTH (SOIL),n a m i,228,kahd
+231857,suru1263,PIRANHA,u m a,575,kahd
+231858,suru1263,PESTLE,h u w a,564,kahd
+231859,suru1263,PESTLE,a k u b i,565,kahd
+231860,suru1263,CAIMAN,u n a,129,kahd
+231861,culi1244,CAIMAN,w a m a,126,kahd
+231862,paum1247,CAIMAN,k a s i ʔ i,128,kahd
+231863,kana1291,CAIMAN,k aː dʒ u,127,kahd
+231864,suru1263,COMB,m a ʃ i ɾ i,166,kahd
+231865,paum1247,BROTHER-IN-LAW (OF MAN),β a b o,117,kahd
+231866,culi1244,BROTHER-IN-LAW (OF MAN),w a b o,117,kahd
+231867,deni1241,BROTHER-IN-LAW (OF MAN),w a b o,117,kahd
+231868,jama1261,BROTHER-IN-LAW (OF MAN),w a b o,117,kahd
+231869,deni1241,DREAM,w a d a r i,211,kahd
+231870,suru1263,DREAM,w a ɾ a,211,kahd
+231871,suru1263,DREAM,w a ɾ a m ɨ,211,kahd
+231872,culi1244,COTTON,w e p e,175,kahd
+231873,jama1261,COTTON,w e ɸ e,175,kahd
+231874,suru1263,COTTON,w a b ɨ,175,kahd
+231875,deni1241,COTTON,v a m u r e,176,kahd
+231876,paum1247,OAR,β a n a m o,526,kahd
+231877,deni1241,OAR,w a r a m i,525,kahd
+231878,suru1263,OAR,z a m a + t ɨ m ɨ n ɨ,527,kahd
+231879,suru1263,OAR,z a m a + t ɨ m ɨ n ɨ,527,kahd
+231880,deni1241,LUNG,w a tsʰ a b o r i,463,kahd
+231881,suru1263,BRIGHT,k a ɾ a ɾ a,114,kahd
+231882,suru1263,BRIGHT,a s iː kʲ a,115,kahd
+231883,suru1263,SHRIMP,h a ʃ i c i ɾ i,663,kahd
+231884,suru1263,LIANA,k o n a h a,443,kahd
+231885,jama1261,LIANA,k o n a,443,kahd
+231886,paum1247,LIANA,ʔ a k o n a,443,kahd
+231887,suru1263,OWNER,a n i d a w a,539,kahd
+231888,suru1263,WOUND,b a t a k a ɾ a,848,kahd
+231889,suru1263,WOUND,k a ʃ i dʒ a h u,849,kahd
+231890,suru1263,LEECH,aː h i d u,438,kahd
+231891,suru1263,FIREFLY,aː m u w a,286,kahd
+231892,suru1263,FLAT,b aː ɾʲ u,298,kahd
+231893,suru1263,NET,h ʊː w i,517,kahd
+231894,suru1263,PACA,h a w ɨ,540,kahd
+231895,suru1263,CANOE,h iː n i,131,kahd
+231896,suru1263,PAN,iː ʃʲ a h a,548,kahd
+231897,suru1263,PENIS,iː ʃ i m i,562,kahd
+231898,suru1263,CRICKET,k uː b i ʃʲ a,179,kahd
+231899,suru1263,SWEAT (SUBSTANCE),k u w a h a,743,kahd
+231900,deni1241,SWEAT (SUBSTANCE),t a n i kʰ o,742,kahd
+231901,jama1261,SWEAT (SUBSTANCE),t a n a k o r i,742,kahd
+231902,culi1244,SWEAT (SUBSTANCE),t a n i kʰ o,742,kahd
+231903,suru1263,VULTURE,m a d u s a,812,kahd
+231904,suru1263,PYTHON,s a z a h u w ɨ,600,kahd
+231905,suru1263,VAGINA,t uː s u,802,kahd
+231906,culi1244,MIRROR,tsʰ o n o b a,477,kahd
+231907,culi1244,MIRROR,w a ɾ o w a,479,kahd
+231908,suru1263,MIRROR,k a ɾ a h i,478,kahd
+231909,culi1244,SEAGULL,t ɛ h ɛ,642,kahd
+231910,paum1247,SEAGULL,t i h i,643,kahd
+231911,culi1244,STING,o ɾ i,722,kahd
+231912,suru1263,STING,k u w a,723,kahd
+231913,suru1263,FIREWOOD,a b i,288,kahd
+231914,suru1263,FIREWOOD,a g a,289,kahd
+231915,deni1241,FIREWOOD,j i pʰ o,287,kahd
+231916,culi1244,FIREWOOD,j i pʰ o,287,kahd
+231917,jama1261,FIREWOOD,j i ɸ o,287,kahd
+231918,suru1263,VEIN,a b u,803,kahd
+231919,suru1263,ISLAND,a d̥ a h a + dʒ u ɾ u n u m a ɾ u,412,kahd
+231920,suru1263,ISLAND,a d̥ a h a + dʒ u ɾ u n u m a ɾ u,412,kahd
+231921,suru1263,LOW,a d j a d j a h ia,462,kahd
+231922,suru1263,PRECIOUS,a d j a ɾ i,586,kahd
+231923,suru1263,PRECIOUS,a d j a ɾ u,586,kahd
+231924,suru1263,SHORT,a d j e,658,kahd
+231925,suru1263,ANUS,a d̥ i n i,28,kahd
+231926,suru1263,SAP,a d̥ u h ɨ,634,kahd
+231927,suru1263,HOLD OR TAKE,a g a,385,kahd
+231928,suru1263,BRING,a g a,116,kahd
+231929,suru1263,MIDDLE,h ʊː ɾ i,476,kahd
+231930,suru1263,UNTIE,a g i dʒ a w a,797,kahd
+231931,suru1263,UNTIE,t a b a ɾ u,798,kahd
+231932,suru1263,CHOKE,a h a,152,kahd
+231933,suru1263,ABOVE,a h j a d a h a,2,kahd
+231934,suru1263,ABOVE,t ɨ h ɨ m ɨ,3,kahd
+231935,deni1241,ABOVE,n e m e + h e n e,1,kahd
+231936,deni1241,ABOVE,n e m e + h e n e,1,kahd
+231937,suru1263,CHICKEN,a k a ɾ a,146,kahd
+231938,suru1263,FINISH,a k u w a,282,kahd
+231939,suru1263,DARK,aː sʲ a,185,kahd
+231940,suru1263,SAD,a s a s ɨ,628,kahd
+231941,suru1263,POLISH (SOMETHING),k u ɾ uː k a,582,kahd
+231942,suru1263,SMILE,k u s ɨ,686,kahd
+231943,suru1263,DEEP,k u w a ɾ u,191,kahd
+231944,suru1263,RAINBOW,k u w i ɾ i + a g i ɾ i,604,kahd
+231945,suru1263,RAINBOW,k u w i ɾ i + a g i ɾ i,604,kahd
+231946,suru1263,RAINBOW,g a w i ɾ a w a,605,kahd
+231947,suru1263,YOUNGER BROTHER,ʃʲ u ɾ u,863,kahd
+231948,suru1263,EDGE,ʃ ɨ ɾ ɨ m i,238,kahd
+231949,suru1263,HOT,s u k u,394,kahd
+231950,amar1274,HOT,p a k,393,kahd
+231951,suru1263,HICCOUGH,s u k u + s u k u,383,kahd
+231952,suru1263,CALM,s u m a w a ɾ i,130,kahd
+231953,suru1263,SPIDER MONKEY,s ɨ w ɨ,706,kahd
+231954,suru1263,COME,s ɨ z a,167,kahd
+231955,suru1263,COME,t ia k,168,kahd
+231956,suru1263,HOOK,t uː ɾ i,388,kahd
+231957,suru1263,TREE TRUNK,u d a n i,792,kahd
+231958,suru1263,TREE TRUNK,u d̥ ɨ,792,kahd
+231959,suru1263,DROWN,u g u n i dʒ a,215,kahd
+231960,suru1263,TASTE (SOMETHING),u h u,755,kahd
+231961,suru1263,FEAR (BE AFRAID),u h u n ia,269,kahd
+231962,suru1263,FORGET,z u z u g a ɾ i,321,kahd
+231963,suru1263,EYEBROW,z u b i + s i h i n i,248,kahd
+231964,suru1263,EYEBROW,z u b i + s i h i n i,248,kahd
+231965,suru1263,SEW,w i s i n a,648,kahd
+231966,suru1263,SEW,w i s i n a ɾ i,648,kahd
+231967,suru1263,LET GO OR SET FREE,k a t a b u,442,kahd
+231968,suru1263,DRY UP,k a s ɨ,221,kahd
+231969,suru1263,PISS,k a s u k a ɾ i,576,kahd
+231970,suru1263,PISS,k a s u k a,576,kahd
+231971,suru1263,ROLL,k a ɾ u n aː ɾ i,618,kahd
+231972,suru1263,ROLL,k a ɾ uː m ɨ,618,kahd
+231973,suru1263,CHAMELEON,z u k u t u,142,kahd
+231974,suru1263,HAWK,ʃ i b i r i,370,kahd
+231975,deni1241,FINGER,z e p e,274,kahd
+231976,suru1263,FINGER,b i h i,276,kahd
+231977,paum1247,FINGER,d a m a,275,kahd
+231978,paum1247,FINGER,s a ʔ a,277,kahd
+231979,culi1244,FINGER,z e p e,274,kahd
+231980,culi1244,BLUE,n a p a n a,101,kahd
+231981,kana1291,PARROT,w aː l u,550,kahd
