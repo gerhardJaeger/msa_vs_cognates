@@ -428,7 +428,7 @@ def trainIters(encoder=encoder, decoder=decoder):
 
 # %%
 
-#trainIters()
+trainIters()
 
 #%%
 
@@ -440,17 +440,27 @@ validation_results = [evWord(str(w)) for w in d.ASJP.iloc[val_dataset.indices]]
 print(f"training: {round(np.mean(training_results),4)}")
 print(f"validation: {round(np.mean(validation_results), 4)}")
 
-# training: 0.0351
-# validation: 0.0374
+# training: 0.0357
+# validation: 0.0359
 
 # %%
+
+d = pd.read_csv('../data/lexibank_wordlist_pruned.csv', dtype=str).dropna(subset=["ASJP", "Cognateset_ID"])
+
+
+
+#%%
 
 embeddings = np.array(
     [getEmbedding(w) for w in d.ASJP],
     dtype=int)
 
 # %%
+# insert np.array(d.index) as first column into embeddings
 
+embeddings = np.insert(embeddings, 0, np.array(d.index), axis=1)
+
+#%%
 
 pd.DataFrame(embeddings).to_csv("../data/embedding.csv", 
                                header=False, index=False)
@@ -459,74 +469,3 @@ pd.DataFrame(embeddings).to_csv("../data/embedding.csv",
 
 # %%
 
-
-def w2v(w):
-    w_tokenized = ''.join(list(w))
-    v = getEmbedding(w_tokenized)
-    return np.array(v, dtype=int)
-
-
-# %%
-
-def v2w(v, decoder=decoder):
-    decoder_input = torch.tensor([[SOS_token]], device=device)
-    decoder_hidden = torch.tensor(v).float().to(device).view(1,1,-1)
-    decoded_words = []
-    for _ in range(max_length):
-        decoder_output, decoder_hidden = decoder(
-            decoder_input, decoder_hidden)
-        _, topi = decoder_output.data.topk(1)
-        if topi.item() == EOS_token:
-            decoded_words.append('<EOS>')
-            break
-        else:
-            decoded_words.append(idx2label[topi.item()])
-            decoder_input = topi.squeeze().detach()
-    return ''.join(decoded_words[1:-1])
-
-# %%
-
-
-r = pd.DataFrame({"w1": [], "w2": []})
-
-while r.shape[0] < 20:
-    w = ''.join(np.random.choice(d.ASJP))
-    v = w2v(w)
-    idx = np.random.choice(v.size, 5)
-    v_out = copy.deepcopy(v)
-    v_out[idx] ^= 1
-    w_out = v2w(v_out)
-    if w != w_out:
-        r.loc[r.shape[0]] = {'w1': w, 'w2': w_out}
-        
-r
-
-
-#%%
-
-i = random.randint(0,d.shape[0])
-w = d.ASJP.iloc[i]
-v = embeddings[i]
-
-i_dsts = (np.linalg.norm((embeddings-v), axis=1))
-
-print(pd.Series(d.ASJP[i_dsts.argsort()].unique())[:50])
-
-
-# %%
-
-i,j = np.random.choice(range(len(d)), 2)
-
-w1, w2 = d.ASJP[[i,j]]
-
-print(w1, w2)
-
-v1, v2 = embeddings[[i,j]]
-
-while (v1 != v2).any():
-    flip = np.random.choice(np.where(v1 != v2)[0])
-    v1[flip] = v2[flip]
-    print(v2w(v1))
-
-
-# %%
