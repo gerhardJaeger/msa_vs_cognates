@@ -1,0 +1,1523 @@
+id,doculect,concept,forms,lexstatid,db
+310240,east2371,ALL,x a ³¹,2,starostinhmongmien
+310241,nort3244,ALL,t ǝ u ¹/¹,1,starostinhmongmien
+310242,larg1235,ALL,t u ⁵/¹,1,starostinhmongmien
+310243,hmon1333,ALL,h u ³/¹,4,starostinhmongmien
+310244,hmon1264,ALL,ts ɨ ⁶/¹,3,starostinhmongmien
+310245,buna1273,ALL,t u ⁵/¹,1,starostinhmongmien
+310246,buna1273,ALL,k o u ⁵/¹,7,starostinhmongmien
+310247,jion1236,ALL,t u ⁴⁴,1,starostinhmongmien
+310248,jion1236,ALL,t u ⁴⁴,1,starostinhmongmien
+310249,youn1235,ALL,t o u ³³,1,starostinhmongmien
+310250,youn1235,ALL,t u ³³,1,starostinhmongmien
+310251,pahn1237,ALL,t ɔ ³³,1,starostinhmongmien
+310252,pahn1237,ALL,tʰ ɔ ³³,1,starostinhmongmien
+310253,wuna1248,ALL,k j e i ⁵⁵,6,starostinhmongmien
+310254,shee1238,ALL,s j i ⁶/¹,5,starostinhmongmien
+310255,shee1238,ALL,i ¹/¹,8,starostinhmongmien
+310256,east2371,ASH,pʰ i ⁵⁵,10,starostinhmongmien
+310257,nort3244,ASH,ʈʂʰ ǝ u ³/¹,11,starostinhmongmien
+310258,larg1235,ASH,ʈʂʰ a o ³/¹,11,starostinhmongmien
+310259,hmon1333,ASH,tʃʰ ɔ w ³/¹,11,starostinhmongmien
+310260,hmon1264,ASH,tʃʰ a u ²/¹,11,starostinhmongmien
+310261,buna1273,ASH,k a ³/¹ → sʰ a ³/¹,9,starostinhmongmien
+310262,buna1273,ASH,sʰ j a ³/¹,13,starostinhmongmien
+310263,jion1236,ASH,t a u ³¹ → θ e ⁵³,12,starostinhmongmien
+310264,jion1236,ASH,tʃ u ³⁵ → θ e j ³⁵,15,starostinhmongmien
+310265,youn1235,ASH,tsʰ ɔ ²²,14,starostinhmongmien
+310266,youn1235,ASH,tsʰ ɔ ²²,14,starostinhmongmien
+310267,pahn1237,ASH,q a ²² → s i ²²,9,starostinhmongmien
+310268,pahn1237,ASH,q a ³¹ → ɕ e ³¹,9,starostinhmongmien
+310269,wuna1248,ASH,ɕ i ¹³,13,starostinhmongmien
+310270,shee1238,ASH,s i ³/¹,13,starostinhmongmien
+310271,shee1238,ASH,s i ³/¹,13,starostinhmongmien
+310272,pana1310,ASH,pʰ j o ⁴⁴,10,starostinhmongmien
+310273,hmon1333,BARK,t ǝ w ³/¹ ← n t õ ⁴/¹,16,starostinhmongmien
+310274,hmon1264,BARK,t a ʉ ²/¹ ← n d o ŋ ³/¹,16,starostinhmongmien
+310275,jion1236,BARK,n t ɔ u ŋ ³⁵ → k j e u ³⁵,17,starostinhmongmien
+310276,jion1236,BARK,n t a ŋ ²² → k j e u ²²,17,starostinhmongmien
+310277,pahn1237,BARK,q a ²² → l j u ⁵⁵ ← t j a ³⁵,18,starostinhmongmien
+310278,pahn1237,BARK,q a ³¹ → l j ʉ ⁵⁵ ← p j a ³⁵,18,starostinhmongmien
+310279,wuna1248,BARK,qʰ a u ³⁵ ← ts a ³⁵,19,starostinhmongmien
+310280,east2371,BELLY,q u ⁵³ → p i ⁵³,21,starostinhmongmien
+310281,nort3244,BELLY,p l a ŋ ¹/¹,22,starostinhmongmien
+310282,larg1235,BELLY,a ³/¹ → tɕʰ a o ¹/¹,24,starostinhmongmien
+310283,hmon1333,BELLY,p l a ¹/¹,22,starostinhmongmien
+310284,hmon1264,BELLY,p l a ŋ ¹/¹,22,starostinhmongmien
+310285,buna1273,BELLY,k a ³/¹ → tɬ ǝ ŋ ¹/¹,20,starostinhmongmien
+310286,buna1273,BELLY,ɲ̥ a u ³/¹,29,starostinhmongmien
+310287,jion1236,BELLY,tʰ e ⁴⁴,23,starostinhmongmien
+310288,jion1236,BELLY,tʰ e j ⁴⁴,23,starostinhmongmien
+310289,youn1235,BELLY,t a ³¹ ← t u ³³,28,starostinhmongmien
+310290,youn1235,BELLY,t a ³¹ ← t u ³³,28,starostinhmongmien
+310291,pahn1237,BELLY,a ³³ → ŋ ŋ̊ ²²,25,starostinhmongmien
+310292,pahn1237,BELLY,a ⁴⁴ → ŋ ŋ̊ ³¹,25,starostinhmongmien
+310293,wuna1248,BELLY,n a ŋ ³⁵ → n̥ n ¹³,25,starostinhmongmien
+310294,shee1238,BELLY,ŋ j ɔ ³/¹ ← k a ³/¹,27,starostinhmongmien
+310295,shee1238,BELLY,ŋ j ɔ ³/¹ ← k a ³/¹,27,starostinhmongmien
+310296,pana1310,BELLY,tsʰ j o ¹/¹,26,starostinhmongmien
+310297,east2371,BIG,ʎ̥ʰ ɔ ⁵³,30,starostinhmongmien
+310298,nort3244,BIG,l o ²/¹,30,starostinhmongmien
+310299,larg1235,BIG,l̥ o ¹/¹,30,starostinhmongmien
+310300,larg1235,BIG,a ³/¹ → l a ɯ ⁴/¹,34,starostinhmongmien
+310301,hmon1333,BIG,l ɔ ²/¹,30,starostinhmongmien
+310302,hmon1264,BIG,l u ⁵/¹,30,starostinhmongmien
+310303,buna1273,BIG,l a ŋ ⁸/¹,30,starostinhmongmien
+310304,buna1273,BIG,lʰ j u ɔ ¹/¹,30,starostinhmongmien
+310305,jion1236,BIG,l̥ j e u ⁴⁴,30,starostinhmongmien
+310306,jion1236,BIG,l̥ j e u ⁴⁴,30,starostinhmongmien
+310307,youn1235,BIG,l i u ³³,33,starostinhmongmien
+310308,youn1235,BIG,l i u ³³,33,starostinhmongmien
+310309,pahn1237,BIG,l̥ j o ³⁵,30,starostinhmongmien
+310310,pahn1237,BIG,l̥ j o ³⁵,30,starostinhmongmien
+310311,wuna1248,BIG,l̥ j o ³⁵,30,starostinhmongmien
+310312,shee1238,BIG,v ɔ ŋ ²/¹,32,starostinhmongmien
+310313,shee1238,BIG,v ɔ ŋ ²/¹,32,starostinhmongmien
+310314,pana1310,BIG,l i w ¹/¹,31,starostinhmongmien
+310315,east2371,BIRD,n ɔ ¹¹,35,starostinhmongmien
+310316,nort3244,BIRD,n o ŋ ⁶/¹,35,starostinhmongmien
+310317,larg1235,BIRD,n a o ⁶/¹,35,starostinhmongmien
+310318,hmon1333,BIRD,n õ ⁶/¹,35,starostinhmongmien
+310319,hmon1264,BIRD,n o ŋ ⁶/¹,35,starostinhmongmien
+310320,buna1273,BIRD,n a ŋ ⁶/¹,35,starostinhmongmien
+310321,buna1273,BIRD,n u ɔ ⁶/¹,35,starostinhmongmien
+310322,jion1236,BIRD,n ɔ u ŋ ²²,35,starostinhmongmien
+310323,jion1236,BIRD,n ɔ ²¹,35,starostinhmongmien
+310324,youn1235,BIRD,n o ŋ ³¹,35,starostinhmongmien
+310325,youn1235,BIRD,n o ŋ ²²,35,starostinhmongmien
+310326,pahn1237,BIRD,t a ŋ ³⁵ → m o ŋ ⁴⁴,36,starostinhmongmien
+310327,pahn1237,BIRD,t ɔ̃ ³⁵ → m õ ⁴⁴,36,starostinhmongmien
+310328,wuna1248,BIRD,t a ŋ ³⁵ → n u ŋ ³¹,36,starostinhmongmien
+310329,shee1238,BIRD,n ɔ ⁴/¹ ← t a ŋ ¹/¹,38,starostinhmongmien
+310330,shee1238,BIRD,n ɔ ⁴/¹ ← t a ŋ ¹/¹,38,starostinhmongmien
+310331,pana1310,BIRD,l a ⁶/¹ → n u ⁶/¹,37,starostinhmongmien
+310332,east2371,BITE,t ɔ ³⁵,39,starostinhmongmien
+310333,nort3244,BITE,t o ⁸/¹,39,starostinhmongmien
+310334,larg1235,BITE,s o ⁵/¹ ← s o ⁵/¹,40,starostinhmongmien
+310335,hmon1333,BITE,t ɔ ⁷/¹,39,starostinhmongmien
+310336,hmon1264,BITE,t u ⁷/¹,39,starostinhmongmien
+310337,buna1273,BITE,t ɔ ⁸/¹,39,starostinhmongmien
+310338,buna1273,BITE,t u ɔ ⁸/¹,39,starostinhmongmien
+310339,jion1236,BITE,t u ³²,39,starostinhmongmien
+310340,jion1236,BITE,t u ³²,39,starostinhmongmien
+310341,pahn1237,BITE,t a ³¹,39,starostinhmongmien
+310342,pahn1237,BITE,tʰ a ³¹,39,starostinhmongmien
+310343,wuna1248,BITE,tʰ a ³¹,39,starostinhmongmien
+310344,shee1238,BITE,tʰ ɤ ⁶/¹,39,starostinhmongmien
+310345,shee1238,BITE,tʰ u ⁶/¹,39,starostinhmongmien
+310346,pana1310,BITE,t a u ⁵³,39,starostinhmongmien
+310347,east2371,BLACK,q w e ⁵³,42,starostinhmongmien
+310348,nort3244,BLACK,t l o ¹/¹,41,starostinhmongmien
+310349,larg1235,BLACK,tɬ u ¹/¹,41,starostinhmongmien
+310350,hmon1264,BLACK,tɬ u ¹/¹,41,starostinhmongmien
+310351,buna1273,BLACK,tɬ u ŋ ¹/¹,41,starostinhmongmien
+310352,buna1273,BLACK,tɬ j ɔ ¹/¹,41,starostinhmongmien
+310353,jion1236,BLACK,k l a ŋ ⁴⁴,43,starostinhmongmien
+310354,jion1236,BLACK,k l ã ⁴⁴,42,starostinhmongmien
+310355,youn1235,BLACK,k u ŋ ³³,43,starostinhmongmien
+310356,youn1235,BLACK,k u ³³,42,starostinhmongmien
+310357,pahn1237,BLACK,k w a ŋ ³³,43,starostinhmongmien
+310358,pahn1237,BLACK,kʰ w ɔ̃ ³³,42,starostinhmongmien
+310359,wuna1248,BLACK,q u ŋ ³¹,43,starostinhmongmien
+310360,shee1238,BLACK,k j a ŋ ¹/¹,43,starostinhmongmien
+310361,shee1238,BLACK,k j a ŋ ¹/¹,43,starostinhmongmien
+310362,pana1310,BLACK,tɬ õ ¹/¹,41,starostinhmongmien
+310363,east2371,BLOOD,tsʰ e ⁵⁵,45,starostinhmongmien
+310364,nort3244,BLOOD,n ʈʂʰ a ŋ ³/¹,44,starostinhmongmien
+310365,larg1235,BLOOD,ɳ tʂ a ɯ ³/¹,44,starostinhmongmien
+310366,hmon1333,BLOOD,n tʃʰ a ³/¹,44,starostinhmongmien
+310367,hmon1264,BLOOD,ɲ tʃʰ a ŋ ²/¹,44,starostinhmongmien
+310368,buna1273,BLOOD,n tsʰ ǝ ŋ ³/¹,44,starostinhmongmien
+310369,buna1273,BLOOD,n tsʰ ɒ ³/¹,44,starostinhmongmien
+310370,jion1236,BLOOD,θ i ⁵³,45,starostinhmongmien
+310371,jion1236,BLOOD,θ i ³⁵,45,starostinhmongmien
+310372,youn1235,BLOOD,tsʰ u n ²²,47,starostinhmongmien
+310373,youn1235,BLOOD,tsʰ u n ²²,47,starostinhmongmien
+310374,pahn1237,BLOOD,ɲ̥ e i ²²,44,starostinhmongmien
+310375,pahn1237,BLOOD,ɲ̥ tɕ e ³¹,44,starostinhmongmien
+310376,wuna1248,BLOOD,ɲ̥ tɕʰ e i ¹³,44,starostinhmongmien
+310377,shee1238,BLOOD,s j i ³/¹,45,starostinhmongmien
+310378,shee1238,BLOOD,s i ³/¹,45,starostinhmongmien
+310379,pana1310,BLOOD,b i ŋ ³/¹,46,starostinhmongmien
+310380,east2371,BONE,q u ³¹ → s ɤ ⁵⁵,48,starostinhmongmien
+310381,east2371,BREAST,ɕ u ŋ ⁵⁵ ← pʰ u ³¹,50,starostinhmongmien
+310382,nort3244,BREAST,h ǝ u ³/¹ → ɳ ʈ a o ¹/¹,54,starostinhmongmien
+310383,larg1235,BREAST,f a o ³/¹ → h i ⁵/¹ → ɳ t o ¹/¹,53,starostinhmongmien
+310384,hmon1333,BREAST,h ɔ w ³/¹ → ʃ j a ¹/¹,51,starostinhmongmien
+310385,hmon1264,BREAST,h a u ²/¹ → ʃ a ¹/¹,51,starostinhmongmien
+310386,buna1273,BREAST,f a ³/¹ → m p j a u ⁶/¹,49,starostinhmongmien
+310387,buna1273,BREAST,p e j ³/¹ → n tɬ ɒ ²/¹,59,starostinhmongmien
+310388,jion1236,BREAST,m p l a j ³³,52,starostinhmongmien
+310389,jion1236,BREAST,m p l ɛ ³¹,60,starostinhmongmien
+310390,youn1235,BREAST,f ɔ ³³ → s ǝ n ³⁵ → l a u ³⁵,58,starostinhmongmien
+310391,youn1235,BREAST,f ɔ ³³ → s ǝ n ³³ → l a u ⁵³,58,starostinhmongmien
+310392,pahn1237,BREAST,a ³³ → tɕ a ŋ ⁵³,55,starostinhmongmien
+310393,pahn1237,BREAST,a ⁴⁴ → tɕ ɔ̃ ⁵³,61,starostinhmongmien
+310394,wuna1248,BREAST,n a ŋ ³⁵ → tɕ u ŋ ⁵³,57,starostinhmongmien
+310395,shee1238,BREAST,h j u ŋ ³/¹ ← pʰ u ⁵/¹ ← k ɔ,50,starostinhmongmien
+310396,shee1238,BREAST,h j u ŋ ³/¹ ← p i u ⁴/¹ ← k ɔ ³/¹,50,starostinhmongmien
+310397,pana1310,BREAST,d a i ²² → b o ²²,56,starostinhmongmien
+310398,east2371,BURN (SOMETHING),ɔ ⁵³,63,starostinhmongmien
+310399,nort3244,BURN (SOMETHING),f a u ³/¹,66,starostinhmongmien
+310400,larg1235,BURN (SOMETHING),tɬ a o ³/¹,62,starostinhmongmien
+310401,hmon1333,BURN (SOMETHING),l̥ ǝ w ³/¹,64,starostinhmongmien
+310402,hmon1264,BURN (SOMETHING),ɬ a ʉ ²/¹,64,starostinhmongmien
+310403,buna1273,BURN (SOMETHING),ʈ a ³/¹,62,starostinhmongmien
+310404,buna1273,BURN (SOMETHING),tɕ a ³/¹,70,starostinhmongmien
+310405,jion1236,BURN (SOMETHING),v̥ a ⁵³,65,starostinhmongmien
+310406,jion1236,BURN (SOMETHING),w̥ a ³⁵,67,starostinhmongmien
+310407,youn1235,BURN (SOMETHING),tʰ o u ²²,69,starostinhmongmien
+310408,youn1235,BURN (SOMETHING),tʰ o u ²²,69,starostinhmongmien
+310409,pahn1237,BURN (SOMETHING),pʰ o ²²,65,starostinhmongmien
+310410,pahn1237,BURN (SOMETHING),pʰ o ³¹,65,starostinhmongmien
+310411,wuna1248,BURN (SOMETHING),t j a ŋ ³⁵,68,starostinhmongmien
+310412,pana1310,BURN (SOMETHING),kʰ w a ⁴⁴,67,starostinhmongmien
+310413,east2371,CLOUD,ʑ y ³¹ ← d ɯ ³¹,72,starostinhmongmien
+310414,nort3244,CLOUD,h u a ¹/¹,74,starostinhmongmien
+310415,larg1235,CLOUD,h a ɯ ³/¹ ← p o ⁷/¹,76,starostinhmongmien
+310416,hmon1333,CLOUD,h w ǝ ¹/¹,74,starostinhmongmien
+310417,hmon1264,CLOUD,f w a ¹/¹,73,starostinhmongmien
+310418,buna1273,CLOUD,k a ³/¹ → h u ³/¹,71,starostinhmongmien
+310419,buna1273,CLOUD,t e i ³/¹ → ɔ ŋ ¹/¹ ← ŋ k ɔ ²/¹,78,starostinhmongmien
+310420,jion1236,CLOUD,t j ɔ ŋ ³⁵,75,starostinhmongmien
+310421,jion1236,CLOUD,t j a ŋ ²²,75,starostinhmongmien
+310422,youn1235,CLOUD,h a u ³³,77,starostinhmongmien
+310423,youn1235,CLOUD,h a u ³³,77,starostinhmongmien
+310424,pahn1237,CLOUD,q a ³³ → t o ŋ ⁵⁵,72,starostinhmongmien
+310425,pahn1237,CLOUD,q a ³¹ → t õ ⁵⁵,72,starostinhmongmien
+310426,wuna1248,CLOUD,h o ³⁵,74,starostinhmongmien
+310427,shee1238,CLOUD,f ɤ ¹/¹,73,starostinhmongmien
+310428,shee1238,CLOUD,f u ¹/¹,73,starostinhmongmien
+310429,east2371,COLD,dz ɛ ³⁵,80,starostinhmongmien
+310430,nort3244,COLD,dz a ⁶/¹,80,starostinhmongmien
+310431,larg1235,COLD,tɕ i e ⁴/¹,80,starostinhmongmien
+310432,hmon1333,COLD,ts j a ⁵/¹,80,starostinhmongmien
+310433,hmon1264,COLD,ts a ⁶/¹,80,starostinhmongmien
+310434,buna1273,COLD,θ ǝ ŋ ⁴/¹,79,starostinhmongmien
+310435,east2371,COME,l ɔ ³³,81,starostinhmongmien
+310436,nort3244,COME,t u a ²/¹,82,starostinhmongmien
+310437,larg1235,COME,t a ²/¹,82,starostinhmongmien
+310438,hmon1333,COME,t w ǝ ²/¹,82,starostinhmongmien
+310439,hmon1264,COME,t w a ⁵/¹,82,starostinhmongmien
+310440,buna1273,COME,l ɔ ⁴/¹,81,starostinhmongmien
+310441,buna1273,COME,t u ɔ ²/¹,82,starostinhmongmien
+310442,jion1236,COME,l ɔ u ³¹,81,starostinhmongmien
+310443,jion1236,COME,l o ⁵³,81,starostinhmongmien
+310444,youn1235,COME,t ɔ ¹³,82,starostinhmongmien
+310445,youn1235,COME,t ɔ ¹³,82,starostinhmongmien
+310446,pahn1237,COME,t e i ³³,82,starostinhmongmien
+310447,pahn1237,COME,tʰ e ³³,82,starostinhmongmien
+310448,wuna1248,COME,t e ³³,82,starostinhmongmien
+310449,shee1238,COME,n ɤ ⁴/¹,83,starostinhmongmien
+310450,shee1238,COME,n u ⁴/¹,84,starostinhmongmien
+310451,pana1310,COME,t a ²/¹,82,starostinhmongmien
+310452,buna1273,COME,t ɔ ²/¹,82,starostinhmongmien
+310453,east2371,DIE,d a ¹¹,85,starostinhmongmien
+310454,nort3244,DIE,d u a ⁶/¹,85,starostinhmongmien
+310455,larg1235,DIE,n t a ⁶/¹,86,starostinhmongmien
+310456,hmon1333,DIE,t w ǝ ⁶/¹,85,starostinhmongmien
+310457,hmon1264,DIE,t w a ⁶/¹,85,starostinhmongmien
+310458,jion1236,DIE,t a ²²,85,starostinhmongmien
+310459,jion1236,DIE,t a ²¹,85,starostinhmongmien
+310460,youn1235,DIE,t ɔ ²²,85,starostinhmongmien
+310461,youn1235,DIE,t ɔ ²²,85,starostinhmongmien
+310462,pahn1237,DIE,t e i ⁴⁴,85,starostinhmongmien
+310463,pahn1237,DIE,tʰ e ⁴⁴,85,starostinhmongmien
+310464,wuna1248,DIE,t e ³¹,85,starostinhmongmien
+310465,shee1238,DIE,tʰ a ⁴/¹,85,starostinhmongmien
+310466,shee1238,DIE,tʰ a ⁴/¹,85,starostinhmongmien
+310467,pana1310,DIE,t a ⁶/¹,85,starostinhmongmien
+310468,east2371,DOG,q ʋ ⁵⁵,88,starostinhmongmien
+310469,nort3244,DOG,t l e ³/¹,87,starostinhmongmien
+310470,larg1235,DOG,tɬ a ³/¹,87,starostinhmongmien
+310471,hmon1264,DOG,tɬ e ²/¹,87,starostinhmongmien
+310472,buna1273,DOG,tɬ e ³/¹,87,starostinhmongmien
+310473,buna1273,DOG,tɬ e j ³/¹,87,starostinhmongmien
+310474,jion1236,DOG,k l a ⁵³,89,starostinhmongmien
+310475,jion1236,DOG,k l a ³⁵,89,starostinhmongmien
+310476,youn1235,DOG,k o u ²²,92,starostinhmongmien
+310477,youn1235,DOG,k o u ²²,92,starostinhmongmien
+310478,pahn1237,DOG,q a ²² → l j a ŋ ⁵³,90,starostinhmongmien
+310479,pahn1237,DOG,q a ³⁵ → l j ɔ̃ ⁵³,90,starostinhmongmien
+310480,wuna1248,DOG,l j a ŋ ⁵³,90,starostinhmongmien
+310481,shee1238,DOG,k j a ³/¹,89,starostinhmongmien
+310482,shee1238,DOG,k j a ³/¹,89,starostinhmongmien
+310483,pana1310,DOG,l a ⁶/¹ → tɬ a ³/¹,91,starostinhmongmien
+310484,east2371,DRINK,x ɔ ³⁵,93,starostinhmongmien
+310485,nort3244,DRINK,h e u ⁷/¹,93,starostinhmongmien
+310486,larg1235,DRINK,h a o ⁷/¹,93,starostinhmongmien
+310487,hmon1333,DRINK,h ɔ w ⁵/¹,93,starostinhmongmien
+310488,hmon1264,DRINK,h a u ⁴/¹,93,starostinhmongmien
+310489,buna1273,DRINK,h u ⁷/¹,93,starostinhmongmien
+310490,buna1273,DRINK,h a u ⁷/¹,93,starostinhmongmien
+310491,jion1236,DRINK,x ɔ ⁴³,93,starostinhmongmien
+310492,jion1236,DRINK,h ǝ u ⁴³,93,starostinhmongmien
+310493,youn1235,DRINK,h ɔ ³¹,93,starostinhmongmien
+310494,youn1235,DRINK,h ɔ ³¹,93,starostinhmongmien
+310495,pahn1237,DRINK,h ɔ ⁵³,93,starostinhmongmien
+310496,pahn1237,DRINK,h ɔ ⁵³,93,starostinhmongmien
+310497,wuna1248,DRINK,h a u ⁵³,93,starostinhmongmien
+310498,shee1238,DRINK,h ɔ ⁶/¹,93,starostinhmongmien
+310499,shee1238,DRINK,h ɔ ⁶/¹,93,starostinhmongmien
+310500,pana1310,DRINK,h o ⁷/¹,93,starostinhmongmien
+310501,east2371,DRY,qʰ ɛ ⁵⁵,95,starostinhmongmien
+310502,nort3244,DRY,qʰ u a ³/¹,95,starostinhmongmien
+310503,larg1235,DRY,n qʰ a ¹/¹,94,starostinhmongmien
+310504,hmon1333,DRY,qʰ w ǝ ³/¹,95,starostinhmongmien
+310505,hmon1264,DRY,qʰ w a ²/¹,95,starostinhmongmien
+310506,buna1273,DRY,ŋ kʰ e n ³/¹,94,starostinhmongmien
+310507,buna1273,DRY,tɕ ẽ ⁵/¹,97,starostinhmongmien
+310508,jion1236,DRY,ŋ kʰ e j ⁴⁴,94,starostinhmongmien
+310509,jion1236,DRY,ŋ k a j ⁴⁴,94,starostinhmongmien
+310510,youn1235,DRY,kʰ e j ²²,96,starostinhmongmien
+310511,youn1235,DRY,kʰ e j ²²,96,starostinhmongmien
+310512,pahn1237,DRY,qʰ e i ²²,95,starostinhmongmien
+310513,pahn1237,DRY,qʰ e ³¹,95,starostinhmongmien
+310514,wuna1248,DRY,qʰ e ¹³,95,starostinhmongmien
+310515,shee1238,DRY,kʰ u i ¹/¹,95,starostinhmongmien
+310516,shee1238,DRY,kʰ u i ¹/¹,95,starostinhmongmien
+310517,pana1310,DRY,g a j ¹/¹,94,starostinhmongmien
+310518,east2371,EAR,q u ⁵³ → m j ɯ ³¹,99,starostinhmongmien
+310519,nort3244,EAR,tʂ e ²/¹,100,starostinhmongmien
+310520,larg1235,EAR,a ⁵/¹ → m p ǝ ²/¹,99,starostinhmongmien
+310521,hmon1333,EAR,n dʒ e ²/¹,100,starostinhmongmien
+310522,hmon1264,EAR,ɲ dʒ e ⁵/¹,100,starostinhmongmien
+310523,buna1273,EAR,m p j e ²/¹,98,starostinhmongmien
+310524,buna1273,EAR,k ǝ ³/¹ → m p ts e ²/¹,104,starostinhmongmien
+310525,jion1236,EAR,m p j a ³³,98,starostinhmongmien
+310526,jion1236,EAR,m p j a ³¹,98,starostinhmongmien
+310527,youn1235,EAR,k ǝ ³³ → m j e ¹³,99,starostinhmongmien
+310528,youn1235,EAR,k ǝ ³³ → m u j ¹³,99,starostinhmongmien
+310529,pahn1237,EAR,a ³³ → kʰ o ŋ ²² → n j o ³³,101,starostinhmongmien
+310530,pahn1237,EAR,a ⁴⁴ → qʰ õ ³¹ → m pʰ j ɔ ³³,105,starostinhmongmien
+310531,wuna1248,EAR,qʰ u ŋ ¹³ → m p j a u ³¹,103,starostinhmongmien
+310532,shee1238,EAR,k a ²/¹ → kʰ u ŋ ³/¹,102,starostinhmongmien
+310533,shee1238,EAR,k a ²/¹ → kʰ u ŋ ³/¹,102,starostinhmongmien
+310534,pana1310,EAR,k a ¹/¹ → b j a ²/¹,99,starostinhmongmien
+310535,east2371,EARTH (SOIL),q u ⁵³ → l a ¹¹,107,starostinhmongmien
+310536,nort3244,EARTH (SOIL),l u a ²/¹,111,starostinhmongmien
+310537,larg1235,EARTH (SOIL),a ⁵/¹ → l a ²/¹,107,starostinhmongmien
+310538,hmon1333,EARTH (SOIL),a ³/¹,109,starostinhmongmien
+310539,hmon1264,EARTH (SOIL),ʔ a ŋ ²/¹,108,starostinhmongmien
+310540,buna1273,EARTH (SOIL),k a ³/¹ → t e ¹/¹,106,starostinhmongmien
+310541,buna1273,EARTH (SOIL),k ǝ ³/¹ → t e i ¹/¹,106,starostinhmongmien
+310542,jion1236,EARTH (SOIL),t a ⁴⁴,110,starostinhmongmien
+310543,jion1236,EARTH (SOIL),t a ⁴⁴,110,starostinhmongmien
+310544,youn1235,EARTH (SOIL),k ǝ ³³ → t o u ³³,106,starostinhmongmien
+310545,youn1235,EARTH (SOIL),k ǝ ³³ → t o u ³³,106,starostinhmongmien
+310546,pahn1237,EARTH (SOIL),q a ²² → l e i ³³,107,starostinhmongmien
+310547,pahn1237,EARTH (SOIL),q a ³¹ → lʱ e ³³,107,starostinhmongmien
+310548,wuna1248,EARTH (SOIL),l̥ a i ¹³,113,starostinhmongmien
+310549,shee1238,EARTH (SOIL),t a ¹/¹,110,starostinhmongmien
+310550,shee1238,EARTH (SOIL),t a ¹/¹,110,starostinhmongmien
+310551,pana1310,EARTH (SOIL),t i ⁵³,112,starostinhmongmien
+310552,east2371,EAT,n a ŋ ³¹,114,starostinhmongmien
+310553,nort3244,EAT,n a o ²/¹,115,starostinhmongmien
+310554,larg1235,EAT,n a ²/¹,115,starostinhmongmien
+310555,hmon1333,EAT,n ɔ ²/¹,115,starostinhmongmien
+310556,hmon1264,EAT,n a o ⁵/¹,115,starostinhmongmien
+310557,buna1273,EAT,n ɔ ŋ ²/¹,114,starostinhmongmien
+310558,buna1273,EAT,n ɒ ²/¹,115,starostinhmongmien
+310559,jion1236,EAT,n a ŋ ³³,114,starostinhmongmien
+310560,jion1236,EAT,n a ŋ ³¹,114,starostinhmongmien
+310561,youn1235,EAT,n a ŋ ¹³,114,starostinhmongmien
+310562,youn1235,EAT,n a ŋ ¹³,114,starostinhmongmien
+310563,pahn1237,EAT,n a ŋ ³³,114,starostinhmongmien
+310564,pahn1237,EAT,nʱ ɔ ³³,115,starostinhmongmien
+310565,wuna1248,EAT,n a ŋ ³³,114,starostinhmongmien
+310566,shee1238,EAT,n u ŋ ²/¹,114,starostinhmongmien
+310567,shee1238,EAT,n u ŋ ²/¹,114,starostinhmongmien
+310568,pana1310,EAT,n o ŋ ²/¹,114,starostinhmongmien
+310569,east2371,EYE,qʰ a ³⁵ → m e ¹¹,116,starostinhmongmien
+310570,nort3244,EYE,m u a ⁶/¹,118,starostinhmongmien
+310571,larg1235,EYE,a ³/¹ → m a ⁶/¹,116,starostinhmongmien
+310572,hmon1333,EYE,qʰ ɔ ³/¹ → m w ǝ ⁶/¹,116,starostinhmongmien
+310573,hmon1264,EYE,qʰ a o ²/¹ → m w a ⁶/¹,116,starostinhmongmien
+310574,buna1273,EYE,kʰ i ³/¹ → m ɔ ŋ ⁶/¹,116,starostinhmongmien
+310575,buna1273,EYE,l a ǝ ¹/¹ → k ɒ ³/¹,121,starostinhmongmien
+310576,jion1236,EYE,m ɔ ²² ← tʃ e n ⁴⁴,117,starostinhmongmien
+310577,jion1236,EYE,m u ²¹ ← w ɛ ²¹,122,starostinhmongmien
+310578,youn1235,EYE,k i n ⁵³ → m ɔ ³¹,116,starostinhmongmien
+310579,youn1235,EYE,k i ⁵³ → m ɔ ²²,116,starostinhmongmien
+310580,pahn1237,EYE,q o ŋ ⁵⁵ → m i ⁴⁴,116,starostinhmongmien
+310581,pahn1237,EYE,a ⁴⁴ → q õ ⁵⁵ → mʱ i ⁴⁴,116,starostinhmongmien
+310582,wuna1248,EYE,n a ŋ ³⁵ → m e ³¹,116,starostinhmongmien
+310583,shee1238,EYE,k a ¹/¹ → kʰ ɔ ³/¹,120,starostinhmongmien
+310584,shee1238,EYE,k a ¹/¹ → kʰ ɔ ³/¹,120,starostinhmongmien
+310585,pana1310,EYE,k e ²/¹,119,starostinhmongmien
+310586,east2371,FAT (FROM ANIMALS),s ɛ ⁵³,125,starostinhmongmien
+310587,hmon1333,FAT (FROM ANIMALS),ʈ ɔ ²/¹,127,starostinhmongmien
+310588,hmon1264,FAT (FROM ANIMALS),a o ⁵/¹,126,starostinhmongmien
+310589,pahn1237,FAT (FROM ANIMALS),j o u ³³,128,starostinhmongmien
+310590,pahn1237,FAT (FROM ANIMALS),ɔ̃ ³⁵ → jʱ ɤ ³³,130,starostinhmongmien
+310591,wuna1248,FAT (FROM ANIMALS),j o u ³³,128,starostinhmongmien
+310592,shee1238,FAT (FROM ANIMALS),z ɔ ²/¹,129,starostinhmongmien
+310593,shee1238,FAT (FROM ANIMALS),z ɔ ²/¹,129,starostinhmongmien
+310594,hmon1333,FEATHER,p l ɔ w ¹/¹,131,starostinhmongmien
+310595,hmon1264,FEATHER,p l a u ¹/¹,131,starostinhmongmien
+310596,jion1236,FEATHER,p l e ⁴⁴,131,starostinhmongmien
+310597,jion1236,FEATHER,p l e j ⁴⁴,131,starostinhmongmien
+310598,pahn1237,FEATHER,t i ³⁵,132,starostinhmongmien
+310599,pahn1237,FEATHER,p i ³⁵,131,starostinhmongmien
+310600,wuna1248,FEATHER,p i ³⁵,131,starostinhmongmien
+310601,east2371,FIRE,ʎ ɔ ³¹ → d a ³⁵,134,starostinhmongmien
+310602,nort3244,FIRE,d e u ⁴/¹,135,starostinhmongmien
+310603,larg1235,FIRE,t o e j ⁴/¹,136,starostinhmongmien
+310604,hmon1333,FIRE,l̥ w ǝ ³/¹ → t ǝ w ⁵/¹,134,starostinhmongmien
+310605,hmon1264,FIRE,t a ʉ ⁶/¹,135,starostinhmongmien
+310606,buna1273,FIRE,t o ⁴/¹,133,starostinhmongmien
+310607,buna1273,FIRE,t i u ⁴/¹,135,starostinhmongmien
+310608,jion1236,FIRE,t a u ³¹,135,starostinhmongmien
+310609,jion1236,FIRE,t ɔ ⁵³,133,starostinhmongmien
+310610,youn1235,FIRE,t o ²²,133,starostinhmongmien
+310611,youn1235,FIRE,t o u ²²,135,starostinhmongmien
+310612,pahn1237,FIRE,q a ²² → t o u ²²,137,starostinhmongmien
+310613,pahn1237,FIRE,a ⁴⁴ → tʰ ɤ ³¹,134,starostinhmongmien
+310614,wuna1248,FIRE,t o u ²²,135,starostinhmongmien
+310615,shee1238,FIRE,tʰ ɔ ⁴/¹,133,starostinhmongmien
+310616,shee1238,FIRE,tʰ ɔ ⁴/¹,133,starostinhmongmien
+310617,pana1310,FIRE,t o ⁴/¹,133,starostinhmongmien
+310618,east2371,FISH,m j ɯ ³³,138,starostinhmongmien
+310619,nort3244,FISH,ɳ ɖʐ e ⁴/¹,139,starostinhmongmien
+310620,larg1235,FISH,m p ǝ ⁴/¹,138,starostinhmongmien
+310621,hmon1333,FISH,n dʒ e ⁵/¹,139,starostinhmongmien
+310622,hmon1264,FISH,ɲ dʒ e ⁶/¹,139,starostinhmongmien
+310623,buna1273,FISH,m p j e ⁴/¹,138,starostinhmongmien
+310624,buna1273,FISH,m p ts i ⁴/¹,138,starostinhmongmien
+310625,jion1236,FISH,m p j a ³¹,138,starostinhmongmien
+310626,jion1236,FISH,m p j a ⁵³,138,starostinhmongmien
+310627,youn1235,FISH,m j e ²²,138,starostinhmongmien
+310628,youn1235,FISH,m u j ²²,141,starostinhmongmien
+310629,pahn1237,FISH,n j o ²²,140,starostinhmongmien
+310630,pahn1237,FISH,ŋʲ ³¹ → m pʰ j o ³¹,138,starostinhmongmien
+310631,wuna1248,FISH,m p j o ²²,138,starostinhmongmien
+310632,shee1238,FISH,p j a ⁴/¹,138,starostinhmongmien
+310633,shee1238,FISH,p j a ⁴/¹,138,starostinhmongmien
+310634,pana1310,FISH,b j a ⁴/¹,138,starostinhmongmien
+310635,east2371,FLY (MOVE THROUGH AIR),ɛ ³¹,143,starostinhmongmien
+310636,nort3244,FLY (MOVE THROUGH AIR),ʑ a ŋ ⁵/¹,142,starostinhmongmien
+310637,larg1235,FLY (MOVE THROUGH AIR),ʑ a ɯ ⁵/¹,145,starostinhmongmien
+310638,hmon1264,FLY (MOVE THROUGH AIR),j a ŋ ³/¹,142,starostinhmongmien
+310639,buna1273,FLY (MOVE THROUGH AIR),ʑ ǝ ŋ ⁵/¹,142,starostinhmongmien
+310640,buna1273,FLY (MOVE THROUGH AIR),j e j ⁵/¹,147,starostinhmongmien
+310641,jion1236,FLY (MOVE THROUGH AIR),ʑ i ³⁵,144,starostinhmongmien
+310642,jion1236,FLY (MOVE THROUGH AIR),ʑ i ²²,144,starostinhmongmien
+310643,youn1235,FLY (MOVE THROUGH AIR),ɲ i ³⁵,144,starostinhmongmien
+310644,youn1235,FLY (MOVE THROUGH AIR),ɲ i ⁵³,144,starostinhmongmien
+310645,pahn1237,FLY (MOVE THROUGH AIR),j e i ⁵⁵,146,starostinhmongmien
+310646,pahn1237,FLY (MOVE THROUGH AIR),j i ⁵⁵,146,starostinhmongmien
+310647,wuna1248,FLY (MOVE THROUGH AIR),j e i ⁵⁵,146,starostinhmongmien
+310648,shee1238,FLY (MOVE THROUGH AIR),ŋ i ⁵/¹,144,starostinhmongmien
+310649,shee1238,FLY (MOVE THROUGH AIR),ŋ i ⁵/¹,144,starostinhmongmien
+310650,pana1310,FLY (MOVE THROUGH AIR),j i ŋ ⁵/¹,142,starostinhmongmien
+310651,east2371,FOOT,q u ⁵³ → t a ³³,148,starostinhmongmien
+310652,nort3244,FOOT,t e u ⁴⁴,151,starostinhmongmien
+310653,larg1235,FOOT,t o e j ⁵/¹,150,starostinhmongmien
+310654,hmon1333,FOOT,k ɔ ⁴/¹ → t ǝ w ⁴/¹,149,starostinhmongmien
+310655,east2371,FULL,p e ⁵⁵,152,starostinhmongmien
+310656,nort3244,FULL,p o ³/¹,152,starostinhmongmien
+310657,larg1235,FULL,p u ³/¹,152,starostinhmongmien
+310658,hmon1333,FULL,p u ³/¹,152,starostinhmongmien
+310659,hmon1264,FULL,p u ²/¹,152,starostinhmongmien
+310660,buna1273,FULL,p u ŋ ³/¹,152,starostinhmongmien
+310661,buna1273,FULL,l a j ⁶/¹,153,starostinhmongmien
+310662,jion1236,FULL,p a ŋ ⁵³,152,starostinhmongmien
+310663,jion1236,FULL,p ã ³⁵,152,starostinhmongmien
+310664,youn1235,FULL,p u ŋ ²²,152,starostinhmongmien
+310665,youn1235,FULL,p o u ²²,152,starostinhmongmien
+310666,pahn1237,FULL,p a ŋ ²²,152,starostinhmongmien
+310667,pahn1237,FULL,p ɔ̃ ³¹,152,starostinhmongmien
+310668,wuna1248,FULL,p a ŋ ¹³,152,starostinhmongmien
+310669,shee1238,FULL,p a ŋ ³/¹,152,starostinhmongmien
+310670,shee1238,FULL,p a ŋ ³/¹,152,starostinhmongmien
+310671,pana1310,FULL,p o n ⁴⁴,152,starostinhmongmien
+310672,east2371,GIVE,g ɯ ³¹,154,starostinhmongmien
+310673,nort3244,GIVE,s a ŋ ⁵/¹,157,starostinhmongmien
+310674,larg1235,GIVE,s a ɯ ⁵/¹ ← tʰ a o ⁵/¹,156,starostinhmongmien
+310675,hmon1333,GIVE,p u ¹/¹,155,starostinhmongmien
+310676,hmon1264,GIVE,p u ¹/¹,155,starostinhmongmien
+310677,youn1235,GIVE,h a ŋ ³³,160,starostinhmongmien
+310678,youn1235,GIVE,h a ŋ ³³,160,starostinhmongmien
+310679,pahn1237,GIVE,tɕ u ⁴⁴,158,starostinhmongmien
+310680,pahn1237,GIVE,tɕʰ ʉ ⁴⁴,158,starostinhmongmien
+310681,wuna1248,GIVE,k u ŋ ³¹,159,starostinhmongmien
+310682,pana1310,GIVE,p õ ¹/¹,155,starostinhmongmien
+310683,east2371,GOOD,ʋ ³¹,162,starostinhmongmien
+310684,nort3244,GOOD,ʐ o ŋ ⁵/¹,161,starostinhmongmien
+310685,larg1235,GOOD,z a o ⁵/¹,161,starostinhmongmien
+310686,hmon1333,GOOD,ʒ õ ⁴/¹,161,starostinhmongmien
+310687,hmon1264,GOOD,ʒ o ŋ ³/¹,161,starostinhmongmien
+310688,buna1273,GOOD,ɣ a ŋ ⁵/¹,161,starostinhmongmien
+310689,buna1273,GOOD,ɣ ɔ ŋ ⁵/¹,161,starostinhmongmien
+310690,jion1236,GOOD,ŋ ɔ u ŋ ³⁵,161,starostinhmongmien
+310691,jion1236,GOOD,ŋ ɔ ²²,163,starostinhmongmien
+310692,youn1235,GOOD,ŋ̩ ³⁵,164,starostinhmongmien
+310693,youn1235,GOOD,ŋ̩ ⁵³,165,starostinhmongmien
+310694,pahn1237,GOOD,n ɛ ⁴⁴,163,starostinhmongmien
+310695,pahn1237,GOOD,n tʰ ɛ ⁴⁴,163,starostinhmongmien
+310696,wuna1248,GOOD,j a ŋ ⁵⁵,161,starostinhmongmien
+310697,shee1238,GOOD,ŋ ɔ ŋ ⁵/¹,161,starostinhmongmien
+310698,shee1238,GOOD,ŋ ɔ ŋ ⁵/¹,161,starostinhmongmien
+310699,pana1310,GOOD,n j u ⁵/¹,163,starostinhmongmien
+310700,east2371,GREEN,ʎ ɔ ³⁵,167,starostinhmongmien
+310701,nort3244,GREEN,n tʂ u a ¹/¹,168,starostinhmongmien
+310702,larg1235,GREEN,n ts a ¹/¹,168,starostinhmongmien
+310703,hmon1333,GREEN,n dʒ w ǝ ¹/¹,168,starostinhmongmien
+310704,hmon1264,GREEN,ɲ dʒ w a ¹/¹,168,starostinhmongmien
+310705,buna1273,GREEN,m p j u ²/¹,166,starostinhmongmien
+310706,buna1273,GREEN,m p ts a u ²/¹,166,starostinhmongmien
+310707,jion1236,GREEN,m pʰ ɔ ⁴⁴,166,starostinhmongmien
+310708,jion1236,GREEN,w o ²¹ ← h u ⁴³,171,starostinhmongmien
+310709,youn1235,GREEN,l j e ³¹,167,starostinhmongmien
+310710,youn1235,GREEN,l j u ³¹,167,starostinhmongmien
+310711,pahn1237,GREEN,n j o ³⁵,169,starostinhmongmien
+310712,pahn1237,GREEN,m p j o ³⁵,166,starostinhmongmien
+310713,wuna1248,GREEN,m p j o ³⁵,166,starostinhmongmien
+310714,shee1238,GREEN,k a ⁶/¹ → pʰ ɤ ⁴/¹,170,starostinhmongmien
+310715,shee1238,GREEN,k a ⁶/¹ → pʰ u ⁴/¹,170,starostinhmongmien
+310716,pana1310,GREEN,l j o ³¹,167,starostinhmongmien
+310717,east2371,HAIR,ɭ a ³¹ → p ɹ e i ⁵⁵ → p ɹ e i ⁵³,173,starostinhmongmien
+310718,nort3244,HAIR,p l ǝ u ¹/¹ ← h ǝ u ⁵/¹,174,starostinhmongmien
+310719,larg1235,HAIR,tɬ a o ¹/¹ ← f a o ⁵/¹,172,starostinhmongmien
+310720,hmon1333,HAIR,p l ɔ w ¹/¹ ← h ɔ w ⁴/¹,174,starostinhmongmien
+310721,hmon1264,HAIR,p l a u ¹/¹ ← h a u ³/¹,174,starostinhmongmien
+310722,buna1273,HAIR,tɬ a ¹/¹ ← f a ³/¹,172,starostinhmongmien
+310723,buna1273,HAIR,tɬ j a ¹/¹ ← vʱ j a ³/¹,172,starostinhmongmien
+310724,jion1236,HAIR,ŋ k a u ⁵³ → p l e ⁴⁴,175,starostinhmongmien
+310725,jion1236,HAIR,ŋ k ɔ ³⁵ → p l e j ⁴⁴,175,starostinhmongmien
+310726,youn1235,HAIR,h a ³¹ → p j a ³³,177,starostinhmongmien
+310727,youn1235,HAIR,h a ²² → p j a ³³,177,starostinhmongmien
+310728,pahn1237,HAIR,t i ³⁵,176,starostinhmongmien
+310729,pahn1237,HAIR,p i ³⁵,179,starostinhmongmien
+310730,wuna1248,HAIR,p i ³⁵,179,starostinhmongmien
+310731,shee1238,HAIR,k a ŋ ⁶/¹ → kʰ ɤ ⁵/¹ → p i ¹/¹,178,starostinhmongmien
+310732,shee1238,HAIR,k a ŋ ⁶/¹ → kʰ u ⁵/¹ → p i ¹/¹,178,starostinhmongmien
+310733,pana1310,HAIR,p j o ¹/¹ ← p j o ¹/¹,177,starostinhmongmien
+310734,east2371,HAND,q u ⁵³ → b ʋ ⁵⁵,181,starostinhmongmien
+310735,nort3244,HAND,dʱ e ⁴/¹,182,starostinhmongmien
+310736,larg1235,HAND,t i ⁴/¹,182,starostinhmongmien
+310737,hmon1333,HAND,t e ⁵/¹,182,starostinhmongmien
+310738,hmon1264,HAND,t e ⁶/¹,182,starostinhmongmien
+310739,buna1273,HAND,p e ⁴/¹,180,starostinhmongmien
+310740,buna1273,HAND,p e j ⁴/¹,180,starostinhmongmien
+310741,jion1236,HAND,tʃ a ³¹,182,starostinhmongmien
+310742,jion1236,HAND,tʃ a ⁵³,182,starostinhmongmien
+310743,youn1235,HAND,tʰ o u ²²,184,starostinhmongmien
+310744,youn1235,HAND,tʰ o u ²²,184,starostinhmongmien
+310745,pahn1237,HAND,q a ⁴⁴ → p ʋ ²²,181,starostinhmongmien
+310746,pahn1237,HAND,tʰ ɤ ³³ → pʰ ʉ ³¹,185,starostinhmongmien
+310747,wuna1248,HAND,p u ²²,180,starostinhmongmien
+310748,shee1238,HAND,kʰ w a ⁴/¹,183,starostinhmongmien
+310749,shee1238,HAND,kʰ w a ⁴/¹,183,starostinhmongmien
+310750,pana1310,HAND,l a ⁶/¹ → k w a ⁴/¹,183,starostinhmongmien
+310751,east2371,HEAD,ɭ a ³¹ → p ɹ e i ⁵⁵,187,starostinhmongmien
+310752,nort3244,HEAD,h ǝ u ⁵/¹,186,starostinhmongmien
+310753,larg1235,HEAD,f a o ³/¹,186,starostinhmongmien
+310754,hmon1333,HEAD,t ɔ w ¹/¹ → h ɔ w ⁴/¹,188,starostinhmongmien
+310755,hmon1264,HEAD,t a u ¹/¹ → h a u ³/¹,188,starostinhmongmien
+310756,buna1273,HEAD,f a ³/¹,186,starostinhmongmien
+310757,buna1273,HEAD,vʱ j a ³/¹,186,starostinhmongmien
+310758,jion1236,HEAD,ŋ k a u ⁵³,189,starostinhmongmien
+310759,jion1236,HEAD,ŋ k ɔ ³⁵,194,starostinhmongmien
+310760,youn1235,HEAD,h a ³¹ → kʰ ɔ ⁵³,193,starostinhmongmien
+310761,youn1235,HEAD,h a ²² → kʰ ɔ ⁵³,193,starostinhmongmien
+310762,pahn1237,HEAD,a ³³ → t o ŋ ³³ → t i ²²,190,starostinhmongmien
+310763,pahn1237,HEAD,a ⁴⁴ → tɕ ʉ ⁵⁵ → p i ³¹,195,starostinhmongmien
+310764,wuna1248,HEAD,n a ŋ ³⁵ → ts i ¹³,192,starostinhmongmien
+310765,shee1238,HEAD,k a ŋ ⁶/¹ → kʰ ɤ ⁵/¹,191,starostinhmongmien
+310766,shee1238,HEAD,k a ŋ ⁶/¹ → kʰ u ⁵/¹,191,starostinhmongmien
+310767,pana1310,HEAD,f o ³/¹,186,starostinhmongmien
+310768,east2371,HEAR,tʰ ɤ ⁵³,197,starostinhmongmien
+310769,nort3244,HEAR,n o ŋ ⁶/¹,199,starostinhmongmien
+310770,larg1235,HEAR,n a o ⁶/¹,198,starostinhmongmien
+310771,hmon1333,HEAR,n̥ ɔ ³/¹,198,starostinhmongmien
+310772,hmon1264,HEAR,n a o ²/¹,198,starostinhmongmien
+310773,buna1273,HEAR,tɕ ǝ ŋ ⁵/¹,196,starostinhmongmien
+310774,buna1273,HEAR,n̥ j a ³/¹,198,starostinhmongmien
+310775,jion1236,HEAR,n̥ a ŋ ⁵³,199,starostinhmongmien
+310776,jion1236,HEAR,n̥ a ŋ ³⁵,199,starostinhmongmien
+310777,youn1235,HEAR,ɲ u j ³⁵,201,starostinhmongmien
+310778,youn1235,HEAR,ɲ u j ⁵³,201,starostinhmongmien
+310779,pahn1237,HEAR,n̥ o ŋ ²²,199,starostinhmongmien
+310780,pahn1237,HEAR,n̥ õ ³¹,199,starostinhmongmien
+310781,wuna1248,HEAR,m a ⁵⁵,200,starostinhmongmien
+310782,shee1238,HEAR,k u ŋ ⁵/¹,196,starostinhmongmien
+310783,shee1238,HEAR,k u ŋ ⁵/¹,196,starostinhmongmien
+310784,pana1310,HEAR,n a ŋ ⁴⁴,199,starostinhmongmien
+310785,east2371,HEART,s e n ⁵³ ← ts a ŋ ³¹,203,starostinhmongmien
+310786,nort3244,HEART,ʂ a ⁴³ → ɳ tʂ u ⁷/¹,207,starostinhmongmien
+310787,larg1235,HEART,tɬ o e j ³/¹,206,starostinhmongmien
+310788,hmon1333,HEART,p l ǝ w ³/¹,204,starostinhmongmien
+310789,hmon1264,HEART,p l a ʉ ²/¹,204,starostinhmongmien
+310790,buna1273,HEART,p i ³/¹ → s o ¹/¹,202,starostinhmongmien
+310791,buna1273,HEART,tɬ o u ³/¹,211,starostinhmongmien
+310792,jion1236,HEART,p a ²² → ʑ ɔ u ŋ ³³,205,starostinhmongmien
+310793,jion1236,HEART,p a ²¹ → ʑ a ŋ ³¹,202,starostinhmongmien
+310794,youn1235,HEART,f ɔ ²² → s ǝ n ³³ → l̥ i n ³³,210,starostinhmongmien
+310795,youn1235,HEART,l̥ i n ³³,214,starostinhmongmien
+310796,pahn1237,HEART,a ³³ → n o ŋ ³⁵,208,starostinhmongmien
+310797,pahn1237,HEART,a ⁴⁴ → tɕ ɔ̃ ⁵³,212,starostinhmongmien
+310798,wuna1248,HEART,n a ŋ ³⁵ → tɕ u ŋ ⁵³,203,starostinhmongmien
+310799,shee1238,HEART,s a n ¹/¹,209,starostinhmongmien
+310800,shee1238,HEART,f u n ¹/¹,213,starostinhmongmien
+310801,pana1310,HEART,s a ŋ ¹/¹ ← t a w ²/¹,209,starostinhmongmien
+310802,east2371,I,w e ⁵⁵,218,starostinhmongmien
+310803,nort3244,I,k o ³/¹,217,starostinhmongmien
+310804,larg1235,I,k u ³/¹,217,starostinhmongmien
+310805,hmon1333,I,k u ³/¹,217,starostinhmongmien
+310806,hmon1264,I,k u ²/¹,217,starostinhmongmien
+310807,buna1273,I,tɕ u ŋ ³/¹,217,starostinhmongmien
+310808,buna1273,I,k o u ³/¹,217,starostinhmongmien
+310809,jion1236,I,v a ³¹,218,starostinhmongmien
+310810,jion1236,I,w a ⁵³,218,starostinhmongmien
+310811,youn1235,I,v ɔ ²²,218,starostinhmongmien
+310812,youn1235,I,v ɔ ²²,218,starostinhmongmien
+310813,pahn1237,I,v a ŋ ²²,218,starostinhmongmien
+310814,pahn1237,I,vʱ ɔ̃ ³¹,218,starostinhmongmien
+310815,wuna1248,I,w a ŋ ²²,218,starostinhmongmien
+310816,shee1238,I,v a ŋ ⁴/¹,218,starostinhmongmien
+310817,shee1238,I,v a ŋ ⁴/¹,218,starostinhmongmien
+310818,pana1310,I,w a ⁶/¹,218,starostinhmongmien
+310819,east2371,KILL,t a ³¹,219,starostinhmongmien
+310820,nort3244,KILL,t u a ⁵/¹,219,starostinhmongmien
+310821,larg1235,KILL,t a ⁵/¹,219,starostinhmongmien
+310822,hmon1333,KILL,t w ǝ ⁴/¹,219,starostinhmongmien
+310823,hmon1264,KILL,t w a ³/¹,219,starostinhmongmien
+310824,buna1273,KILL,t ɔ ⁵/¹,219,starostinhmongmien
+310825,buna1273,KILL,t u ⁵/¹,219,starostinhmongmien
+310826,jion1236,KILL,t a ³⁵,219,starostinhmongmien
+310827,jion1236,KILL,t a ²²,219,starostinhmongmien
+310828,youn1235,KILL,t ɔ ³⁵,219,starostinhmongmien
+310829,youn1235,KILL,t ɔ ⁵³,219,starostinhmongmien
+310830,pahn1237,KILL,t a ⁵⁵,219,starostinhmongmien
+310831,pahn1237,KILL,t a ⁵⁵,219,starostinhmongmien
+310832,wuna1248,KILL,t a ⁵⁵,219,starostinhmongmien
+310833,shee1238,KILL,t a ⁵/¹,219,starostinhmongmien
+310834,shee1238,KILL,t a ⁵/¹,219,starostinhmongmien
+310835,pana1310,KILL,t a ⁵/¹,219,starostinhmongmien
+310836,east2371,KNEE,p i ³⁵ → dʑ ɔ ¹¹,220,starostinhmongmien
+310837,nort3244,KNEE,h a u ³/¹ → dz ǝ u ⁶/¹,221,starostinhmongmien
+310838,larg1235,KNEE,f a o ³/¹ → tɕ a o ⁶/¹,221,starostinhmongmien
+310839,hmon1333,KNEE,h ɔ w ³/¹ → tɕ ɔ w ⁶/¹,221,starostinhmongmien
+310840,hmon1264,KNEE,h a u ²/¹ → tɕ a u ⁶/¹,221,starostinhmongmien
+310841,buna1273,KNEE,f a ³/¹ → tɕ a ⁶/¹,220,starostinhmongmien
+310842,buna1273,KNEE,vʱ j a ³/¹ → tɕ a ⁶/¹,220,starostinhmongmien
+310843,jion1236,KNEE,ð j e u ⁵³ ← ŋ k a u ⁵³,222,starostinhmongmien
+310844,jion1236,KNEE,h ɔ ³⁵ → l j e u ³⁵,225,starostinhmongmien
+310845,youn1235,KNEE,f ɔ ³³ → t i ²² → k u ²²,224,starostinhmongmien
+310846,youn1235,KNEE,t o u ⁵³ → kʰ u j ³¹,227,starostinhmongmien
+310847,pahn1237,KNEE,p ɔ ³⁵ → tɕ i ⁴⁴,220,starostinhmongmien
+310848,pahn1237,KNEE,a ⁴⁴ → qʱ ɔ ³¹ → tɕ ɦ i ⁴⁴,226,starostinhmongmien
+310849,wuna1248,KNEE,kʰ ɯ ŋ ⁵⁵ → tɕ i ³¹,223,starostinhmongmien
+310850,pana1310,KNEE,f o ⁴⁴ → tɕ u ²²,220,starostinhmongmien
+310851,east2371,KNOW (SOMETHING),p i ⁵³,228,starostinhmongmien
+310852,nort3244,KNOW (SOMETHING),p ǝ u ¹/¹,228,starostinhmongmien
+310853,larg1235,KNOW (SOMETHING),p a o ¹/¹,228,starostinhmongmien
+310854,hmon1333,KNOW (SOMETHING),p ɔ w ¹/¹,228,starostinhmongmien
+310855,hmon1264,KNOW (SOMETHING),p a u ¹/¹,228,starostinhmongmien
+310856,buna1273,KNOW (SOMETHING),p a ¹/¹,228,starostinhmongmien
+310857,buna1273,KNOW (SOMETHING),p j a ¹/¹,228,starostinhmongmien
+310858,jion1236,KNOW (SOMETHING),p e ⁴⁴,228,starostinhmongmien
+310859,jion1236,KNOW (SOMETHING),p e j ⁴⁴,228,starostinhmongmien
+310860,youn1235,KNOW (SOMETHING),t o u ²² → p ɔ ³³,231,starostinhmongmien
+310861,youn1235,KNOW (SOMETHING),t o u ²² → p ɔ ³³,231,starostinhmongmien
+310862,pahn1237,KNOW (SOMETHING),k o ⁵³ → p i ³⁵,229,starostinhmongmien
+310863,pahn1237,KNOW (SOMETHING),p i ³⁵,228,starostinhmongmien
+310864,wuna1248,KNOW (SOMETHING),p i ³⁵ ← t o ¹³,228,starostinhmongmien
+310865,shee1238,KNOW (SOMETHING),p e ¹/¹,228,starostinhmongmien
+310866,shee1238,KNOW (SOMETHING),p e ¹/¹,228,starostinhmongmien
+310867,pana1310,KNOW (SOMETHING),t a w ⁵/¹ → p o ¹/¹,230,starostinhmongmien
+310868,east2371,LEAF,q u ⁵³ → n u ³¹,233,starostinhmongmien
+310869,nort3244,LEAF,m p l o ŋ ²/¹,234,starostinhmongmien
+310870,larg1235,LEAF,a ⁵/¹ → n tɬ a o ²/¹,235,starostinhmongmien
+310871,hmon1333,LEAF,m b l õ ²/¹,234,starostinhmongmien
+310872,hmon1264,LEAF,m b l o ŋ ⁵/¹,234,starostinhmongmien
+310873,buna1273,LEAF,n tɬ a ŋ ²/¹,232,starostinhmongmien
+310874,buna1273,LEAF,n tɬ ɔ ŋ ²/¹,232,starostinhmongmien
+310875,jion1236,LEAF,m p l ɔ ŋ ³³,234,starostinhmongmien
+310876,jion1236,LEAF,m p l a ŋ ³¹,234,starostinhmongmien
+310877,youn1235,LEAF,m j o ŋ ¹³,234,starostinhmongmien
+310878,youn1235,LEAF,m j o ŋ ¹³,234,starostinhmongmien
+310879,pahn1237,LEAF,q a ²² → n j a ŋ ³³,233,starostinhmongmien
+310880,pahn1237,LEAF,q a ³¹ → m pʰ j o ³³,238,starostinhmongmien
+310881,wuna1248,LEAF,n u ŋ ³³,237,starostinhmongmien
+310882,shee1238,LEAF,p j ɔ ŋ ²/¹,234,starostinhmongmien
+310883,shee1238,LEAF,p j ɔ ŋ ²/¹,234,starostinhmongmien
+310884,pana1310,LEAF,ɬ j ũ ²/¹ ← ɬ j ũ ²/¹,236,starostinhmongmien
+310885,nort3244,LIE (REST),p u ⁵/¹,239,starostinhmongmien
+310886,larg1235,LIE (REST),p y ⁵/¹,239,starostinhmongmien
+310887,hmon1333,LIE (REST),p ɨ ³/¹,239,starostinhmongmien
+310888,hmon1264,LIE (REST),p ʉ ³/¹,239,starostinhmongmien
+310889,east2371,LONG,d u ⁵⁵,241,starostinhmongmien
+310890,nort3244,LONG,n t e ³/¹,240,starostinhmongmien
+310891,larg1235,LONG,n t i ³/¹,240,starostinhmongmien
+310892,hmon1333,LONG,n t e ³/¹,240,starostinhmongmien
+310893,hmon1264,LONG,n d e ²/¹,240,starostinhmongmien
+310894,buna1273,LONG,n t e ³/¹,240,starostinhmongmien
+310895,buna1273,LONG,n t e j ³/¹,240,starostinhmongmien
+310896,jion1236,LONG,ð a ⁵³,241,starostinhmongmien
+310897,jion1236,LONG,l a ³⁵,244,starostinhmongmien
+310898,youn1235,LONG,n o u ²²,243,starostinhmongmien
+310899,youn1235,LONG,n a u ²²,243,starostinhmongmien
+310900,pahn1237,LONG,t o ²²,241,starostinhmongmien
+310901,pahn1237,LONG,t o ³¹,241,starostinhmongmien
+310902,wuna1248,LONG,t o ¹³,241,starostinhmongmien
+310903,shee1238,LONG,k a ¹/¹ → t a ³/¹,242,starostinhmongmien
+310904,shee1238,LONG,k a ¹/¹ → t a ³/¹,242,starostinhmongmien
+310905,pana1310,LONG,d a ³/¹,241,starostinhmongmien
+310906,east2371,LOUSE,t e ⁵⁵,246,starostinhmongmien
+310907,nort3244,LOUSE,t o ³/¹,246,starostinhmongmien
+310908,larg1235,LOUSE,ɳ ʈʂʰ a o ³/¹,247,starostinhmongmien
+310909,hmon1333,LOUSE,n tʃʰ ɔ w ³/¹,247,starostinhmongmien
+310910,hmon1264,LOUSE,ɲʱ a u ²/¹,247,starostinhmongmien
+310911,hmon1264,LOUSE,ɲ tʃʰ a u ²/¹,247,starostinhmongmien
+310912,buna1273,LOUSE,k a ¹/¹ → t u ŋ ³/¹,245,starostinhmongmien
+310913,buna1273,LOUSE,tɕ e j ¹/¹ → t ɔ ³/¹,250,starostinhmongmien
+310914,jion1236,LOUSE,t a ŋ ⁵³,248,starostinhmongmien
+310915,jion1236,LOUSE,t ã ³⁵,246,starostinhmongmien
+310916,youn1235,LOUSE,m a ⁵³ → t u ŋ ²²,249,starostinhmongmien
+310917,youn1235,LOUSE,m a ⁵³ → t o u ²²,249,starostinhmongmien
+310918,pahn1237,LOUSE,n a ŋ ²²,248,starostinhmongmien
+310919,pahn1237,LOUSE,ŋ̩ ³¹ → n ɔ̃ ³¹,251,starostinhmongmien
+310920,wuna1248,LOUSE,n t a ŋ ¹³,248,starostinhmongmien
+310921,shee1238,LOUSE,t a ŋ ³/¹,248,starostinhmongmien
+310922,shee1238,LOUSE,t a ŋ ³/¹,248,starostinhmongmien
+310923,pana1310,LOUSE,t õ ³/¹,246,starostinhmongmien
+310924,east2371,MANY,tɕ ɯ ⁵³,253,starostinhmongmien
+310925,nort3244,MANY,n t ǝ u ⁵/¹,252,starostinhmongmien
+310926,larg1235,MANY,tɕ a o ¹/¹,254,starostinhmongmien
+310927,hmon1333,MANY,n d ɔ w ⁴/¹,252,starostinhmongmien
+310928,hmon1264,MANY,n d a u ³/¹,252,starostinhmongmien
+310929,buna1273,MANY,n t a u ⁵/¹,252,starostinhmongmien
+310930,buna1273,MANY,n t a ǝ ⁵/¹,252,starostinhmongmien
+310931,jion1236,MANY,n t e j ³⁵,252,starostinhmongmien
+310932,jion1236,MANY,n t a j ²²,252,starostinhmongmien
+310933,youn1235,MANY,tʰ e ŋ ³³ → a u ³⁵,257,starostinhmongmien
+310934,youn1235,MANY,a u ⁵³ ← a u ⁵³,259,starostinhmongmien
+310935,pahn1237,MANY,tɕ a ŋ ³⁵,253,starostinhmongmien
+310936,pahn1237,MANY,tɕ ɔ̃ ³⁵,253,starostinhmongmien
+310937,wuna1248,MANY,tɕ u ŋ ³⁵,253,starostinhmongmien
+310938,shee1238,MANY,u ⁵/¹,256,starostinhmongmien
+310939,shee1238,MANY,v u ⁵/¹,258,starostinhmongmien
+310940,pana1310,MANY,g a u ³⁵,255,starostinhmongmien
+310941,east2371,MEAT,ŋ a ³¹,261,starostinhmongmien
+310942,nort3244,MEAT,n q a ²/¹,260,starostinhmongmien
+310943,larg1235,MEAT,q a j ²/¹,262,starostinhmongmien
+310944,hmon1333,MEAT,n q a j ²/¹,260,starostinhmongmien
+310945,hmon1264,MEAT,ŋ ɢ a ⁵/¹,260,starostinhmongmien
+310946,buna1273,MEAT,ŋ k a ²/¹,260,starostinhmongmien
+310947,buna1273,MEAT,ŋ k j a ²/¹,260,starostinhmongmien
+310948,jion1236,MEAT,ŋ k a j ³³,260,starostinhmongmien
+310949,jion1236,MEAT,ŋ k ɛ ³¹,260,starostinhmongmien
+310950,youn1235,MEAT,p e ³³,263,starostinhmongmien
+310951,youn1235,MEAT,p e ³³,263,starostinhmongmien
+310952,pahn1237,MEAT,ŋ ɛ ³³,261,starostinhmongmien
+310953,pahn1237,MEAT,ɴ qʱ ɛ ³³,260,starostinhmongmien
+310954,wuna1248,MEAT,ɴ q a i ³³,260,starostinhmongmien
+310955,shee1238,MEAT,k w e i ²/¹,262,starostinhmongmien
+310956,shee1238,MEAT,k w e ²/¹,262,starostinhmongmien
+310957,pana1310,MEAT,g e ²/¹,262,starostinhmongmien
+310958,east2371,MOON,ɭ̥ʰ a ³¹,265,starostinhmongmien
+310959,nort3244,MOON,ɬ i ⁵/¹,265,starostinhmongmien
+310960,larg1235,MOON,l̥ i ⁷/¹,265,starostinhmongmien
+310961,hmon1333,MOON,l̥ i ⁴/¹,265,starostinhmongmien
+310962,hmon1264,MOON,ɬ i ³/¹,265,starostinhmongmien
+310963,buna1273,MOON,p o ³/¹ → ɬ o ⁵/¹,264,starostinhmongmien
+310964,buna1273,MOON,v e i ³/¹ → lʰ o u ⁵/¹,269,starostinhmongmien
+310965,jion1236,MOON,l̥ e ³⁵,265,starostinhmongmien
+310966,jion1236,MOON,l̥ e i ²²,265,starostinhmongmien
+310967,youn1235,MOON,h a ³¹ → l a ³⁵,264,starostinhmongmien
+310968,youn1235,MOON,k w ǝ n ²² → l a ⁵³,270,starostinhmongmien
+310969,pahn1237,MOON,a ³³ → l̥ a ⁵⁵ ← q a ²² → m a ²²,266,starostinhmongmien
+310970,pahn1237,MOON,a ⁴⁴ → l̥ a ⁵⁵,264,starostinhmongmien
+310971,wuna1248,MOON,n a ŋ ³⁵ → l̥ a ⁵⁵,264,starostinhmongmien
+310972,shee1238,MOON,n e ⁵/¹,268,starostinhmongmien
+310973,shee1238,MOON,n e ⁵/¹ ← kʰ u i ²/¹,268,starostinhmongmien
+310974,pana1310,MOON,l a ³/¹ → l a ⁵/¹,267,starostinhmongmien
+310975,east2371,MOUNTAIN,q u ⁵³ → ʑ e ³¹,272,starostinhmongmien
+310976,nort3244,MOUNTAIN,t a o ²/¹,274,starostinhmongmien
+310977,larg1235,MOUNTAIN,ʈ a o ²/¹,274,starostinhmongmien
+310978,hmon1333,MOUNTAIN,ʈ õ ¹/¹,274,starostinhmongmien
+310979,hmon1264,MOUNTAIN,o ŋ ¹/¹,273,starostinhmongmien
+310980,buna1273,MOUNTAIN,θ a u ²/¹ a,271,starostinhmongmien
+310981,buna1273,MOUNTAIN,ɣ e j ⁶/¹,279,starostinhmongmien
+310982,jion1236,MOUNTAIN,ŋ k j ɔ ŋ ⁵³,275,starostinhmongmien
+310983,jion1236,MOUNTAIN,k j ɔ ŋ ³³,275,starostinhmongmien
+310984,jion1236,MOUNTAIN,tʃ i ⁴³,281,starostinhmongmien
+310985,youn1235,MOUNTAIN,k ǝ ³³ → k o ŋ ¹³,275,starostinhmongmien
+310986,youn1235,MOUNTAIN,k o ŋ ¹³,275,starostinhmongmien
+310987,pahn1237,MOUNTAIN,t e i ³³ → k ɛ ⁵⁵,276,starostinhmongmien
+310988,pahn1237,MOUNTAIN,a ⁴⁴ → j ɔ̃ ³¹,280,starostinhmongmien
+310989,wuna1248,MOUNTAIN,j u ŋ ¹³,273,starostinhmongmien
+310990,shee1238,MOUNTAIN,k j e ⁶/¹,278,starostinhmongmien
+310991,shee1238,MOUNTAIN,k j e ⁶/¹,278,starostinhmongmien
+310992,pana1310,MOUNTAIN,p a ⁴/¹,277,starostinhmongmien
+310993,east2371,MOUTH,p a ³⁵ → ɳ ɔ ³¹,283,starostinhmongmien
+310994,nort3244,MOUTH,n tɕ ǝ u ²/¹,282,starostinhmongmien
+310995,larg1235,MOUTH,a ⁵/¹ → tɕ a o ²/¹,286,starostinhmongmien
+310996,hmon1333,MOUTH,qʰ ɔ ³/¹ → ɲ dʑ ɔ w ²/¹,284,starostinhmongmien
+310997,hmon1264,MOUTH,ɲ dʑ a u ⁵/¹,282,starostinhmongmien
+310998,buna1273,MOUTH,n tɕ u ²/¹,282,starostinhmongmien
+310999,buna1273,MOUTH,k ǝ ³/¹ → ɲ tɕ a u ²/¹,290,starostinhmongmien
+311000,jion1236,MOUTH,n t j ɔ ³³,285,starostinhmongmien
+311001,jion1236,MOUTH,n t j e u ³¹,282,starostinhmongmien
+311002,youn1235,MOUTH,p ǝ ³¹ → l j o ³³,289,starostinhmongmien
+311003,youn1235,MOUTH,p ǝ ³¹ → l j o ³³,289,starostinhmongmien
+311004,pahn1237,MOUTH,a ³³ → l a ⁵⁵,287,starostinhmongmien
+311005,pahn1237,MOUTH,a ⁴⁴ → l a ⁵⁵,287,starostinhmongmien
+311006,wuna1248,MOUTH,n a ŋ ³⁵ → l a ⁵⁵,287,starostinhmongmien
+311007,shee1238,MOUTH,t j ɔ ²/¹,285,starostinhmongmien
+311008,shee1238,MOUTH,t j ɔ ²/¹,285,starostinhmongmien
+311009,pana1310,MOUTH,l a w ⁵/¹,288,starostinhmongmien
+311010,east2371,NAME,b u ³¹,292,starostinhmongmien
+311011,nort3244,NAME,m p e ⁵/¹,291,starostinhmongmien
+311012,larg1235,NAME,n ts i ⁵/¹,293,starostinhmongmien
+311013,hmon1333,NAME,m b e ⁴/¹,291,starostinhmongmien
+311014,hmon1264,NAME,m b e ³/¹,291,starostinhmongmien
+311015,buna1273,NAME,m p e ⁵/¹,291,starostinhmongmien
+311016,buna1273,NAME,m p e j ⁵/¹,291,starostinhmongmien
+311017,jion1236,NAME,m p a ³⁵,291,starostinhmongmien
+311018,jion1236,NAME,m p a ²²,291,starostinhmongmien
+311019,youn1235,NAME,m u ³⁵ ← h o u ³¹,297,starostinhmongmien
+311020,youn1235,NAME,m u ⁵³,291,starostinhmongmien
+311021,pahn1237,NAME,a ³³ → m u ⁵⁵,294,starostinhmongmien
+311022,pahn1237,NAME,a ⁴⁴ → m p o ⁵⁵,298,starostinhmongmien
+311023,wuna1248,NAME,n a ŋ ³⁵ → m j a ŋ ³³,296,starostinhmongmien
+311024,shee1238,NAME,m u i ²/¹,295,starostinhmongmien
+311025,shee1238,NAME,m u i ²/¹,295,starostinhmongmien
+311026,pana1310,NAME,b o ⁵/¹,292,starostinhmongmien
+311027,east2371,NECK,q ɔ ⁵⁵ → q ɯ ⁵⁵,305,starostinhmongmien
+311028,hmon1333,NECK,tɕ a ² → ˀd a ¹,304,starostinhmongmien
+311029,hmon1264,NECK,k a ʉ ³/¹ → tɬ a ŋ ¹/¹,304,starostinhmongmien
+311030,buna1273,NECK,k u ŋ ¹/¹ → tɬ ǝ ŋ ¹/¹,304,starostinhmongmien
+311031,buna1273,NECK,k ɔ ¹/¹ → tɬ ɒ ¹/¹,304,starostinhmongmien
+311032,jion1236,NECK,k a ŋ ⁵³,306,starostinhmongmien
+311033,jion1236,NECK,k a ŋ ³⁵,306,starostinhmongmien
+311034,youn1235,NECK,k ǝ ⁵³ → k a ŋ ³³,308,starostinhmongmien
+311035,youn1235,NECK,k ǝ ⁵³ → k a ŋ ³³,308,starostinhmongmien
+311036,pahn1237,NECK,a ³³ → ŋ ɔ ŋ ²²,307,starostinhmongmien
+311037,pahn1237,NECK,a ⁴⁴ → ŋ ɔ̃ ³¹,310,starostinhmongmien
+311038,wuna1248,NECK,n a ŋ ³⁵ → ɴ q u ŋ ¹³,309,starostinhmongmien
+311039,shee1238,NECK,k a ¹/¹ → k i n ¹/¹ ← k a ³/¹,308,starostinhmongmien
+311040,shee1238,NECK,k a ¹/¹ → k j e n ¹/¹,308,starostinhmongmien
+311041,pana1310,NECK,k a ¹³ → tɬ a ŋ ¹³,304,starostinhmongmien
+311042,east2371,NIGHT,x u ŋ ⁵³ → m̥ʰ a ŋ ³¹,311,starostinhmongmien
+311043,hmon1333,NIGHT,m̥ ɔ ⁴/¹,312,starostinhmongmien
+311044,hmon1264,NIGHT,m a o ³/¹,312,starostinhmongmien
+311045,jion1236,NIGHT,n tʃ a ŋ ²²,313,starostinhmongmien
+311046,jion1236,NIGHT,n tʃ ã ²¹,316,starostinhmongmien
+311047,pahn1237,NIGHT,q a ²² → m a ²²,314,starostinhmongmien
+311048,pahn1237,NIGHT,q a ³¹ → mʱ a ³¹,314,starostinhmongmien
+311049,wuna1248,NIGHT,q a ³¹ → m a ²²,314,starostinhmongmien
+311050,shee1238,NIGHT,k a ŋ ⁴/¹,315,starostinhmongmien
+311051,shee1238,NIGHT,k a ŋ ⁴/¹,315,starostinhmongmien
+311052,east2371,NOSE,d u ŋ ⁵⁵ → m j a ¹¹,317,starostinhmongmien
+311053,nort3244,NOSE,ts i ⁵/¹ → ɳ ɖʐ u ⁶/¹,320,starostinhmongmien
+311054,larg1235,NOSE,a ¹/¹ → m p y ⁶/¹,319,starostinhmongmien
+311055,hmon1333,NOSE,n dʒ ɨ ⁶/¹,318,starostinhmongmien
+311056,east2371,NOT,a ³⁵,322,starostinhmongmien
+311057,nort3244,NOT,tʂ i ⁵/¹,323,starostinhmongmien
+311058,larg1235,NOT,h i ⁵/¹,325,starostinhmongmien
+311059,hmon1333,NOT,tʃ i ⁵/¹,323,starostinhmongmien
+311060,hmon1264,NOT,tʃ ɨ ³/¹,323,starostinhmongmien
+311061,buna1273,NOT,m a ²/¹,321,starostinhmongmien
+311062,buna1273,NOT,m a ǝ ²/¹,321,starostinhmongmien
+311063,jion1236,NOT,ŋ̩ ⁵³,324,starostinhmongmien
+311064,jion1236,NOT,m̥ ³⁵,327,starostinhmongmien
+311065,youn1235,NOT,m ɔ ²²,321,starostinhmongmien
+311066,youn1235,NOT,m ɔ ²²,321,starostinhmongmien
+311067,pahn1237,NOT,ŋ̩ ³⁵,326,starostinhmongmien
+311068,pahn1237,NOT,ŋ̩ ɦ ³³,328,starostinhmongmien
+311069,wuna1248,NOT,a ⁵³,322,starostinhmongmien
+311070,shee1238,NOT,h a ⁶/¹,325,starostinhmongmien
+311071,shee1238,NOT,a ⁶/¹,329,starostinhmongmien
+311072,east2371,ONE,a ⁵⁵,331,starostinhmongmien
+311073,nort3244,ONE,ʔ i ¹/¹,332,starostinhmongmien
+311074,larg1235,ONE,i ¹/¹,331,starostinhmongmien
+311075,hmon1333,ONE,i ¹/¹,331,starostinhmongmien
+311076,hmon1264,ONE,ʔ i ¹/¹,332,starostinhmongmien
+311077,buna1273,ONE,i ¹/¹,330,starostinhmongmien
+311078,buna1273,ONE,i ¹/¹,330,starostinhmongmien
+311079,jion1236,ONE,i ⁵³,333,starostinhmongmien
+311080,jion1236,ONE,i ³⁵,333,starostinhmongmien
+311081,youn1235,ONE,ʑ e ²²,335,starostinhmongmien
+311082,youn1235,ONE,ʑ e ²²,335,starostinhmongmien
+311083,pahn1237,ONE,j i ²²,334,starostinhmongmien
+311084,pahn1237,ONE,jʱ ʉ ³¹,336,starostinhmongmien
+311085,wuna1248,ONE,i ¹³,331,starostinhmongmien
+311086,shee1238,ONE,i ⁶/¹,333,starostinhmongmien
+311087,shee1238,ONE,i ⁶/¹,333,starostinhmongmien
+311088,pana1310,ONE,a ⁴/¹,331,starostinhmongmien
+311089,east2371,PERSON,n e ³¹,337,starostinhmongmien
+311090,nort3244,PERSON,n e n ¹/¹,337,starostinhmongmien
+311091,larg1235,PERSON,t ɯ ¹/¹ → n ɯ ¹/¹,338,starostinhmongmien
+311092,hmon1333,PERSON,n ɤ̃ ⁶/¹,337,starostinhmongmien
+311093,hmon1264,PERSON,n e ŋ ⁵/¹,337,starostinhmongmien
+311094,buna1273,PERSON,n o ²/¹,337,starostinhmongmien
+311095,buna1273,PERSON,n o u ²/¹,337,starostinhmongmien
+311096,jion1236,PERSON,n a j ³³,337,starostinhmongmien
+311097,jion1236,PERSON,n ɛ ³¹,337,starostinhmongmien
+311098,youn1235,PERSON,n ɔ ¹³,337,starostinhmongmien
+311099,youn1235,PERSON,n ɔ ¹³,337,starostinhmongmien
+311100,pahn1237,PERSON,n j ɛ ³³,337,starostinhmongmien
+311101,pahn1237,PERSON,a ⁴⁴ → mʱ j ɛ ³³,339,starostinhmongmien
+311102,wuna1248,PERSON,n a i ³³,337,starostinhmongmien
+311103,shee1238,PERSON,n e ²/¹,337,starostinhmongmien
+311104,shee1238,PERSON,n e ²/¹,337,starostinhmongmien
+311105,pana1310,PERSON,n a ²/¹,337,starostinhmongmien
+311106,east2371,RAIN (PRECIPITATION),n a ŋ ³⁵,341,starostinhmongmien
+311107,nort3244,RAIN (PRECIPITATION),n a ŋ ⁶/¹,341,starostinhmongmien
+311108,larg1235,RAIN (PRECIPITATION),n a ɯ ⁶/¹,341,starostinhmongmien
+311109,hmon1333,RAIN (PRECIPITATION),n a ⁶/¹,341,starostinhmongmien
+311110,hmon1264,RAIN (PRECIPITATION),n a ŋ ⁶/¹,341,starostinhmongmien
+311111,buna1273,RAIN (PRECIPITATION),a ŋ ¹/¹ → n ɔ ŋ ⁶/¹,340,starostinhmongmien
+311112,buna1273,RAIN (PRECIPITATION),n ɒ ⁶/¹,341,starostinhmongmien
+311113,jion1236,RAIN (PRECIPITATION),n a ŋ ²²,341,starostinhmongmien
+311114,jion1236,RAIN (PRECIPITATION),n a ŋ ²¹,341,starostinhmongmien
+311115,youn1235,RAIN (PRECIPITATION),l ǝ ŋ ³³ → ŋ a ³¹,343,starostinhmongmien
+311116,youn1235,RAIN (PRECIPITATION),l ǝ ³³ → ŋ a ²²,343,starostinhmongmien
+311117,pahn1237,RAIN (PRECIPITATION),a ŋ ³⁵ → m o ŋ ⁴⁴,342,starostinhmongmien
+311118,pahn1237,RAIN (PRECIPITATION),ɔ̃ ³⁵ → m õ ⁴⁴,344,starostinhmongmien
+311119,wuna1248,RAIN (PRECIPITATION),n u ŋ ³¹,341,starostinhmongmien
+311120,shee1238,RAIN (PRECIPITATION),n u ŋ ⁴/¹,341,starostinhmongmien
+311121,shee1238,RAIN (PRECIPITATION),n u ŋ ⁴/¹,341,starostinhmongmien
+311122,pana1310,RAIN (PRECIPITATION),n o ŋ ⁶/¹,341,starostinhmongmien
+311123,east2371,RED,tsʰ e ³¹,346,starostinhmongmien
+311124,nort3244,RED,l a ¹/¹,347,starostinhmongmien
+311125,larg1235,RED,l i e ¹/¹,347,starostinhmongmien
+311126,hmon1333,RED,l j a ¹/¹,347,starostinhmongmien
+311127,hmon1264,RED,l a ¹/¹,347,starostinhmongmien
+311128,buna1273,RED,l ǝ ŋ ¹/¹,345,starostinhmongmien
+311129,buna1273,RED,l ɒ ¹/¹,347,starostinhmongmien
+311130,jion1236,RED,θ i ³⁵,346,starostinhmongmien
+311131,jion1236,RED,θ i ²²,346,starostinhmongmien
+311132,youn1235,RED,tsʰ u n ³⁵,350,starostinhmongmien
+311133,youn1235,RED,tsʰ u n ⁵³,350,starostinhmongmien
+311134,pahn1237,RED,t a i ⁴⁴,348,starostinhmongmien
+311135,pahn1237,RED,tʰ ɤ ⁴⁴,351,starostinhmongmien
+311136,wuna1248,RED,t a i ³¹,348,starostinhmongmien
+311137,shee1238,RED,s j i ⁵/¹,346,starostinhmongmien
+311138,shee1238,RED,s i ⁵/¹,346,starostinhmongmien
+311139,pana1310,RED,b i ŋ ⁵/¹,349,starostinhmongmien
+311140,east2371,ROAD,m ɔ ³¹ → k ʋ ⁵⁵,353,starostinhmongmien
+311141,nort3244,ROAD,k e ³/¹,352,starostinhmongmien
+311142,larg1235,ROAD,tɕ i ³/¹,352,starostinhmongmien
+311143,hmon1333,ROAD,k e ³/¹,352,starostinhmongmien
+311144,hmon1264,ROAD,k e ²/¹,352,starostinhmongmien
+311145,hmon1264,ROAD,k i ²/¹,352,starostinhmongmien
+311146,buna1273,ROAD,k j e ³/¹,352,starostinhmongmien
+311147,buna1273,ROAD,tɕ e ³/¹,352,starostinhmongmien
+311148,jion1236,ROAD,k j a ⁵³,352,starostinhmongmien
+311149,jion1236,ROAD,k j a ³⁵,352,starostinhmongmien
+311150,youn1235,ROAD,k o u ²²,352,starostinhmongmien
+311151,youn1235,ROAD,k o u ²²,352,starostinhmongmien
+311152,pahn1237,ROAD,q o ²²,352,starostinhmongmien
+311153,pahn1237,ROAD,q o ³¹,352,starostinhmongmien
+311154,wuna1248,ROAD,q o ¹³,352,starostinhmongmien
+311155,shee1238,ROAD,k a ³/¹,352,starostinhmongmien
+311156,shee1238,ROAD,k j a ³/¹,352,starostinhmongmien
+311157,pana1310,ROAD,l a ⁶/¹ → k j a ³/¹,354,starostinhmongmien
+311158,east2371,ROOT,g ɯ ³³ ← g ɯ ³³,356,starostinhmongmien
+311159,nort3244,ROOT,tɕ a ŋ ²/¹,357,starostinhmongmien
+311160,larg1235,ROOT,a ¹/¹ → tɕ a ɯ ¹/¹,358,starostinhmongmien
+311161,hmon1333,ROOT,tɕ a ⁶/¹,357,starostinhmongmien
+311162,hmon1264,ROOT,tɕ a ŋ ⁶/¹,357,starostinhmongmien
+311163,buna1273,ROOT,k a ³/¹ → tɕ ɔ ŋ ²/¹,355,starostinhmongmien
+311164,buna1273,ROOT,k ǝ ³/¹ → tɕ o ²/¹,355,starostinhmongmien
+311165,jion1236,ROOT,k a ⁴⁴,357,starostinhmongmien
+311166,jion1236,ROOT,tʃ a ŋ ³¹,357,starostinhmongmien
+311167,youn1235,ROOT,f ɔ ³³ → k ǝ ³³ → t j a ŋ ¹³,361,starostinhmongmien
+311168,youn1235,ROOT,f ɔ ³³ → t ǝ ³³ → t j a ŋ ¹³,361,starostinhmongmien
+311169,pahn1237,ROOT,k o ŋ ³³ ← t j a ³⁵,355,starostinhmongmien
+311170,pahn1237,ROOT,q ɔ̃ ³³ ← p j a ³⁵,355,starostinhmongmien
+311171,wuna1248,ROOT,k u ŋ ³³ ← ts a ³⁵,355,starostinhmongmien
+311172,shee1238,ROOT,t ɔ ŋ ⁵/¹ → kʰ j u ŋ ²/¹,360,starostinhmongmien
+311173,shee1238,ROOT,t ɔ ŋ ⁵/¹ → kʰ j u ŋ ²/¹,360,starostinhmongmien
+311174,pana1310,ROOT,tɕʰ u ŋ ³¹ ³/¹ ← tɕʰ u ŋ ³¹ ³/¹,359,starostinhmongmien
+311175,nort3244,ROUND,kʰ u n ²/¹,363,starostinhmongmien
+311176,larg1235,ROUND,q o ³/¹ → l o ⁸/¹,362,starostinhmongmien
+311177,hmon1333,ROUND,kʰ ɤ̃ ²/¹,363,starostinhmongmien
+311178,hmon1264,ROUND,qʰ e ŋ ⁵/¹,363,starostinhmongmien
+311179,hmon1264,ROUND,kʰ e ŋ ⁵/¹,363,starostinhmongmien
+311180,buna1273,ROUND,θ u ⁶/¹ → l u ŋ ¹/¹,362,starostinhmongmien
+311181,buna1273,ROUND,t ɒ ²/¹,368,starostinhmongmien
+311182,jion1236,ROUND,k l w e j ³³,364,starostinhmongmien
+311183,jion1236,ROUND,k l w e j ³¹,364,starostinhmongmien
+311184,youn1235,ROUND,l u n ³³,367,starostinhmongmien
+311185,youn1235,ROUND,l u n ³³,367,starostinhmongmien
+311186,pahn1237,ROUND,q a ³³ → l a ŋ ³³,362,starostinhmongmien
+311187,pahn1237,ROUND,q ɔ̃ ³⁵ → lʱ ɔ̃ ³¹,362,starostinhmongmien
+311188,wuna1248,ROUND,l a i ³⁵,366,starostinhmongmien
+311189,shee1238,ROUND,z i n ²/¹,363,starostinhmongmien
+311190,shee1238,ROUND,z i n ²/¹,363,starostinhmongmien
+311191,pana1310,ROUND,tɬ u ŋ ³¹ ³/¹,365,starostinhmongmien
+311192,east2371,SAY,tɕʰ e ³⁵,373,starostinhmongmien
+311193,nort3244,SAY,h a j ⁷/¹,374,starostinhmongmien
+311194,larg1235,SAY,h i ⁷/¹,374,starostinhmongmien
+311195,hmon1333,SAY,h a j ⁵/¹,374,starostinhmongmien
+311196,hmon1264,SAY,h a ⁴/¹,374,starostinhmongmien
+311197,buna1273,SAY,t ɯ ²/¹,373,starostinhmongmien
+311198,buna1273,SAY,tɕ i ⁴/¹,373,starostinhmongmien
+311199,jion1236,SAY,tʃ ɔ u ŋ ²²,375,starostinhmongmien
+311200,jion1236,SAY,tʃ a ŋ ²¹,377,starostinhmongmien
+311201,pahn1237,SAY,k a ŋ ²²,376,starostinhmongmien
+311202,pahn1237,SAY,k ɔ̃ ³¹,376,starostinhmongmien
+311203,wuna1248,SAY,k u ŋ ¹³,376,starostinhmongmien
+311204,shee1238,SAY,k u ŋ ³/¹,376,starostinhmongmien
+311205,shee1238,SAY,k u ŋ ³/¹,376,starostinhmongmien
+311206,east2371,SEE,ɕ a ŋ ³¹ → ts a ⁵⁵,379,starostinhmongmien
+311207,nort3244,SEE,p o ⁸/¹,378,starostinhmongmien
+311208,larg1235,SEE,p o ⁸/¹,378,starostinhmongmien
+311209,hmon1333,SEE,p ɔ ⁷/¹,378,starostinhmongmien
+311210,hmon1264,SEE,p u ⁷/¹,378,starostinhmongmien
+311211,buna1273,SEE,p ɔ ⁸/¹,378,starostinhmongmien
+311212,buna1273,SEE,p u ɔ ⁸/¹,378,starostinhmongmien
+311213,jion1236,SEE,l e ŋ ³⁵ → p u ³²,380,starostinhmongmien
+311214,jion1236,SEE,l e ŋ ²² → p u ³²,380,starostinhmongmien
+311215,youn1235,SEE,m a ŋ ³⁵ → tsʰ u ²²,379,starostinhmongmien
+311216,youn1235,SEE,m a ŋ ⁵³ → tsʰ o ²²,379,starostinhmongmien
+311217,pahn1237,SEE,p a ³¹,378,starostinhmongmien
+311218,pahn1237,SEE,pʰ a ³¹,378,starostinhmongmien
+311219,wuna1248,SEE,pʰ a ³¹,378,starostinhmongmien
+311220,shee1238,SEE,m ɔ ⁶/¹ → pʰ ɤ ⁶/¹,381,starostinhmongmien
+311221,shee1238,SEE,m ɔ ⁶/¹ → pʰ u ⁶/¹,381,starostinhmongmien
+311222,pana1310,SEE,p u ⁵³,378,starostinhmongmien
+311223,youn1235,SEE,t ǝ ³³ → p u ³¹,382,starostinhmongmien
+311224,east2371,SEED,ɲ ɯ ⁵³,383,starostinhmongmien
+311225,east2371,SIT,tʰ ɛ ⁵⁵ ← p j a ³⁵,386,starostinhmongmien
+311226,nort3244,SIT,ɲ a o ¹/¹,385,starostinhmongmien
+311227,larg1235,SIT,n i o ¹/¹,385,starostinhmongmien
+311228,hmon1333,SIT,ʒ ɔ w ⁷/¹,387,starostinhmongmien
+311229,hmon1264,SIT,ɲ a o ³/¹,385,starostinhmongmien
+311230,buna1273,SIT,ɲ i ¹/¹,385,starostinhmongmien
+311231,buna1273,SIT,ɲ a ¹/¹,385,starostinhmongmien
+311232,jion1236,SIT,ɲ a ŋ ⁴⁴,388,starostinhmongmien
+311233,jion1236,SIT,ɲ a ŋ ⁴⁴,388,starostinhmongmien
+311234,youn1235,SIT,t j a ŋ ³⁵,388,starostinhmongmien
+311235,youn1235,SIT,t j a ŋ ⁵³,388,starostinhmongmien
+311236,pahn1237,SIT,ɲ o ŋ ³⁵,388,starostinhmongmien
+311237,pahn1237,SIT,ɲ õ ³⁵,388,starostinhmongmien
+311238,wuna1248,SIT,ɲ tɕ o ³¹,389,starostinhmongmien
+311239,shee1238,SIT,ŋ j u ŋ ¹/¹,388,starostinhmongmien
+311240,shee1238,SIT,ŋ j u ŋ ¹/¹,388,starostinhmongmien
+311241,pana1310,SIT,n j o ŋ ¹/¹,388,starostinhmongmien
+311242,east2371,SKIN,tɕ ɔ ³¹ ← tɕ ɔ ³¹,391,starostinhmongmien
+311243,nort3244,SKIN,t e u ⁵/¹,392,starostinhmongmien
+311244,larg1235,SKIN,p i ⁵/¹ → t o e j ³/¹,394,starostinhmongmien
+311245,hmon1333,SKIN,t ǝ w ³/¹,392,starostinhmongmien
+311246,hmon1264,SKIN,t a ʉ ²/¹,392,starostinhmongmien
+311247,buna1273,SKIN,k a ³/¹ → tɬ a u ⁵/¹,390,starostinhmongmien
+311248,buna1273,SKIN,k ǝ ³/¹ → tɬ a ǝ ⁵/¹,390,starostinhmongmien
+311249,jion1236,SKIN,k j e u ³⁵,393,starostinhmongmien
+311250,jion1236,SKIN,k j e u ²²,393,starostinhmongmien
+311251,youn1235,SKIN,k u ³⁵,397,starostinhmongmien
+311252,youn1235,SKIN,k u ⁵³,397,starostinhmongmien
+311253,pahn1237,SKIN,q a ²² → l j u ⁵⁵,395,starostinhmongmien
+311254,pahn1237,SKIN,q a ³¹ → l j ʉ ⁵⁵,395,starostinhmongmien
+311255,wuna1248,SKIN,qʰ a u ³⁵,393,starostinhmongmien
+311256,shee1238,SKIN,kʰ ɤ ⁵/¹,397,starostinhmongmien
+311257,shee1238,SKIN,kʰ u ⁵/¹,397,starostinhmongmien
+311258,pana1310,SKIN,tɬ j u ⁵/¹ ← tɬ j u ⁵/¹,396,starostinhmongmien
+311259,east2371,SLEEP,p a ³¹,398,starostinhmongmien
+311260,nort3244,SLEEP,p u ⁵/¹,398,starostinhmongmien
+311261,larg1235,SLEEP,p u ⁵/¹,398,starostinhmongmien
+311262,hmon1333,SLEEP,n d u ¹/¹,400,starostinhmongmien
+311263,hmon1264,SLEEP,tʃ a u ⁶/¹ ← ʒ u ⁶/¹,399,starostinhmongmien
+311264,buna1273,SLEEP,p a u ⁵/¹,398,starostinhmongmien
+311265,buna1273,SLEEP,p a ǝ ⁵/¹,398,starostinhmongmien
+311266,jion1236,SLEEP,p a u ³⁵,398,starostinhmongmien
+311267,jion1236,SLEEP,p ɔ ²²,398,starostinhmongmien
+311268,youn1235,SLEEP,p u j ³⁵,398,starostinhmongmien
+311269,youn1235,SLEEP,p u j ⁵³,398,starostinhmongmien
+311270,pahn1237,SLEEP,v a ŋ ³⁵,401,starostinhmongmien
+311271,pahn1237,SLEEP,p ɤ ⁵⁵,398,starostinhmongmien
+311272,wuna1248,SLEEP,p e i ⁵⁵,398,starostinhmongmien
+311273,shee1238,SLEEP,p ɔ ⁵/¹,398,starostinhmongmien
+311274,shee1238,SLEEP,p ɔ ⁵/¹,398,starostinhmongmien
+311275,pana1310,SLEEP,p u ⁵/¹,398,starostinhmongmien
+311276,east2371,SMALL,ɲ a ³⁵,403,starostinhmongmien
+311277,nort3244,SMALL,ʑ ǝ u ⁵/¹,405,starostinhmongmien
+311278,larg1235,SMALL,ʂ a o ¹/¹,405,starostinhmongmien
+311279,hmon1333,SMALL,m e ⁴/¹,404,starostinhmongmien
+311280,hmon1264,SMALL,m i ²/¹,404,starostinhmongmien
+311281,buna1273,SMALL,v i ³/¹,402,starostinhmongmien
+311282,buna1273,SMALL,j a u ⁵/¹,405,starostinhmongmien
+311283,jion1236,SMALL,ʑ u ³⁵,405,starostinhmongmien
+311284,jion1236,SMALL,ʑ u ²²,405,starostinhmongmien
+311285,youn1235,SMALL,l̥ e ⁵³,407,starostinhmongmien
+311286,youn1235,SMALL,l̥ e ⁵³,407,starostinhmongmien
+311287,pahn1237,SMALL,j u ⁵⁵,405,starostinhmongmien
+311288,pahn1237,SMALL,j ʉ ⁵⁵,405,starostinhmongmien
+311289,wuna1248,SMALL,j u ⁵⁵,405,starostinhmongmien
+311290,shee1238,SMALL,s ɔ ŋ ¹/¹,406,starostinhmongmien
+311291,shee1238,SMALL,s ɔ ŋ ¹/¹,406,starostinhmongmien
+311292,pana1310,SMALL,j u ⁵/¹,405,starostinhmongmien
+311293,hmon1264,SMALL,j a u ³/¹,405,starostinhmongmien
+311294,hmon1264,SMALL,j a u ⁶/¹,405,starostinhmongmien
+311295,east2371,SMOKE (EXHAUST),tɕ ɔ ³⁵ ← kʰ a ⁵⁵,409,starostinhmongmien
+311296,nort3244,SMOKE (EXHAUST),p a ŋ ⁵/¹ → n tɕʰ o ⁵/¹,410,starostinhmongmien
+311297,larg1235,SMOKE (EXHAUST),p a ɯ ⁵/¹ → n tɕʰ o ⁵/¹,410,starostinhmongmien
+311298,hmon1333,SMOKE (EXHAUST),ɲ tɕʰ ɔ ⁴/¹,411,starostinhmongmien
+311299,hmon1264,SMOKE (EXHAUST),p a ŋ ³/¹ ← t a ʉ ⁶/¹,410,starostinhmongmien
+311300,buna1273,SMOKE (EXHAUST),k a ³/¹ → p ɔ ŋ ⁵/¹ ← t o ⁴/¹,408,starostinhmongmien
+311301,buna1273,SMOKE (EXHAUST),p ɒ ⁵/¹ ← t i u ⁴/¹,410,starostinhmongmien
+311302,jion1236,SMOKE (EXHAUST),t a u ³¹ → ɔ ⁴³,412,starostinhmongmien
+311303,jion1236,SMOKE (EXHAUST),t ɔ ⁵³ → n ǝ u ²²,417,starostinhmongmien
+311304,youn1235,SMOKE (EXHAUST),t o ²² → ʑ i n ³³,416,starostinhmongmien
+311305,youn1235,SMOKE (EXHAUST),ʑ i n ³³,416,starostinhmongmien
+311306,pahn1237,SMOKE (EXHAUST),q a ²² → u ³⁵,413,starostinhmongmien
+311307,pahn1237,SMOKE (EXHAUST),q a ³¹ → ʉ ³⁵,413,starostinhmongmien
+311308,wuna1248,SMOKE (EXHAUST),u ³⁵ ← t o u ²²,415,starostinhmongmien
+311309,shee1238,SMOKE (EXHAUST),tʰ ɔ ⁴/¹ ← k a ¹/¹ ← n ɔ ¹/¹,414,starostinhmongmien
+311310,shee1238,SMOKE (EXHAUST),tʰ ɔ ⁴/¹ ← k a ¹/¹ ← n ɔ ¹/¹,414,starostinhmongmien
+311311,hmon1333,STAND,ʃ ǝ w ³/¹,424,starostinhmongmien
+311312,hmon1264,STAND,ʃ a ʉ ²/¹ ← ɲ dʒ u ⁶/¹,425,starostinhmongmien
+311313,buna1273,STAND,sʰ o ³/¹,424,starostinhmongmien
+311314,buna1273,STAND,sʰ o u ³/¹,424,starostinhmongmien
+311315,jion1236,STAND,θ j a u ⁵³,424,starostinhmongmien
+311316,jion1236,STAND,θ ɔ ³⁵,424,starostinhmongmien
+311317,youn1235,STAND,s o ²²,424,starostinhmongmien
+311318,youn1235,STAND,s o ²²,424,starostinhmongmien
+311319,pahn1237,STAND,tɕ a ⁴⁴,424,starostinhmongmien
+311320,pahn1237,STAND,tɕʰ a ⁴⁴,424,starostinhmongmien
+311321,wuna1248,STAND,ɕ o u ¹³,424,starostinhmongmien
+311322,shee1238,STAND,s ɤ ³/¹,424,starostinhmongmien
+311323,shee1238,STAND,s u ³/¹,424,starostinhmongmien
+311324,pana1310,STAND,s j u ³/¹,424,starostinhmongmien
+311325,east2371,STAR,q e i ⁵³,427,starostinhmongmien
+311326,nort3244,STAR,n̥ o ¹/¹ → q o ¹/¹,428,starostinhmongmien
+311327,larg1235,STAR,n̥ u ¹/¹ → q u ¹/¹,428,starostinhmongmien
+311328,hmon1333,STAR,n̥ u ¹/¹ → q u ¹/¹,428,starostinhmongmien
+311329,hmon1264,STAR,n u ¹/¹ → q u ¹/¹,428,starostinhmongmien
+311330,buna1273,STAR,tɕ e ¹/¹ → k u ŋ ¹/¹,426,starostinhmongmien
+311331,buna1273,STAR,t ɔ ¹/¹ → k ɔ ¹/¹,433,starostinhmongmien
+311332,jion1236,STAR,k a ⁴⁴ → n t a ŋ ⁴⁴,429,starostinhmongmien
+311333,jion1236,STAR,k a ⁴⁴ → n t a ŋ ⁴⁴,429,starostinhmongmien
+311334,youn1235,STAR,l̥ i n ³³ ← t a j ³⁵,432,starostinhmongmien
+311335,youn1235,STAR,l i n ³³ ← t a j ⁵³,432,starostinhmongmien
+311336,pahn1237,STAR,a ³³ → q a ŋ ³⁵,430,starostinhmongmien
+311337,pahn1237,STAR,a ⁴⁴ → q ɔ̃ ³⁵,434,starostinhmongmien
+311338,wuna1248,STAR,n a ŋ ³⁵ → q a ŋ ³⁵,430,starostinhmongmien
+311339,shee1238,STAR,n e ⁵/¹ ← t a ŋ ¹/¹,431,starostinhmongmien
+311340,shee1238,STAR,n e ⁵/¹ ← t a ŋ ¹/¹,431,starostinhmongmien
+311341,east2371,STONE,q u ⁵³ → ʋ ⁵³,436,starostinhmongmien
+311342,nort3244,STONE,ʐ e ¹/¹,437,starostinhmongmien
+311343,larg1235,STONE,a ¹/¹ → v ǝ ¹/¹,439,starostinhmongmien
+311344,hmon1333,STONE,p ɔ ¹/¹ → ʒ e ¹/¹,435,starostinhmongmien
+311345,hmon1264,STONE,ʒ e ¹/¹,437,starostinhmongmien
+311346,buna1273,STONE,f a ³/¹ → ɣ e ¹/¹,435,starostinhmongmien
+311347,buna1273,STONE,ɣ e j ¹/¹,437,starostinhmongmien
+311348,jion1236,STONE,ŋ k j a ⁴⁴,438,starostinhmongmien
+311349,jion1236,STONE,ʑ a ⁴⁴,437,starostinhmongmien
+311350,youn1235,STONE,h a ²² → v j e ³³,439,starostinhmongmien
+311351,youn1235,STONE,h a ²² → v e j ³³,439,starostinhmongmien
+311352,pahn1237,STONE,q a ²² → j o ³⁵,440,starostinhmongmien
+311353,pahn1237,STONE,q a ³¹ → j o ³⁵,440,starostinhmongmien
+311354,wuna1248,STONE,n t j o u ³³ → ts i ¹³ → j o ³⁵,443,starostinhmongmien
+311355,shee1238,STONE,ŋ a ¹/¹ ← k ɔ ³/¹,442,starostinhmongmien
+311356,shee1238,STONE,z a ¹/¹ ← k ɔ ³/¹,442,starostinhmongmien
+311357,pana1310,STONE,p e i ⁵/¹,441,starostinhmongmien
+311358,east2371,SUN,qʰ a ³⁵ → n̥ʰ e ⁵³,445,starostinhmongmien
+311359,nort3244,SUN,n̥ o ¹/¹,446,starostinhmongmien
+311360,larg1235,SUN,l u ¹/¹ → n̥ u ¹/¹,448,starostinhmongmien
+311361,hmon1333,SUN,n̥ u ¹/¹,446,starostinhmongmien
+311362,hmon1264,SUN,n u ¹/¹,446,starostinhmongmien
+311363,buna1273,SUN,p o ³/¹ → n̥ ɔ ŋ ¹/¹,444,starostinhmongmien
+311364,buna1273,SUN,v e i ³/¹ → n̥ ɒ ¹/¹,453,starostinhmongmien
+311365,jion1236,SUN,n t o ŋ ²²,447,starostinhmongmien
+311366,jion1236,SUN,n t o ŋ ²¹,447,starostinhmongmien
+311367,youn1235,SUN,h a ³¹ → n ɔ ³³,452,starostinhmongmien
+311368,youn1235,SUN,h a ³¹ → n ɔ ³³,452,starostinhmongmien
+311369,pahn1237,SUN,a ³³ → l̥ a ⁵⁵ → q a ²² → n̥ e i ³⁵,449,starostinhmongmien
+311370,pahn1237,SUN,a ⁴⁴ → ɔ̃ ³⁵ → n̥ e ³⁵,454,starostinhmongmien
+311371,wuna1248,SUN,n a ŋ ³⁵ → n̥ e ³⁵,451,starostinhmongmien
+311372,shee1238,SUN,n ɔ ¹/¹ ← k ɔ ³/¹,450,starostinhmongmien
+311373,shee1238,SUN,n ɔ k ⁷/¹ ← k ɔ ³/¹,450,starostinhmongmien
+311374,shee1238,SUN,n ɔ ¹/¹ ← k ɔ ³/¹,450,starostinhmongmien
+311375,pana1310,SUN,n i ¹/¹,446,starostinhmongmien
+311376,east2371,SWIM,ɳ a ŋ ⁵⁵ ← ʋ ⁵³,455,starostinhmongmien
+311377,nort3244,SWIM,l u a ⁸/¹,456,starostinhmongmien
+311378,larg1235,SWIM,l a ⁸/¹ ← a o ⁸/¹,457,starostinhmongmien
+311379,hmon1333,SWIM,w ǝ ⁴/¹ → l w ǝ ⁷/¹ ← ˀd e ²/¹,456,starostinhmongmien
+311380,hmon1264,SWIM,l w a ⁷/¹ ← tɬ e ⁵/¹,456,starostinhmongmien
+311381,pana1310,SWIM,d u ŋ ⁵³ ← ʔ ŋ ¹³,458,starostinhmongmien
+311382,east2371,TAIL,t i ³⁵ → t a ³³,460,starostinhmongmien
+311383,nort3244,TAIL,k u ⁵/¹ → d u ³/¹,461,starostinhmongmien
+311384,larg1235,TAIL,a ³/¹ → ts a ɯ ⁴/¹,463,starostinhmongmien
+311385,hmon1333,TAIL,k ɔ ⁴/¹ → t ɨ ⁴/¹,461,starostinhmongmien
+311386,hmon1264,TAIL,q ʉ ³/¹ → t ʉ ²/¹,461,starostinhmongmien
+311387,buna1273,TAIL,t a u ³/¹,459,starostinhmongmien
+311388,buna1273,TAIL,k ǝ ³/¹ → ts ǝ ³/¹,461,starostinhmongmien
+311389,jion1236,TAIL,ð a u ⁵³,462,starostinhmongmien
+311390,jion1236,TAIL,l ɔ ³⁵,465,starostinhmongmien
+311391,youn1235,TAIL,k ǝ ³³ → t e ²²,461,starostinhmongmien
+311392,youn1235,TAIL,k ǝ ³³ → t e ²²,461,starostinhmongmien
+311393,pahn1237,TAIL,t a i ³³ → t a i ²²,460,starostinhmongmien
+311394,pahn1237,TAIL,tʰ ɤ ³³ → t ɤ ³¹,460,starostinhmongmien
+311395,wuna1248,TAIL,t e i ³³ → t e i ¹³,460,starostinhmongmien
+311396,shee1238,TAIL,k a ¹/¹ → t ɔ ³/¹,461,starostinhmongmien
+311397,shee1238,TAIL,k a ¹/¹ → t ɔ ³/¹,461,starostinhmongmien
+311398,pana1310,TAIL,l a ⁴⁴ → t j e ⁴⁴,464,starostinhmongmien
+311399,east2371,THAT,t ɛ ⁵⁵ → ɛ ⁵⁵,467,starostinhmongmien
+311400,nort3244,THAT,ʔ i ³/¹,470,starostinhmongmien
+311401,larg1235,THAT,tʰ a o ⁵/¹,468,starostinhmongmien
+311402,hmon1333,THAT,n d ǝ w ⁸/¹,468,starostinhmongmien
+311403,hmon1264,THAT,n d a ʉ ⁷/¹,468,starostinhmongmien
+311404,buna1273,THAT,u ŋ ¹/¹,466,starostinhmongmien
+311405,buna1273,THAT,ɔ ¹/¹,474,starostinhmongmien
+311406,jion1236,THAT,m i ⁴⁴,469,starostinhmongmien
+311407,jion1236,THAT,m i ⁴⁴,469,starostinhmongmien
+311408,youn1235,THAT,n i ³¹,468,starostinhmongmien
+311409,youn1235,THAT,n i ²²,468,starostinhmongmien
+311410,pahn1237,THAT,ŋ̩ ⁵⁵,471,starostinhmongmien
+311411,pahn1237,THAT,ŋ̩ ⁵⁵,471,starostinhmongmien
+311412,wuna1248,THAT,w o ⁵⁵,473,starostinhmongmien
+311413,shee1238,THAT,v a ⁴/¹,473,starostinhmongmien
+311414,shee1238,THAT,v a ⁴/¹,473,starostinhmongmien
+311415,pana1310,THAT,l õ ¹/¹ → t i ŋ ³/¹,472,starostinhmongmien
+311416,larg1235,THAT,ɳ tʂ i ⁷/¹,468,starostinhmongmien
+311417,east2371,THIS,n e ⁵⁵,480,starostinhmongmien
+311418,nort3244,THIS,n a ³/¹,480,starostinhmongmien
+311419,larg1235,THIS,n i ³/¹,480,starostinhmongmien
+311420,hmon1333,THIS,n ɔ ⁴/¹,480,starostinhmongmien
+311421,hmon1264,THIS,n w a ²/¹,480,starostinhmongmien
+311422,buna1273,THIS,n ɔ ŋ ³/¹,480,starostinhmongmien
+311423,buna1273,THIS,n a ǝ ³/¹,480,starostinhmongmien
+311424,jion1236,THIS,n e ⁵³,480,starostinhmongmien
+311425,jion1236,THIS,n i ³⁵,480,starostinhmongmien
+311426,youn1235,THIS,n o ²²,480,starostinhmongmien
+311427,youn1235,THIS,n o ²²,480,starostinhmongmien
+311428,pahn1237,THIS,ŋ̩ ²²,481,starostinhmongmien
+311429,pahn1237,THIS,ŋ̩ ³¹,483,starostinhmongmien
+311430,wuna1248,THIS,n e ¹³,480,starostinhmongmien
+311431,shee1238,THIS,n e ³/¹,480,starostinhmongmien
+311432,shee1238,THIS,n i ³/¹,480,starostinhmongmien
+311433,pana1310,THIS,l õ ¹/¹ → n i ⁶/¹,482,starostinhmongmien
+311434,east2371,THOU,m u ³¹,485,starostinhmongmien
+311435,nort3244,THOU,n e ²/¹,487,starostinhmongmien
+311436,larg1235,THOU,tɕ y ⁶/¹,486,starostinhmongmien
+311437,hmon1333,THOU,k ɔ ²/¹,484,starostinhmongmien
+311438,hmon1264,THOU,k a o ⁵/¹,484,starostinhmongmien
+311439,buna1273,THOU,k a u ²/¹,484,starostinhmongmien
+311440,buna1273,THOU,k ǝ ²/¹,484,starostinhmongmien
+311441,jion1236,THOU,m a ŋ ³³,485,starostinhmongmien
+311442,jion1236,THOU,m ǝ ŋ ³¹,485,starostinhmongmien
+311443,youn1235,THOU,ŋ̩ ¹³,490,starostinhmongmien
+311444,youn1235,THOU,ŋ̩ ¹³,490,starostinhmongmien
+311445,pahn1237,THOU,m u ³³,485,starostinhmongmien
+311446,pahn1237,THOU,mʱ ʉ ³³,485,starostinhmongmien
+311447,wuna1248,THOU,m̥ ³¹,489,starostinhmongmien
+311448,shee1238,THOU,m u ŋ ²/¹,485,starostinhmongmien
+311449,shee1238,THOU,m u ŋ ²/¹,485,starostinhmongmien
+311450,pana1310,THOU,ʔ ŋ ³/¹,488,starostinhmongmien
+311451,east2371,TOOTH,q u ⁵³ → s ɛ ⁵⁵,492,starostinhmongmien
+311452,nort3244,TOOTH,n a ³/¹,493,starostinhmongmien
+311453,larg1235,TOOTH,n̥ i e ³/¹,493,starostinhmongmien
+311454,hmon1333,TOOTH,n̥ j a ³/¹,493,starostinhmongmien
+311455,hmon1264,TOOTH,n a ²/¹,493,starostinhmongmien
+311456,buna1273,TOOTH,f a ³/¹ → m̥ i ŋ ³/¹,491,starostinhmongmien
+311457,buna1273,TOOTH,m̥ a j ³/¹,494,starostinhmongmien
+311458,jion1236,TOOTH,m̥ a j ⁵³,494,starostinhmongmien
+311459,jion1236,TOOTH,m̥ ɛ ³⁵,494,starostinhmongmien
+311460,youn1235,TOOTH,f u n ²²,497,starostinhmongmien
+311461,youn1235,TOOTH,f u n ²²,497,starostinhmongmien
+311462,pahn1237,TOOTH,q a ⁴⁴ → ɲ̥ i ²²,492,starostinhmongmien
+311463,pahn1237,TOOTH,m̥ i ³¹,494,starostinhmongmien
+311464,wuna1248,TOOTH,t e i ³³ → m̥ i ŋ ¹³,496,starostinhmongmien
+311465,shee1238,TOOTH,m u n ³/¹,495,starostinhmongmien
+311466,shee1238,TOOTH,m u n ³/¹,495,starostinhmongmien
+311467,pana1310,TOOTH,m o ŋ ³/¹,494,starostinhmongmien
+311468,east2371,TREE,d ɔ ³¹,498,starostinhmongmien
+311469,nort3244,TREE,n t o ŋ ⁵/¹,498,starostinhmongmien
+311470,larg1235,TREE,n t a o ⁵/¹,498,starostinhmongmien
+311471,hmon1333,TREE,n d õ ⁴/¹,498,starostinhmongmien
+311472,hmon1264,TREE,n d o ŋ ³/¹,498,starostinhmongmien
+311473,buna1273,TREE,n t a ŋ ⁵/¹,498,starostinhmongmien
+311474,buna1273,TREE,n t ɔ ŋ ⁵/¹,498,starostinhmongmien
+311475,jion1236,TREE,n t ɔ u ŋ ³⁵,498,starostinhmongmien
+311476,jion1236,TREE,n t a ŋ ²²,498,starostinhmongmien
+311477,youn1235,TREE,f ɔ ³³,500,starostinhmongmien
+311478,youn1235,TREE,f ɔ ³³,500,starostinhmongmien
+311479,pahn1237,TREE,t j a ³⁵,499,starostinhmongmien
+311480,pahn1237,TREE,p j a ³⁵,499,starostinhmongmien
+311481,wuna1248,TREE,ts a ³⁵,501,starostinhmongmien
+311482,shee1238,TREE,t ɔ ŋ ⁵/¹,498,starostinhmongmien
+311483,shee1238,TREE,t ɔ ŋ ⁵/¹,498,starostinhmongmien
+311484,pana1310,TREE,f a ¹/¹,500,starostinhmongmien
+311485,east2371,TWO,ʋ ⁵³,503,starostinhmongmien
+311486,nort3244,TWO,ʔ a o ¹/¹,504,starostinhmongmien
+311487,larg1235,TWO,a ¹/¹,505,starostinhmongmien
+311488,hmon1333,TWO,o ¹/¹,505,starostinhmongmien
+311489,hmon1264,TWO,ʔ a o ¹/¹,504,starostinhmongmien
+311490,buna1273,TWO,a u ¹/¹,502,starostinhmongmien
+311491,buna1273,TWO,u ɔ ¹/¹,508,starostinhmongmien
+311492,jion1236,TWO,u ⁴⁴,506,starostinhmongmien
+311493,jion1236,TWO,u ⁴⁴,506,starostinhmongmien
+311494,youn1235,TWO,u ³³,506,starostinhmongmien
+311495,youn1235,TWO,u ³³,506,starostinhmongmien
+311496,pahn1237,TWO,v a ³⁵,503,starostinhmongmien
+311497,pahn1237,TWO,v a ³⁵,503,starostinhmongmien
+311498,wuna1248,TWO,w a ⁵³,503,starostinhmongmien
+311499,shee1238,TWO,u ¹/¹,507,starostinhmongmien
+311500,shee1238,TWO,u ¹/¹,507,starostinhmongmien
+311501,pana1310,TWO,w u ¹/¹,503,starostinhmongmien
+311502,east2371,WALK,m a ŋ ³³,509,starostinhmongmien
+311503,nort3244,WALK,m o ŋ ⁴/¹,509,starostinhmongmien
+311504,larg1235,WALK,m a o ⁴/¹,509,starostinhmongmien
+311505,hmon1333,WALK,m u ⁵/¹,509,starostinhmongmien
+311506,hmon1264,WALK,m o ŋ ⁶/¹,509,starostinhmongmien
+311507,buna1273,WALK,m u ŋ ⁴/¹,509,starostinhmongmien
+311508,buna1273,WALK,m u ⁴/¹,509,starostinhmongmien
+311509,jion1236,WALK,ŋ ŋ̊ ³¹,510,starostinhmongmien
+311510,jion1236,WALK,ŋ ŋ̊ ⁵³,510,starostinhmongmien
+311511,youn1235,WALK,ŋ̩ ²²,512,starostinhmongmien
+311512,youn1235,WALK,ŋ̩ ²²,512,starostinhmongmien
+311513,pahn1237,WALK,ɲ i ³³,511,starostinhmongmien
+311514,pahn1237,WALK,ɲʱ i ³³,511,starostinhmongmien
+311515,wuna1248,WALK,m̥ ³³,513,starostinhmongmien
+311516,shee1238,WALK,ŋ̩ ŋ ⁴/¹,510,starostinhmongmien
+311517,shee1238,WALK,ŋ̩ ŋ ⁴/¹,510,starostinhmongmien
+311518,shee1238,WALK,h u ŋ ⁴/¹,509,starostinhmongmien
+311519,pana1310,WALK,ŋ ⁴/¹,512,starostinhmongmien
+311520,east2371,WARM,k ɯ ⁵³,514,starostinhmongmien
+311521,east2371,WATER,ʋ ⁵³,516,starostinhmongmien
+311522,nort3244,WATER,t l e ²/¹,517,starostinhmongmien
+311523,larg1235,WATER,a o ¹/¹,518,starostinhmongmien
+311524,hmon1264,WATER,tɬ e ⁵/¹,517,starostinhmongmien
+311525,buna1273,WATER,a ŋ ¹/¹,515,starostinhmongmien
+311526,buna1273,WATER,ɔ ŋ ¹/¹,515,starostinhmongmien
+311527,jion1236,WATER,ɔ u ŋ ⁴⁴,515,starostinhmongmien
+311528,jion1236,WATER,a ŋ ⁴⁴,515,starostinhmongmien
+311529,youn1235,WATER,ŋ̩ ³³,520,starostinhmongmien
+311530,youn1235,WATER,ŋ̩ ³³,520,starostinhmongmien
+311531,pahn1237,WATER,a ŋ ³⁵,515,starostinhmongmien
+311532,pahn1237,WATER,ɔ̃ ³⁵,521,starostinhmongmien
+311533,wuna1248,WATER,a ŋ ³⁵,515,starostinhmongmien
+311534,shee1238,WATER,ɔ ŋ ²/¹,515,starostinhmongmien
+311535,shee1238,WATER,ɔ ŋ ¹/¹,515,starostinhmongmien
+311536,pana1310,WATER,ʔ ŋ ¹/¹,519,starostinhmongmien
+311537,east2371,WE,p ʋ ⁵³,523,starostinhmongmien
+311538,nort3244,WE,p e ¹/¹,522,starostinhmongmien
+311539,larg1235,WE,p i ¹/¹,522,starostinhmongmien
+311540,hmon1333,WE,p e ¹/¹,522,starostinhmongmien
+311541,hmon1264,WE,p e ¹/¹,522,starostinhmongmien
+311542,buna1273,WE,p e ¹/¹,522,starostinhmongmien
+311543,buna1273,WE,p e j ¹/¹,522,starostinhmongmien
+311544,jion1236,WE,p a ⁴⁴,522,starostinhmongmien
+311545,jion1236,WE,p a ⁴⁴,522,starostinhmongmien
+311546,youn1235,WE,p o u ³³,522,starostinhmongmien
+311547,youn1235,WE,p o u ³³,522,starostinhmongmien
+311548,pahn1237,WE,p u ³⁵,522,starostinhmongmien
+311549,pahn1237,WE,p ʉ ³⁵,522,starostinhmongmien
+311550,wuna1248,WE,w a ŋ ²² ← k a ŋ ¹³,524,starostinhmongmien
+311551,shee1238,WE,p a ¹/¹,522,starostinhmongmien
+311552,shee1238,WE,p a ¹/¹,522,starostinhmongmien
+311553,pana1310,WE,p a ⁸/¹,522,starostinhmongmien
+311554,east2371,WHAT,m ɛ ⁵⁵ ← j ɤ ³¹,525,starostinhmongmien
+311555,nort3244,WHAT,l u a ⁶/¹ → tʂ i ⁵/¹,529,starostinhmongmien
+311556,larg1235,WHAT,q a ¹/¹ → ʃ i ⁵/¹,528,starostinhmongmien
+311557,hmon1264,WHAT,tɬ a ŋ ¹/¹ → tʃ ɨ ³/¹,526,starostinhmongmien
+311558,jion1236,WHAT,l a ŋ ⁴⁴ ← ð a ³⁵,527,starostinhmongmien
+311559,jion1236,WHAT,n e j ⁵³ ← ʑ ã ³¹,534,starostinhmongmien
+311560,youn1235,WHAT,k ǝ ³³ ← l i ³³,533,starostinhmongmien
+311561,youn1235,WHAT,h o ŋ ¹³ ← n ǝ n ³³,536,starostinhmongmien
+311562,pahn1237,WHAT,k a ⁵⁵ ← j a ŋ ⁵³,530,starostinhmongmien
+311563,pahn1237,WHAT,q a ³⁵ ← j ɔ̃ ⁵³,535,starostinhmongmien
+311564,wuna1248,WHAT,h o u ³⁵ → m p o u ³³,532,starostinhmongmien
+311565,shee1238,WHAT,tsʰ a ⁵/¹ ← n a ¹/¹,531,starostinhmongmien
+311566,shee1238,WHAT,h a ⁵/¹ ← n a ¹/¹,531,starostinhmongmien
+311567,east2371,WHITE,q w a ⁵³,538,starostinhmongmien
+311568,nort3244,WHITE,t l e u ¹/¹,537,starostinhmongmien
+311569,larg1235,WHITE,tɬ o e j ¹/¹ ← n ts i ⁶/¹ ← l i e ⁴/¹,540,starostinhmongmien
+311570,hmon1264,WHITE,tɬ a ʉ ¹/¹,537,starostinhmongmien
+311571,buna1273,WHITE,tɬ o ¹/¹,537,starostinhmongmien
+311572,buna1273,WHITE,tɬ o u ¹/¹,537,starostinhmongmien
+311573,jion1236,WHITE,k l a u ⁴⁴,539,starostinhmongmien
+311574,jion1236,WHITE,k l ɔ ⁴⁴,538,starostinhmongmien
+311575,youn1235,WHITE,k j e ³³,538,starostinhmongmien
+311576,youn1235,WHITE,k j u ³³,538,starostinhmongmien
+311577,pahn1237,WHITE,k ɔ ³⁵,538,starostinhmongmien
+311578,wuna1248,WHITE,k w a u ³⁵,539,starostinhmongmien
+311579,shee1238,WHITE,k j ɔ ¹/¹,538,starostinhmongmien
+311580,shee1238,WHITE,k j ɔ ¹/¹,538,starostinhmongmien
+311581,pana1310,WHITE,tɬ u ¹/¹,537,starostinhmongmien
+311582,east2371,WHO,p ɛ ⁵⁵,542,starostinhmongmien
+311583,nort3244,WHO,l o ¹/¹ → ʔ i ⁵/¹,547,starostinhmongmien
+311584,larg1235,WHO,q a ³/¹ → t ɨ ⁴/¹,546,starostinhmongmien
+311585,hmon1333,WHO,t ɨ ⁶/¹,544,starostinhmongmien
+311586,hmon1264,WHO,l e ŋ ⁵/¹ → t ʉ ⁶/¹,543,starostinhmongmien
+311587,buna1273,WHO,p o ³/¹ → t a u ⁶/¹,541,starostinhmongmien
+311588,buna1273,WHO,e j ²/¹ → s e j ⁶/¹,550,starostinhmongmien
+311589,jion1236,WHO,n̥ a ⁵³,545,starostinhmongmien
+311590,jion1236,WHO,n̥ a ³⁵,545,starostinhmongmien
+311591,youn1235,WHO,a ⁵³ ← n ɔ ¹³,549,starostinhmongmien
+311592,youn1235,WHO,k ǝ ³³ ← l o u ¹³,551,starostinhmongmien
+311593,pahn1237,WHO,t i ³¹ ← l ɛ ³³,548,starostinhmongmien
+311594,pahn1237,WHO,t i ⁴⁴ ← lʱ ɛ̃ ³³,548,starostinhmongmien
+311595,wuna1248,WHO,t i ³⁵ ← n a i ³³,548,starostinhmongmien
+311596,shee1238,WHO,p e ²/¹,542,starostinhmongmien
+311597,shee1238,WHO,p e ²/¹,542,starostinhmongmien
+311598,east2371,WOMAN,q e i ³⁵ → pʰ a ³⁵,556,starostinhmongmien
+311599,nort3244,WOMAN,p o ²/¹,558,starostinhmongmien
+311600,larg1235,WOMAN,a ⁵/¹ → p o ²/¹,556,starostinhmongmien
+311601,hmon1333,WOMAN,p ɔ ²/¹ ← n j a ⁷/¹,557,starostinhmongmien
+311602,hmon1264,WOMAN,q w a ⁴/¹ → p u ⁵/¹,556,starostinhmongmien
+311603,east2371,YELLOW,g w ɛ ³¹,569,starostinhmongmien
+311604,nort3244,YELLOW,t l a ŋ ²/¹,570,starostinhmongmien
+311605,larg1235,YELLOW,v a ɯ ²/¹,571,starostinhmongmien
+311606,hmon1264,YELLOW,tɬ a ŋ ⁵/¹,570,starostinhmongmien
+311607,buna1273,YELLOW,k w e n ²/¹,569,starostinhmongmien
+311608,buna1273,YELLOW,k w a ²/¹,569,starostinhmongmien
+311609,jion1236,YELLOW,k w e n ³³,569,starostinhmongmien
+311610,jion1236,YELLOW,k w a n ³¹,569,starostinhmongmien
+311611,youn1235,YELLOW,k w ǝ n ¹³,569,starostinhmongmien
+311612,youn1235,YELLOW,k w ǝ n ¹³,569,starostinhmongmien
+311613,pahn1237,YELLOW,k w e i ³³,569,starostinhmongmien
+311614,pahn1237,YELLOW,kʰ w ɤ ³³,569,starostinhmongmien
+311615,wuna1248,YELLOW,k w e i ³³,569,starostinhmongmien
+311616,shee1238,YELLOW,kʰ u n ²/¹,569,starostinhmongmien
+311617,shee1238,YELLOW,kʰ u n ²/¹,569,starostinhmongmien
+311618,pana1310,YELLOW,k o ŋ ²/¹,569,starostinhmongmien
+311619,east2371,FAR,q u ⁵³,123,starostinhmongmien
+311620,nort3244,FAR,t l e ¹/¹,124,starostinhmongmien
+311621,larg1235,FAR,tɬ i ¹/¹,124,starostinhmongmien
+311622,hmon1264,FAR,tɬ e ¹/¹,124,starostinhmongmien
+311623,buna1273,FAR,k w e ¹/¹,123,starostinhmongmien
+311624,buna1273,FAR,k w e j ¹/¹,123,starostinhmongmien
+311625,jion1236,FAR,k w a ⁴⁴,123,starostinhmongmien
+311626,jion1236,FAR,k w a ⁴⁴,123,starostinhmongmien
+311627,youn1235,FAR,k j e ³³,123,starostinhmongmien
+311628,youn1235,FAR,k j u ³³,123,starostinhmongmien
+311629,pahn1237,FAR,k o ³⁵,123,starostinhmongmien
+311630,pahn1237,FAR,k o ³⁵,123,starostinhmongmien
+311631,wuna1248,FAR,k o ³⁵,123,starostinhmongmien
+311632,shee1238,FAR,k w a ⁵/¹,123,starostinhmongmien
+311633,shee1238,FAR,k w a ¹/¹,123,starostinhmongmien
+311634,pana1310,FAR,k w a ¹/¹,123,starostinhmongmien
+311635,east2371,HEAVY,ɲ̥ʰ e ⁵⁵,215,starostinhmongmien
+311636,nort3244,HEAVY,ɲ a ŋ ³/¹,215,starostinhmongmien
+311637,larg1235,HEAVY,n̥ i a ɯ ³/¹,216,starostinhmongmien
+311638,hmon1333,HEAVY,ɲ̥ a ³/¹,215,starostinhmongmien
+311639,hmon1264,HEAVY,ɲ a ŋ ²/¹,215,starostinhmongmien
+311640,buna1273,HEAVY,ɲ̥ ɔ ŋ ³/¹,215,starostinhmongmien
+311641,east2371,NEAR,j u ³¹,300,starostinhmongmien
+311642,nort3244,NEAR,ʐ e ⁴/¹,299,starostinhmongmien
+311643,larg1235,NEAR,v ǝ ⁵/¹,299,starostinhmongmien
+311644,hmon1333,NEAR,ʒ e ⁴/¹,299,starostinhmongmien
+311645,hmon1264,NEAR,ʒ e ³/¹,299,starostinhmongmien
+311646,buna1273,NEAR,ɣ e ⁵/¹,299,starostinhmongmien
+311647,buna1273,NEAR,ɣ e j ⁵/¹,299,starostinhmongmien
+311648,jion1236,NEAR,ŋ k j a ³⁵,301,starostinhmongmien
+311649,jion1236,NEAR,ʑ a ²²,299,starostinhmongmien
+311650,youn1235,NEAR,v j e ³⁵,300,starostinhmongmien
+311651,youn1235,NEAR,v a j ⁵³,303,starostinhmongmien
+311652,pahn1237,NEAR,j o ⁵⁵,300,starostinhmongmien
+311653,pahn1237,NEAR,j o ⁵⁵,300,starostinhmongmien
+311654,wuna1248,NEAR,j o ⁵⁵,300,starostinhmongmien
+311655,shee1238,NEAR,ŋ a ⁵/¹,302,starostinhmongmien
+311656,shee1238,NEAR,z a ⁵/¹,299,starostinhmongmien
+311657,pana1310,NEAR,j a ⁵/¹,300,starostinhmongmien
+311658,east2371,SALT,dz ʋ ⁵⁵,370,starostinhmongmien
+311659,nort3244,SALT,n e n ³/¹ → ɳ tʂ e ³/¹,371,starostinhmongmien
+311660,larg1235,SALT,ɳ tʂ ǝ ³/¹,369,starostinhmongmien
+311661,hmon1333,SALT,n dʒ e ³/¹,369,starostinhmongmien
+311662,hmon1264,SALT,ɲ dʒ e ²/¹,369,starostinhmongmien
+311663,buna1273,SALT,n ts e ³/¹,369,starostinhmongmien
+311664,buna1273,SALT,n ts e j ³/¹,369,starostinhmongmien
+311665,jion1236,SALT,n tʃ a ⁵³,369,starostinhmongmien
+311666,jion1236,SALT,n t θ a ³⁵,369,starostinhmongmien
+311667,youn1235,SALT,ʑ a u ²²,372,starostinhmongmien
+311668,youn1235,SALT,ʑ a u ²²,372,starostinhmongmien
+311669,pahn1237,SALT,ɲ o ²²,369,starostinhmongmien
+311670,pahn1237,SALT,ɲ tɕ o ³¹,369,starostinhmongmien
+311671,wuna1248,SALT,ɲ tɕ o ¹³,369,starostinhmongmien
+311672,shee1238,SALT,ts a ³/¹,369,starostinhmongmien
+311673,shee1238,SALT,ts a ³/¹,369,starostinhmongmien
+311674,pana1310,SALT,dʑ a ⁴⁴,369,starostinhmongmien
+311675,east2371,SHORT,l i ⁵⁵,384,starostinhmongmien
+311676,nort3244,SHORT,l o ⁵/¹,384,starostinhmongmien
+311677,larg1235,SHORT,l u ⁸/¹,384,starostinhmongmien
+311678,hmon1333,SHORT,l u ³/¹,384,starostinhmongmien
+311679,hmon1264,SHORT,l u ³/¹,384,starostinhmongmien
+311680,east2371,SNAKE,n ɛ ⁵³,418,starostinhmongmien
+311681,nort3244,SNAKE,n a ŋ ¹/¹,418,starostinhmongmien
+311682,larg1235,SNAKE,p i ¹/¹ → n a ɯ ¹/¹,419,starostinhmongmien
+311683,hmon1333,SNAKE,n a ¹/¹,418,starostinhmongmien
+311684,hmon1264,SNAKE,n a ŋ ¹/¹,418,starostinhmongmien
+311685,buna1273,SNAKE,n ǝ ŋ ¹/¹,418,starostinhmongmien
+311686,buna1273,SNAKE,n ɒ ¹/¹,418,starostinhmongmien
+311687,jion1236,SNAKE,n e n ⁴⁴,418,starostinhmongmien
+311688,youn1235,SNAKE,k a u ³⁵ → n i ³³,423,starostinhmongmien
+311689,youn1235,SNAKE,n i ³³,418,starostinhmongmien
+311690,pahn1237,SNAKE,n e ŋ ³⁵,418,starostinhmongmien
+311691,pahn1237,SNAKE,ŋ̩ ³¹ → n ẽ ³⁵,422,starostinhmongmien
+311692,wuna1248,SNAKE,n̩ ²² → n ɯ ŋ ³⁵,422,starostinhmongmien
+311693,shee1238,SNAKE,t ɔ ⁴/¹ → ɔ n ²/¹,421,starostinhmongmien
+311694,shee1238,SNAKE,t ɔ ⁴/¹ → ɔ n ²/¹,421,starostinhmongmien
+311695,pana1310,SNAKE,l a ⁶/¹ → g a ŋ ¹/¹,420,starostinhmongmien
+311696,east2371,THIN (OF SHAPE OF OBJECT),ɕ i ³⁵,476,starostinhmongmien
+311697,hmon1333,THIN (OF SHAPE OF OBJECT),ɲ j a ⁵/¹,477,starostinhmongmien
+311698,hmon1264,THIN (OF SHAPE OF OBJECT),ɲ a ⁶/¹,477,starostinhmongmien
+311699,buna1273,THIN (OF SHAPE OF OBJECT),sʰ a ŋ ¹/¹,475,starostinhmongmien
+311700,buna1273,THIN (OF SHAPE OF OBJECT),m ǝ ⁴/¹,479,starostinhmongmien
+311701,jion1236,THIN (OF SHAPE OF OBJECT),ɲ i ŋ ³¹,477,starostinhmongmien
+311702,jion1236,THIN (OF SHAPE OF OBJECT),ɲ i ŋ ⁵³,477,starostinhmongmien
+311703,youn1235,THIN (OF SHAPE OF OBJECT),ɲ i ²²,477,starostinhmongmien
+311704,youn1235,THIN (OF SHAPE OF OBJECT),ɲ i ²²,477,starostinhmongmien
+311705,pahn1237,THIN (OF SHAPE OF OBJECT),ɲ i ²²,477,starostinhmongmien
+311706,pahn1237,THIN (OF SHAPE OF OBJECT),ɲʱ i ³¹,477,starostinhmongmien
+311707,wuna1248,THIN (OF SHAPE OF OBJECT),n̩ ²²,478,starostinhmongmien
+311708,shee1238,THIN (OF SHAPE OF OBJECT),ŋ i n ⁴/¹,477,starostinhmongmien
+311709,shee1238,THIN (OF SHAPE OF OBJECT),ŋ i n ⁴/¹,477,starostinhmongmien
+311710,pana1310,THIN (OF SHAPE OF OBJECT),n j i ŋ ⁴/¹,477,starostinhmongmien
+311711,east2371,WIND,tɕ i ³¹,553,starostinhmongmien
+311712,nort3244,WIND,tɕ u a ⁵/¹,553,starostinhmongmien
+311713,larg1235,WIND,tɕ a ⁵/¹,553,starostinhmongmien
+311714,hmon1333,WIND,tɕ w ǝ ⁴/¹,553,starostinhmongmien
+311715,hmon1264,WIND,tɕ w a ³/¹,553,starostinhmongmien
+311716,buna1273,WIND,k a ³/¹ → tɕ i ⁵/¹,552,starostinhmongmien
+311717,buna1273,WIND,tɕ i ⁵/¹,553,starostinhmongmien
+311718,jion1236,WIND,tʃ i ³⁵,554,starostinhmongmien
+311719,jion1236,WIND,tʃ i ²²,554,starostinhmongmien
+311720,youn1235,WIND,k i ³⁵,553,starostinhmongmien
+311721,youn1235,WIND,k i ⁵³,553,starostinhmongmien
+311722,pahn1237,WIND,a ŋ ³⁵ → tɕ i ⁵⁵,555,starostinhmongmien
+311723,pahn1237,WIND,ɔ̃ ³⁵ → tɕ i ⁵⁵,555,starostinhmongmien
+311724,wuna1248,WIND,a ŋ ³⁵ → tɕ i ⁵⁵,555,starostinhmongmien
+311725,shee1238,WIND,k i ¹/¹,553,starostinhmongmien
+311726,shee1238,WIND,k i ⁵/¹,553,starostinhmongmien
+311727,pana1310,WIND,ts j i ⁵/¹,553,starostinhmongmien
+311728,east2371,WORM,tɕ i ⁵³,560,starostinhmongmien
+311729,nort3244,WORM,k a ŋ ¹/¹,561,starostinhmongmien
+311730,larg1235,WORM,p i ¹/¹ → k a ɯ ¹/¹,563,starostinhmongmien
+311731,hmon1333,WORM,tɕ w ǝ ⁴/¹ ← n a ¹/¹,562,starostinhmongmien
+311732,hmon1264,WORM,k a ŋ ⁴/¹,561,starostinhmongmien
+311733,buna1273,WORM,k a ¹/¹ → tɕ ɔ ŋ ¹/¹,559,starostinhmongmien
+311734,buna1273,WORM,tɕ e j ¹/¹ → ŋ j a ⁵/¹,562,starostinhmongmien
+311735,jion1236,WORM,k a ⁴⁴ → ʑ a ŋ ⁴⁴,559,starostinhmongmien
+311736,jion1236,WORM,k ɛ ⁴⁴ → ʑ a ŋ ⁴⁴,559,starostinhmongmien
+311737,youn1235,WORM,k i ¹³ → k j a ŋ ³³,559,starostinhmongmien
+311738,youn1235,WORM,k i ¹³ → k j a ŋ ³³,559,starostinhmongmien
+311739,pahn1237,WORM,q a ²² → j o ŋ ³⁵,559,starostinhmongmien
+311740,pahn1237,WORM,q ɤ ³⁵ → j õ ³⁵,559,starostinhmongmien
+311741,wuna1248,WORM,q e i ³⁵ → tɕ u ŋ ³⁵,559,starostinhmongmien
+311742,shee1238,WORM,k a ¹/¹ → z u ŋ ¹/¹,559,starostinhmongmien
+311743,shee1238,WORM,k a ¹/¹ → z u ŋ ¹/¹,559,starostinhmongmien
+311744,pana1310,WORM,g a ŋ ¹³ → ʑ u ŋ ¹³,559,starostinhmongmien
+311745,east2371,YEAR,ts ɔ ³¹,565,starostinhmongmien
+311746,nort3244,YEAR,ɕ o ŋ ⁵/¹,564,starostinhmongmien
+311747,larg1235,YEAR,ɕ a o ⁷/¹,564,starostinhmongmien
+311748,hmon1333,YEAR,ɕ õ ⁴/¹,564,starostinhmongmien
+311749,hmon1264,YEAR,ɕ o ŋ ³/¹,564,starostinhmongmien
+311750,buna1273,YEAR,s a ŋ ⁵/¹,564,starostinhmongmien
+311751,buna1273,YEAR,s ɔ ŋ ⁵/¹,564,starostinhmongmien
+311752,jion1236,YEAR,ɲ̥ ɔ u ŋ ³⁵,566,starostinhmongmien
+311753,jion1236,YEAR,ɲ̥ ɔ ²²,567,starostinhmongmien
+311754,youn1235,YEAR,t j u ŋ ³⁵,568,starostinhmongmien
+311755,youn1235,YEAR,t j u ŋ ⁵³,568,starostinhmongmien
+311756,pahn1237,YEAR,tɕ a ŋ ⁵⁵,564,starostinhmongmien
+311757,pahn1237,YEAR,tɕ ɔ̃ ⁵⁵,565,starostinhmongmien
+311758,wuna1248,YEAR,tɕ u ŋ ⁵⁵,564,starostinhmongmien
+311759,shee1238,YEAR,ŋ j ɔ ⁵/¹,567,starostinhmongmien
+311760,shee1238,YEAR,ŋ j ɔ ⁵/¹,567,starostinhmongmien
+311761,pana1310,YEAR,tɕ o ³⁵,565,starostinhmongmien

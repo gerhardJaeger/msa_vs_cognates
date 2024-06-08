@@ -1,0 +1,159 @@
+id,doculect,concept,forms,lexstatid,db
+219282,sout2754,THREE,p ai ¹³,73,hsiuhmongmien
+219283,east2370,THREE,p ɛ ²⁴,73,hsiuhmongmien
+219284,nort2747,THREE,p i ³³,73,hsiuhmongmien
+219285,sout2754,FOUR,tɬ ɔ ¹³,29,hsiuhmongmien
+219286,east2370,FOUR,s o ²⁴,27,hsiuhmongmien
+219287,nort2747,FOUR,ɬ o ³³,28,hsiuhmongmien
+219288,sout2754,FIVE,tɕ i ¹³,26,hsiuhmongmien
+219289,east2370,FIVE,ts a ²⁴,26,hsiuhmongmien
+219290,nort2747,FIVE,ts a ³³,26,hsiuhmongmien
+219291,sout2754,SEVEN,ts a m ²²,60,hsiuhmongmien
+219292,east2370,SEVEN,ɕ u ŋ ⁵³,60,hsiuhmongmien
+219293,nort2747,SEVEN,ɕ o ŋ ¹³,60,hsiuhmongmien
+219294,sout2754,TEN,tɕ u ²⁴,69,hsiuhmongmien
+219295,east2370,TEN,tɕ eu ¹³,69,hsiuhmongmien
+219296,nort2747,TEN,tɕ u ³¹,69,hsiuhmongmien
+219297,sout2754,BEAN,n eu ³⁵,2,hsiuhmongmien
+219298,east2370,BEAN,t eu ¹³,1,hsiuhmongmien
+219299,nort2747,BEAN,t ə ³¹,1,hsiuhmongmien
+219300,sout2754,BIRD,n eu ²²,3,hsiuhmongmien
+219301,east2370,BIRD,n eu ⁵³,3,hsiuhmongmien
+219302,nort2747,BIRD,n ə ¹³,3,hsiuhmongmien
+219303,sout2754,BLACK,q ɛ ³⁵,6,hsiuhmongmien
+219304,east2370,BLACK,s ei ²⁴,4,hsiuhmongmien
+219305,nort2747,BLACK,ɬ ɛ ³³,5,hsiuhmongmien
+219306,sout2754,BLOOD,s a m ⁵³,7,hsiuhmongmien
+219307,east2370,BLOOD,ɕ a n ³³,7,hsiuhmongmien
+219308,nort2747,BLOOD,ɕʰ a ŋ ³⁵,7,hsiuhmongmien
+219309,sout2754,BONE,s a m ⁵³,8,hsiuhmongmien
+219310,east2370,BONE,s u ŋ ³³,8,hsiuhmongmien
+219311,nort2747,BONE,p o ³⁵ + sʰ o ŋ ³⁵,9,hsiuhmongmien
+219312,sout2754,CHICKEN,q a ¹³,10,hsiuhmongmien
+219313,east2370,CHICKEN,q a ²⁴,10,hsiuhmongmien
+219314,nort2747,CHICKEN,q ei ³³,10,hsiuhmongmien
+219315,sout2754,DEAF,tɬ a m ³¹,12,hsiuhmongmien
+219316,east2370,DEAF,l e ŋ ²⁴,11,hsiuhmongmien
+219317,nort2747,DEAF,ɬ o ŋ ⁵⁵,11,hsiuhmongmien
+219318,east2370,EAR,q a ³³ + n j ei ²²,13,hsiuhmongmien
+219319,nort2747,EAR,q a ³³ + z ɛ ⁵⁵,14,hsiuhmongmien
+219320,sout2754,EGG,k ei ⁴⁴,15,hsiuhmongmien
+219321,east2370,EGG,k ei ⁴⁴,15,hsiuhmongmien
+219322,nort2747,EGG,k i ⁴⁴,15,hsiuhmongmien
+219323,sout2754,EVENING,tɕ eu ³⁵,18,hsiuhmongmien
+219324,east2370,EVENING,ɕ i ⁴⁴ + m a ŋ ⁴⁴,16,hsiuhmongmien
+219325,nort2747,EVENING,ɕʰ i ³³ + m̥ + a ŋ ⁴⁴,17,hsiuhmongmien
+219326,sout2754,EYE,n̥ j u ¹³ + m o ²²,20,hsiuhmongmien
+219327,east2370,EYE,q a ³³ + m i ⁵³,19,hsiuhmongmien
+219328,nort2747,EYE,n̥ j u ³³ + m ɛ ¹³,20,hsiuhmongmien
+219329,sout2754,FIELD,l j a n ³¹,21,hsiuhmongmien
+219330,east2370,FIELD,l j e ²²,21,hsiuhmongmien
+219331,nort2747,FIELD,l j i ⁵⁵,21,hsiuhmongmien
+219332,sout2754,FIRE,t a ²⁴¹,23,hsiuhmongmien
+219333,east2370,FIRE,t o ²¹²,22,hsiuhmongmien
+219334,nort2747,FIRE,t u ¹¹,22,hsiuhmongmien
+219335,east2370,FISH,n j ei ²¹²,24,hsiuhmongmien
+219336,nort2747,FISH,z ɛ ¹¹,25,hsiuhmongmien
+219337,sout2754,FROG,q a n ⁵³ + q a ⁴⁴,30,hsiuhmongmien
+219338,east2370,FROG,q a n ³³,30,hsiuhmongmien
+219339,nort2747,FROG,q a ŋ ³⁵,30,hsiuhmongmien
+219340,sout2754,FRUIT,tɕ i ⁵³,32,hsiuhmongmien
+219341,east2370,FRUIT,ts e n ³⁵,31,hsiuhmongmien
+219342,nort2747,FRUIT,ts e n ³⁵,31,hsiuhmongmien
+219343,sout2754,FULL,p o ⁵⁵,34,hsiuhmongmien
+219344,east2370,FULL,p ɑ ŋ ⁵⁵,33,hsiuhmongmien
+219345,nort2747,FULL,t ə ⁰/² + p a ŋ ⁵⁵,33,hsiuhmongmien
+219346,sout2754,GHOST,tɬ j a n ¹³,35,hsiuhmongmien
+219347,east2370,GHOST,ɬ j a n ²⁴,35,hsiuhmongmien
+219348,nort2747,GHOST,ɬ j a ŋ ³³,35,hsiuhmongmien
+219349,sout2754,GOOD,ɣ u ⁴⁴,36,hsiuhmongmien
+219350,east2370,GOOD,ʑ eu ⁴⁴,36,hsiuhmongmien
+219351,nort2747,GOOD,ɣ u ⁴⁴,36,hsiuhmongmien
+219352,sout2754,HEART,p a m ⁴⁴,39,hsiuhmongmien
+219353,east2370,HEART,ɕ i n ²⁴ t eu ²²,37,hsiuhmongmien
+219354,nort2747,HEART,ɬ j u ³⁵,38,hsiuhmongmien
+219355,east2370,HEAVY,n j u ŋ ³³,40,hsiuhmongmien
+219356,nort2747,HEAVY,n̥ j o ŋ ³⁵,40,hsiuhmongmien
+219357,sout2754,HOUSE,tɕ ei ⁵³,41,hsiuhmongmien
+219358,east2370,HOUSE,ts ei ³³,41,hsiuhmongmien
+219359,nort2747,HOUSE,ts ɛ ³⁵,41,hsiuhmongmien
+219360,sout2754,INSECT,k a n ¹³,42,hsiuhmongmien
+219361,east2370,INSECT,k a n ²⁴,42,hsiuhmongmien
+219362,nort2747,INSECT,k a ŋ ³³,42,hsiuhmongmien
+219363,sout2754,IRON,ɬ eu ⁴⁴,43,hsiuhmongmien
+219364,east2370,IRON,l eu ⁴⁴,43,hsiuhmongmien
+219365,nort2747,IRON,ɬʰ ə ⁴⁴,43,hsiuhmongmien
+219366,sout2754,LEAF,n eu ³¹,44,hsiuhmongmien
+219367,east2370,LEAF,n eu ²²,44,hsiuhmongmien
+219368,nort2747,LEAF,q a ³³ + n ə ⁵⁵,45,hsiuhmongmien
+219369,sout2754,LEG,p e ¹³,46,hsiuhmongmien
+219370,east2370,LEG,q a ³³ + p ɛ ²⁴,46,hsiuhmongmien
+219371,nort2747,LEG,q a ³³ + p a ³³,46,hsiuhmongmien
+219372,sout2754,MONEY,s a ³¹,48,hsiuhmongmien
+219373,nort2747,MONEY,p i ⁵⁵ + s ei ⁵⁵,47,hsiuhmongmien
+219374,sout2754,MONKEY,t j eu ¹³ + l a ¹³,50,hsiuhmongmien
+219375,east2370,MONKEY,l e ²⁴,49,hsiuhmongmien
+219376,nort2747,MONKEY,l ei ³³,49,hsiuhmongmien
+219377,sout2754,MOON,ɬ ei ⁴⁴,51,hsiuhmongmien
+219378,east2370,MOON,l a ⁴⁴ + l a ⁴⁴,51,hsiuhmongmien
+219379,nort2747,MOON,ɬʰ a ⁴⁴,51,hsiuhmongmien
+219380,sout2754,NAME,p ai ⁴⁴,53,hsiuhmongmien
+219381,nort2747,NAME,z a ŋ ⁵⁵ + p i ⁴⁴,52,hsiuhmongmien
+219382,sout2754,NARROW,ŋ a ²⁴,54,hsiuhmongmien
+219383,east2370,NARROW,ŋ e ¹³,54,hsiuhmongmien
+219384,nort2747,NARROW,ŋ i ³¹,54,hsiuhmongmien
+219385,sout2754,NEAR,ɣ ei ⁴⁴,55,hsiuhmongmien
+219386,east2370,NEAR,ʑ ei ⁴⁴,55,hsiuhmongmien
+219387,nort2747,NEAR,ɣ i ⁴⁴,55,hsiuhmongmien
+219388,east2370,NOSE,t j u ŋ ²⁴ n j y ⁵³,56,hsiuhmongmien
+219389,nort2747,NOSE,p o ⁵⁵ + z ɛ ¹³,57,hsiuhmongmien
+219390,sout2754,OIL (ORGANIC SUBSTANCE),ʑ u ¹³,58,hsiuhmongmien
+219391,east2370,OIL (ORGANIC SUBSTANCE),ʑ eu ²²,58,hsiuhmongmien
+219392,nort2747,OIL (ORGANIC SUBSTANCE),ʑ u ⁵⁵,58,hsiuhmongmien
+219393,sout2754,ROPE,tɬ o ⁴⁴,59,hsiuhmongmien
+219394,east2370,ROPE,l ɛ ⁴⁴,59,hsiuhmongmien
+219395,nort2747,ROPE,ɬʰ a ⁴⁴,59,hsiuhmongmien
+219396,sout2754,SHORT,l o ⁵³,61,hsiuhmongmien
+219397,east2370,SHORT,l ei ³³,61,hsiuhmongmien
+219398,nort2747,SHORT,l ɛ ³⁵,61,hsiuhmongmien
+219399,sout2754,SOUR,ɕ u ¹³,62,hsiuhmongmien
+219400,east2370,SOUR,ɕ eu ²⁴,62,hsiuhmongmien
+219401,nort2747,SOUR,ɕʰ u ³³,62,hsiuhmongmien
+219402,sout2754,STAR,t o ³¹ + q o ¹³,64,hsiuhmongmien
+219403,east2370,STAR,q ei ²⁴ q ei ²⁴,63,hsiuhmongmien
+219404,nort2747,STAR,t ɛ ³³ + q ɛ ³³,64,hsiuhmongmien
+219405,sout2754,STONE,ɣ ei ¹³,65,hsiuhmongmien
+219406,east2370,STONE,ʑ ei ²⁴,65,hsiuhmongmien
+219407,nort2747,STONE,ɣ i ³³,65,hsiuhmongmien
+219408,sout2754,SUN,n̥ o ¹³,67,hsiuhmongmien
+219409,east2370,SUN,qʰ a ŋ ³³ + n ei ²⁴,66,hsiuhmongmien
+219410,nort2747,SUN,n̥ ɛ ³³,67,hsiuhmongmien
+219411,sout2754,TAIL,t ɔ ⁵³,68,hsiuhmongmien
+219412,east2370,TAIL,q a ³³ + t u e ³³,68,hsiuhmongmien
+219413,nort2747,TAIL,q a ³³ + t ɛ ³⁵,68,hsiuhmongmien
+219414,sout2754,THICK,t ɛ ¹³,70,hsiuhmongmien
+219415,east2370,THICK,t ɛ ²⁴,70,hsiuhmongmien
+219416,nort2747,THICK,t a ³³,70,hsiuhmongmien
+219417,east2370,THIN,n j a n ²¹²,71,hsiuhmongmien
+219418,nort2747,THIN,n j a ŋ ¹¹,71,hsiuhmongmien
+219419,sout2754,THIS,n a ⁵³,72,hsiuhmongmien
+219420,east2370,THIS,n e ŋ ³³,72,hsiuhmongmien
+219421,nort2747,THIS,n o ŋ ³⁵,72,hsiuhmongmien
+219422,sout2754,THUNDER,p u ⁴⁴ + f u ¹³,76,hsiuhmongmien
+219423,east2370,THUNDER,h ou ²⁴,74,hsiuhmongmien
+219424,nort2747,THUNDER,h o ³³,75,hsiuhmongmien
+219425,sout2754,TOOTH,kʷ e ⁴⁴,79,hsiuhmongmien
+219426,east2370,TOOTH,m i ³³,77,hsiuhmongmien
+219427,nort2747,TOOTH,m̥ + i ³⁵,78,hsiuhmongmien
+219428,sout2754,WE (INCLUSIVE),p ai ¹³,80,hsiuhmongmien
+219429,east2370,WE (INCLUSIVE),p ɛ ²⁴,80,hsiuhmongmien
+219430,nort2747,WE (INCLUSIVE),p i ³³,80,hsiuhmongmien
+219431,sout2754,WHITE,tɬ a ¹³,83,hsiuhmongmien
+219432,east2370,WHITE,s o ²⁴,81,hsiuhmongmien
+219433,nort2747,WHITE,ɬ u ³³,82,hsiuhmongmien
+219434,sout2754,WIDE,kʷ e n ⁵³,84,hsiuhmongmien
+219435,east2370,WIDE,f a n ³³,84,hsiuhmongmien
+219436,nort2747,WIDE,f a ŋ ³⁵,84,hsiuhmongmien
+219437,sout2754,YELLOW,kʷ e n ³¹,85,hsiuhmongmien
+219438,east2370,YELLOW,f a n ²²,85,hsiuhmongmien
+219439,nort2747,YELLOW,f a ŋ ⁵⁵,85,hsiuhmongmien

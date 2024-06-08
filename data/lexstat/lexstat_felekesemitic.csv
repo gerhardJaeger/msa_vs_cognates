@@ -1,0 +1,1243 @@
+id,doculect,concept,forms,lexstatid,db
+158554,amha1245,ALL,h u lː u m,1,felekesemitic
+158555,amha1245,ARM,k ɨ n d,3,felekesemitic
+158556,amha1245,BACK,dʒ ə r b a,8,felekesemitic
+158557,amha1245,BARLEY,g ə b s,15,felekesemitic
+158558,amha1245,BEAUTIFUL,m ə l k a m,19,felekesemitic
+158559,amha1245,BED,ʔ a l g a,22,felekesemitic
+158560,amha1245,BIG,t ɨ lː ɨ kʼ,28,felekesemitic
+158561,argo1244,ALL,d i yy/jː u m,2,felekesemitic
+158562,argo1244,ARM,k ɨ rː a,4,felekesemitic
+158563,argo1244,BACK,dʒ eː d,9,felekesemitic
+158564,argo1244,BARLEY,m a s ɨ l a,16,felekesemitic
+158565,argo1244,BEAUTIFUL,ť/tʼ ɨ r u,20,felekesemitic
+158566,argo1244,BED,ʔ a l g a,22,felekesemitic
+158567,argo1244,BELT,m ə kː a tʃː a,25,felekesemitic
+158568,argo1244,BIG,l a x i m,29,felekesemitic
+158569,hara1271,ALL,k u lː u,1,felekesemitic
+158570,hara1271,ARM,ħ a r ə kʼ,5,felekesemitic
+158571,hara1271,BACK,ħ a ć/tʃʼ i,10,felekesemitic
+158572,hara1271,BARLEY,g uː s,15,felekesemitic
+158573,hara1271,BED,d u f aː n,23,felekesemitic
+158574,hara1271,BELT,w a r aː n s i lː a,26,felekesemitic
+158575,hara1271,BIG,g i d i r,30,felekesemitic
+158576,hara1271,BLACK,ť/tʼ əy/əi̯,35,felekesemitic
+158577,kist1241,ALL,k u lː ɨ m,1,felekesemitic
+158578,kist1241,ARM,k ɨ rː ə,4,felekesemitic
+158579,kist1241,BACK,g ɨ n ǯ/ʒ ə,11,felekesemitic
+158580,kist1241,BARLEY,g ə b s,15,felekesemitic
+158581,kist1241,BEAUTIFUL,m ə l k a m a,19,felekesemitic
+158582,kist1241,BED,ʔ a l g a,22,felekesemitic
+158583,kist1241,BIG,m a l ə k,28,felekesemitic
+158584,mesq1240,ALL,ʔ ɨ nː ɨ m,1,felekesemitic
+158585,mesq1240,ARM,h ɨ nː ə,6,felekesemitic
+158586,mesq1240,BACK,g ɨ n ǯ/ʒ ə,11,felekesemitic
+158587,mesq1240,BARLEY,ʔ ɨ h ɨ r,17,felekesemitic
+158588,mesq1240,BEAUTIFUL,m ə l k a m a,19,felekesemitic
+158589,mesq1240,BED,ʔ a l g a,22,felekesemitic
+158590,mesq1240,BIG,n ɨ kʼ,28,felekesemitic
+158591,silt1240,ALL,h u lː ɨ m k ə,1,felekesemitic
+158592,silt1240,ARM,k i r e,4,felekesemitic
+158593,silt1240,BACK,ć/tʃʼ ɨ n,12,felekesemitic
+158594,silt1240,BARLEY,ʔ ɨ x ɨ l,17,felekesemitic
+158595,silt1240,BEAUTIFUL,b ə r eː d ə,21,felekesemitic
+158596,silt1240,BED,d u g m a l ə,24,felekesemitic
+158597,silt1240,BIG,y/j ə r oː r e,31,felekesemitic
+158598,silt1240,BLACK,ť/tʼ e m,35,felekesemitic
+158599,tigr1270,ALL,k ɨ lː a n,1,felekesemitic
+158600,tigr1270,ARM,r ɨ s ɨ kʼ,7,felekesemitic
+158601,tigr1270,BARLEY,ʃ ɨ ʕ i r,17,felekesemitic
+158602,tigr1270,BEAUTIFUL,g ɨ rː u m,20,felekesemitic
+158603,tigr1270,BED,ʕ a r a t,22,felekesemitic
+158604,tigr1270,BELT,z ɨ nː a r,27,felekesemitic
+158605,tigr1270,BIG,ʕ a b a y/j i,32,felekesemitic
+158606,tigr1270,BLACK,ś/s ə l i m,36,felekesemitic
+158607,tigr1271,ALL,k u lː u,1,felekesemitic
+158608,tigr1271,BACK,d ɨ ħ r i t,13,felekesemitic
+158609,tigr1271,BARLEY,s ɨ g ə m,18,felekesemitic
+158610,tigr1271,BED,ʕ a r a t,22,felekesemitic
+158611,tigr1271,BIG,g ə z i f,33,felekesemitic
+158612,tigr1271,BLACK,ś/s ə lː i m,36,felekesemitic
+158613,wola1253,ALL,h u l ɨ m,1,felekesemitic
+158614,wola1253,ARM,k i r e,4,felekesemitic
+158615,wola1253,BACK,tʃ ɨ n,12,felekesemitic
+158616,wola1253,BARLEY,ʔ ɨ x ɨ l,17,felekesemitic
+158617,wola1253,BEAUTIFUL,b ə r e d ə,21,felekesemitic
+158618,wola1253,BED,ʔ a l g a,22,felekesemitic
+158619,wola1253,BIG,dʒ ə b ə,34,felekesemitic
+158620,wola1253,BLACK,t ɨ m,35,felekesemitic
+158621,zayy1238,ALL,h u lː u,1,felekesemitic
+158622,zayy1238,ARM,ʔ a r ə kʼ,5,felekesemitic
+158623,zayy1238,BACK,m ɨ ś/s k ə t,14,felekesemitic
+158624,zayy1238,BARLEY,g ə b ɨ s,15,felekesemitic
+158625,zayy1238,BEAUTIFUL,m ə l k ə mː a,19,felekesemitic
+158626,zayy1238,BED,ʔ a l g ə,22,felekesemitic
+158627,zayy1238,BIG,dʒ ə b a,34,felekesemitic
+158628,zayy1238,BLACK,g ə m b ə l o,37,felekesemitic
+158629,amha1245,BLOOD,d ə m,38,felekesemitic
+158630,amha1245,COOKED,f ə lː a,92,felekesemitic
+158631,amha1245,BONE,ʔ a ť/tʼ ɨ n t,39,felekesemitic
+158632,amha1245,BREAD,d a bː o,40,felekesemitic
+158633,amha1245,BREAST,ť/tʼ u t,43,felekesemitic
+158634,amha1245,BROTHER,w ə n d ɨ mː,45,felekesemitic
+158635,amha1245,BULL,b ə r e,52,felekesemitic
+158636,amha1245,CABBAGE,g o mː ə nː,57,felekesemitic
+158637,amha1245,CALF,ť/tʼ ɨ dʒː a,60,felekesemitic
+158638,argo1244,BLOOD,d ə m,38,felekesemitic
+158639,argo1244,COOKED,n ə fː ə r a,93,felekesemitic
+158640,argo1244,BONE,x a ť/tʼ ɨ m,39,felekesemitic
+158641,argo1244,BREAD,d a m o,40,felekesemitic
+158642,argo1244,BREAST,ť/tʼ u t,43,felekesemitic
+158643,argo1244,BROTHER,ʔ ə h,46,felekesemitic
+158644,argo1244,BULL,w e f ə n,53,felekesemitic
+158645,argo1244,CABBAGE,g o m ə n,57,felekesemitic
+158646,argo1244,CALF,ť/tʼ ɨ dʒː a,60,felekesemitic
+158647,hara1271,BLOOD,d ə m,38,felekesemitic
+158648,hara1271,COOKED,f ə l a ħ a,92,felekesemitic
+158649,hara1271,BONE,ʔ aː ť/tʼ,39,felekesemitic
+158650,hara1271,BREAD,d aː b o,40,felekesemitic
+158651,hara1271,BREAST,ť/tʼ oː t,43,felekesemitic
+158652,hara1271,BROTHER,ʔ ɨ ħ,47,felekesemitic
+158653,hara1271,BULL,b a ʔ a r a,54,felekesemitic
+158654,hara1271,CABBAGE,ħ uː l,58,felekesemitic
+158655,hara1271,CALF,ť/tʼ ɨ dʒ a,60,felekesemitic
+158656,kist1241,BLOOD,d ə m,38,felekesemitic
+158657,kist1241,COOKED,f ə lː a m,92,felekesemitic
+158658,kist1241,BONE,ʔ a ť/tʼ ɨ m,39,felekesemitic
+158659,kist1241,BREAD,d a bː o,40,felekesemitic
+158660,kist1241,BREAST,ť/tʼ ɨ b u yy/jː ə,44,felekesemitic
+158661,kist1241,BROTHER,z ə mː i,48,felekesemitic
+158662,kist1241,BULL,w ɨ r,55,felekesemitic
+158663,kist1241,CABBAGE,ʔ a m b ɨ l,59,felekesemitic
+158664,kist1241,CALF,ť/tʼ ə g,61,felekesemitic
+158665,mesq1240,BLOOD,d ə m,38,felekesemitic
+158666,mesq1240,COOKED,tʃ ə kː w ə r ə,94,felekesemitic
+158667,mesq1240,BONE,ʔ a ť/tʼ ɨ m,39,felekesemitic
+158668,mesq1240,BREAD,f u r n o,41,felekesemitic
+158669,mesq1240,BREAST,ť/tʼ u b,43,felekesemitic
+158670,mesq1240,BROTHER,g w ə bː e,49,felekesemitic
+158671,mesq1240,BULL,w ɨ r,55,felekesemitic
+158672,mesq1240,CABBAGE,ʔ a m b ɨ r,59,felekesemitic
+158673,mesq1240,CALF,m w a s a,62,felekesemitic
+158674,silt1240,BLOOD,d ə m,38,felekesemitic
+158675,silt1240,COOKED,f ə l a,92,felekesemitic
+158676,silt1240,BONE,h a ť/tʼ ɨ m,39,felekesemitic
+158677,silt1240,BREAD,f u r n o,41,felekesemitic
+158678,silt1240,BREAST,ť/tʼ u b,43,felekesemitic
+158679,silt1240,BROTHER,ʔ ɨ n d ə t,47,felekesemitic
+158680,silt1240,BULL,w ɨ r,55,felekesemitic
+158681,silt1240,CABBAGE,h a m ɨ l,59,felekesemitic
+158682,silt1240,CALF,ʔ ɨ z ə kʼ,61,felekesemitic
+158683,tigr1270,BLOOD,d ə m,38,felekesemitic
+158684,tigr1270,COOKED,ħ a f ə n a,95,felekesemitic
+158685,tigr1270,BONE,ʔ a ť/tʼ ɨ m,39,felekesemitic
+158686,tigr1270,BREAD,b a n i,42,felekesemitic
+158687,tigr1270,BREAST,ť/tʼ ɨ b,43,felekesemitic
+158688,tigr1270,BROTHER,ħ u,47,felekesemitic
+158689,tigr1270,BULL,w ɨ h ɨ r,55,felekesemitic
+158690,tigr1270,CABBAGE,ħ a m l e,59,felekesemitic
+158691,tigr1270,CALF,ʔ ɨ g a l,63,felekesemitic
+158692,tigr1271,BLOOD,d ə m,38,felekesemitic
+158693,tigr1271,COOKED,s ɨ g a,96,felekesemitic
+158694,tigr1271,BONE,ʕ a ś/s m i,39,felekesemitic
+158695,tigr1271,BREAD,b a n i,42,felekesemitic
+158696,tigr1271,BREAST,ť/tʼ u b,43,felekesemitic
+158697,tigr1271,BROTHER,ħ a w,50,felekesemitic
+158698,tigr1271,BULL,ʔ a r ħ a,56,felekesemitic
+158699,tigr1271,CABBAGE,ħ a m l i,59,felekesemitic
+158700,tigr1271,CALF,m ɨ r a x,64,felekesemitic
+158701,wola1253,BLOOD,d ə m,38,felekesemitic
+158702,wola1253,COOKED,f ə l a,92,felekesemitic
+158703,wola1253,BONE,ʔ a ť/tʼ ɨ m,39,felekesemitic
+158704,wola1253,BREAD,d a bː o,40,felekesemitic
+158705,wola1253,BREAST,ť/tʼ u b,43,felekesemitic
+158706,wola1253,BROTHER,w a dʒ i,51,felekesemitic
+158707,wola1253,BULL,w ɨ r,55,felekesemitic
+158708,wola1253,CABBAGE,ʔ a m l,59,felekesemitic
+158709,wola1253,CALF,ʔ ɨ m b o sː ə,65,felekesemitic
+158710,zayy1238,BLOOD,d ə m,38,felekesemitic
+158711,zayy1238,COOKED,f ə l ə,92,felekesemitic
+158712,zayy1238,BONE,ʔ a ť/tʼ ɨ m,39,felekesemitic
+158713,zayy1238,BREAD,d a bː o,40,felekesemitic
+158714,zayy1238,BREAST,ť/tʼ u b,43,felekesemitic
+158715,zayy1238,BROTHER,ʔ ɨː n,47,felekesemitic
+158716,zayy1238,BULL,w ɨ r,55,felekesemitic
+158717,zayy1238,CABBAGE,ʔ a m ɨ l,59,felekesemitic
+158718,zayy1238,CALF,ʔ ɨ z ə kʼ,61,felekesemitic
+158719,amha1245,COME,m ə ťť/tʼː a,90,felekesemitic
+158720,amha1245,CAMEL,g ɨ m ə l,66,felekesemitic
+158721,amha1245,CAT,d ɨ mː ə t,67,felekesemitic
+158722,amha1245,CHEEK,g u n ć/tʃʼ,71,felekesemitic
+158723,amha1245,CHEST,d ə r ə t,75,felekesemitic
+158724,amha1245,CHILD,l ɨ ğ/dʒ,83,felekesemitic
+158725,amha1245,CLOUD,d a mː ə n a,88,felekesemitic
+158726,amha1245,COFFEE,b u nː a,89,felekesemitic
+158727,amha1245,COW,l a m,97,felekesemitic
+158728,argo1244,COME,m ə ťť/tʼː a,90,felekesemitic
+158729,argo1244,CAMEL,g a m e l a,66,felekesemitic
+158730,argo1244,CAT,d ɨ m ə t,67,felekesemitic
+158731,argo1244,CHEEK,g u n tʃ e,71,felekesemitic
+158732,argo1244,CHEST,g ə n g a d,76,felekesemitic
+158733,argo1244,CHILD,l ɨ ğ/dʒ,83,felekesemitic
+158734,argo1244,CLOUD,d ə m ə n a,88,felekesemitic
+158735,argo1244,COFFEE,b u nː,89,felekesemitic
+158736,argo1244,COW,l a m,97,felekesemitic
+158737,hara1271,COME,d iː dʒ a,90,felekesemitic
+158738,hara1271,CAMEL,g aː m ə l a,66,felekesemitic
+158739,hara1271,CAT,ʔ a d u rː u,68,felekesemitic
+158740,hara1271,CHEEK,ć/tʃʼ aː ć/tʃʼ u,72,felekesemitic
+158741,hara1271,CHEST,w a z ə n a,77,felekesemitic
+158742,hara1271,CHILD,w iː ğ/dʒ,84,felekesemitic
+158743,hara1271,CLOUD,d aː n a,88,felekesemitic
+158744,hara1271,COFFEE,b u n,89,felekesemitic
+158745,hara1271,COW,l aː m,97,felekesemitic
+158746,kist1241,COME,m ə ťť/tʼː a,90,felekesemitic
+158747,kist1241,CAMEL,g i m ə l,66,felekesemitic
+158748,kist1241,CAT,ʔ a n g a tʃ a,69,felekesemitic
+158749,kist1241,CHEEK,g u n ć/tʃʼ ə,71,felekesemitic
+158750,kist1241,CHEST,d ə r ə t,75,felekesemitic
+158751,kist1241,CHILD,b ayː/ai̯,85,felekesemitic
+158752,kist1241,CLOUD,d a m ə n a,88,felekesemitic
+158753,kist1241,COFFEE,b u n a,89,felekesemitic
+158754,kist1241,COW,ʔ ə l a m,97,felekesemitic
+158755,mesq1240,COME,tʃ ə ňň/ɲː ə,91,felekesemitic
+158756,mesq1240,CAMEL,g a m e l a,66,felekesemitic
+158757,mesq1240,CAT,ʔ a n g a tʃ a,69,felekesemitic
+158758,mesq1240,CHEEK,d a n g a,73,felekesemitic
+158759,mesq1240,CHEST,h i n,78,felekesemitic
+158760,mesq1240,CHILD,t ɨ x ə,86,felekesemitic
+158761,mesq1240,CLOUD,d a b ə n a,88,felekesemitic
+158762,mesq1240,COW,ʔ ə r a m,97,felekesemitic
+158763,silt1240,COME,m ə ť/tʼ a,90,felekesemitic
+158764,silt1240,CAMEL,g aː m eː l a,66,felekesemitic
+158765,silt1240,CAT,ʔ aː d ə n,70,felekesemitic
+158766,silt1240,CHEEK,g u n ć/tʃʼ o,71,felekesemitic
+158767,silt1240,CHEST,w ə z ə n ə,77,felekesemitic
+158768,silt1240,CHILD,tʃ ɨ l o,87,felekesemitic
+158769,silt1240,CLOUD,d ə b ə n a,88,felekesemitic
+158770,silt1240,COFFEE,b u n o,89,felekesemitic
+158771,silt1240,COW,l a m,97,felekesemitic
+158772,tigr1270,COME,m ə ś/s a,90,felekesemitic
+158773,tigr1270,CAMEL,g e m ə l,66,felekesemitic
+158774,tigr1270,CAT,d ɨ mː u,67,felekesemitic
+158775,tigr1270,CHEEK,m ɨ ʃ t ɨ kʼ,74,felekesemitic
+158776,tigr1270,CHEST,n ɨ ħ ə r,79,felekesemitic
+158777,tigr1270,CHILD,w ə l a d,84,felekesemitic
+158778,tigr1270,CLOUD,d ə b n a,88,felekesemitic
+158779,tigr1270,COFFEE,b u n,89,felekesemitic
+158780,tigr1270,COW,ʔ a ħ a,98,felekesemitic
+158781,tigr1271,COME,m ɨ ś/s a ʔ,90,felekesemitic
+158782,tigr1271,CAMEL,g ɨ m ə l,66,felekesemitic
+158783,tigr1271,CAT,d ɨ mː u,67,felekesemitic
+158784,tigr1271,CHEEK,n u n ć/tʃʼ i,71,felekesemitic
+158785,tigr1271,CHEST,ʔ a f l ɨ bː i,80,felekesemitic
+158786,tigr1271,CHILD,q w ə l ʕ a,84,felekesemitic
+158787,tigr1271,CLOUD,d ə b ə n a,88,felekesemitic
+158788,tigr1271,COFFEE,b u n,89,felekesemitic
+158789,tigr1271,COW,l a m,97,felekesemitic
+158790,wola1253,COME,m ə ť/tʼ a,90,felekesemitic
+158791,wola1253,CAMEL,g aː m eː l a,66,felekesemitic
+158792,wola1253,CAT,ʔ a d ə n,70,felekesemitic
+158793,wola1253,CHEST,w ə n d aː b,81,felekesemitic
+158794,wola1253,CHILD,w e ğ/dʒ,84,felekesemitic
+158795,wola1253,CLOUD,d a b ə n a,88,felekesemitic
+158796,wola1253,COFFEE,b u n o,89,felekesemitic
+158797,wola1253,COW,l a m,97,felekesemitic
+158798,zayy1238,COME,m aː t aː,90,felekesemitic
+158799,zayy1238,CAMEL,g aː l a,66,felekesemitic
+158800,zayy1238,CAT,ʔ a d u rː u,68,felekesemitic
+158801,zayy1238,CHEST,a n g aː b s u,82,felekesemitic
+158802,zayy1238,CHILD,b aa/aː y/j u,85,felekesemitic
+158803,zayy1238,CLOUD,d aː b aː n aː,88,felekesemitic
+158804,zayy1238,COFFEE,b u n a,89,felekesemitic
+158805,zayy1238,COW,l a m,97,felekesemitic
+158806,amha1245,CROCODILE,ʔ a zː o,99,felekesemitic
+158807,amha1245,DECIDE,w ə sː ə n ə,103,felekesemitic
+158808,amha1245,DESTROY,ʔ a f ə rː ə s ə,105,felekesemitic
+158809,amha1245,DOG,w ɨ ʃː a,108,felekesemitic
+158810,amha1245,DONKEY,ʔ a h ɨ yy/jː a,113,felekesemitic
+158811,amha1245,DRINK,ť/tʼ ə ťť/tʼː a,125,felekesemitic
+158812,amha1245,DRY,d ə r ə kʼ,126,felekesemitic
+158813,argo1244,CROCODILE,ʔ a z o,99,felekesemitic
+158814,argo1244,DESTROY,f ə rː ə s ə,105,felekesemitic
+158815,argo1244,DOG,w ɨ ʃ a,108,felekesemitic
+158816,argo1244,DONKEY,ʔ a h ɨ y/j a,113,felekesemitic
+158817,argo1244,DRINK,s ə tʃ a,125,felekesemitic
+158818,hara1271,CROCODILE,ħ aː s,99,felekesemitic
+158819,hara1271,DESTROY,d aː m ə s a,106,felekesemitic
+158820,hara1271,DOG,b u tʃ i,109,felekesemitic
+158821,hara1271,DONKEY,w a ć/tʃʼ ə r a,114,felekesemitic
+158822,hara1271,DRESS,b o m b aay/aːi̯,122,felekesemitic
+158823,hara1271,DRINK,s ə tʃ a,125,felekesemitic
+158824,hara1271,DRY,d ə r ə kʼ,126,felekesemitic
+158825,kist1241,CROCODILE,ʔ a zː o,99,felekesemitic
+158826,kist1241,DECIDE,w o w o sː ɨ n,104,felekesemitic
+158827,kist1241,DESTROY,d a s ə m,106,felekesemitic
+158828,kist1241,DOG,w ɨ sː a,108,felekesemitic
+158829,kist1241,DONKEY,ʔ ə m a r,115,felekesemitic
+158830,kist1241,DRESS,d ɨ r b ə d ɨ r,123,felekesemitic
+158831,kist1241,DRINK,s ə ćć/tʃʼ ə,125,felekesemitic
+158832,kist1241,DRY,d ə r ə kʼ,126,felekesemitic
+158833,mesq1240,CROCODILE,ʔ a zː o,99,felekesemitic
+158834,mesq1240,DECIDE,w ə w ə sː ɨ n,104,felekesemitic
+158835,mesq1240,DESTROY,b ə rː ə s ə,105,felekesemitic
+158836,mesq1240,DOG,g ɨ y/j ə,110,felekesemitic
+158837,mesq1240,DONKEY,ʔ ɨ m a r,115,felekesemitic
+158838,mesq1240,DRINK,s ə ćć/tʃʼ ə,125,felekesemitic
+158839,mesq1240,DRY,ť/tʼ ɨ r ə kʼ,126,felekesemitic
+158840,silt1240,CROCODILE,w ə r o,100,felekesemitic
+158841,silt1240,DESTROY,d a s ə m,106,felekesemitic
+158842,silt1240,DOG,b uː tʃ o,109,felekesemitic
+158843,silt1240,DONKEY,ʔ uː m a r,115,felekesemitic
+158844,silt1240,DRINK,s ə tʃ e,125,felekesemitic
+158845,silt1240,DRY,d ə r ə kʼ,126,felekesemitic
+158846,tigr1270,CROCODILE,ʔ ə l m a,101,felekesemitic
+158847,tigr1270,DESTROY,ʔ a f r ə s a,105,felekesemitic
+158848,tigr1270,DOG,k ə l ɨ b,111,felekesemitic
+158849,tigr1270,DONKEY,ʔ a d ɨ g,116,felekesemitic
+158850,tigr1270,DRESS,l ɨ b ə s,124,felekesemitic
+158851,tigr1270,DRINK,s ə t ə,125,felekesemitic
+158852,tigr1270,DRY,y/j ɨ b u s,127,felekesemitic
+158853,tigr1271,CROCODILE,ħ a r g ə ś/s,102,felekesemitic
+158854,tigr1271,DECIDE,w ə sː ə n ə,103,felekesemitic
+158855,tigr1271,DESTROY,ʔ a ʕ ɨ n ə w ə,107,felekesemitic
+158856,tigr1271,DOG,k ə l b i,111,felekesemitic
+158857,tigr1271,DONKEY,ʔ a d g i,117,felekesemitic
+158858,tigr1271,DRINK,s ə t ə y/j ə,125,felekesemitic
+158859,wola1253,CROCODILE,ʔ a zː o,99,felekesemitic
+158860,wola1253,DESTROY,d a s aː,106,felekesemitic
+158861,wola1253,DOG,b u tʃ o,109,felekesemitic
+158862,wola1253,DONKEY,ʔ u m a r,115,felekesemitic
+158863,wola1253,DRINK,s ə tʃ e,125,felekesemitic
+158864,zayy1238,CROCODILE,ʔ a zː o,99,felekesemitic
+158865,zayy1238,DESTROY,f ə r ə s ə,105,felekesemitic
+158866,zayy1238,DOG,g ɨ ň/ɲ i,112,felekesemitic
+158867,zayy1238,DONKEY,ʔ u m a r,115,felekesemitic
+158868,zayy1238,DRINK,s ə tʃ i,125,felekesemitic
+158869,zayy1238,DRY,d ə r ə kʼ,126,felekesemitic
+158870,amha1245,EAR,dʒ o r o,128,felekesemitic
+158871,amha1245,EIGHT,s ɨ mː ɨ n t,132,felekesemitic
+158872,amha1245,ELEPHANT,z ɨ h o n,133,felekesemitic
+158873,amha1245,EVENING,m ɨ ʃː ɨ t,136,felekesemitic
+158874,amha1245,EYE,ʔ ay/ai̯ n,139,felekesemitic
+158875,amha1245,FARMER,ʔ a r aː ʃ,140,felekesemitic
+158876,amha1245,FATHER,ʔ a bː a t,141,felekesemitic
+158877,amha1245,FINGER,ť/tʼ a t,147,felekesemitic
+158878,amha1245,FINISH,ć/tʃʼ ə rː ə s ə,149,felekesemitic
+158879,argo1244,EAR,dʒ o r o,128,felekesemitic
+158880,argo1244,EIGHT,s ə mː ɨ t,132,felekesemitic
+158881,argo1244,ELEPHANT,z ə h o n,133,felekesemitic
+158882,argo1244,EVENING,m u ʃ e d,136,felekesemitic
+158883,argo1244,EYE,ʔ eː n,139,felekesemitic
+158884,argo1244,FARMER,ʔ a r aː ʃ,140,felekesemitic
+158885,argo1244,FATHER,ʔ a w,141,felekesemitic
+158886,argo1244,FINGER,ť/tʼ a d,147,felekesemitic
+158887,argo1244,FINISH,ć/tʃʼ e rː ə s a,149,felekesemitic
+158888,hara1271,EAR,ʔ u z u n,129,felekesemitic
+158889,hara1271,EIGHT,s uː t,132,felekesemitic
+158890,hara1271,ELEPHANT,d o x o n,133,felekesemitic
+158891,hara1271,EVENING,m ə ʃ eː t,136,felekesemitic
+158892,hara1271,EYE,ʔ i n,139,felekesemitic
+158893,hara1271,FARMER,ħ a r aː ʃ i,140,felekesemitic
+158894,hara1271,FATHER,ʔ aː w,142,felekesemitic
+158895,hara1271,FINGER,ʔ a ť/tʼ ə b i ňň/ɲː,147,felekesemitic
+158896,hara1271,FINISH,ħ eː l ə d ə,150,felekesemitic
+158897,kist1241,EAR,ʔ ɨ n z ɨ n,129,felekesemitic
+158898,kist1241,EIGHT,s ə mː ɨ n t,132,felekesemitic
+158899,kist1241,ELEPHANT,z ə x o n,133,felekesemitic
+158900,kist1241,EVENING,m ɨ ʃ ə r,136,felekesemitic
+158901,kist1241,EYE,ʔ i n,139,felekesemitic
+158902,kist1241,FARMER,ʔ a r a ʃ,140,felekesemitic
+158903,kist1241,FATHER,ʔ a b i,141,felekesemitic
+158904,kist1241,FINGER,ʔ a ť/tʼ a b ə t,147,felekesemitic
+158905,kist1241,FINISH,ć/tʃʼ ə rː ə s ə,149,felekesemitic
+158906,mesq1240,EAR,ʔ ɨ n z ɨ n,129,felekesemitic
+158907,mesq1240,EIGHT,s ɨ mː u t,132,felekesemitic
+158908,mesq1240,ELEPHANT,ǯ/ʒ ə x w ə n ə,134,felekesemitic
+158909,mesq1240,EVENING,g ə bː a t,137,felekesemitic
+158910,mesq1240,EYE,ʔ e n,139,felekesemitic
+158911,mesq1240,FARMER,ʔ a r a ʃ,140,felekesemitic
+158912,mesq1240,FATHER,ʔ a b,141,felekesemitic
+158913,mesq1240,FINGER,ʔ a ť/tʼ e b ə t,147,felekesemitic
+158914,mesq1240,FINISH,ǯ/ʒ ə bː ə r ə,151,felekesemitic
+158915,silt1240,EAR,ʔ ɨ z ɨ n,129,felekesemitic
+158916,silt1240,EGG,b u pʼː a,130,felekesemitic
+158917,silt1240,EIGHT,s ə m u t,132,felekesemitic
+158918,silt1240,ELEPHANT,d ə x a n o,134,felekesemitic
+158919,silt1240,EVENING,g ə bː a t,137,felekesemitic
+158920,silt1240,EYE,ʔ iː n,139,felekesemitic
+158921,silt1240,FARMER,ʔ a r aː ʃ i,140,felekesemitic
+158922,silt1240,FATHER,ʔ a b o t,141,felekesemitic
+158923,silt1240,FINGER,ʔ ɨ n ť/tʼ a b i t,147,felekesemitic
+158924,silt1240,FINISH,ć/tʃʼ eː r ə s ə,149,felekesemitic
+158925,tigr1270,EAR,ʔ a z ə n,129,felekesemitic
+158926,tigr1270,EIGHT,s ə m ə n,132,felekesemitic
+158927,tigr1270,ELEPHANT,h a r m ə z,135,felekesemitic
+158928,tigr1270,EVENING,m ɨ s e,136,felekesemitic
+158929,tigr1270,EYE,ʔ ɨ n,139,felekesemitic
+158930,tigr1270,FARMER,ħ ə r ə s t ay/ai̯,140,felekesemitic
+158931,tigr1270,FATHER,ʔ a b,141,felekesemitic
+158932,tigr1270,FINGER,ć/tʃʼ ɨ b ʕ a t,148,felekesemitic
+158933,tigr1270,FINISH,w ə dː ə ʔ ə,152,felekesemitic
+158934,tigr1271,EAR,ʔ ɨ z n i,129,felekesemitic
+158935,tigr1271,EGG,ʔ ɨ n q w a q w u ħ,131,felekesemitic
+158936,tigr1271,ELEPHANT,ħ a r m a z,135,felekesemitic
+158937,tigr1271,EYE,ʕ ay/ai̯ n i,139,felekesemitic
+158938,tigr1271,FARMER,ħ a r ə s t ay/ai̯,140,felekesemitic
+158939,tigr1271,FATHER,ʔ a bː o,141,felekesemitic
+158940,tigr1271,FINGER,ʔ a ś/s a b ɨ ʕ t i,147,felekesemitic
+158941,tigr1271,FINISH,w ə dː ə ʔ ə,152,felekesemitic
+158942,wola1253,EAR,ʔ ɨ z ɨ n,129,felekesemitic
+158943,wola1253,EIGHT,s u mː u t,132,felekesemitic
+158944,wola1253,ELEPHANT,d ə h ə n o,134,felekesemitic
+158945,wola1253,EVENING,y/j ə r ə fː a d,138,felekesemitic
+158946,wola1253,EYE,ʔ i n,139,felekesemitic
+158947,wola1253,FARMER,ʔ a r a ʃ,140,felekesemitic
+158948,wola1253,FATHER,ʔ a bː o t,141,felekesemitic
+158949,wola1253,FINGER,ʔ ɨ n ť/tʼ a b i t,147,felekesemitic
+158950,wola1253,FINISH,ć/tʃʼ eː r ə s ə,149,felekesemitic
+158951,zayy1238,EAR,ʔ ɨ z ɨ n,129,felekesemitic
+158952,zayy1238,EIGHT,s ɨ mː u t,132,felekesemitic
+158953,zayy1238,ELEPHANT,d ə h ə n o,134,felekesemitic
+158954,zayy1238,EVENING,m ɨ ʃ i t,136,felekesemitic
+158955,zayy1238,EYE,ʔ i n,139,felekesemitic
+158956,zayy1238,FARMER,ʔ a r aː ʃ i,140,felekesemitic
+158957,zayy1238,FATHER,ʔ a b u,141,felekesemitic
+158958,zayy1238,FINGER,ʔ ɨ n t ə b i t,147,felekesemitic
+158959,zayy1238,FINISH,ʔ a ć/tʃʼ i r aː kʼ,153,felekesemitic
+158960,amha1245,FIVE,ʔ a m ɨ s t,154,felekesemitic
+158961,amha1245,FIND,ʔ a g ə ňň/ɲː ə,143,felekesemitic
+158962,amha1245,FOUR,ʔ a r a tː,155,felekesemitic
+158963,amha1245,FRIDAY,ʔ a r b,162,felekesemitic
+158964,amha1245,FULL,m u l u,166,felekesemitic
+158965,amha1245,GARLIC,n ə ćć/tʃʼ ʃ ɨ n k u r t,167,felekesemitic
+158966,amha1245,SURRENDER,t ə w ə,343,felekesemitic
+158967,amha1245,GOAT,f ɨ yy/jː ə l,169,felekesemitic
+158968,argo1244,FIVE,ʔ a m ɨ s t,154,felekesemitic
+158969,argo1244,FIND,r a x ə w,144,felekesemitic
+158970,argo1244,FOUR,ʔ a r b i t,155,felekesemitic
+158971,argo1244,FOX,ʔ ɨ n dʒ e d e l o,156,felekesemitic
+158972,argo1244,FRIDAY,dʒ u m a ʔ a,163,felekesemitic
+158973,argo1244,FULL,m u l u,166,felekesemitic
+158974,argo1244,GARLIC,z a h ʃ u n k u r t,167,felekesemitic
+158975,argo1244,SURRENDER,t ə w ə,343,felekesemitic
+158976,argo1244,GOAT,f ɨ yy/jː ə l,169,felekesemitic
+158977,hara1271,FIVE,ħ a mː i s t i,154,felekesemitic
+158978,hara1271,FIND,ʔ a g ə ň/ɲ ə,143,felekesemitic
+158979,hara1271,FOUR,ħ a r a t,155,felekesemitic
+158980,hara1271,FOX,ʔ aː z y/j ə g ə d u,157,felekesemitic
+158981,hara1271,FRIDAY,dʒ u m ʔ a,164,felekesemitic
+158982,hara1271,FULL,m u lː u ʔ,166,felekesemitic
+158983,hara1271,GARLIC,t u mː a,168,felekesemitic
+158984,hara1271,SURRENDER,w aː l a,344,felekesemitic
+158985,hara1271,GOAT,d a w,170,felekesemitic
+158986,kist1241,FIVE,ʔ a mː ɨ s t,154,felekesemitic
+158987,kist1241,FIND,ʔ a g ə ňň/ɲː o,143,felekesemitic
+158988,kist1241,FOUR,ʔ a r a t,155,felekesemitic
+158989,kist1241,FOX,s ə r ə n d i d a,158,felekesemitic
+158990,kist1241,FRIDAY,ʔ a dː a r ə,165,felekesemitic
+158991,kist1241,FULL,m u l a,166,felekesemitic
+158992,kist1241,GARLIC,t u mː a,168,felekesemitic
+158993,kist1241,SURRENDER,w ə g f ɨ r,345,felekesemitic
+158994,kist1241,GOAT,f ɨ yy/jː ə l,169,felekesemitic
+158995,mesq1240,FIVE,ʔ a mː ɨ s t,154,felekesemitic
+158996,mesq1240,FIND,r ə kː ə b ə,145,felekesemitic
+158997,mesq1240,FOUR,ʔ a r b ə tː,155,felekesemitic
+158998,mesq1240,FOX,y/j ə g w ə r ə g y/j ə,159,felekesemitic
+158999,mesq1240,FRIDAY,ʔ a dː a r ə,165,felekesemitic
+159000,mesq1240,FULL,m u l a,166,felekesemitic
+159001,mesq1240,GARLIC,t u mː a,168,felekesemitic
+159002,mesq1240,SURRENDER,w ə g f ɨ r,345,felekesemitic
+159003,mesq1240,GOAT,f e kʼ,171,felekesemitic
+159004,silt1240,FIVE,ʔ a mː ɨ s t,154,felekesemitic
+159005,silt1240,FIND,r ə k ə b ə,145,felekesemitic
+159006,silt1240,FOUR,ʔ a r a t,155,felekesemitic
+159007,silt1240,FOX,z ə g ə d o,157,felekesemitic
+159008,silt1240,FRIDAY,dʒ i m a t,163,felekesemitic
+159009,silt1240,FULL,m u lː a,166,felekesemitic
+159010,silt1240,GARLIC,t u mː a,168,felekesemitic
+159011,silt1240,SURRENDER,ʔ ɨ d ə g o t,343,felekesemitic
+159012,silt1240,GOAT,f e kʼ,171,felekesemitic
+159013,tigr1270,FIVE,h a m ɨ s,154,felekesemitic
+159014,tigr1270,FIND,r ə k b ə,145,felekesemitic
+159015,tigr1270,FOUR,ʔ a r b ə ʕ ə,155,felekesemitic
+159016,tigr1270,FOX,ħ a ʃ i l,160,felekesemitic
+159017,tigr1270,FRIDAY,dʒ ɨ m a t,163,felekesemitic
+159018,tigr1270,FULL,m ɨ l u ʔ,166,felekesemitic
+159019,tigr1270,GARLIC,t o m,168,felekesemitic
+159020,tigr1270,SURRENDER,ʔ ɨ b ɨ l,346,felekesemitic
+159021,tigr1270,GOAT,n ə gː ə l ə t,172,felekesemitic
+159022,tigr1271,FIND,s ə r ə t ə,146,felekesemitic
+159023,tigr1271,FOUR,ʔ a r b a ʕ t ə,155,felekesemitic
+159024,tigr1271,FOX,w ə x a r i y/j a,161,felekesemitic
+159025,tigr1271,FRIDAY,ʕ a r b i,162,felekesemitic
+159026,tigr1271,FULL,m ɨ l u ʔ,166,felekesemitic
+159027,tigr1271,SURRENDER,g ɨ d ə f,347,felekesemitic
+159028,tigr1271,GOAT,tʼʲ ə l,173,felekesemitic
+159029,wola1253,FIVE,ʔ a mː ɨ s t,154,felekesemitic
+159030,wola1253,FIND,r ə h aː b ə,145,felekesemitic
+159031,wola1253,FOUR,ʔ a r a t,155,felekesemitic
+159032,wola1253,FOX,w ə l ə n g aa/aː y/j a,159,felekesemitic
+159033,wola1253,FRIDAY,dʒ i m a t,163,felekesemitic
+159034,wola1253,FULL,m u lː i,166,felekesemitic
+159035,wola1253,GARLIC,t u mː ə,168,felekesemitic
+159036,wola1253,SURRENDER,ʔ a d ə g ə,343,felekesemitic
+159037,wola1253,GOAT,f e kʼ,171,felekesemitic
+159038,zayy1238,FIVE,ʔ a mː ɨ s t,154,felekesemitic
+159039,zayy1238,FIND,g aː ň/ɲ i,143,felekesemitic
+159040,zayy1238,FOUR,ʔ a r ə t,155,felekesemitic
+159041,zayy1238,FOX,dʒ eː d aː l ə,156,felekesemitic
+159042,zayy1238,FRIDAY,dʒ i m ə t,163,felekesemitic
+159043,zayy1238,FULL,m u l i,166,felekesemitic
+159044,zayy1238,GARLIC,t u m ə,168,felekesemitic
+159045,zayy1238,SURRENDER,ʔ a d ə g ə,343,felekesemitic
+159046,zayy1238,GOAT,f i kʼ,171,felekesemitic
+159047,amha1245,HAIR,ś/s ə g u r,174,felekesemitic
+159048,amha1245,HE,ʔ ɨ sː u,177,felekesemitic
+159049,amha1245,HEAD,r a s,180,felekesemitic
+159050,amha1245,HEART,l ɨ bː,186,felekesemitic
+159051,amha1245,HEN,d o r o,189,felekesemitic
+159052,amha1245,HIS (GENITIVE OF HE),y/j ə sː u,192,felekesemitic
+159053,amha1245,HORSE,f ə r ə s,201,felekesemitic
+159054,amha1245,HOT,m u kʼ,202,felekesemitic
+159055,argo1244,HAIR,tʃ ɨ g a r,174,felekesemitic
+159056,argo1244,HE,k ɨ s u,177,felekesemitic
+159057,argo1244,HEAD,d ɨ m a,181,felekesemitic
+159058,argo1244,HEART,l ɨ b i,186,felekesemitic
+159059,argo1244,HEN,d o r o,189,felekesemitic
+159060,argo1244,HIS (GENITIVE OF HE),ʔ i wː a t,193,felekesemitic
+159061,argo1244,HORSE,f ə r ə s,201,felekesemitic
+159062,hara1271,HAIR,ć/tʃʼ ɨ g ə r,174,felekesemitic
+159063,hara1271,HE,a zː o,177,felekesemitic
+159064,hara1271,HEAD,ʔ u r uː s,182,felekesemitic
+159065,hara1271,HEN,ʔ a t ə w aː kʼ,190,felekesemitic
+159066,hara1271,HIS (GENITIVE OF HE),z i y/j u,194,felekesemitic
+159067,hara1271,HORSE,f ə r ə z,201,felekesemitic
+159068,hara1271,HOT,w ɨy/ɨi̯,203,felekesemitic
+159069,kist1241,HAIR,g u nː ə n,175,felekesemitic
+159070,kist1241,HE,k w a,178,felekesemitic
+159071,kist1241,HEAD,g u nː ə n,183,felekesemitic
+159072,kist1241,HEART,l ɨ bː,186,felekesemitic
+159073,kist1241,HEN,dʒ ə r a,189,felekesemitic
+159074,kist1241,HIS (GENITIVE OF HE),y/j ə k w a,195,felekesemitic
+159075,kist1241,HORSE,f ə r ə z,201,felekesemitic
+159076,mesq1240,HAIR,g u nː ə n,175,felekesemitic
+159077,mesq1240,HE,h u t i,179,felekesemitic
+159078,mesq1240,HEAD,g u nː ə n,183,felekesemitic
+159079,mesq1240,HEART,h i n,187,felekesemitic
+159080,mesq1240,HEN,k u tː ə n a,189,felekesemitic
+159081,mesq1240,HIS (GENITIVE OF HE),y/j ə h u t i,196,felekesemitic
+159082,mesq1240,HORSE,f ə r ə z,201,felekesemitic
+159083,silt1240,HAIR,d u m,176,felekesemitic
+159084,silt1240,HE,ʔ u h a,179,felekesemitic
+159085,silt1240,HEAD,d u m,181,felekesemitic
+159086,silt1240,HEART,w ə z ə n ə,188,felekesemitic
+159087,silt1240,HIS (GENITIVE OF HE),y/j u h a,197,felekesemitic
+159088,silt1240,HORSE,f ə r ə z,201,felekesemitic
+159089,silt1240,HOT,m u kʼ,202,felekesemitic
+159090,tigr1270,HAIR,ć/tʃʼ ə gː ə r ə t,174,felekesemitic
+159091,tigr1270,HE,h ɨ t u,179,felekesemitic
+159092,tigr1270,HEAD,r ə ʔ a s,180,felekesemitic
+159093,tigr1270,HEART,l ɨ bː,186,felekesemitic
+159094,tigr1270,HEN,d ə r h o,189,felekesemitic
+159095,tigr1270,HIS (GENITIVE OF HE),t u,198,felekesemitic
+159096,tigr1270,HORSE,f ə r ə s,201,felekesemitic
+159097,tigr1270,HOT,ħ ɨ f u n,204,felekesemitic
+159098,tigr1271,HAIR,s ə g u r i,174,felekesemitic
+159099,tigr1271,HE,n ɨ sː u,177,felekesemitic
+159100,tigr1271,HEAD,r ɨ ʔ s i,184,felekesemitic
+159101,tigr1271,HEART,l ɨ bː i,186,felekesemitic
+159102,tigr1271,HEN,d ə r h o,189,felekesemitic
+159103,tigr1271,HIS (GENITIVE OF HE),n a t u,198,felekesemitic
+159104,tigr1271,HORSE,f ə r ə s,201,felekesemitic
+159105,tigr1271,HOT,w u ʕ uy/ui̯,205,felekesemitic
+159106,wola1253,HAIR,d u m i,176,felekesemitic
+159107,wola1253,HE,ʔ u h ə,179,felekesemitic
+159108,wola1253,HEAD,d u m i,181,felekesemitic
+159109,wola1253,HEART,w ə z aː n,188,felekesemitic
+159110,wola1253,HIS (GENITIVE OF HE),y/j u h ə,199,felekesemitic
+159111,wola1253,HORSE,f ə r ə z,201,felekesemitic
+159112,zayy1238,HAIR,t ɨ g ə r,174,felekesemitic
+159113,zayy1238,HE,ʔ u t,179,felekesemitic
+159114,zayy1238,HEAD,ʔ a h ə r,185,felekesemitic
+159115,zayy1238,HEART,w ə z ə n ə,188,felekesemitic
+159116,zayy1238,HEN,ʔ ɨ n ť/tʼ aː kʼ,191,felekesemitic
+159117,zayy1238,HIS (GENITIVE OF HE),y/j aː w ɨ t i,200,felekesemitic
+159118,zayy1238,HORSE,f ə r ə z,201,felekesemitic
+159119,zayy1238,HOT,m uː kʼ,202,felekesemitic
+159120,amha1245,HOW,ʔ ɨ n d e t,206,felekesemitic
+159121,amha1245,HUNDRED,m ə t o,211,felekesemitic
+159122,amha1245,HYENA,dʒ ɨ b,212,felekesemitic
+159123,amha1245,INSULT,s ə dː ə b ə,216,felekesemitic
+159124,amha1245,KING,n ɨ g u s,220,felekesemitic
+159125,amha1245,LEG,ʔ ɨ g ɨ r,221,felekesemitic
+159126,amha1245,LENTILS,m ɨ sː ɨ r,223,felekesemitic
+159127,amha1245,LION,ʔ a m b ə sː a,225,felekesemitic
+159128,argo1244,HOW,k ə m e,207,felekesemitic
+159129,argo1244,HUNDRED,m ə t o,211,felekesemitic
+159130,argo1244,HYENA,dʒ ɨ b,212,felekesemitic
+159131,argo1244,INSULT,s ə dː ə b ə,216,felekesemitic
+159132,argo1244,KING,n ɨ g u s,220,felekesemitic
+159133,argo1244,LENTILS,m ɨ sː ɨ r,223,felekesemitic
+159134,argo1244,LION,x a m b ə s a,225,felekesemitic
+159135,hara1271,HOW,m i n k u t,208,felekesemitic
+159136,hara1271,HYENA,w a r aː b a,213,felekesemitic
+159137,hara1271,INSULT,s ə d ə b a,216,felekesemitic
+159138,hara1271,KING,n ə g aː ʃ i,220,felekesemitic
+159139,hara1271,LENTILS,m i sː i r,223,felekesemitic
+159140,hara1271,LION,w a n aː g,226,felekesemitic
+159141,kist1241,HOW,m ɨ n k o m,208,felekesemitic
+159142,kist1241,HUNDRED,m ə t o,211,felekesemitic
+159143,kist1241,HYENA,g ə tʃ ə,214,felekesemitic
+159144,kist1241,INSULT,s ə dː ə b ə m,216,felekesemitic
+159145,kist1241,KING,n ɨ g u s,220,felekesemitic
+159146,kist1241,LEG,ʔ ə g ɨ r,221,felekesemitic
+159147,kist1241,LENTILS,m ɨ ʃ ɨ r ə,223,felekesemitic
+159148,kist1241,LION,ʔ a n b ə sː a,225,felekesemitic
+159149,mesq1240,HOW,b ə m ɨ n,209,felekesemitic
+159150,mesq1240,HUNDRED,m ə t o,211,felekesemitic
+159151,mesq1240,HYENA,g w ə tʃ ə,214,felekesemitic
+159152,mesq1240,INSULT,s ə dː ə b ə,216,felekesemitic
+159153,mesq1240,KING,n ɨ g w s,220,felekesemitic
+159154,mesq1240,LEG,ʔ ə g ɨ r,221,felekesemitic
+159155,mesq1240,LION,ʔ a n b ə sː a,225,felekesemitic
+159156,silt1240,HOW,ʔ ay/ai̯ n ə k o,208,felekesemitic
+159157,silt1240,HYENA,w ə r a b ə,213,felekesemitic
+159158,silt1240,INSULT,s ə d ə b ə,216,felekesemitic
+159159,silt1240,KING,n ɨ g u s,220,felekesemitic
+159160,silt1240,LEG,ʔ ɨ n g i r,221,felekesemitic
+159161,silt1240,LENTILS,m ɨ ʃ ɨ r,223,felekesemitic
+159162,silt1240,LION,w ə r b a,227,felekesemitic
+159163,tigr1270,HOW,ʔ a f o,210,felekesemitic
+159164,tigr1270,HUNDRED,m ɨ ʔ ɨ t,211,felekesemitic
+159165,tigr1270,HYENA,k ə r ay/ai̯,215,felekesemitic
+159166,tigr1270,INSULT,ʕ a y/j ə r a,217,felekesemitic
+159167,tigr1270,JOKE,k ə d m a,218,felekesemitic
+159168,tigr1270,KING,n ə g u s,220,felekesemitic
+159169,tigr1270,LEG,ʔ ɨ g ə r,221,felekesemitic
+159170,tigr1270,LENTILS,m ə s ɨ r,223,felekesemitic
+159171,tigr1270,LION,ħ a y/j ə t,228,felekesemitic
+159172,tigr1271,HOW,k ə m əy/əi̯,207,felekesemitic
+159173,tigr1271,HUNDRED,m i ʔ t i,211,felekesemitic
+159174,tigr1271,HYENA,z ɨ b ʔ i,212,felekesemitic
+159175,tigr1271,INSULT,ś/s ə r ə f ə,216,felekesemitic
+159176,tigr1271,JOKE,q ə l d i,219,felekesemitic
+159177,tigr1271,KING,n ɨ g u s,220,felekesemitic
+159178,tigr1271,LEG,ʔ ɨ g r i,221,felekesemitic
+159179,tigr1271,LENTILS,b ɨ r s i n,224,felekesemitic
+159180,tigr1271,LION,ʔ a n b ə sː a,225,felekesemitic
+159181,wola1253,HOW,m ɨ n a k o,208,felekesemitic
+159182,wola1253,HYENA,w ə r a b ə,213,felekesemitic
+159183,wola1253,INSULT,s ə d ə b ə,216,felekesemitic
+159184,wola1253,KING,n ɨ g u s,220,felekesemitic
+159185,wola1253,LEG,ʔ ɨ n g i r,221,felekesemitic
+159186,wola1253,LENTILS,m ɨ s r,223,felekesemitic
+159187,wola1253,LION,w ə r a b e,227,felekesemitic
+159188,zayy1238,HOW,ʔ ay/ai̯ k u,208,felekesemitic
+159189,zayy1238,HYENA,ʔ u r aː b a,213,felekesemitic
+159190,zayy1238,INSULT,s ə d ə b ə,216,felekesemitic
+159191,zayy1238,KING,n ɨ g u s,220,felekesemitic
+159192,zayy1238,LEG,t ə f ə,222,felekesemitic
+159193,zayy1238,LENTILS,m ɨ ʃ ɨ r,223,felekesemitic
+159194,zayy1238,LION,l eː n tʃ a,229,felekesemitic
+159195,amha1245,LIP,k ə n f ə r,230,felekesemitic
+159196,amha1245,MAN,s ə w,238,felekesemitic
+159197,amha1245,MONDAY,s ə ňň/ɲː o,242,felekesemitic
+159198,amha1245,NECK,ʔ a n g ə t,251,felekesemitic
+159199,amha1245,NINE,z ə ť/tʼ ə ňň/ɲː,254,felekesemitic
+159200,amha1245,NOW,ʔ a h u n,256,felekesemitic
+159201,amha1245,ONE,ʔ a n d,258,felekesemitic
+159202,argo1244,LIP,m ɨ n tʃ ɨ r,231,felekesemitic
+159203,argo1244,MAIZE,b a r m a s i l a,235,felekesemitic
+159204,argo1244,MAN,s ə w,238,felekesemitic
+159205,argo1244,MONDAY,h a r g a d,243,felekesemitic
+159206,argo1244,NECK,ʔ a ň/ɲ g ə d,251,felekesemitic
+159207,argo1244,NINE,ʒ ɨ h ɨ ť/tʼ ə ň/ɲ,254,felekesemitic
+159208,argo1244,NOW,ʔ a h a ň/ɲ,256,felekesemitic
+159209,argo1244,ONE,h a n d,258,felekesemitic
+159210,hara1271,LIP,l ə f l ə f,232,felekesemitic
+159211,hara1271,MAIZE,ʔ a r ə b a x i,236,felekesemitic
+159212,hara1271,MAN,ʔ u s u ʔ,239,felekesemitic
+159213,hara1271,MONDAY,ʔ i s n iː n,244,felekesemitic
+159214,hara1271,NECK,ʔ a n g ə t,251,felekesemitic
+159215,hara1271,NINE,z ə ħ ť/tʼ ə ň/ɲ,254,felekesemitic
+159216,hara1271,NOW,ʔ a xː a ʔ,256,felekesemitic
+159217,hara1271,ONE,ʔ a ħ a n d,258,felekesemitic
+159218,kist1241,LIP,k ə n f ə r,230,felekesemitic
+159219,kist1241,MAN,m ɨ s,240,felekesemitic
+159220,kist1241,MONDAY,w ɨ ť/tʼ ə t,245,felekesemitic
+159221,kist1241,MULE,b ɨ ć/tʃʼ ɨ l,246,felekesemitic
+159222,kist1241,NECK,ʔ a n g ə t,251,felekesemitic
+159223,kist1241,NINE,ǯ/ʒ ə ť/tʼ ə ň/ɲ,254,felekesemitic
+159224,kist1241,NOW,ʔ a x u,256,felekesemitic
+159225,kist1241,ONE,ʔ a tː,258,felekesemitic
+159226,mesq1240,LIP,k ə n f ə r,230,felekesemitic
+159227,mesq1240,MAN,m ɨ s,240,felekesemitic
+159228,mesq1240,MONDAY,w ɨ ť/tʼ ə t,245,felekesemitic
+159229,mesq1240,NECK,ʔ a n g ə t,251,felekesemitic
+159230,mesq1240,NINE,ǯ/ʒ ə ť/tʼ ə,254,felekesemitic
+159231,mesq1240,NOW,ʔ ə x w a,256,felekesemitic
+159232,mesq1240,ONE,ʔ a tː,258,felekesemitic
+159233,silt1240,LIP,g ɨ r ć/tʃʼ e,233,felekesemitic
+159234,silt1240,MAN,s ə b,241,felekesemitic
+159235,silt1240,MONDAY,w ɨ ť/tʼ ə t,245,felekesemitic
+159236,silt1240,NECK,ʔ a n g w o r o,252,felekesemitic
+159237,silt1240,NINE,z i ťť/tʼː ə ňň/ɲː e,254,felekesemitic
+159238,silt1240,NOW,ʔ a kː u,256,felekesemitic
+159239,silt1240,ONE,ʔ aː d,258,felekesemitic
+159240,tigr1270,LIP,k ə m f ə r,230,felekesemitic
+159241,tigr1270,MAIZE,ʕ ɨ fː u n,237,felekesemitic
+159242,tigr1270,MAN,s ə b,241,felekesemitic
+159243,tigr1270,MONDAY,s ə n o,242,felekesemitic
+159244,tigr1270,NECK,s ɨ g a d,253,felekesemitic
+159245,tigr1270,NINE,s ɨ ʕ,255,felekesemitic
+159246,tigr1270,NOW,ʔ a z e,257,felekesemitic
+159247,tigr1270,ONE,h a tː e,258,felekesemitic
+159248,tigr1271,LIP,k ə n f ə r,230,felekesemitic
+159249,tigr1271,LOUSE,q u m a l,234,felekesemitic
+159250,tigr1271,MAIZE,ʕ u f a n,237,felekesemitic
+159251,tigr1271,MAN,s ə b ʔ ay/ai̯,241,felekesemitic
+159252,tigr1271,MONDAY,s ə n uy/ui̯,242,felekesemitic
+159253,tigr1271,MULE,b ə q l i,246,felekesemitic
+159254,tigr1271,NECK,k ɨ s a d,253,felekesemitic
+159255,tigr1271,NOW,ħ ɨ z i,257,felekesemitic
+159256,tigr1271,ONE,ħ a d ə,258,felekesemitic
+159257,wola1253,LIP,l ə f l ə f,232,felekesemitic
+159258,wola1253,MAN,s ə b,241,felekesemitic
+159259,wola1253,MONDAY,w ɨ ť/tʼ ə t,245,felekesemitic
+159260,wola1253,NECK,ʔ a n g ə t,251,felekesemitic
+159261,wola1253,NINE,ʒ i ťť/tʼː ə ň/ɲ,254,felekesemitic
+159262,wola1253,NOW,ʔ a h u,256,felekesemitic
+159263,wola1253,ONE,ʔ a d,258,felekesemitic
+159264,zayy1238,LIP,l e f l ə f,232,felekesemitic
+159265,zayy1238,MAIZE,m aː ʃ u lː e,235,felekesemitic
+159266,zayy1238,MAN,s ə b,241,felekesemitic
+159267,zayy1238,MONDAY,w ɨ ť/tʼ ə t,245,felekesemitic
+159268,zayy1238,NECK,ʔ a n g ə t,251,felekesemitic
+159269,zayy1238,NINE,ʒ aː ťť/tʼː ə ň/ɲ,254,felekesemitic
+159270,zayy1238,NOW,ʔ a h u,256,felekesemitic
+159271,zayy1238,ONE,ʔ a n d,258,felekesemitic
+159272,amha1245,OX,b ə r e,259,felekesemitic
+159273,amha1245,PEA,ʔ a t ə r,261,felekesemitic
+159274,amha1245,PILLOW,t ɨ r a s,266,felekesemitic
+159275,amha1245,PLATE,s a h ɨ n,269,felekesemitic
+159276,amha1245,MUSH (FOOD),g ə n f o,247,felekesemitic
+159277,amha1245,PUMPKIN,d u bː a,272,felekesemitic
+159278,amha1245,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159279,amha1245,RICE,r u z,277,felekesemitic
+159280,argo1244,OX,b ə ʔ r a,259,felekesemitic
+159281,argo1244,PEA,ʔ a t ə r,261,felekesemitic
+159282,argo1244,PEPPER,b ə r b ə r e,264,felekesemitic
+159283,argo1244,PILLOW,m ə n f ɨ r e,267,felekesemitic
+159284,argo1244,PLATE,s a h ɨ n,269,felekesemitic
+159285,argo1244,MUSH (FOOD),g ɨ n f o,247,felekesemitic
+159286,argo1244,PUMPKIN,d u bː a,272,felekesemitic
+159287,argo1244,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159288,argo1244,RICE,r u z,277,felekesemitic
+159289,hara1271,OX,b a ʔ a r a,259,felekesemitic
+159290,hara1271,PEA,d a n g u lː e,262,felekesemitic
+159291,hara1271,PEPPER,b ə r b ə r i,264,felekesemitic
+159292,hara1271,PILLOW,m ɨ t r aː ʃ,266,felekesemitic
+159293,hara1271,PLATE,s a ħ a n,269,felekesemitic
+159294,hara1271,MUSH (FOOD),ʃ uː r,248,felekesemitic
+159295,hara1271,PUMPKIN,d u bː a,272,felekesemitic
+159296,hara1271,RAINING OR RAIN,z ɨ n aː b,273,felekesemitic
+159297,hara1271,RICE,r uː z,277,felekesemitic
+159298,kist1241,OX,b o r a,259,felekesemitic
+159299,kist1241,PILLOW,g i mː ə,268,felekesemitic
+159300,kist1241,PLATE,s ə h a n,269,felekesemitic
+159301,kist1241,MUSH (FOOD),g ə n f o,247,felekesemitic
+159302,kist1241,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159303,kist1241,RED,b ɨ ʃː ə,275,felekesemitic
+159304,kist1241,RICE,r u z,277,felekesemitic
+159305,mesq1240,OX,b o r a,259,felekesemitic
+159306,mesq1240,PEA,ʔ a t ə r ə,261,felekesemitic
+159307,mesq1240,PILLOW,t ə r a s,266,felekesemitic
+159308,mesq1240,PLATE,ť/tʼ a b a,270,felekesemitic
+159309,mesq1240,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159310,mesq1240,RED,b ɨ ʃː a,275,felekesemitic
+159311,mesq1240,RICE,r u z,277,felekesemitic
+159312,silt1240,OX,k ə r aː b,260,felekesemitic
+159313,silt1240,PEA,g i t e,263,felekesemitic
+159314,silt1240,PEPPER,ť/tʼ u r g a,265,felekesemitic
+159315,silt1240,PILLOW,g i mː a,268,felekesemitic
+159316,silt1240,PLATE,s aː n,269,felekesemitic
+159317,silt1240,RAINING OR RAIN,z ɨ l ə m,274,felekesemitic
+159318,silt1240,RED,b u ʃ o,275,felekesemitic
+159319,silt1240,RICE,r u z,277,felekesemitic
+159320,tigr1270,OX,b ə ʕ r ay/ai̯,259,felekesemitic
+159321,tigr1270,PEA,ʕ a t ə r,261,felekesemitic
+159322,tigr1270,PEPPER,b ə r b ə r e,264,felekesemitic
+159323,tigr1270,PILLOW,t ə r ʔ a s,266,felekesemitic
+159324,tigr1270,PLATE,ʔ a t a tʃ i,271,felekesemitic
+159325,tigr1270,MUSH (FOOD),g a ʕ t,249,felekesemitic
+159326,tigr1270,PUMPKIN,d ɨ bː a,272,felekesemitic
+159327,tigr1270,RAINING OR RAIN,z ɨ l a m,274,felekesemitic
+159328,tigr1270,RICE,r u z,277,felekesemitic
+159329,tigr1271,OX,b ɨ ʕ ɨ r ay/ai̯,259,felekesemitic
+159330,tigr1271,PEA,ʕ a t ə r,261,felekesemitic
+159331,tigr1271,PEPPER,b ə r b ə r ə,264,felekesemitic
+159332,tigr1271,PILLOW,m ə t r ə ʔ a s,266,felekesemitic
+159333,tigr1271,MUSH (FOOD),g ə n f o,247,felekesemitic
+159334,tigr1271,PUMPKIN,d u bː a,272,felekesemitic
+159335,tigr1271,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159336,tigr1271,RED,q ə yy/j ɨ ħ,276,felekesemitic
+159337,tigr1271,RICE,r u z,277,felekesemitic
+159338,wola1253,OX,b oː r a,259,felekesemitic
+159339,wola1253,PEPPER,b ə r b ə r e,264,felekesemitic
+159340,wola1253,PILLOW,t ə r a s,266,felekesemitic
+159341,wola1253,PLATE,s a h a n,269,felekesemitic
+159342,wola1253,PUMPKIN,d ə b a ʔ u lː a,272,felekesemitic
+159343,wola1253,RAINING OR RAIN,z ɨ l a m,274,felekesemitic
+159344,wola1253,RED,b u ʃ a,275,felekesemitic
+159345,wola1253,RICE,r u z,277,felekesemitic
+159346,zayy1238,OX,b uː r ə,259,felekesemitic
+159347,zayy1238,PEA,ʔ a n t ə r ə,261,felekesemitic
+159348,zayy1238,PEPPER,b ə r b aː r i,264,felekesemitic
+159349,zayy1238,PILLOW,g i mː a,268,felekesemitic
+159350,zayy1238,PLATE,s a h a n,269,felekesemitic
+159351,zayy1238,MUSH (FOOD),h o b u d u,250,felekesemitic
+159352,zayy1238,PUMPKIN,d u b a,272,felekesemitic
+159353,zayy1238,RAINING OR RAIN,z ɨ n a b,273,felekesemitic
+159354,zayy1238,RICE,r u z,277,felekesemitic
+159355,amha1245,RICH,h a b t a m,278,felekesemitic
+159356,amha1245,ROAD,m ə n g ə d,285,felekesemitic
+159357,amha1245,SALT,ć/tʃʼ ə w,291,felekesemitic
+159358,amha1245,SAW,ʔ a yy/j ə,300,felekesemitic
+159359,amha1245,SEED,z ə r,303,felekesemitic
+159360,amha1245,SEVEN,s ə b a tː,305,felekesemitic
+159361,amha1245,SHE,ʔ ɨ s w a,307,felekesemitic
+159362,amha1245,SHEEP,b ə g,310,felekesemitic
+159363,amha1245,SHORT,ʔ a ćć/tʃʼ ɨ r,314,felekesemitic
+159364,argo1244,RICH,d ə m a m,279,felekesemitic
+159365,argo1244,ROAD,x ɨ y/j ɨ m a,286,felekesemitic
+159366,argo1244,SALT,tʃ ə w,291,felekesemitic
+159367,argo1244,SATURDAY,s ə m b ə d,297,felekesemitic
+159368,argo1244,SAW,x a y/j e,300,felekesemitic
+159369,argo1244,SEED,z ə r i,303,felekesemitic
+159370,argo1244,SEVEN,s a ʔ i n t,306,felekesemitic
+159371,argo1244,SHE,k ɨ sː a,307,felekesemitic
+159372,argo1244,SHEEP,x a r a,311,felekesemitic
+159373,argo1244,SHORT,h a tʃ ɨ r n i,314,felekesemitic
+159374,hara1271,RICH,b a ʔ a w,280,felekesemitic
+159375,hara1271,ROAD,ʔ uː g a,287,felekesemitic
+159376,hara1271,SALT,ť/tʼ i r ə sː u,292,felekesemitic
+159377,hara1271,SATURDAY,s ə b t i,298,felekesemitic
+159378,hara1271,SAW,m i n ʃ aː r,301,felekesemitic
+159379,hara1271,SEED,s ə ň/ɲ i,304,felekesemitic
+159380,hara1271,SEVEN,s aː tː i,305,felekesemitic
+159381,hara1271,SHE,ʔ a zː eː,307,felekesemitic
+159382,hara1271,SHEEP,ť/tʼ aay/aːi̯,312,felekesemitic
+159383,hara1271,SHORT,ħ a ć/tʃʼ i r,314,felekesemitic
+159384,kist1241,RICH,d ə n g ə ňň/ɲː ə,281,felekesemitic
+159385,kist1241,ROAD,m o ć/tʃʼ ə,288,felekesemitic
+159386,kist1241,SALT,s o g i d a,293,felekesemitic
+159387,kist1241,SATURDAY,k ɨ d a n s ə n b ə t,297,felekesemitic
+159388,kist1241,SAW,ʔ a ǯǯ/ʒː ə,300,felekesemitic
+159389,kist1241,SEED,z ə r,303,felekesemitic
+159390,kist1241,SEVEN,s ə b a t,305,felekesemitic
+159391,kist1241,SHE,k i y/j a,308,felekesemitic
+159392,kist1241,SHEEP,ʔ ə ť/tʼ ay/ai̯,312,felekesemitic
+159393,kist1241,SHORT,ʔ a ćć/tʃʼ ɨ r,314,felekesemitic
+159394,mesq1240,RICH,d ə n g ə ňň/ɲː ə,281,felekesemitic
+159395,mesq1240,ROAD,ʔ e m a,289,felekesemitic
+159396,mesq1240,SALT,ʔ a sː o,294,felekesemitic
+159397,mesq1240,SATURDAY,k ɨ d a n s ə n b ə t,297,felekesemitic
+159398,mesq1240,SAW,ʔ a ǯǯ/ʒː ə,300,felekesemitic
+159399,mesq1240,SEED,z ə r,303,felekesemitic
+159400,mesq1240,SEVEN,s e b ə t,305,felekesemitic
+159401,mesq1240,SHE,x i t i,309,felekesemitic
+159402,mesq1240,SHEEP,ʔ ə ť/tʼ e,312,felekesemitic
+159403,mesq1240,SHORT,ʔ a ćć/tʃʼ ɨ r,314,felekesemitic
+159404,silt1240,RICH,d u r e sː ə,282,felekesemitic
+159405,silt1240,ROAD,ʔ u n g a,287,felekesemitic
+159406,silt1240,SALT,ʔ a r u s o,294,felekesemitic
+159407,silt1240,SATURDAY,a n s ə n b ə t,297,felekesemitic
+159408,silt1240,SAW,ʔ a n ǯ/ʒ ə,300,felekesemitic
+159409,silt1240,SEED,z ə r,303,felekesemitic
+159410,silt1240,SEVEN,s a ʔ a b a t,305,felekesemitic
+159411,silt1240,SHE,ʔ i ʃ a,307,felekesemitic
+159412,silt1240,SHEEP,ť/tʼ ay/ai̯,312,felekesemitic
+159413,silt1240,SHORT,ʔ a n ć/tʃʼ ɨ r,314,felekesemitic
+159414,tigr1270,RICH,ś/s ɨ g u b,283,felekesemitic
+159415,tigr1270,ROAD,g ə b əy/əi̯,290,felekesemitic
+159416,tigr1270,SALT,ś/s e w e,295,felekesemitic
+159417,tigr1270,SATURDAY,s ə n b ə t + n ɨ ʔ ɨ ʃ,297,felekesemitic
+159418,tigr1270,SAW,r ə ʔ a,300,felekesemitic
+159419,tigr1270,SEED,z ə r ɨ ʔ,303,felekesemitic
+159420,tigr1270,SEVEN,s ə b u ʔ ə,305,felekesemitic
+159421,tigr1270,SHE,h ɨ t a,309,felekesemitic
+159422,tigr1270,SHEEP,b ə gː u ʕ,313,felekesemitic
+159423,tigr1270,SHORT,ħ a ćć/tʃʼ a r,314,felekesemitic
+159424,tigr1271,RICH,h a b t a m,278,felekesemitic
+159425,tigr1271,ROAD,m ə n g ə d i,285,felekesemitic
+159426,tigr1271,SALT,ć/tʃʼ ə w,296,felekesemitic
+159427,tigr1271,SATURDAY,q ə d a m,299,felekesemitic
+159428,tigr1271,SAW,r ə ʔ a y/j ə,300,felekesemitic
+159429,tigr1271,SEED,z ə r ʔ i,303,felekesemitic
+159430,tigr1271,SHE,n ɨ sː a,307,felekesemitic
+159431,tigr1271,SHEEP,b ə g ɨ ʕ,313,felekesemitic
+159432,tigr1271,SHORT,ħ a śś/sː i r,314,felekesemitic
+159433,wola1253,RICH,d u r e sː ə,282,felekesemitic
+159434,wola1253,ROAD,ʔ u n dʒ ə,287,felekesemitic
+159435,wola1253,SALT,ʔ a s ə b o,294,felekesemitic
+159436,wola1253,SATURDAY,ʔ a n s ə n b ə t,297,felekesemitic
+159437,wola1253,SAW,m ə g a z,302,felekesemitic
+159438,wola1253,SEED,z aː r,303,felekesemitic
+159439,wola1253,SEVEN,s a b t,305,felekesemitic
+159440,wola1253,SHE,ʔ ɨ ʃ ə,307,felekesemitic
+159441,wola1253,SHEEP,ť/tʼ ay/ai̯,312,felekesemitic
+159442,wola1253,SHORT,ʔ a n ć/tʃʼ ɨ r,314,felekesemitic
+159443,zayy1238,RICH,n ɨ b r ə t a ň/ɲ ə,284,felekesemitic
+159444,zayy1238,ROAD,ʔ uː n dʒ ə,287,felekesemitic
+159445,zayy1238,SALT,ʔ a s o b u,294,felekesemitic
+159446,zayy1238,SATURDAY,ʔ a n ə s ə n b ə t,297,felekesemitic
+159447,zayy1238,SAW,m ə g a z,302,felekesemitic
+159448,zayy1238,SEED,z ə r ə,303,felekesemitic
+159449,zayy1238,SEVEN,s ə b ɨ t,305,felekesemitic
+159450,zayy1238,SHE,ʔ i t,309,felekesemitic
+159451,zayy1238,SHEEP,t ay/ai̯,312,felekesemitic
+159452,zayy1238,SHORT,ʔ a n ć/tʃʼ ɨ r,314,felekesemitic
+159453,amha1245,SIX,s ɨ dː ɨ s t,315,felekesemitic
+159454,amha1245,SMOKE (EXHAUST),ć/tʃʼ ɨ s,316,felekesemitic
+159455,amha1245,SONG,z ə f ə n,319,felekesemitic
+159456,amha1245,STONE,d ɨ n g ay/ai̯,324,felekesemitic
+159457,amha1245,STOOL,b ə r ć/tʃʼ u m a,328,felekesemitic
+159458,amha1245,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159459,amha1245,SUN,ś/s ə h ay/ai̯,336,felekesemitic
+159460,amha1245,SUNDAY,ʔ ɨ h u d,340,felekesemitic
+159461,argo1244,SIX,s ɨ d ɨ s t,315,felekesemitic
+159462,argo1244,SMOKE (EXHAUST),tʃ i s,316,felekesemitic
+159463,argo1244,SONG,z ə f ə n,319,felekesemitic
+159464,argo1244,STONE,d ɨ n g ay/ai̯,324,felekesemitic
+159465,argo1244,STOOL,g ɨ r u m b ə d,329,felekesemitic
+159466,argo1244,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159467,argo1244,SUN,tʃ ə h e d,337,felekesemitic
+159468,argo1244,SUNDAY,s ə m b ə d,341,felekesemitic
+159469,hara1271,SIX,s i dː i s t aː ň/ɲ,315,felekesemitic
+159470,hara1271,SMOKE (EXHAUST),t ə n,317,felekesemitic
+159471,hara1271,STONE,ʔ uː n,325,felekesemitic
+159472,hara1271,STOOL,w ə m b ə r,329,felekesemitic
+159473,hara1271,SUDDENLY,d ə g u,333,felekesemitic
+159474,hara1271,SUN,ʔ i r,338,felekesemitic
+159475,hara1271,SUNDAY,ʔ a l ħ a d,342,felekesemitic
+159476,kist1241,SIX,s ɨ d ɨ s t,315,felekesemitic
+159477,kist1241,SMOKE (EXHAUST),t ə n,317,felekesemitic
+159478,kist1241,SONG,d ə r s,320,felekesemitic
+159479,kist1241,STONE,y/j i m i r,326,felekesemitic
+159480,kist1241,STOOL,w ə n b ə r,329,felekesemitic
+159481,kist1241,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159482,kist1241,SUN,y/j i m ɨ r,338,felekesemitic
+159483,kist1241,SUNDAY,w u r s ə n b ə t,341,felekesemitic
+159484,mesq1240,SIX,s ɨ dː ɨ s t,315,felekesemitic
+159485,mesq1240,SMOKE (EXHAUST),t ə nː,317,felekesemitic
+159486,mesq1240,SONG,d ə r s,320,felekesemitic
+159487,mesq1240,STONE,ʔ ɨ m ɨ r,326,felekesemitic
+159488,mesq1240,STOOL,b o r ć/tʃʼ u m a,328,felekesemitic
+159489,mesq1240,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159490,mesq1240,SUN,ć/tʃʼ e t,337,felekesemitic
+159491,mesq1240,SUNDAY,w u r s ə n b ə t,341,felekesemitic
+159492,silt1240,SIX,s ɨ dː ɨ s t,315,felekesemitic
+159493,silt1240,SMOKE (EXHAUST),t ə n,317,felekesemitic
+159494,silt1240,SONG,ʃ ɨ b ə t,321,felekesemitic
+159495,silt1240,STONE,ʔ uː n,325,felekesemitic
+159496,silt1240,SUDDENLY,d ɨ n b u ť/tʼ,332,felekesemitic
+159497,silt1240,SUN,ʔ a y/j ɨ r,338,felekesemitic
+159498,silt1240,SUNDAY,g ɨ d ɨ r s ə n b ə t,341,felekesemitic
+159499,tigr1270,SIX,s ɨ ʔ ɨ s,315,felekesemitic
+159500,tigr1270,SMOKE (EXHAUST),t ə n a n,317,felekesemitic
+159501,tigr1270,SONG,w ə t ə r,322,felekesemitic
+159502,tigr1270,STONE,ʔ ɨ b ɨ n,325,felekesemitic
+159503,tigr1270,STOOL,d ɨ kː a,330,felekesemitic
+159504,tigr1270,SUDDENLY,ʔ ɨ b h a m g ə m,334,felekesemitic
+159505,tigr1270,SUN,ʃ ɨ m ɨ ʃ,339,felekesemitic
+159506,tigr1270,SUNDAY,s ə n b ə t ʔ a bː ɨy/ɨi̯,341,felekesemitic
+159507,tigr1271,SMOKE (EXHAUST),t ɨ kː i,318,felekesemitic
+159508,tigr1271,SONG,d ə r f i,323,felekesemitic
+159509,tigr1271,STONE,ʔ ɨ m n i,327,felekesemitic
+159510,tigr1271,STOOL,m ə n b ə r,329,felekesemitic
+159511,tigr1271,SUDDENLY,b ɨ h a n d ɨ b ə t,335,felekesemitic
+159512,tigr1271,SUN,ś/s ə ħ ay/ai̯,336,felekesemitic
+159513,tigr1271,SUNDAY,s ə n b ə t,341,felekesemitic
+159514,wola1253,SIX,s ɨ dː ɨ s t,315,felekesemitic
+159515,wola1253,SMOKE (EXHAUST),t ə n,317,felekesemitic
+159516,wola1253,SONG,ʃ ɨ b ə t,321,felekesemitic
+159517,wola1253,STONE,ʔ u n,325,felekesemitic
+159518,wola1253,STOOL,b o r ć/tʃʼ ɨ mː a,328,felekesemitic
+159519,wola1253,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159520,wola1253,SUN,ʔ ay/ai̯ r,338,felekesemitic
+159521,wola1253,SUNDAY,s ə n b ə t,341,felekesemitic
+159522,zayy1238,SIX,s ɨ dː ɨ s t,315,felekesemitic
+159523,zayy1238,SMOKE (EXHAUST),t ə n,317,felekesemitic
+159524,zayy1238,SONG,ʃ i b ay/ai̯,321,felekesemitic
+159525,zayy1238,STONE,ʔ u m u n,325,felekesemitic
+159526,zayy1238,STOOL,ʔ a h b a b i t,331,felekesemitic
+159527,zayy1238,SUDDENLY,d ɨ n g ə t,332,felekesemitic
+159528,zayy1238,SUN,ʔ a r i t,338,felekesemitic
+159529,zayy1238,SUNDAY,s ə n b ə t,341,felekesemitic
+159530,amha1245,SWEAT (SUBSTANCE),l a b,348,felekesemitic
+159531,amha1245,TEN,ʔ a sː ɨ r,352,felekesemitic
+159532,amha1245,THAT,y/j a,353,felekesemitic
+159533,amha1245,THEN,k ə zː i y/j a,357,felekesemitic
+159534,amha1245,THEY,ʔ ɨ nː ə sː u,365,felekesemitic
+159535,amha1245,THICK,w ə f r a m,371,felekesemitic
+159536,amha1245,THIEF,l e b a,378,felekesemitic
+159537,amha1245,THIS,y/j ɨ h,383,felekesemitic
+159538,amha1245,THREE,s o s t,394,felekesemitic
+159539,argo1244,SWEAT (SUBSTANCE),l a b,348,felekesemitic
+159540,argo1244,TEN,ʔ a sː ɨ r,352,felekesemitic
+159541,argo1244,THAT,ʔ o d,354,felekesemitic
+159542,argo1244,THEN,w o d g ɨ z e,358,felekesemitic
+159543,argo1244,THEY,k ɨ s ɨ m,366,felekesemitic
+159544,argo1244,THICK,w ɨ f r a m,371,felekesemitic
+159545,argo1244,THIEF,l e β a,378,felekesemitic
+159546,argo1244,THIS,h u d,384,felekesemitic
+159547,argo1244,THREE,s o s t,394,felekesemitic
+159548,hara1271,SWEAT (SUBSTANCE),w uː z i ʔ,349,felekesemitic
+159549,hara1271,TEN,ʔ a sː i r,352,felekesemitic
+159550,hara1271,THAT,ʔ a zː o,355,felekesemitic
+159551,hara1271,THEN,b ə ħ ə r,359,felekesemitic
+159552,hara1271,THEY,ʔ a zː i y/j aː tʃ,367,felekesemitic
+159553,hara1271,THICK,w a d ə l,372,felekesemitic
+159554,hara1271,THIEF,r o g i,379,felekesemitic
+159555,hara1271,THIS,y/j i,383,felekesemitic
+159556,hara1271,THREE,ʃ i ʔ i ʃ t i,394,felekesemitic
+159557,kist1241,SWEAT (SUBSTANCE),w ɨ z a t,349,felekesemitic
+159558,kist1241,TEN,ʔ a s ɨ r,352,felekesemitic
+159559,kist1241,THAT,z a,353,felekesemitic
+159560,kist1241,THEN,t ə k w a,360,felekesemitic
+159561,kist1241,THEY,k ɨ nː ə m,365,felekesemitic
+159562,kist1241,THICK,d ə d a n,373,felekesemitic
+159563,kist1241,THIEF,l e b a,378,felekesemitic
+159564,kist1241,THIN,ʔ a s ť/tʼ a ť/tʼ i b,381,felekesemitic
+159565,kist1241,THIS,z i,385,felekesemitic
+159566,kist1241,THREE,s o s t,394,felekesemitic
+159567,mesq1240,SWEAT (SUBSTANCE),w ɨ z a t,349,felekesemitic
+159568,mesq1240,TEN,ʔ a s ɨ r,352,felekesemitic
+159569,mesq1240,THAT,z a,353,felekesemitic
+159570,mesq1240,THEN,b ə h i,359,felekesemitic
+159571,mesq1240,THEY,x ɨ nː o,365,felekesemitic
+159572,mesq1240,THICK,dʒ ə n dʒ ɨ n,373,felekesemitic
+159573,mesq1240,THIEF,l e b a,378,felekesemitic
+159574,mesq1240,THIS,z i,385,felekesemitic
+159575,mesq1240,THREE,s o s t,394,felekesemitic
+159576,silt1240,SWEAT (SUBSTANCE),w ɨ z ə t,349,felekesemitic
+159577,silt1240,TEN,ʔ a sː ɨ r,352,felekesemitic
+159578,silt1240,THAT,h a tː ay/ai̯,354,felekesemitic
+159579,silt1240,THEN,t ə ʔ i z o f,361,felekesemitic
+159580,silt1240,THEY,ʔ u x u n,368,felekesemitic
+159581,silt1240,THICK,m ə g ə rː i,374,felekesemitic
+159582,silt1240,THIEF,r a n dʒ i,380,felekesemitic
+159583,silt1240,THIS,ʔ ɨ nː ə,386,felekesemitic
+159584,silt1240,THREE,ʃ e ʃ t,394,felekesemitic
+159585,tigr1270,SWEAT (SUBSTANCE),l ə h ə b ə t,350,felekesemitic
+159586,tigr1270,TEN,ʔ a s ɨ r,352,felekesemitic
+159587,tigr1270,THAT,l a h ay/ai̯,356,felekesemitic
+159588,tigr1270,THEN,ħ a r,362,felekesemitic
+159589,tigr1270,THEY,h ɨ t o m,369,felekesemitic
+159590,tigr1270,THICK,g ə z i f,375,felekesemitic
+159591,tigr1270,THIS,d ə lː i,387,felekesemitic
+159592,tigr1270,THREE,s ə l ə s,394,felekesemitic
+159593,tigr1271,SWEAT (SUBSTANCE),r ɨ h a ś/s,351,felekesemitic
+159594,tigr1271,TEN,ʕ a s ə r t ə,352,felekesemitic
+159595,tigr1271,THAT,ʔ ɨ t i,354,felekesemitic
+159596,tigr1271,THEN,ʃ ɨ ʕ u,363,felekesemitic
+159597,tigr1271,THEY,n ɨ sː a t ə n,370,felekesemitic
+159598,tigr1271,THICK,ś/s ɨ nː u ʕ,376,felekesemitic
+159599,tigr1271,THIEF,s ə r a q i,379,felekesemitic
+159600,tigr1271,THIN,q ə ťť/tʼː i n,382,felekesemitic
+159601,tigr1271,THIS,ʔ ɨ zː i,388,felekesemitic
+159602,tigr1271,THREE,s ə l ə s t ə,394,felekesemitic
+159603,wola1253,SWEAT (SUBSTANCE),w ə z i,349,felekesemitic
+159604,wola1253,TEN,ʔ a sː ɨ r,352,felekesemitic
+159605,wola1253,THAT,ʔ a nː ə,354,felekesemitic
+159606,wola1253,THEN,ʔ a nː ə g ɨ n,364,felekesemitic
+159607,wola1253,THEY,ʔ u h u n,368,felekesemitic
+159608,wola1253,THICK,m ə g ə rː i,374,felekesemitic
+159609,wola1253,THIEF,r a n dʒ i,380,felekesemitic
+159610,wola1253,THIS,z i,385,felekesemitic
+159611,wola1253,THREE,ʃ e ʃ t,394,felekesemitic
+159612,zayy1238,SWEAT (SUBSTANCE),w ə z,349,felekesemitic
+159613,zayy1238,TEN,ʔ a sː ɨ r,352,felekesemitic
+159614,zayy1238,THAT,y/j a h ay/ai̯,353,felekesemitic
+159615,zayy1238,THEN,y/j a n e g i,364,felekesemitic
+159616,zayy1238,THEY,ʔ ɨ n o mː u,365,felekesemitic
+159617,zayy1238,THICK,z uː rː a,377,felekesemitic
+159618,zayy1238,THIEF,l e b a,378,felekesemitic
+159619,zayy1238,THIS,ʔ ɨ n a tʃː u,386,felekesemitic
+159620,zayy1238,THREE,ʃ e ʃ t,394,felekesemitic
+159621,amha1245,THURSDAY,h a m u s,395,felekesemitic
+159622,amha1245,TIME,g i zː e,396,felekesemitic
+159623,amha1245,TODAY,z a r e,398,felekesemitic
+159624,amha1245,TOMORROW,n ə g ə,407,felekesemitic
+159625,amha1245,TWO,h u l ə tː,411,felekesemitic
+159626,amha1245,WAR,ť/tʼ o r ɨ n ə t,413,felekesemitic
+159627,amha1245,WATER,w ɨ h a,418,felekesemitic
+159628,amha1245,WEDNESDAY,ʔ ɨ r o b,422,felekesemitic
+159629,amha1245,WHAT,m ɨ n,424,felekesemitic
+159630,argo1244,THURSDAY,k a m i s,395,felekesemitic
+159631,argo1244,TODAY,h u m a,399,felekesemitic
+159632,argo1244,TOMORROW,n ə g,407,felekesemitic
+159633,argo1244,TWO,k e t,412,felekesemitic
+159634,argo1244,WAR,ť/tʼ o r ɨ n ə t,413,felekesemitic
+159635,argo1244,WATER,ʔ a h o w a,419,felekesemitic
+159636,argo1244,WHAT,m ɨ n,424,felekesemitic
+159637,hara1271,THURSDAY,x a m i s,395,felekesemitic
+159638,hara1271,TODAY,ħ oː dʒ i,400,felekesemitic
+159639,hara1271,TOMORROW,g i ʃ,408,felekesemitic
+159640,hara1271,TWO,k oː t,412,felekesemitic
+159641,hara1271,WAR,ħ aː r b i,414,felekesemitic
+159642,hara1271,WATER,m iy/i,420,felekesemitic
+159643,hara1271,WEDNESDAY,ʔ a r b a ʔ a,423,felekesemitic
+159644,hara1271,WHAT,m i n,424,felekesemitic
+159645,kist1241,THURSDAY,x a m u s,395,felekesemitic
+159646,kist1241,TIME,g ɨ z y/j e,396,felekesemitic
+159647,kist1241,TODAY,ʔ a x u ň/ɲ,401,felekesemitic
+159648,kist1241,TOMORROW,n ə g ə,407,felekesemitic
+159649,kist1241,TWO,k i tː,412,felekesemitic
+159650,kist1241,WAR,t i dʒ ə,415,felekesemitic
+159651,kist1241,WATER,y/j i g a,421,felekesemitic
+159652,kist1241,WEDNESDAY,x ə r o b,422,felekesemitic
+159653,kist1241,WHAT,m ɨ n,424,felekesemitic
+159654,mesq1240,THURSDAY,ʔ a m u s,395,felekesemitic
+159655,mesq1240,TIME,g ɨ z y/j e,396,felekesemitic
+159656,mesq1240,TODAY,ʔ a k w a,402,felekesemitic
+159657,mesq1240,TOMORROW,n ə g ə,407,felekesemitic
+159658,mesq1240,TWO,x w e tː,412,felekesemitic
+159659,mesq1240,WAR,ʔ a r ɨ b,414,felekesemitic
+159660,mesq1240,WATER,ʔ ə g a,421,felekesemitic
+159661,mesq1240,WEDNESDAY,ʔ ə r o b,422,felekesemitic
+159662,silt1240,THURSDAY,x a m u s,395,felekesemitic
+159663,silt1240,TODAY,ʔ a w dʒ e,403,felekesemitic
+159664,silt1240,TOMORROW,g eː s,408,felekesemitic
+159665,silt1240,TWO,ʔ o ʃ t,412,felekesemitic
+159666,silt1240,WAR,ʔ a r b,414,felekesemitic
+159667,silt1240,WATER,m əy/əi̯,420,felekesemitic
+159668,silt1240,WEDNESDAY,h a r b e,423,felekesemitic
+159669,silt1240,WHAT,m ɨ n,424,felekesemitic
+159670,tigr1270,THURSDAY,k ə m i ʃ,395,felekesemitic
+159671,tigr1270,TODAY,y/j o m,404,felekesemitic
+159672,tigr1270,TOMORROW,f ə n g u ħ,409,felekesemitic
+159673,tigr1270,TWO,k ə l ʔ e t,412,felekesemitic
+159674,tigr1270,WAR,h ɨ r a b ə t,414,felekesemitic
+159675,tigr1270,WATER,m ay/ai̯,420,felekesemitic
+159676,tigr1270,WEDNESDAY,ʔ ɨ rː o b ɨ ʔ,422,felekesemitic
+159677,tigr1270,WHAT,m i,424,felekesemitic
+159678,tigr1271,THURSDAY,ħ a mː u s,395,felekesemitic
+159679,tigr1271,TIME,ʔ ɨ w a n,397,felekesemitic
+159680,tigr1271,TODAY,l o m i,405,felekesemitic
+159681,tigr1271,TOMORROW,ś/s ɨ b a h,410,felekesemitic
+159682,tigr1271,TWO,k ɨ l t ə,412,felekesemitic
+159683,tigr1271,WAR,k w i n a t,416,felekesemitic
+159684,tigr1271,WATER,m ay/ai̯,420,felekesemitic
+159685,tigr1271,WEDNESDAY,r ə b u ʕ,422,felekesemitic
+159686,tigr1271,WHAT,ʔ ɨ n t ay/ai̯,425,felekesemitic
+159687,wola1253,THURSDAY,x a m u s,395,felekesemitic
+159688,wola1253,TIME,g ɨ n,396,felekesemitic
+159689,wola1253,TODAY,ʔ a w dʒ e,403,felekesemitic
+159690,wola1253,TOMORROW,g eː s,408,felekesemitic
+159691,wola1253,TWO,h oy/oi̯ t,412,felekesemitic
+159692,wola1253,WAR,ʔ a r b,414,felekesemitic
+159693,wola1253,WATER,m əy/əi̯,420,felekesemitic
+159694,wola1253,WEDNESDAY,ʔ a r b ɨ y/j ə,423,felekesemitic
+159695,wola1253,WHAT,m ɨ n,424,felekesemitic
+159696,zayy1238,THURSDAY,ʔ a m uː s,395,felekesemitic
+159697,zayy1238,TIME,g i,396,felekesemitic
+159698,zayy1238,TODAY,ʔ a w dʒ i,406,felekesemitic
+159699,zayy1238,TOMORROW,g eː s,408,felekesemitic
+159700,zayy1238,TWO,h oy/oi̯ t,412,felekesemitic
+159701,zayy1238,WAR,s i n aː n,417,felekesemitic
+159702,zayy1238,WATER,m əy/əi̯,420,felekesemitic
+159703,zayy1238,WEDNESDAY,ʔ ɨ r oː b,422,felekesemitic
+159704,zayy1238,WHAT,m ɨ n,424,felekesemitic
+159705,amha1245,WHEAT,s ɨ n d e,426,felekesemitic
+159706,amha1245,WHICH,y/j ə t ɨ ňň/ɲː a w,427,felekesemitic
+159707,amha1245,WHO,m a n,429,felekesemitic
+159708,amha1245,WIDE,s ə fː i,430,felekesemitic
+159709,amha1245,WIND,n ɨ f a s,433,felekesemitic
+159710,amha1245,WITH,g a r,435,felekesemitic
+159711,amha1245,WOMAN,s e t ɨ yy/j o,441,felekesemitic
+159712,amha1245,THOU,ʔ a n t ə,389,felekesemitic
+159713,amha1245,DOWN,t a tʃː,118,felekesemitic
+159714,argo1244,WHICH,y/j e d ɨ ňň/ɲː a w,427,felekesemitic
+159715,argo1244,WHO,m a n i,429,felekesemitic
+159716,argo1244,WIDE,s ə f i,430,felekesemitic
+159717,argo1244,WIND,n ɨ f a s,433,felekesemitic
+159718,argo1244,WITH,b ə,436,felekesemitic
+159719,argo1244,WOMAN,n i s tʃ a,442,felekesemitic
+159720,argo1244,THOU,ʔ a n k,390,felekesemitic
+159721,argo1244,DOWN,w ə d ə t e f,119,felekesemitic
+159722,hara1271,WHICH,ʔ aay/aːi̯,428,felekesemitic
+159723,hara1271,WHO,m aː n,429,felekesemitic
+159724,hara1271,WIDE,z ə g a ħ,430,felekesemitic
+159725,hara1271,WIND,d uː f,434,felekesemitic
+159726,hara1271,WITH,b e,436,felekesemitic
+159727,hara1271,WOMAN,ʔ i d oː tʃ,443,felekesemitic
+159728,hara1271,WORD,s i n aː n,447,felekesemitic
+159729,hara1271,THOU,ʔ a x aː x aː tʃ,391,felekesemitic
+159730,hara1271,DOWN,t a ħ ay/ai̯,118,felekesemitic
+159731,kist1241,WHEAT,s ɨ rː e,426,felekesemitic
+159732,kist1241,WHICH,y/j ɨ tː a,427,felekesemitic
+159733,kist1241,WHO,m a,429,felekesemitic
+159734,kist1241,WIDE,b ə t ə t,431,felekesemitic
+159735,kist1241,WIND,n ə f a s,433,felekesemitic
+159736,kist1241,WITH,g oy/oi̯,437,felekesemitic
+159737,kist1241,WOMAN,m ɨ ʃ t,444,felekesemitic
+159738,kist1241,THOU,d ə x ə,392,felekesemitic
+159739,kist1241,DOWN,t ə t a t əy/əi̯,119,felekesemitic
+159740,mesq1240,WHEAT,s i rː e,426,felekesemitic
+159741,mesq1240,WHICH,ʔ e tː i,428,felekesemitic
+159742,mesq1240,WHO,m w a,429,felekesemitic
+159743,mesq1240,WIDE,b ə tː ə t,431,felekesemitic
+159744,mesq1240,WIND,n ɨ f a s,433,felekesemitic
+159745,mesq1240,WITH,t ə g e,438,felekesemitic
+159746,mesq1240,WOMAN,m ɨ ʃ t,444,felekesemitic
+159747,mesq1240,THOU,ʔ a x a,391,felekesemitic
+159748,mesq1240,DOWN,t ə t ə tː e,119,felekesemitic
+159749,silt1240,WHEAT,s ɨ r əy/əi̯,426,felekesemitic
+159750,silt1240,WHICH,ʔ ay/ai̯ t ay/ai̯,428,felekesemitic
+159751,silt1240,WHO,m aː n i,429,felekesemitic
+159752,silt1240,WIDE,f ə tː,431,felekesemitic
+159753,silt1240,WIND,n ɨ f a s,433,felekesemitic
+159754,silt1240,WITH,t uː h a,439,felekesemitic
+159755,silt1240,WOMAN,m ɨ ʃ t,444,felekesemitic
+159756,silt1240,THOU,ʔ a t ə,389,felekesemitic
+159757,silt1240,DOWN,ʔ u f t ə k o l o,120,felekesemitic
+159758,tigr1270,WHEAT,ʃ ɨ r n ay/ai̯,426,felekesemitic
+159759,tigr1270,WHICH,ʔ a y/j a,428,felekesemitic
+159760,tigr1270,WHO,m ə n,429,felekesemitic
+159761,tigr1270,WIDE,m ə r h a b i b,432,felekesemitic
+159762,tigr1270,WIND,n ɨ f a s,433,felekesemitic
+159763,tigr1270,WITH,m ɨ s,440,felekesemitic
+159764,tigr1270,WOMAN,ʔ ɨ sː i t,445,felekesemitic
+159765,tigr1270,WORD,z u ʕ,448,felekesemitic
+159766,tigr1270,THOU,ʔ ɨ n t a,389,felekesemitic
+159767,tigr1270,DOWN,t ə ħ a t,118,felekesemitic
+159768,tigr1271,WHEAT,s ɨ r n ay/ai̯,426,felekesemitic
+159769,tigr1271,WHICH,ʔ a yy/jː ə n,428,felekesemitic
+159770,tigr1271,WHO,m ə n,429,felekesemitic
+159771,tigr1271,WIDE,g ə fː i ħ,430,felekesemitic
+159772,tigr1271,WIND,n ɨ f a s,433,felekesemitic
+159773,tigr1271,WITH,m ɨ s,440,felekesemitic
+159774,tigr1271,WOMAN,s ə b ʔ ay/ai̯ t i,446,felekesemitic
+159775,tigr1271,WORD,q a l,449,felekesemitic
+159776,tigr1271,THOU,n ɨ s ɨ x a,393,felekesemitic
+159777,tigr1271,DOWN,k ə t a tʃ,118,felekesemitic
+159778,wola1253,WHEAT,s ɨ r e,426,felekesemitic
+159779,wola1253,WHICH,ʔ ay/ai̯ n e,428,felekesemitic
+159780,wola1253,WHO,m a,429,felekesemitic
+159781,wola1253,WIDE,f ə tː i,431,felekesemitic
+159782,wola1253,WIND,n ɨ f a s,433,felekesemitic
+159783,wola1253,WITH,b ə,436,felekesemitic
+159784,wola1253,WOMAN,m ɨ ʃ t,444,felekesemitic
+159785,wola1253,THOU,ʔ a t ə,389,felekesemitic
+159786,wola1253,DOWN,t u t,118,felekesemitic
+159787,zayy1238,WHEAT,s ɨ r e,426,felekesemitic
+159788,zayy1238,WHICH,ʔ ay/ai̯ t e,428,felekesemitic
+159789,zayy1238,WHO,m a,429,felekesemitic
+159790,zayy1238,WIDE,s ə fː i,430,felekesemitic
+159791,zayy1238,WIND,n ɨ f a s,433,felekesemitic
+159792,zayy1238,WITH,b ə,436,felekesemitic
+159793,zayy1238,WOMAN,s e t,445,felekesemitic
+159794,zayy1238,THOU,ʔ a t ə,389,felekesemitic
+159795,zayy1238,DOWN,w ɨ s t,121,felekesemitic

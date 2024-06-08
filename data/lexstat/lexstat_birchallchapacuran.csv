@@ -1,0 +1,380 @@
+id,doculect,concept,forms,lexstatid,db
+96755,kuyu1236,I,w a z a,107,birchallchapacuran
+96756,orow1243,I,w a t a ʔ,107,birchallchapacuran
+96757,wari1268,I,w a t a ʔ,107,birchallchapacuran
+96758,kuyu1236,THOU,u m,200,birchallchapacuran
+96759,orow1243,THOU,w y m,200,birchallchapacuran
+96760,wari1268,THOU,w u m,200,birchallchapacuran
+96761,orow1243,HE,w o r i k o,95,birchallchapacuran
+96762,wari1268,HE,w i r i k o,95,birchallchapacuran
+96763,orow1243,WE,w a r i ʔ,217,birchallchapacuran
+96764,wari1268,WE,w a r i ʔ,217,birchallchapacuran
+96765,orow1243,YOU,f u ʔ,231,birchallchapacuran
+96766,wari1268,YOU,w a h u ʔ,231,birchallchapacuran
+96767,orow1243,THEY,w o r i k o k o,199,birchallchapacuran
+96768,wari1268,THEY,w i r i k o k o,199,birchallchapacuran
+96769,orow1243,WHO OR WHAT,a t i,219,birchallchapacuran
+96770,wari1268,WHO OR WHAT,k a ɲ,220,birchallchapacuran
+96771,orow1243,MANY,m i j a ʔ,129,birchallchapacuran
+96772,wari1268,MANY,m i j a,129,birchallchapacuran
+96773,kuyu1236,MANY,n a p a,128,birchallchapacuran
+96774,orow1243,MANY,n a p a,128,birchallchapacuran
+96775,wari1268,FEW,p a r i k,65,birchallchapacuran
+96776,orow1243,FEW,k a w a s a n + t o m a n,64,birchallchapacuran
+96777,wari1268,FEW,t o k w a n,66,birchallchapacuran
+96778,kuyu1236,ONE,t a n,144,birchallchapacuran
+96779,orow1243,ONE,k a w a s a n,145,birchallchapacuran
+96780,kuyu1236,TWO,w a k o r a n,208,birchallchapacuran
+96781,wari1268,TWO,t y k y + k a r a k a n,210,birchallchapacuran
+96782,orow1243,TWO,j i k s a m,209,birchallchapacuran
+96783,orow1243,BIG,f o r a ʔ,13,birchallchapacuran
+96784,wari1268,BIG,h w a r a ʔ,13,birchallchapacuran
+96785,orow1243,BIG,e k e m,14,birchallchapacuran
+96786,wari1268,BIG,k o t e + n e,15,birchallchapacuran
+96787,kuyu1236,BIG,i n a,12,birchallchapacuran
+96788,orow1243,SMALL,w i j a m a n,174,birchallchapacuran
+96789,wari1268,SMALL,w i j i m a,174,birchallchapacuran
+96790,kuyu1236,SMALL,e,173,birchallchapacuran
+96791,orow1243,WOMAN,j a m i r i m a,227,birchallchapacuran
+96792,wari1268,WOMAN,n a r i m a ʔ,228,birchallchapacuran
+96793,kuyu1236,WOMAN,t a n a m a n,226,birchallchapacuran
+96794,orow1243,MAN,k i t r a m a,127,birchallchapacuran
+96795,wari1268,MAN,t a r a m a ʔ,127,birchallchapacuran
+96796,kuyu1236,MAN,n a m a k o n,126,birchallchapacuran
+96797,orow1243,PERSON,w a j a m,149,birchallchapacuran
+96798,wari1268,PERSON,w i j a m,149,birchallchapacuran
+96799,orow1243,CHILD,i f i j a m a,29,birchallchapacuran
+96800,wari1268,CHILD,h w i j i m a ʔ,29,birchallchapacuran
+96801,wari1268,CHILD,p i j e ʔ,30,birchallchapacuran
+96802,kuyu1236,CHILD,r a t o,28,birchallchapacuran
+96803,kuyu1236,MOTHER,i n a ʔ,132,birchallchapacuran
+96804,orow1243,MOTHER,i n a,132,birchallchapacuran
+96805,wari1268,MOTHER,n a ʔ,132,birchallchapacuran
+96806,kuyu1236,MOTHER,u w e ʔ,133,birchallchapacuran
+96807,orow1243,MOTHER,y w e,133,birchallchapacuran
+96808,wari1268,MOTHER,w e,133,birchallchapacuran
+96809,kuyu1236,FATHER,i t e,62,birchallchapacuran
+96810,orow1243,FATHER,i t e ʔ,62,birchallchapacuran
+96811,wari1268,FATHER,t e,62,birchallchapacuran
+96812,kuyu1236,ANIMAL,p a t i ʔ,2,birchallchapacuran
+96813,wari1268,ANIMAL,k a r a w a,3,birchallchapacuran
+96814,orow1243,FISH,i f a m,72,birchallchapacuran
+96815,wari1268,FISH,h w a m,72,birchallchapacuran
+96816,kuyu1236,BIRD,u m e,16,birchallchapacuran
+96817,orow1243,BIRD,y m e,16,birchallchapacuran
+96818,wari1268,BIRD,m e,16,birchallchapacuran
+96819,kuyu1236,PECCARY,t o k o w a n,146,birchallchapacuran
+96820,wari1268,PECCARY,k a t a tʃ i k,148,birchallchapacuran
+96821,orow1243,PECCARY,o r o + j a m a n,147,birchallchapacuran
+96822,wari1268,DEER,k o m e m,44,birchallchapacuran
+96823,orow1243,DEER,a r a n a s i,43,birchallchapacuran
+96824,kuyu1236,DEER,t o w a m,42,birchallchapacuran
+96825,kuyu1236,LOUSE,i w,124,birchallchapacuran
+96826,orow1243,LOUSE,i w i s i,125,birchallchapacuran
+96827,wari1268,LOUSE,i w ʔ,124,birchallchapacuran
+96828,kuyu1236,SNAKE,k a r a k a w,178,birchallchapacuran
+96829,orow1243,SNAKE,k a r a k a w,178,birchallchapacuran
+96830,wari1268,SNAKE,e m ʔ,179,birchallchapacuran
+96831,orow1243,WORM,e m e t e ʔ,229,birchallchapacuran
+96832,wari1268,WORM,m e t e ʔ,229,birchallchapacuran
+96833,orow1243,FOREST,o m i,80,birchallchapacuran
+96834,wari1268,FOREST,m i,80,birchallchapacuran
+96835,kuyu1236,STICK,p a n a,187,birchallchapacuran
+96836,orow1243,STICK,p a n a,187,birchallchapacuran
+96837,wari1268,STICK,p a n a,187,birchallchapacuran
+96838,kuyu1236,FRUIT,u p e j i + p a n a,81,birchallchapacuran
+96839,orow1243,FRUIT,i p i j a m,82,birchallchapacuran
+96840,wari1268,FRUIT,m e m e m,83,birchallchapacuran
+96841,kuyu1236,LEAF,t a n,113,birchallchapacuran
+96842,orow1243,LEAF,t a j i n a n,114,birchallchapacuran
+96843,wari1268,LEAF,t a j i,114,birchallchapacuran
+96844,orow1243,ROOT,s i k i n a n,156,birchallchapacuran
+96845,wari1268,ROOT,k a tʃ i m a,157,birchallchapacuran
+96846,kuyu1236,FLOWER,p i w a n,73,birchallchapacuran
+96847,orow1243,FLOWER,p i w a n,73,birchallchapacuran
+96848,wari1268,FLOWER,p i w a ɲ,73,birchallchapacuran
+96849,wari1268,GRASS,t o n o n o ɲ,89,birchallchapacuran
+96850,orow1243,GRASS,k a w a w a ʔ,88,birchallchapacuran
+96851,kuyu1236,ROPE,m o k o n,158,birchallchapacuran
+96852,orow1243,ROPE,m o k o r i k o n,158,birchallchapacuran
+96853,wari1268,ROPE,m a k o n,158,birchallchapacuran
+96854,orow1243,SKIN,t o p o r i s i,169,birchallchapacuran
+96855,wari1268,SKIN,t a p a r i tʃ i ʔ,169,birchallchapacuran
+96856,orow1243,MEAT,y k e r e s i,130,birchallchapacuran
+96857,wari1268,MEAT,k w e r e tʃ i ʔ,130,birchallchapacuran
+96858,orow1243,BLOOD,w i k i s i,19,birchallchapacuran
+96859,wari1268,BLOOD,k i tʃ i ʔ,19,birchallchapacuran
+96860,kuyu1236,BONE,a t,20,birchallchapacuran
+96861,orow1243,BONE,a r a n,21,birchallchapacuran
+96862,wari1268,BONE,a r a tʃ i ʔ,22,birchallchapacuran
+96863,kuyu1236,FAT (ORGANIC SUBSTANCE),m a p u m,59,birchallchapacuran
+96864,orow1243,FAT (ORGANIC SUBSTANCE),m a f o m a s i,60,birchallchapacuran
+96865,wari1268,FAT (ORGANIC SUBSTANCE),h o m a ɲ,61,birchallchapacuran
+96866,kuyu1236,EGG,a r i + j a ɲ,53,birchallchapacuran
+96867,orow1243,EGG,a r i k o n,54,birchallchapacuran
+96868,wari1268,EGG,a r a j e ɲ,55,birchallchapacuran
+96869,orow1243,HORN (INSTRUMENT),p i t i k o n,106,birchallchapacuran
+96870,wari1268,HORN (INSTRUMENT),p i tʃ i n a ɲ,106,birchallchapacuran
+96871,kuyu1236,HORN (INSTRUMENT),t a t a w,105,birchallchapacuran
+96872,kuyu1236,TAIL,k i p u n,197,birchallchapacuran
+96873,orow1243,TAIL,k e f e r e s i,198,birchallchapacuran
+96874,wari1268,TAIL,k a h w e r e ɲ,198,birchallchapacuran
+96875,kuyu1236,HAIR,t u n a,92,birchallchapacuran
+96876,orow1243,HAIR,t y n e s i,92,birchallchapacuran
+96877,wari1268,HAIR,t e n e n e tʃ i ʔ,92,birchallchapacuran
+96878,kuyu1236,HEAD,u p e k,96,birchallchapacuran
+96879,orow1243,HEAD,i p i j i s i,97,birchallchapacuran
+96880,wari1268,HEAD,w i n a tʃ i ʔ,98,birchallchapacuran
+96881,orow1243,EAR,t r a j i s i,49,birchallchapacuran
+96882,wari1268,EAR,t a r a j i tʃ i ʔ,49,birchallchapacuran
+96883,kuyu1236,EAR,t e n e t e t,48,birchallchapacuran
+96884,kuyu1236,EYE,t o k,56,birchallchapacuran
+96885,orow1243,EYE,t o k i s i,56,birchallchapacuran
+96886,wari1268,EYE,t o k o tʃ i ʔ,56,birchallchapacuran
+96887,kuyu1236,NOSE,u r,141,birchallchapacuran
+96888,orow1243,NOSE,y r y s i,142,birchallchapacuran
+96889,wari1268,NOSE,w e r e tʃ i ʔ,142,birchallchapacuran
+96890,orow1243,MOUTH,t o p a k a s i,134,birchallchapacuran
+96891,wari1268,MOUTH,t o p a k,134,birchallchapacuran
+96892,orow1243,TOOTH,i j i t i s i,207,birchallchapacuran
+96893,wari1268,TOOTH,tʃ i tʃ i ʔ,207,birchallchapacuran
+96894,orow1243,TONGUE,t e p e k e j e s i,205,birchallchapacuran
+96895,wari1268,TONGUE,p e t e h w e t,206,birchallchapacuran
+96896,kuyu1236,TONGUE,k a p a j a k,204,birchallchapacuran
+96897,wari1268,TONGUE,k a p i j a tʃ i ʔ,204,birchallchapacuran
+96898,orow1243,FINGERNAIL,s y k y n e s i,70,birchallchapacuran
+96899,wari1268,FINGERNAIL,tʃ i k i n a tʃ i ʔ,70,birchallchapacuran
+96900,kuyu1236,FINGERNAIL,t u p i,69,birchallchapacuran
+96901,wari1268,FOOT,k a tʃ i m a tʃ i ʔ,78,birchallchapacuran
+96902,orow1243,FOOT,p a s o m a s i,78,birchallchapacuran
+96903,wari1268,FOOT,p i tʃ i j a tʃ i ʔ,79,birchallchapacuran
+96904,kuyu1236,FOOT,tʃ i n a k,77,birchallchapacuran
+96905,kuyu1236,LEG,p o k,115,birchallchapacuran
+96906,orow1243,LEG,f o k i s i,116,birchallchapacuran
+96907,wari1268,LEG,k o k o tʃ i ʔ,117,birchallchapacuran
+96908,orow1243,KNEE,m a k a r a m a s i,110,birchallchapacuran
+96909,wari1268,KNEE,k a r a m a tʃ i ʔ,110,birchallchapacuran
+96910,orow1243,KNEE,m a f o n a s i,111,birchallchapacuran
+96911,kuyu1236,KNEE,t o k o z i m,109,birchallchapacuran
+96912,wari1268,HAND,m i tʃ i ʔ,94,birchallchapacuran
+96913,kuyu1236,HAND,t i p a n,93,birchallchapacuran
+96914,orow1243,HAND,t i p r a s i,93,birchallchapacuran
+96915,wari1268,HAND,t a p a r a tʃ i ʔ,93,birchallchapacuran
+96916,kuyu1236,WING,n i p a t,224,birchallchapacuran
+96917,orow1243,WING,n a p a t i n a n,225,birchallchapacuran
+96918,wari1268,WING,t a p a tʃ i,225,birchallchapacuran
+96919,orow1243,BELLY,k i m i,9,birchallchapacuran
+96920,orow1243,BELLY,t a p a w a k o n,11,birchallchapacuran
+96921,kuyu1236,BELLY,tʃ a k a w + t a,8,birchallchapacuran
+96922,wari1268,BELLY,p e m e n e tʃ i ʔ,10,birchallchapacuran
+96923,kuyu1236,GUTS,k i r i m o n ʔ,90,birchallchapacuran
+96924,orow1243,GUTS,m o n o s i,91,birchallchapacuran
+96925,wari1268,GUTS,m o n o tʃ i ʔ,91,birchallchapacuran
+96926,kuyu1236,NECK,p a t a m,136,birchallchapacuran
+96927,orow1243,NECK,o p a r a m a s i,137,birchallchapacuran
+96928,wari1268,NECK,p a r a m a tʃ i ʔ,137,birchallchapacuran
+96929,wari1268,NECK,k a n e m i tʃ i ʔ,138,birchallchapacuran
+96930,kuyu1236,BACK,a t a w,5,birchallchapacuran
+96931,orow1243,BACK,a r a w a s i,6,birchallchapacuran
+96932,wari1268,BACK,w a r a tʃ i ʔ,7,birchallchapacuran
+96933,kuyu1236,BREAST,k a t a t,23,birchallchapacuran
+96934,orow1243,BREAST,k a r a t i s i,23,birchallchapacuran
+96935,wari1268,BREAST,k a r a tʃ i tʃ i ʔ,23,birchallchapacuran
+96936,orow1243,BREAST,i k i m a s i,24,birchallchapacuran
+96937,wari1268,BREAST,k i m a tʃ i ʔ,24,birchallchapacuran
+96938,kuyu1236,HEART,t o k u + r u + t i m,100,birchallchapacuran
+96939,orow1243,HEART,t i m i s i,101,birchallchapacuran
+96940,wari1268,HEART,tʃ i m i tʃ i ʔ,101,birchallchapacuran
+96941,kuyu1236,LIVER,tʃ a w a n,121,birchallchapacuran
+96942,orow1243,LIVER,t r a w r i s i,122,birchallchapacuran
+96943,wari1268,LIVER,t a r a w a n a tʃ i ʔ,123,birchallchapacuran
+96944,kuyu1236,DRINK,t o k,47,birchallchapacuran
+96945,orow1243,DRINK,t o k,47,birchallchapacuran
+96946,wari1268,DRINK,t o k,47,birchallchapacuran
+96947,kuyu1236,EAT,k a w ʔ,52,birchallchapacuran
+96948,orow1243,EAT,k a w,52,birchallchapacuran
+96949,wari1268,EAT,k a w,52,birchallchapacuran
+96950,kuyu1236,BITE,k i w ʔ,17,birchallchapacuran
+96951,orow1243,BITE,k i w,17,birchallchapacuran
+96952,wari1268,BITE,k i w,17,birchallchapacuran
+96953,kuyu1236,SUCK,tʃ a k,189,birchallchapacuran
+96954,orow1243,SUCK,i t a k,189,birchallchapacuran
+96955,wari1268,SUCK,tʃ a k,189,birchallchapacuran
+96956,kuyu1236,VOMIT,w e ʔ,211,birchallchapacuran
+96957,orow1243,VOMIT,y w e ʔ,211,birchallchapacuran
+96958,wari1268,VOMIT,w e ʔ,211,birchallchapacuran
+96959,orow1243,BREATHE,w o r a m,26,birchallchapacuran
+96960,wari1268,BREATHE,w e r e m e,27,birchallchapacuran
+96961,kuyu1236,BREATHE,z a k,25,birchallchapacuran
+96962,kuyu1236,LAUGH,t a s a m,112,birchallchapacuran
+96963,orow1243,LAUGH,t a r i m,112,birchallchapacuran
+96964,wari1268,LAUGH,t a t a m ʔ,112,birchallchapacuran
+96965,kuyu1236,SEE,k i r i k,163,birchallchapacuran
+96966,orow1243,SEE,k i r i k,163,birchallchapacuran
+96967,wari1268,SEE,k e r e k,163,birchallchapacuran
+96968,kuyu1236,HEAR,r a p a t,99,birchallchapacuran
+96969,orow1243,HEAR,w o r a p a t,99,birchallchapacuran
+96970,kuyu1236,FEAR (BE AFRAID),i n i n ʔ,63,birchallchapacuran
+96971,orow1243,FEAR (BE AFRAID),i j i n,63,birchallchapacuran
+96972,wari1268,FEAR (BE AFRAID),j i n ʔ,63,birchallchapacuran
+96973,kuyu1236,SLEEP,u p i n,171,birchallchapacuran
+96974,orow1243,SLEEP,y p e n,171,birchallchapacuran
+96975,wari1268,SLEEP,p i ʔ + a m,172,birchallchapacuran
+96976,kuyu1236,DIE,i m i ʔ,45,birchallchapacuran
+96977,orow1243,DIE,i m i ʔ,45,birchallchapacuran
+96978,wari1268,DIE,m i ʔ,45,birchallchapacuran
+96979,kuyu1236,KILL,p a ʔ,108,birchallchapacuran
+96980,orow1243,KILL,p a ʔ,108,birchallchapacuran
+96981,wari1268,KILL,p a ʔ,108,birchallchapacuran
+96982,orow1243,FIGHT,t a m a n a ʔ,67,birchallchapacuran
+96983,wari1268,FIGHT,m a n a ʔ,67,birchallchapacuran
+96984,wari1268,FIGHT,m i tʃ i t a ʔ,68,birchallchapacuran
+96985,kuyu1236,SHOOT,p u r u,164,birchallchapacuran
+96986,orow1243,SHOOT,f r i ʔ,165,birchallchapacuran
+96987,wari1268,SHOOT,h y r y,164,birchallchapacuran
+96988,orow1243,HIT,t o ʔ,103,birchallchapacuran
+96989,wari1268,HIT,t o ʔ,103,birchallchapacuran
+96990,kuyu1236,HIT,p a p,102,birchallchapacuran
+96991,orow1243,HIT,p a k,104,birchallchapacuran
+96992,kuyu1236,CUT,t a ʔ,35,birchallchapacuran
+96993,orow1243,CUT,t a + k a t,36,birchallchapacuran
+96994,wari1268,CUT,t a,35,birchallchapacuran
+96995,kuyu1236,CUT,w a k,37,birchallchapacuran
+96996,orow1243,CUT,w a k,37,birchallchapacuran
+96997,wari1268,CUT,w a k,37,birchallchapacuran
+96998,orow1243,CUT,p i t,38,birchallchapacuran
+96999,wari1268,CUT,p i t,38,birchallchapacuran
+97000,kuyu1236,DIG,t u k,46,birchallchapacuran
+97001,orow1243,DIG,t i k i,46,birchallchapacuran
+97002,wari1268,DIG,t i k i ʔ,46,birchallchapacuran
+97003,orow1243,SWIM,j y,195,birchallchapacuran
+97004,wari1268,SWIM,p a n + k a m,196,birchallchapacuran
+97005,kuyu1236,SWIM,m a r a k u j a n,194,birchallchapacuran
+97006,orow1243,FLY (MOVE THROUGH AIR),t a k i,75,birchallchapacuran
+97007,wari1268,FLY (MOVE THROUGH AIR),t a k i ʔ,75,birchallchapacuran
+97008,orow1243,FLY (MOVE THROUGH AIR),i j a m,76,birchallchapacuran
+97009,kuyu1236,FLY (MOVE THROUGH AIR),z e,74,birchallchapacuran
+97010,kuyu1236,WALK,t o t,212,birchallchapacuran
+97011,orow1243,WALK,t y t,212,birchallchapacuran
+97012,wari1268,WALK,tʃ y t,212,birchallchapacuran
+97013,orow1243,COME,m a k i,34,birchallchapacuran
+97014,wari1268,COME,m a k i ʔ,34,birchallchapacuran
+97015,kuyu1236,COME,i w a n,33,birchallchapacuran
+97016,kuyu1236,LIE (REST),t i t i m ʔ,118,birchallchapacuran
+97017,orow1243,LIE (REST),t i m,118,birchallchapacuran
+97018,wari1268,LIE (REST),t e r e m ʔ,118,birchallchapacuran
+97019,orow1243,LIE (REST),t o k o ʔ,119,birchallchapacuran
+97020,wari1268,LIE (REST),t o k o ʔ,119,birchallchapacuran
+97021,wari1268,LIE (REST),t a k,120,birchallchapacuran
+97022,kuyu1236,SIT,p e,168,birchallchapacuran
+97023,orow1243,SIT,p e,168,birchallchapacuran
+97024,wari1268,SIT,p e ʔ,168,birchallchapacuran
+97025,kuyu1236,STAND,t a k,180,birchallchapacuran
+97026,wari1268,STAND,t e k i ʔ + p e,182,birchallchapacuran
+97027,orow1243,STAND,p a n,181,birchallchapacuran
+97028,wari1268,STAND,tʃ a t,183,birchallchapacuran
+97029,kuyu1236,FALL,i p a n,57,birchallchapacuran
+97030,orow1243,FALL,i p a n,57,birchallchapacuran
+97031,wari1268,FALL,p a n ʔ,57,birchallchapacuran
+97032,wari1268,FALL,k a m a r a ʔ,58,birchallchapacuran
+97033,kuyu1236,GIVE,m i ʔ,84,birchallchapacuran
+97034,orow1243,GIVE,m i ʔ,84,birchallchapacuran
+97035,wari1268,GIVE,m i ʔ,84,birchallchapacuran
+97036,orow1243,WASH,w i r i k o m,214,birchallchapacuran
+97037,wari1268,WASH,h o h o k,215,birchallchapacuran
+97038,kuyu1236,WASH,tʃ a w,213,birchallchapacuran
+97039,kuyu1236,PULL,k o,150,birchallchapacuran
+97040,orow1243,PULL,k o k + t b o t,150,birchallchapacuran
+97041,wari1268,PULL,k ø k,150,birchallchapacuran
+97042,kuyu1236,PUSH,j o k,151,birchallchapacuran
+97043,orow1243,PUSH,j y k,151,birchallchapacuran
+97044,wari1268,PUSH,j ø k,151,birchallchapacuran
+97045,orow1243,THROW,s i n,201,birchallchapacuran
+97046,wari1268,THROW,tʃ i n,201,birchallchapacuran
+97047,kuyu1236,THROW,p i n,201,birchallchapacuran
+97048,orow1243,TIE,p a w,203,birchallchapacuran
+97049,wari1268,TIE,p a w ʔ,203,birchallchapacuran
+97050,kuyu1236,TIE,p i p,202,birchallchapacuran
+97051,wari1268,SAY,t o m i ʔ,162,birchallchapacuran
+97052,orow1243,SAY,n a ʔ,161,birchallchapacuran
+97053,kuyu1236,SAY,j a,160,birchallchapacuran
+97054,orow1243,SING,k o m,167,birchallchapacuran
+97055,wari1268,SING,k o m,167,birchallchapacuran
+97056,kuyu1236,SING,w o,166,birchallchapacuran
+97057,kuyu1236,SUN,m a p i t o ʔ,191,birchallchapacuran
+97058,wari1268,SUN,tʃ i n a,193,birchallchapacuran
+97059,orow1243,SUN,f a k a m i ʔ,192,birchallchapacuran
+97060,kuyu1236,MOON,p a n a w o ʔ,131,birchallchapacuran
+97061,wari1268,MOON,p a n a w o ʔ,131,birchallchapacuran
+97062,kuyu1236,STAR,p i + p i j o,184,birchallchapacuran
+97063,wari1268,STAR,p i j o ʔ,186,birchallchapacuran
+97064,orow1243,STAR,o r o + j a w i n,185,birchallchapacuran
+97065,kuyu1236,WATER,k o m,216,birchallchapacuran
+97066,orow1243,WATER,k o m,216,birchallchapacuran
+97067,wari1268,WATER,k o m,216,birchallchapacuran
+97068,orow1243,RAINING OR RAIN,s o w i ʔ,152,birchallchapacuran
+97069,wari1268,RAINING OR RAIN,tʃ o w i ʔ,152,birchallchapacuran
+97070,kuyu1236,STONE,p i k u n,188,birchallchapacuran
+97071,orow1243,STONE,p e k y n,188,birchallchapacuran
+97072,wari1268,STONE,p a k y n,188,birchallchapacuran
+97073,orow1243,SAND,n a m a j i ʔ,159,birchallchapacuran
+97074,wari1268,SAND,n a m a j i,159,birchallchapacuran
+97075,kuyu1236,EARTH (SOIL),n a m a k a n,50,birchallchapacuran
+97076,orow1243,EARTH (SOIL),n a m a k a n,50,birchallchapacuran
+97077,wari1268,EARTH (SOIL),m a k a n ʔ,50,birchallchapacuran
+97078,kuyu1236,EARTH (SOIL),t i m a k,51,birchallchapacuran
+97079,kuyu1236,SKY,a w i n,170,birchallchapacuran
+97080,orow1243,SKY,a w i n,170,birchallchapacuran
+97081,wari1268,SKY,n a n a w i n,170,birchallchapacuran
+97082,orow1243,WIND,p a f o t i ʔ,222,birchallchapacuran
+97083,wari1268,WIND,h o t o w a,223,birchallchapacuran
+97084,kuyu1236,WIND,p u j a n i,221,birchallchapacuran
+97085,kuyu1236,SMOKE (EXHAUST),i w i ʔ,175,birchallchapacuran
+97086,wari1268,SMOKE (EXHAUST),t a ɲ ʔ,177,birchallchapacuran
+97087,orow1243,SMOKE (EXHAUST),t o r o t o ʔ,176,birchallchapacuran
+97088,kuyu1236,FIRE,i tʃ e,71,birchallchapacuran
+97089,orow1243,FIRE,i s e,71,birchallchapacuran
+97090,wari1268,FIRE,tʃ e,71,birchallchapacuran
+97091,orow1243,ASH,m o r o t i p a k o n,4,birchallchapacuran
+97092,wari1268,ASH,t o p a k o n,4,birchallchapacuran
+97093,kuyu1236,ROAD,w a n a,155,birchallchapacuran
+97094,orow1243,ROAD,w a n a ʔ,155,birchallchapacuran
+97095,wari1268,ROAD,w a n a,155,birchallchapacuran
+97096,kuyu1236,RED,m e m,153,birchallchapacuran
+97097,orow1243,RED,m e m,153,birchallchapacuran
+97098,wari1268,RED,p a k a ʔ,154,birchallchapacuran
+97099,wari1268,YELLOW,k o tʃ i k,230,birchallchapacuran
+97100,kuyu1236,WHITE,t o w a ʔ,218,birchallchapacuran
+97101,orow1243,WHITE,t o w a ʔ,218,birchallchapacuran
+97102,wari1268,WHITE,t o w o ʔ,218,birchallchapacuran
+97103,orow1243,BLACK,m e s e m,18,birchallchapacuran
+97104,wari1268,BLACK,m i tʃ e m,18,birchallchapacuran
+97105,kuyu1236,BLACK,t o m,18,birchallchapacuran
+97106,orow1243,BLACK,t o m,18,birchallchapacuran
+97107,wari1268,BLACK,t o m,18,birchallchapacuran
+97108,kuyu1236,NIGHT,i s i m,140,birchallchapacuran
+97109,orow1243,NIGHT,i t i m,140,birchallchapacuran
+97110,wari1268,NIGHT,tʃ i m,140,birchallchapacuran
+97111,orow1243,DAY (NOT NIGHT),t o w a,40,birchallchapacuran
+97112,wari1268,DAY (NOT NIGHT),t o w a,40,birchallchapacuran
+97113,wari1268,DAY (NOT NIGHT),tʃ e k,41,birchallchapacuran
+97114,kuyu1236,DAY (NOT NIGHT),t i p a t,39,birchallchapacuran
+97115,kuyu1236,SUMMER,k a w a z i ʔ,190,birchallchapacuran
+97116,orow1243,SUMMER,k a w a t i ʔ,190,birchallchapacuran
+97117,wari1268,SUMMER,k a w a tʃ i ʔ,190,birchallchapacuran
+97118,kuyu1236,COLD,tʃ i w ʔ,31,birchallchapacuran
+97119,orow1243,COLD,s u r i m i,32,birchallchapacuran
+97120,wari1268,COLD,tʃ i w,31,birchallchapacuran
+97121,orow1243,NEW,s o k o r i,139,birchallchapacuran
+97122,wari1268,NEW,tʃ o k o r i,139,birchallchapacuran
+97123,orow1243,OLD,f o r o n,143,birchallchapacuran
+97124,wari1268,OLD,h o r o n,143,birchallchapacuran
+97125,orow1243,GOOD,a w i,86,birchallchapacuran
+97126,wari1268,GOOD,a w i ʔ,86,birchallchapacuran
+97127,orow1243,GOOD,i s a p,87,birchallchapacuran
+97128,kuyu1236,GOOD,n a m i ʔ,85,birchallchapacuran
+97129,orow1243,NAME,w i t i,135,birchallchapacuran
+97130,wari1268,NAME,w i tʃ i,135,birchallchapacuran
+97131,kuyu1236,AFTERNOON,i r a w i n,1,birchallchapacuran
+97132,orow1243,AFTERNOON,i r a w i n,1,birchallchapacuran
+97133,wari1268,AFTERNOON,i r a w i n,1,birchallchapacuran

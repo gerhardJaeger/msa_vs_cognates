@@ -1,0 +1,484 @@
+id,doculect,concept,forms,lexstatid,db
+152319,khan1274,SUN,ŋ əi̯,127,deepadungpalaung
+152320,ruma1248,SUN,s a + ŋ ɛː,128,deepadungpalaung
+152321,ruma1248,SUN,s a + ŋ ai̯,128,deepadungpalaung
+152322,ruma1248,SUN,s a + ŋ ai̯,128,deepadungpalaung
+152323,ruma1248,SUN,s a + ŋ ai̯,128,deepadungpalaung
+152324,khan1274,MOON,b l a n + g i/j a r,76,deepadungpalaung
+152325,ruma1248,MOON,m ə + g i/j a n,77,deepadungpalaung
+152326,ruma1248,MOON,p a + k j əː,76,deepadungpalaung
+152327,ruma1248,MOON,p a + k j əː,76,deepadungpalaung
+152328,ruma1248,MOON,p a + k j əː,76,deepadungpalaung
+152329,khan1274,STAR,k ə + m a n,124,deepadungpalaung
+152330,ruma1248,STAR,s a + m ɛ ɲ,124,deepadungpalaung
+152331,ruma1248,STAR,l aːu̯,125,deepadungpalaung
+152332,ruma1248,STAR,l aːu̯,125,deepadungpalaung
+152333,ruma1248,STAR,l aːu̯,125,deepadungpalaung
+152334,khan1274,CLOUD,ʔ uː t,13,deepadungpalaung
+152335,ruma1248,CLOUD,ʔ o ŋ + ʔ uː ʔ,14,deepadungpalaung
+152336,khan1274,RAINING OR RAIN,g l aːi̯,98,deepadungpalaung
+152337,ruma1248,RAINING OR RAIN,g l aːi̯,98,deepadungpalaung
+152338,ruma1248,RAINING OR RAIN,k l aːi̯,98,deepadungpalaung
+152339,ruma1248,RAINING OR RAIN,k l aːi̯,98,deepadungpalaung
+152340,ruma1248,RAINING OR RAIN,k l aːi̯,98,deepadungpalaung
+152341,khan1274,WIND,kʰ uː r,150,deepadungpalaung
+152342,ruma1248,WIND,kʰ uː n,150,deepadungpalaung
+152343,ruma1248,WIND,kʰ uː,150,deepadungpalaung
+152344,ruma1248,WIND,kʰ uː,150,deepadungpalaung
+152345,ruma1248,WIND,kʰ uː,150,deepadungpalaung
+152346,khan1274,NIGHT,kʰ iːu̯ + m̥ əɯ̯,88,deepadungpalaung
+152347,ruma1248,NIGHT,tɕ u ŋ + m̥ əɯ̯,89,deepadungpalaung
+152348,ruma1248,NIGHT,k a + s ɛ m,90,deepadungpalaung
+152349,ruma1248,NIGHT,k a + s ə m,90,deepadungpalaung
+152350,ruma1248,NIGHT,k a + s ə m,90,deepadungpalaung
+152351,khan1274,YEAR,s ə + n a m,151,deepadungpalaung
+152352,ruma1248,YEAR,s a + n ə m,151,deepadungpalaung
+152353,ruma1248,YEAR,s a + n a m,151,deepadungpalaung
+152354,ruma1248,YEAR,s a + n a m,151,deepadungpalaung
+152355,ruma1248,YEAR,s a + n a m,151,deepadungpalaung
+152356,khan1274,WATER,ʔ uː m,140,deepadungpalaung
+152357,ruma1248,WATER,ʔ ɨ m,140,deepadungpalaung
+152358,ruma1248,WATER,ʔ ɛ m,140,deepadungpalaung
+152359,ruma1248,WATER,ʔ ə m,140,deepadungpalaung
+152360,ruma1248,WATER,ʔ ə m,140,deepadungpalaung
+152361,khan1274,EARTH (SOIL),k ə + d ai̯,27,deepadungpalaung
+152362,ruma1248,EARTH (SOIL),k a + d ɛːi̯,27,deepadungpalaung
+152363,ruma1248,EARTH (SOIL),k a + t aːi̯,27,deepadungpalaung
+152364,ruma1248,EARTH (SOIL),k a + t aːi̯,27,deepadungpalaung
+152365,ruma1248,EARTH (SOIL),k a + t aːi̯,27,deepadungpalaung
+152366,khan1274,STONE (OF FRUIT),m ɛːu̯,126,deepadungpalaung
+152367,ruma1248,STONE (OF FRUIT),m aːu̯,126,deepadungpalaung
+152368,ruma1248,STONE (OF FRUIT),m aːu̯,126,deepadungpalaung
+152369,ruma1248,STONE (OF FRUIT),m aːu̯,126,deepadungpalaung
+152370,ruma1248,STONE (OF FRUIT),m aːu̯,126,deepadungpalaung
+152371,khan1274,MOUNTAIN,s u l,78,deepadungpalaung
+152372,ruma1248,MOUNTAIN,n ɔ n,79,deepadungpalaung
+152373,ruma1248,MOUNTAIN,k o ŋ,80,deepadungpalaung
+152374,ruma1248,MOUNTAIN,n ɔː,79,deepadungpalaung
+152375,ruma1248,MOUNTAIN,k ɔ ŋ,80,deepadungpalaung
+152376,khan1274,TREE,h i,137,deepadungpalaung
+152377,ruma1248,TREE,d a ŋ + h ei̯,138,deepadungpalaung
+152378,ruma1248,TREE,t a ŋ + h ɔːi̯,138,deepadungpalaung
+152379,ruma1248,TREE,t a ŋ + h ɔːi̯,138,deepadungpalaung
+152380,ruma1248,TREE,t a ŋ + h ɔi̯,138,deepadungpalaung
+152381,khan1274,ROOT,r i/j a h + h iː,101,deepadungpalaung
+152382,ruma1248,ROOT,r i/j a h + h ei̯,101,deepadungpalaung
+152383,ruma1248,ROOT,ʐ ə h + h ɔːi̯,101,deepadungpalaung
+152384,ruma1248,ROOT,ɣ ə h,102,deepadungpalaung
+152385,ruma1248,ROOT,r ə h + h ɔi̯,101,deepadungpalaung
+152386,khan1274,LEAF,l̥ ɛː + h i,67,deepadungpalaung
+152387,ruma1248,LEAF,l̥ aː,67,deepadungpalaung
+152388,ruma1248,LEAF,l̥ aː + h ɔːi̯,67,deepadungpalaung
+152389,ruma1248,LEAF,l̥ aː + h ɔːi̯,67,deepadungpalaung
+152390,ruma1248,LEAF,l̥ aː,67,deepadungpalaung
+152391,khan1274,FLOWER,ɓ o h,39,deepadungpalaung
+152392,ruma1248,FLOWER,b o h,39,deepadungpalaung
+152393,ruma1248,FLOWER,p o h,39,deepadungpalaung
+152394,ruma1248,FLOWER,p o h,39,deepadungpalaung
+152395,ruma1248,FLOWER,p o h,39,deepadungpalaung
+152396,khan1274,FRUIT,b l iː,44,deepadungpalaung
+152397,ruma1248,FRUIT,b l ei̯,44,deepadungpalaung
+152398,ruma1248,FRUIT,p l ɔːi̯,44,deepadungpalaung
+152399,ruma1248,FRUIT,p l ɔːi̯,44,deepadungpalaung
+152400,ruma1248,FRUIT,p l ɔːi̯,44,deepadungpalaung
+152401,khan1274,GRASS,p r ai̯,47,deepadungpalaung
+152402,ruma1248,GRASS,p ə t,47,deepadungpalaung
+152403,ruma1248,GRASS,b a t,47,deepadungpalaung
+152404,ruma1248,GRASS,b ə t,47,deepadungpalaung
+152405,ruma1248,GRASS,b a t,47,deepadungpalaung
+152406,khan1274,SALTY,s a ŋ,105,deepadungpalaung
+152407,ruma1248,SALTY,s ɛ ʔ + s ɔ ŋ,106,deepadungpalaung
+152408,ruma1248,SALTY,tɕ ɛː m,107,deepadungpalaung
+152409,ruma1248,SALTY,tɕ eː m,107,deepadungpalaung
+152410,ruma1248,SALTY,s ɔ ŋ,105,deepadungpalaung
+152411,khan1274,DOG,ʔ a + ʔ u ʔ,21,deepadungpalaung
+152412,ruma1248,DOG,s ou̯,22,deepadungpalaung
+152413,ruma1248,DOG,s au̯,22,deepadungpalaung
+152414,ruma1248,DOG,s au̯,22,deepadungpalaung
+152415,ruma1248,DOG,s ou̯,22,deepadungpalaung
+152416,khan1274,BITE,k i/j a ʔ,4,deepadungpalaung
+152417,ruma1248,BITE,k ɔ ʔ,4,deepadungpalaung
+152418,ruma1248,BITE,g a k,4,deepadungpalaung
+152419,ruma1248,BITE,g ɔ k,4,deepadungpalaung
+152420,ruma1248,BITE,k ɔ k,4,deepadungpalaung
+152421,khan1274,HORN (ANATOMY),n u ŋ,54,deepadungpalaung
+152422,ruma1248,HORN (ANATOMY),n ɨ ŋ,54,deepadungpalaung
+152423,ruma1248,HORN (ANATOMY),n ɨ ŋ,54,deepadungpalaung
+152424,ruma1248,HORN (ANATOMY),n ɨ ŋ,54,deepadungpalaung
+152425,ruma1248,HORN (ANATOMY),n ɨ ŋ,54,deepadungpalaung
+152426,khan1274,TAIL,k ə + ɗ ɛː,129,deepadungpalaung
+152427,ruma1248,TAIL,s ə + d aː,129,deepadungpalaung
+152428,ruma1248,TAIL,s a + t aː,129,deepadungpalaung
+152429,ruma1248,TAIL,s a + t aː,129,deepadungpalaung
+152430,ruma1248,TAIL,s a + t aː,129,deepadungpalaung
+152431,khan1274,BIRD,s i m,3,deepadungpalaung
+152432,ruma1248,BIRD,s iː m,3,deepadungpalaung
+152433,ruma1248,BIRD,s iː m,3,deepadungpalaung
+152434,ruma1248,BIRD,s iː m,3,deepadungpalaung
+152435,ruma1248,BIRD,s iː m,3,deepadungpalaung
+152436,khan1274,FLY (INSECT),pʰ r uː,40,deepadungpalaung
+152437,ruma1248,FLY (INSECT),b ə n,41,deepadungpalaung
+152438,ruma1248,FLY (INSECT),p ɨː h,40,deepadungpalaung
+152439,ruma1248,FLY (INSECT),p ɨː,40,deepadungpalaung
+152440,ruma1248,FLY (INSECT),p ɨː,40,deepadungpalaung
+152441,khan1274,EGG,g l ɛːu̯,29,deepadungpalaung
+152442,ruma1248,EGG,p əː n,30,deepadungpalaung
+152443,ruma1248,EGG,b əː n,30,deepadungpalaung
+152444,ruma1248,EGG,b əː n,30,deepadungpalaung
+152445,ruma1248,EGG,b əː n,30,deepadungpalaung
+152446,khan1274,FISH,k ɛː,38,deepadungpalaung
+152447,ruma1248,FISH,g aː,38,deepadungpalaung
+152448,ruma1248,FISH,k aː,38,deepadungpalaung
+152449,ruma1248,FISH,k aː,38,deepadungpalaung
+152450,ruma1248,FISH,k aː,38,deepadungpalaung
+152451,khan1274,SNAKE,h ɔ n,121,deepadungpalaung
+152452,ruma1248,SNAKE,h a ɲ,121,deepadungpalaung
+152453,ruma1248,SNAKE,h a n,121,deepadungpalaung
+152454,ruma1248,SNAKE,h a n,121,deepadungpalaung
+152455,ruma1248,SNAKE,h a n,121,deepadungpalaung
+152456,khan1274,LOUSE,k ə + b r a n,71,deepadungpalaung
+152457,ruma1248,LOUSE,m a + s ɛː,72,deepadungpalaung
+152458,ruma1248,LOUSE,s ai̯,73,deepadungpalaung
+152459,ruma1248,LOUSE,s ai̯,73,deepadungpalaung
+152460,ruma1248,LOUSE,s ai̯ ʔ,73,deepadungpalaung
+152461,khan1274,HEAD,k i ŋ,51,deepadungpalaung
+152462,ruma1248,HEAD,g i ɲ,51,deepadungpalaung
+152463,ruma1248,HEAD,k e n,51,deepadungpalaung
+152464,ruma1248,HEAD,k ə n,51,deepadungpalaung
+152465,ruma1248,HEAD,k ə n,51,deepadungpalaung
+152466,khan1274,HAIR,h u ʔ + k i ŋ,48,deepadungpalaung
+152467,ruma1248,HAIR,h uːi̯,49,deepadungpalaung
+152468,ruma1248,HAIR,h ɨ k + k e n,48,deepadungpalaung
+152469,ruma1248,HAIR,h ɨ k + k ə n,48,deepadungpalaung
+152470,ruma1248,HAIR,h ɨ k + k ə n,48,deepadungpalaung
+152471,khan1274,EYE,ŋ aːi̯,31,deepadungpalaung
+152472,ruma1248,EYE,ŋ aːi̯,31,deepadungpalaung
+152473,ruma1248,EYE,ŋ aːi̯,31,deepadungpalaung
+152474,ruma1248,EYE,ŋ aːi̯,31,deepadungpalaung
+152475,ruma1248,EYE,ŋ aːi̯,31,deepadungpalaung
+152476,khan1274,NOSE,ʔ a + m ui̯ h,91,deepadungpalaung
+152477,ruma1248,NOSE,g u ŋ + m u h,91,deepadungpalaung
+152478,ruma1248,NOSE,k a + d u ŋ + m u h,91,deepadungpalaung
+152479,ruma1248,NOSE,k a + d ɔ ŋ + m u h,91,deepadungpalaung
+152480,ruma1248,NOSE,k a + d u ŋ + m u h,91,deepadungpalaung
+152481,khan1274,EAR,j̊ o k,25,deepadungpalaung
+152482,ruma1248,EAR,j̊ au̯ ʔ,26,deepadungpalaung
+152483,ruma1248,EAR,tɕʰ o k,25,deepadungpalaung
+152484,ruma1248,EAR,l a + tɕʰ o k,25,deepadungpalaung
+152485,ruma1248,EAR,tɕʰ o k,25,deepadungpalaung
+152486,khan1274,MOUTH,m oi̯ ʔ,81,deepadungpalaung
+152487,ruma1248,MOUTH,m oi̯ ʔ,81,deepadungpalaung
+152488,ruma1248,MOUTH,m oi̯ ʔ,81,deepadungpalaung
+152489,ruma1248,MOUTH,m oi̯ ʔ,81,deepadungpalaung
+152490,ruma1248,MOUTH,m oi̯ ʔ,81,deepadungpalaung
+152491,khan1274,TONGUE,k ə + d ɛ ʔ,134,deepadungpalaung
+152492,ruma1248,TONGUE,s ɨ + d a ʔ,134,deepadungpalaung
+152493,ruma1248,TONGUE,s a + t a ʔ,134,deepadungpalaung
+152494,ruma1248,TONGUE,s ə + t aː ʔ,134,deepadungpalaung
+152495,ruma1248,TONGUE,s a + t a ʔ,134,deepadungpalaung
+152496,khan1274,TOOTH,r̥ ɛː ŋ,135,deepadungpalaung
+152497,ruma1248,TOOTH,r̥ aː ŋ,135,deepadungpalaung
+152498,ruma1248,TOOTH,sʲ aː ŋ,135,deepadungpalaung
+152499,ruma1248,TOOTH,x aː ŋ,136,deepadungpalaung
+152500,ruma1248,TOOTH,x aː ŋ,136,deepadungpalaung
+152501,khan1274,BELLY,v e ʔ,2,deepadungpalaung
+152502,ruma1248,BELLY,v a c,2,deepadungpalaung
+152503,ruma1248,BELLY,v a t,2,deepadungpalaung
+152504,ruma1248,BELLY,v a t,2,deepadungpalaung
+152505,ruma1248,BELLY,v a t,2,deepadungpalaung
+152506,khan1274,HEART,b l i + n ɔi̯ h,52,deepadungpalaung
+152507,ruma1248,HEART,b l ei̯ + n ɔ x,52,deepadungpalaung
+152508,ruma1248,HEART,p o ŋ + k ə + n ɔ h,52,deepadungpalaung
+152509,ruma1248,HEART,k ə + n ɔ h,52,deepadungpalaung
+152510,ruma1248,HEART,p o n + k a + n ɔ h,52,deepadungpalaung
+152511,khan1274,LIVER,k ə + ɗ ɔː m,69,deepadungpalaung
+152512,ruma1248,LIVER,k a + d oː m,69,deepadungpalaung
+152513,ruma1248,LIVER,k a + t ɔː m,69,deepadungpalaung
+152514,ruma1248,LIVER,k a + t ɔː m,69,deepadungpalaung
+152515,khan1274,INTESTINES,r ɔː n + ʔ i/j a r,60,deepadungpalaung
+152516,ruma1248,INTESTINES,v a c,61,deepadungpalaung
+152517,ruma1248,INTESTINES,s ɔ + n v a t,62,deepadungpalaung
+152518,ruma1248,INTESTINES,s ɔ + n v a t,62,deepadungpalaung
+152519,khan1274,HAND,ɗ ai̯,50,deepadungpalaung
+152520,ruma1248,HAND,d ɛː,50,deepadungpalaung
+152521,ruma1248,HAND,t ai̯,50,deepadungpalaung
+152522,ruma1248,HAND,t ai̯,50,deepadungpalaung
+152523,ruma1248,HAND,t ai̯ ʔ,50,deepadungpalaung
+152524,khan1274,NAIL (TOOL),ʔ a + h i m,82,deepadungpalaung
+152525,ruma1248,NAIL (TOOL),ŋ + h iː m,82,deepadungpalaung
+152526,ruma1248,NAIL (TOOL),kʰ iː m,83,deepadungpalaung
+152527,ruma1248,NAIL (TOOL),kʰ iː m,83,deepadungpalaung
+152528,ruma1248,NAIL (TOOL),k iː m,83,deepadungpalaung
+152529,khan1274,FOOT,tɕ ə ŋ,42,deepadungpalaung
+152530,ruma1248,FOOT,tɕ eː n,42,deepadungpalaung
+152531,ruma1248,FOOT,dʑ ɔː n,42,deepadungpalaung
+152532,ruma1248,FOOT,dʑ ɔː n,42,deepadungpalaung
+152533,ruma1248,FOOT,dʑ ɔː n,42,deepadungpalaung
+152534,khan1274,BONE,k a + ʔ ɛː ŋ,7,deepadungpalaung
+152535,ruma1248,BONE,k a + ʔ aː ŋ,7,deepadungpalaung
+152536,ruma1248,BONE,k a + ʔ aː ŋ,7,deepadungpalaung
+152537,ruma1248,BONE,k a + ʔ aː ŋ,7,deepadungpalaung
+152538,ruma1248,BONE,k a + ʔ aː ŋ,7,deepadungpalaung
+152539,khan1274,FAT (ORGANIC SUBSTANCE),p r i/j a ŋ,34,deepadungpalaung
+152540,ruma1248,FAT (ORGANIC SUBSTANCE),b r i/j a ŋ,34,deepadungpalaung
+152541,ruma1248,FAT (ORGANIC SUBSTANCE),p i/j o ŋ,34,deepadungpalaung
+152542,ruma1248,FAT (ORGANIC SUBSTANCE),p i/j o ŋ,34,deepadungpalaung
+152543,ruma1248,FAT (ORGANIC SUBSTANCE),p i/j o ŋ,34,deepadungpalaung
+152544,khan1274,SKIN,h u r,116,deepadungpalaung
+152545,ruma1248,SKIN,h uː n,116,deepadungpalaung
+152546,ruma1248,SKIN,h uː,116,deepadungpalaung
+152547,ruma1248,SKIN,h uː,116,deepadungpalaung
+152548,ruma1248,SKIN,h uː,116,deepadungpalaung
+152549,khan1274,BLOOD,n̥ ɛː m,6,deepadungpalaung
+152550,ruma1248,BLOOD,n̥ aː m,6,deepadungpalaung
+152551,ruma1248,BLOOD,n̥ aː m,6,deepadungpalaung
+152552,ruma1248,BLOOD,n̥ aː m,6,deepadungpalaung
+152553,ruma1248,BLOOD,n̥ aː m,6,deepadungpalaung
+152554,khan1274,PERSON,d u + ʔ iː,96,deepadungpalaung
+152555,ruma1248,PERSON,n a + ʔ ui̯,97,deepadungpalaung
+152556,ruma1248,PERSON,t a + ʔ iː,96,deepadungpalaung
+152557,ruma1248,PERSON,t a + ʔ iː,96,deepadungpalaung
+152558,ruma1248,PERSON,t a + ʔ iː,96,deepadungpalaung
+152559,khan1274,CHILD,k ɔ n + ɲ ɔ m,12,deepadungpalaung
+152560,ruma1248,CHILD,g ɔː n,12,deepadungpalaung
+152561,ruma1248,CHILD,k ɔː n,12,deepadungpalaung
+152562,ruma1248,CHILD,k ɔː n,12,deepadungpalaung
+152563,ruma1248,CHILD,k ɔː n,12,deepadungpalaung
+152564,khan1274,NAME,tɕ ɨː,84,deepadungpalaung
+152565,ruma1248,NAME,tɕ ɨː,84,deepadungpalaung
+152566,ruma1248,NAME,dʑ ɨː,84,deepadungpalaung
+152567,ruma1248,NAME,tɕ ɨː,84,deepadungpalaung
+152568,khan1274,SEW,tɕ i ŋ,112,deepadungpalaung
+152569,ruma1248,SEW,tɕ i ɲ,112,deepadungpalaung
+152570,ruma1248,SEW,k a + dʑ ə n,112,deepadungpalaung
+152571,ruma1248,SEW,dʑ ə n,112,deepadungpalaung
+152572,ruma1248,SEW,dʑ ə n,112,deepadungpalaung
+152573,khan1274,FIRE,ŋ a l,37,deepadungpalaung
+152574,ruma1248,FIRE,ŋ ɔː,37,deepadungpalaung
+152575,ruma1248,FIRE,ŋ ai̯,37,deepadungpalaung
+152576,ruma1248,FIRE,ŋ ai̯,37,deepadungpalaung
+152577,ruma1248,FIRE,ŋ ai̯ ʔ,37,deepadungpalaung
+152578,khan1274,ASH,k ə + f ɛː ŋ,1,deepadungpalaung
+152579,ruma1248,ASH,k a + f aː ŋ,1,deepadungpalaung
+152580,ruma1248,ASH,k a + f aː ŋ,1,deepadungpalaung
+152581,ruma1248,ASH,k a + f aː ŋ,1,deepadungpalaung
+152582,ruma1248,ASH,k a + f aː ŋ,1,deepadungpalaung
+152583,khan1274,SMOKE (EXHAUST),ɗ ɔ ʔ,120,deepadungpalaung
+152584,ruma1248,SMOKE (EXHAUST),d a k,120,deepadungpalaung
+152585,ruma1248,SMOKE (EXHAUST),t a k,120,deepadungpalaung
+152586,ruma1248,SMOKE (EXHAUST),t a k,120,deepadungpalaung
+152587,ruma1248,SMOKE (EXHAUST),t a k,120,deepadungpalaung
+152588,khan1274,SMELL (PERCEIVE),ʔ ui̯ h,118,deepadungpalaung
+152589,ruma1248,SMELL (PERCEIVE),ʔ u h,118,deepadungpalaung
+152590,ruma1248,SMELL (PERCEIVE),ɲ ɔi̯ ʔ,119,deepadungpalaung
+152591,ruma1248,SMELL (PERCEIVE),ɲ ɔːi̯ ʔ,119,deepadungpalaung
+152592,ruma1248,SMELL (PERCEIVE),ɲ ɔi̯ ʔ,119,deepadungpalaung
+152593,khan1274,SEE,dʑ ɨː,110,deepadungpalaung
+152594,ruma1248,SEE,j əɯ̯,111,deepadungpalaung
+152595,ruma1248,SEE,j eu̯,111,deepadungpalaung
+152596,ruma1248,SEE,j eu̯,111,deepadungpalaung
+152597,ruma1248,SEE,j eu̯,111,deepadungpalaung
+152598,khan1274,EAT,h ɔː m,28,deepadungpalaung
+152599,ruma1248,EAT,h oː m,28,deepadungpalaung
+152600,ruma1248,EAT,h oː m,28,deepadungpalaung
+152601,ruma1248,EAT,h o m,28,deepadungpalaung
+152602,ruma1248,EAT,h oː m,28,deepadungpalaung
+152603,khan1274,DRINK,d i/j a ŋ,23,deepadungpalaung
+152604,ruma1248,DRINK,d i/j a ŋ,23,deepadungpalaung
+152605,ruma1248,DRINK,tɕ o ŋ,24,deepadungpalaung
+152606,ruma1248,DRINK,tɕ o ŋ,24,deepadungpalaung
+152607,ruma1248,DRINK,tɕ o ŋ,24,deepadungpalaung
+152608,khan1274,SPIT,p e ʔ,122,deepadungpalaung
+152609,ruma1248,SPIT,p e c,122,deepadungpalaung
+152610,ruma1248,SPIT,b a t,122,deepadungpalaung
+152611,ruma1248,SPIT,b a t,122,deepadungpalaung
+152612,ruma1248,SPIT,b a t,122,deepadungpalaung
+152613,khan1274,BREATHE,pʰ əː m,8,deepadungpalaung
+152614,ruma1248,BREATHE,h ə k + pʰ əː m,9,deepadungpalaung
+152615,ruma1248,BREATHE,t o h + pʰ ɛː m,10,deepadungpalaung
+152616,ruma1248,BREATHE,t o h + pʰ əː m,10,deepadungpalaung
+152617,ruma1248,BREATHE,t o h + pʰ əː m,10,deepadungpalaung
+152618,khan1274,LAUGH,k a + ŋ i/j a h,66,deepadungpalaung
+152619,ruma1248,LAUGH,k a + ɲ a h,66,deepadungpalaung
+152620,ruma1248,LAUGH,k ə + ɲ a h,66,deepadungpalaung
+152621,ruma1248,LAUGH,k ə + ɲ a h,66,deepadungpalaung
+152622,ruma1248,LAUGH,k a + ɲ a h,66,deepadungpalaung
+152623,khan1274,KNOW,n a p,64,deepadungpalaung
+152624,ruma1248,KNOW,n a p,64,deepadungpalaung
+152625,ruma1248,KNOW,n ɔː ʔ,65,deepadungpalaung
+152626,ruma1248,KNOW,n ɔː ʔ,65,deepadungpalaung
+152627,ruma1248,KNOW,n aː,64,deepadungpalaung
+152628,khan1274,FEAR (BE AFRAID),dʑ oː,35,deepadungpalaung
+152629,ruma1248,FEAR (BE AFRAID),j au̯,36,deepadungpalaung
+152630,ruma1248,FEAR (BE AFRAID),j au̯,36,deepadungpalaung
+152631,ruma1248,FEAR (BE AFRAID),j au̯,36,deepadungpalaung
+152632,khan1274,SLEEP,ʔ i t,117,deepadungpalaung
+152633,ruma1248,SLEEP,ʔ i ʔ,117,deepadungpalaung
+152634,ruma1248,SLEEP,ʔ i ʔ,117,deepadungpalaung
+152635,ruma1248,SLEEP,ʔ i ʔ,117,deepadungpalaung
+152636,ruma1248,SLEEP,ʔ i ʔ,117,deepadungpalaung
+152637,khan1274,SCRATCH,b o ʔ,108,deepadungpalaung
+152638,ruma1248,SCRATCH,b ou̯ ʔ,108,deepadungpalaung
+152639,ruma1248,SCRATCH,p o k,108,deepadungpalaung
+152640,ruma1248,SCRATCH,p o k,108,deepadungpalaung
+152641,ruma1248,SCRATCH,k a + b aː n,109,deepadungpalaung
+152642,khan1274,DIE,dʑ a m,17,deepadungpalaung
+152643,ruma1248,DIE,j a m,17,deepadungpalaung
+152644,ruma1248,DIE,dʑ ɔː m,17,deepadungpalaung
+152645,ruma1248,DIE,j ɔ m,17,deepadungpalaung
+152646,ruma1248,DIE,j ɔ m,17,deepadungpalaung
+152647,khan1274,SIT,ŋ oːi̯,113,deepadungpalaung
+152648,ruma1248,SIT,k ɔi̯,114,deepadungpalaung
+152649,ruma1248,SIT,ʔ ɔ k,115,deepadungpalaung
+152650,ruma1248,SIT,ʔ ɔ k,115,deepadungpalaung
+152651,ruma1248,SIT,ʔ a k,115,deepadungpalaung
+152652,khan1274,STAND,tɕ a ŋ,123,deepadungpalaung
+152653,ruma1248,STAND,tɕ ɔ ŋ,123,deepadungpalaung
+152654,ruma1248,STAND,dʑ ɔ ŋ,123,deepadungpalaung
+152655,ruma1248,STAND,dʑ ɔ ŋ,123,deepadungpalaung
+152656,ruma1248,STAND,dʑ ɔ ŋ,123,deepadungpalaung
+152657,khan1274,FALL,tɕ ɔ h,32,deepadungpalaung
+152658,ruma1248,FALL,dʑ o h,32,deepadungpalaung
+152659,ruma1248,FALL,dʑ o h,32,deepadungpalaung
+152660,ruma1248,FALL,dʑ o h,32,deepadungpalaung
+152661,khan1274,GIVE,d e h,46,deepadungpalaung
+152662,ruma1248,GIVE,t ai̯ h,46,deepadungpalaung
+152663,ruma1248,GIVE,d ɛ h,46,deepadungpalaung
+152664,ruma1248,GIVE,d ɛ h,46,deepadungpalaung
+152665,ruma1248,GIVE,d ɛ h,46,deepadungpalaung
+152666,khan1274,RUB,tʰ u ʔ + ɗ ai̯,103,deepadungpalaung
+152667,ruma1248,RUB,s a + b o ʔ,104,deepadungpalaung
+152668,ruma1248,RUB,tʰ u + tʰ i k,103,deepadungpalaung
+152669,ruma1248,RUB,tʰ u + tʰ iː,103,deepadungpalaung
+152670,ruma1248,RUB,tʰ u + tʰ iː,103,deepadungpalaung
+152671,khan1274,CUT,k i/j a p,16,deepadungpalaung
+152672,ruma1248,CUT,k ə p,16,deepadungpalaung
+152673,ruma1248,CUT,k j a p,16,deepadungpalaung
+152674,ruma1248,CUT,k i/j a p,16,deepadungpalaung
+152675,ruma1248,CUT,k i/j a p,16,deepadungpalaung
+152676,khan1274,DIG,l o ʔ,18,deepadungpalaung
+152677,ruma1248,DIG,g ə x,19,deepadungpalaung
+152678,ruma1248,DIG,l o k,18,deepadungpalaung
+152679,ruma1248,DIG,l o k,18,deepadungpalaung
+152680,ruma1248,DIG,k ə h,20,deepadungpalaung
+152681,khan1274,BURN,ɗ o ʔ,11,deepadungpalaung
+152682,ruma1248,BURN,d ou̯ ʔ,11,deepadungpalaung
+152683,ruma1248,BURN,t o k,11,deepadungpalaung
+152684,ruma1248,BURN,t o k,11,deepadungpalaung
+152685,ruma1248,BURN,t o k,11,deepadungpalaung
+152686,khan1274,HUNT,l i p + r i ŋ,55,deepadungpalaung
+152687,ruma1248,HUNT,l ɨ p + p r ɛː,55,deepadungpalaung
+152688,ruma1248,HUNT,p ai̯ + t oː,56,deepadungpalaung
+152689,ruma1248,HUNT,l ɛː,57,deepadungpalaung
+152690,ruma1248,HUNT,j ɨ + t oː,58,deepadungpalaung
+152691,khan1274,KILL,ŋ a h,63,deepadungpalaung
+152692,ruma1248,KILL,ŋ ɔ h,63,deepadungpalaung
+152693,ruma1248,KILL,ŋ ai̯ ʔ,63,deepadungpalaung
+152694,ruma1248,KILL,ŋ ai̯,63,deepadungpalaung
+152695,ruma1248,KILL,ŋ ai̯,63,deepadungpalaung
+152696,khan1274,ONE,l u ʔ,94,deepadungpalaung
+152697,ruma1248,ONE,ʔ uː,95,deepadungpalaung
+152698,ruma1248,ONE,l̥ e i̯ h,94,deepadungpalaung
+152699,ruma1248,ONE,ʔ uː,95,deepadungpalaung
+152700,ruma1248,ONE,ʔ uː,95,deepadungpalaung
+152701,ruma1248,ONE,ʔ uː,95,deepadungpalaung
+152702,khan1274,TWO,ʔ ɛː,139,deepadungpalaung
+152703,ruma1248,TWO,ʔ aː,139,deepadungpalaung
+152704,ruma1248,TWO,ʔ ɛː,139,deepadungpalaung
+152705,ruma1248,TWO,ʔ ɛː,139,deepadungpalaung
+152706,ruma1248,TWO,ʔ aː,139,deepadungpalaung
+152707,khan1274,THREE,ʔ oi̯,133,deepadungpalaung
+152708,ruma1248,THREE,ʔ oːi̯,133,deepadungpalaung
+152709,ruma1248,THREE,ʔ oːi̯,133,deepadungpalaung
+152710,ruma1248,THREE,ʔ oːi̯,133,deepadungpalaung
+152711,ruma1248,THREE,ʔ oi̯,133,deepadungpalaung
+152712,khan1274,FOUR,pʰ o n,43,deepadungpalaung
+152713,ruma1248,FOUR,pʰ oː n,43,deepadungpalaung
+152714,ruma1248,FOUR,pʰ oː m,43,deepadungpalaung
+152715,ruma1248,FOUR,pʰ o n,43,deepadungpalaung
+152716,khan1274,MANY,b r a m,74,deepadungpalaung
+152717,ruma1248,MANY,g ɨ n,75,deepadungpalaung
+152718,ruma1248,MANY,g ɨ n,75,deepadungpalaung
+152719,ruma1248,MANY,k ɨ n,75,deepadungpalaung
+152720,khan1274,LONG,d o ŋ,70,deepadungpalaung
+152721,ruma1248,LONG,d o ŋ,70,deepadungpalaung
+152722,ruma1248,LONG,d o ŋ,70,deepadungpalaung
+152723,ruma1248,LONG,d o ŋ,70,deepadungpalaung
+152724,khan1274,FULL,n o ʔ,45,deepadungpalaung
+152725,ruma1248,FULL,n ou̯ ʔ,45,deepadungpalaung
+152726,ruma1248,FULL,n o k,45,deepadungpalaung
+152727,ruma1248,FULL,n o k,45,deepadungpalaung
+152728,ruma1248,FULL,n o k,45,deepadungpalaung
+152729,khan1274,RIGHT,d i ŋ + ʔ a + ʔ ɔi̯ h,99,deepadungpalaung
+152730,ruma1248,RIGHT,n a + ʔ a h,100,deepadungpalaung
+152731,ruma1248,RIGHT,ʔ a + ʔ ɛ h,100,deepadungpalaung
+152732,ruma1248,RIGHT,ʔ a + ʔ ə h,100,deepadungpalaung
+152733,ruma1248,RIGHT,ʔ a + ʔ ə h,100,deepadungpalaung
+152734,khan1274,LEFT,ʔ a + k ɛ ʔ,68,deepadungpalaung
+152735,ruma1248,LEFT,n a + g a ʔ,68,deepadungpalaung
+152736,ruma1248,LEFT,ʔ a + k a ʔ,68,deepadungpalaung
+152737,ruma1248,LEFT,ʔ a + k a ʔ,68,deepadungpalaung
+152738,ruma1248,LEFT,ʔ a + k a ʔ,68,deepadungpalaung
+152739,khan1274,FAR,d o ŋ,33,deepadungpalaung
+152740,ruma1248,FAR,t o ŋ,33,deepadungpalaung
+152741,ruma1248,FAR,d o ŋ,33,deepadungpalaung
+152742,ruma1248,FAR,d o ŋ,33,deepadungpalaung
+152743,ruma1248,FAR,d o ŋ,33,deepadungpalaung
+152744,ruma1248,NEAR,t ə + tɕ ɔ m,85,deepadungpalaung
+152745,ruma1248,NEAR,k a + tɕ a m,86,deepadungpalaung
+152746,ruma1248,NEAR,k a + tɕ a m,86,deepadungpalaung
+152747,khan1274,THIS,ɗ u + ʔ ɯː,130,deepadungpalaung
+152748,ruma1248,THIS,ʔ a + n iː,131,deepadungpalaung
+152749,ruma1248,THIS,n iː,132,deepadungpalaung
+152750,ruma1248,THIS,ʔ a + n iː,131,deepadungpalaung
+152751,ruma1248,THIS,ʔ a + n i,131,deepadungpalaung
+152752,khan1274,BLACK,v a ŋ,5,deepadungpalaung
+152753,ruma1248,BLACK,v ɔ ŋ,5,deepadungpalaung
+152754,ruma1248,BLACK,v ɔ ŋ,5,deepadungpalaung
+152755,ruma1248,BLACK,v ɔ ŋ,5,deepadungpalaung
+152756,ruma1248,BLACK,ʔ i + v ɔ ŋ,5,deepadungpalaung
+152757,khan1274,WHITE,p l ɔ ʔ,145,deepadungpalaung
+152758,ruma1248,WHITE,l uːi̯,146,deepadungpalaung
+152759,ruma1248,WHITE,l ui̯,146,deepadungpalaung
+152760,ruma1248,WHITE,l uːi̯,146,deepadungpalaung
+152761,ruma1248,WHITE,ʔ i + l ui̯,146,deepadungpalaung
+152762,khan1274,NEW,k a + m ai̯,87,deepadungpalaung
+152763,ruma1248,NEW,k a + m aːi̯,87,deepadungpalaung
+152764,ruma1248,NEW,t a + m aːi̯,87,deepadungpalaung
+152765,ruma1248,NEW,t a + m aːi̯,87,deepadungpalaung
+152766,ruma1248,NEW,t a + m aːi̯,87,deepadungpalaung
+152767,khan1274,OLD (AGED),k ɛ t,92,deepadungpalaung
+152768,ruma1248,OLD (AGED),k a t,92,deepadungpalaung
+152769,ruma1248,OLD (AGED),g ɔː ʔ,93,deepadungpalaung
+152770,ruma1248,OLD (AGED),g ɔː ʔ,93,deepadungpalaung
+152771,ruma1248,OLD (AGED),g ɔ ʔ,93,deepadungpalaung
+152772,khan1274,COLD,g a t,15,deepadungpalaung
+152773,ruma1248,COLD,g a t,15,deepadungpalaung
+152774,ruma1248,COLD,k ɔː ʔ,15,deepadungpalaung
+152775,ruma1248,COLD,k ɔː ʔ,15,deepadungpalaung
+152776,ruma1248,COLD,k ɔː ʔ,15,deepadungpalaung
+152777,khan1274,HEAVY,tɕ a n,53,deepadungpalaung
+152778,ruma1248,HEAVY,tɕ a n,53,deepadungpalaung
+152779,ruma1248,HEAVY,dʑ ɔ n,53,deepadungpalaung
+152780,ruma1248,HEAVY,dʑ ɔː n,53,deepadungpalaung
+152781,ruma1248,HEAVY,dʑ a n,53,deepadungpalaung
+152782,khan1274,WHO,ʔ i + s iː,147,deepadungpalaung
+152783,ruma1248,WHO,ʔ a + s ei̯,147,deepadungpalaung
+152784,ruma1248,WHO,s iː,148,deepadungpalaung
+152785,ruma1248,WHO,s i + d ə h,148,deepadungpalaung
+152786,ruma1248,WHO,tɕʰ i + m̥ əː,149,deepadungpalaung
+152787,khan1274,WHAT,s i + n ə m u h,141,deepadungpalaung
+152788,ruma1248,WHAT,m a + s ei̯,142,deepadungpalaung
+152789,ruma1248,WHAT,s ə + m o h,141,deepadungpalaung
+152790,ruma1248,WHAT,s i,143,deepadungpalaung
+152791,ruma1248,WHAT,tɕʰ ə n + m̥ əː,144,deepadungpalaung
+152792,khan1274,I,ʔ oː,59,deepadungpalaung
+152793,ruma1248,I,ʔ ou̯,59,deepadungpalaung
+152794,ruma1248,I,ʔ au̯,59,deepadungpalaung
+152795,ruma1248,I,ʔ au̯,59,deepadungpalaung
+152796,ruma1248,I,ʔ au̯,59,deepadungpalaung
+152797,khan1274,YOU,m əi̯,152,deepadungpalaung
+152798,ruma1248,YOU,m ɛː,152,deepadungpalaung
+152799,ruma1248,YOU,m ai̯,152,deepadungpalaung
+152800,ruma1248,YOU,m ai̯,152,deepadungpalaung
+152801,ruma1248,YOU,m ai̯,152,deepadungpalaung

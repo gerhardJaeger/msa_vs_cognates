@@ -1,0 +1,1402 @@
+id,doculect,concept,forms,lexstatid,db
+312446,ingr1248,I,m i æ,392,syrjaenenuralic
+312447,komi1269,I,m e,392,syrjaenenuralic
+312448,komi1268,I,m e,392,syrjaenenuralic
+312449,ngan1291,I,m ə n ə,392,syrjaenenuralic
+312450,selk1253,I,m ɑ n,392,syrjaenenuralic
+312451,udmu1245,I,m o n,392,syrjaenenuralic
+312452,erzy1239,I,m o n,392,syrjaenenuralic
+312453,erzy1239,ALL,v e ɕ e,1,syrjaenenuralic
+312454,ingr1248,ALL,k ɑ i,2,syrjaenenuralic
+312455,komi1269,ALL,b ɯ d ɤ s,3,syrjaenenuralic
+312456,komi1268,ALL,b ɯ d,3,syrjaenenuralic
+312457,komi1268,ALL,s t ɑ v,7,syrjaenenuralic
+312458,ngan1291,ALL,b ə n s ə,4,syrjaenenuralic
+312459,selk1253,ALL,m u n t ə,5,syrjaenenuralic
+312460,udmu1245,ALL,v ɑ ɲ m ɯ z,6,syrjaenenuralic
+312461,erzy1239,AND,i,8,syrjaenenuralic
+312462,ingr1248,AND,j ɑ,9,syrjaenenuralic
+312463,ingr1248,AND,i,12,syrjaenenuralic
+312464,ingr1248,AND,t ɑ,8,syrjaenenuralic
+312465,komi1269,AND,i,10,syrjaenenuralic
+312466,komi1269,AND,d ɑ,8,syrjaenenuralic
+312467,komi1268,AND,i,10,syrjaenenuralic
+312468,komi1268,AND,d ɑ,8,syrjaenenuralic
+312469,selk1253,AND,ɑ j,11,syrjaenenuralic
+312470,udmu1245,AND,i,10,syrjaenenuralic
+312471,udmu1245,AND,d ɑ,8,syrjaenenuralic
+312472,erzy1239,AND,d i,8,syrjaenenuralic
+312473,erzy1239,ANIMAL,ʑ v e rʲ,13,syrjaenenuralic
+312474,erzy1239,ANIMAL,r ɑ k ʃ ɑ,18,syrjaenenuralic
+312475,ingr1248,ANIMAL,e l o ɡ̥ ɑ z,14,syrjaenenuralic
+312476,komi1269,ANIMAL,v ɤ r p i,13,syrjaenenuralic
+312477,komi1268,ANIMAL,z vʲ e r,13,syrjaenenuralic
+312478,komi1268,ANIMAL,p e m ɤ s,19,syrjaenenuralic
+312479,ngan1291,ANIMAL,dʲ ɑ m ə ð ə,15,syrjaenenuralic
+312480,selk1253,ANIMAL,s uː r ə m,16,syrjaenenuralic
+312481,udmu1245,ANIMAL,p ɤ j ʃ u r,17,syrjaenenuralic
+312482,erzy1239,ASH,k u l o v,20,syrjaenenuralic
+312483,ingr1248,ASH,p o r o,21,syrjaenenuralic
+312484,komi1269,ASH,p ɤ j i m,22,syrjaenenuralic
+312485,komi1268,ASH,p ɤ j i m,22,syrjaenenuralic
+312486,ngan1291,ASH,t uː + dʲ o ə ʔ,23,syrjaenenuralic
+312487,selk1253,ASH,ɕ iː m ə,24,syrjaenenuralic
+312488,udmu1245,ASH,p e ɲ,22,syrjaenenuralic
+312489,erzy1239,AT,k e dʲ s e,25,syrjaenenuralic
+312490,erzy1239,AT,p e ʎ e,30,syrjaenenuralic
+312491,ingr1248,AT,l oː n,26,syrjaenenuralic
+312492,komi1269,AT,s ɑ j ɯ n,28,syrjaenenuralic
+312493,komi1269,AT,d ɯ n ɯ n,31,syrjaenenuralic
+312494,komi1268,AT,d o r ɯ n,27,syrjaenenuralic
+312495,komi1268,AT,o r d ɯ n,27,syrjaenenuralic
+312496,selk1253,AT,n ɑː n ə,29,syrjaenenuralic
+312497,udmu1245,AT,d o r ɯ n,27,syrjaenenuralic
+312498,udmu1245,AT,u r t s ɯ n,27,syrjaenenuralic
+312499,erzy1239,BARK,k e rʲ,32,syrjaenenuralic
+312500,erzy1239,BARK,s u d,34,syrjaenenuralic
+312501,ingr1248,BARK,k oː r i,32,syrjaenenuralic
+312502,komi1269,BARK,k ɑ tɕ,33,syrjaenenuralic
+312503,komi1268,BARK,k ɯ r ɕ,32,syrjaenenuralic
+312504,ngan1291,BARK,k ɑ s u,33,syrjaenenuralic
+312505,selk1253,BARK,q ɑː s ə,33,syrjaenenuralic
+312506,udmu1245,BARK,k u r,32,syrjaenenuralic
+312507,udmu1245,BARK,s u l,35,syrjaenenuralic
+312508,erzy1239,BECAUSE,ɕ e k s,39,syrjaenenuralic
+312509,erzy1239,BECAUSE,ɕ e k s + m e k s,39,syrjaenenuralic
+312510,ingr1248,BECAUSE,s e n t æː,40,syrjaenenuralic
+312511,ingr1248,BECAUSE,s e n t æː,40,syrjaenenuralic
+312512,ingr1248,BECAUSE,s e m + p e r æ s t,48,syrjaenenuralic
+312513,komi1269,BECAUSE,ɕ i dʑ + k ɯ dʑ,42,syrjaenenuralic
+312514,komi1269,BECAUSE,d ɑ,46,syrjaenenuralic
+312515,komi1268,BECAUSE,s ɯ + p o n d ɑ,41,syrjaenenuralic
+312516,komi1268,BECAUSE,s ɯ + v ɤ s n ɑ,45,syrjaenenuralic
+312517,ngan1291,BECAUSE,ɲ iː ð ə,43,syrjaenenuralic
+312518,ngan1291,BECAUSE,s u ə b ə s ɯ,47,syrjaenenuralic
+312519,udmu1245,BECAUSE,m ɑ l ɯ + k e + ʃ u o n o,44,syrjaenenuralic
+312520,erzy1239,BELLY,p e k e,49,syrjaenenuralic
+312521,ingr1248,BELLY,v ɑ t s ɑ,50,syrjaenenuralic
+312522,komi1269,BELLY,k ɯ n ɤ m,52,syrjaenenuralic
+312523,komi1268,BELLY,r u ʃ + k u,51,syrjaenenuralic
+312524,ngan1291,BELLY,tʃ ɑ j b ə,53,syrjaenenuralic
+312525,selk1253,BELLY,p e r k ə,49,syrjaenenuralic
+312526,udmu1245,BELLY,k ɤ t,54,syrjaenenuralic
+312527,erzy1239,BIG,p o k ʃ,55,syrjaenenuralic
+312528,ingr1248,BIG,s uː r,56,syrjaenenuralic
+312529,komi1269,BIG,ɯ dʒ ɯ t,57,syrjaenenuralic
+312530,komi1268,BIG,ɯ dʒ ɯ d,57,syrjaenenuralic
+312531,ngan1291,BIG,ɑ n i ʔ ə,58,syrjaenenuralic
+312532,selk1253,BIG,u ə̠ r q ə,59,syrjaenenuralic
+312533,udmu1245,BIG,b ɑ dʑ dʑ ɯ m,60,syrjaenenuralic
+312534,erzy1239,BIRD,n ɑ r m u ɲ,61,syrjaenenuralic
+312535,ingr1248,BIRD,l i n d̥ u,62,syrjaenenuralic
+312536,komi1269,BIRD,k ɑ j,64,syrjaenenuralic
+312537,komi1268,BIRD,k i t s ɑ,63,syrjaenenuralic
+312538,komi1268,BIRD,l e b ɑ tɕ,68,syrjaenenuralic
+312539,ngan1291,BIRD,t ə i b əː,65,syrjaenenuralic
+312540,selk1253,BIRD,t i l tʃ ə t i + s uː r ə m,66,syrjaenenuralic
+312541,selk1253,BIRD,s uː r ə m,69,syrjaenenuralic
+312542,udmu1245,BIRD,t ɯ l o b u r d o,67,syrjaenenuralic
+312543,erzy1239,BLACK,r ɑ u ʒ o,70,syrjaenenuralic
+312544,ingr1248,BLACK,m u s t ɑ,71,syrjaenenuralic
+312545,komi1269,BLACK,ɕ ɤ d,72,syrjaenenuralic
+312546,komi1268,BLACK,ɕ ɤ d,72,syrjaenenuralic
+312547,ngan1291,BLACK,t u s ɑ j k ɑ ʔ ɑ,73,syrjaenenuralic
+312548,selk1253,BLACK,s æː q ə,72,syrjaenenuralic
+312549,udmu1245,BLACK,ɕ ɤ d,72,syrjaenenuralic
+312550,erzy1239,BLOOD,v e rʲ,74,syrjaenenuralic
+312551,ingr1248,BLOOD,v e r i,74,syrjaenenuralic
+312552,komi1269,BLOOD,v i r,74,syrjaenenuralic
+312553,komi1268,BLOOD,v i r,74,syrjaenenuralic
+312554,ngan1291,BLOOD,k ɑ m,75,syrjaenenuralic
+312555,selk1253,BLOOD,k ɤ m,75,syrjaenenuralic
+312556,udmu1245,BLOOD,v i r,74,syrjaenenuralic
+312557,ingr1248,BLOW (OF WIND),p u h ɑ d̥ ɑ,77,syrjaenenuralic
+312558,komi1269,BLOW (OF WIND),p ɤ ʎ t n ɯ,78,syrjaenenuralic
+312559,komi1268,BLOW (OF WIND),p ɤ ʎ ɑ l n ɯ,78,syrjaenenuralic
+312560,ngan1291,BLOW (OF WIND),h y ə l ə s ɑ,79,syrjaenenuralic
+312561,selk1253,BLOW (OF WIND),p uː,80,syrjaenenuralic
+312562,udmu1245,BLOW (OF WIND),p e ʎ t ɯ n ɯ,78,syrjaenenuralic
+312563,udmu1245,BLOW (OF WIND),t ɤ l ɑ n ɯ,78,syrjaenenuralic
+312564,erzy1239,BLOW (OF WIND),p u v ɑ m s,76,syrjaenenuralic
+312565,erzy1239,BONE,l o v ɑ ʒ ɑ,86,syrjaenenuralic
+312566,erzy1239,BONE,p ɑ k ɑ rʲ,89,syrjaenenuralic
+312567,ingr1248,BONE,l uː,87,syrjaenenuralic
+312568,komi1269,BONE,l ɯ,87,syrjaenenuralic
+312569,komi1269,BONE,k o s k ɑ,90,syrjaenenuralic
+312570,komi1268,BONE,l ɯ,87,syrjaenenuralic
+312571,ngan1291,BONE,l ɑ t əː,88,syrjaenenuralic
+312572,selk1253,BONE,l ɯː,87,syrjaenenuralic
+312573,udmu1245,BONE,l ɯ,87,syrjaenenuralic
+312574,erzy1239,BREAST,m e ʃ tʲ e,91,syrjaenenuralic
+312575,erzy1239,BREAST,p o tʲ e,97,syrjaenenuralic
+312576,ingr1248,BREAST,r i n d̥ ɑ,92,syrjaenenuralic
+312577,komi1269,BREAST,m o r o s,93,syrjaenenuralic
+312578,komi1268,BREAST,m o r ɤ s,93,syrjaenenuralic
+312579,ngan1291,BREAST,ɕ i n ɕ ə,94,syrjaenenuralic
+312580,udmu1245,BREAST,ɡ ɑ dʲ,96,syrjaenenuralic
+312581,selk1253,BREAST,k ɯː l ə,95,syrjaenenuralic
+312582,erzy1239,BREATHE,ʎ e k ɕ e m s,98,syrjaenenuralic
+312583,ingr1248,BREATHE,h e ŋ ɡ̥ i t t æː,99,syrjaenenuralic
+312584,komi1269,BREATHE,l o l ɑ v n ɯ,100,syrjaenenuralic
+312585,komi1268,BREATHE,l o l ɑ v n ɯ,100,syrjaenenuralic
+312586,ngan1291,BREATHE,b ɑ tʃ ə dʲ ɑ,101,syrjaenenuralic
+312587,selk1253,BREATHE,k u ə̠ j,102,syrjaenenuralic
+312588,udmu1245,BREATHE,ʃ o k ɑ n ɯ,103,syrjaenenuralic
+312589,udmu1245,BREATHE,l u l dʑ ɯ n ɯ,104,syrjaenenuralic
+312590,erzy1239,BURN,p ɑ l o m s,105,syrjaenenuralic
+312591,ingr1248,BURN,p ɑ lː ɑː,105,syrjaenenuralic
+312592,komi1269,BURN,s o tɕ tɕ ɯ n ɯ,107,syrjaenenuralic
+312593,komi1268,BURN,l o m ɑ v n ɯ,106,syrjaenenuralic
+312594,komi1268,BURN,s o tʲ tɕ ɯ n ɯ,107,syrjaenenuralic
+312595,selk1253,BURN,ɑ m,108,syrjaenenuralic
+312596,udmu1245,BURN,dʒ u ɑ n ɯ,109,syrjaenenuralic
+312597,erzy1239,CLOUD,p e ʎ,110,syrjaenenuralic
+312598,ingr1248,CLOUD,p i l v i,110,syrjaenenuralic
+312599,komi1269,CLOUD,k ɯ m ɤ r,111,syrjaenenuralic
+312600,komi1268,CLOUD,k ɯ m ɤ r,111,syrjaenenuralic
+312601,ngan1291,CLOUD,tʃ i ə ð u,112,syrjaenenuralic
+312602,selk1253,CLOUD,t iː t t ə,113,syrjaenenuralic
+312603,udmu1245,CLOUD,p i ʎ e m,114,syrjaenenuralic
+312604,ingr1248,CLOUD,t uː tː s ɑ,116,syrjaenenuralic
+312605,erzy1239,CLOUD,k o v o l,115,syrjaenenuralic
+312606,erzy1239,COLD,k e ʎ m e,117,syrjaenenuralic
+312607,ingr1248,COLD,k y l m æ,117,syrjaenenuralic
+312608,ingr1248,COLD,k uː m ɑ,117,syrjaenenuralic
+312609,komi1269,COLD,k ɤ dʑ ɯ t,118,syrjaenenuralic
+312610,komi1268,COLD,k ɤ dʑ ɯ d,118,syrjaenenuralic
+312611,ngan1291,COLD,tʃ ə ɕ i ɕ i,119,syrjaenenuralic
+312612,selk1253,COLD,t ɑ ɕ ɕ u,120,syrjaenenuralic
+312613,udmu1245,COLD,k e ʑ ɯ t,118,syrjaenenuralic
+312614,erzy1239,COME,s ɑ m s,121,syrjaenenuralic
+312615,ingr1248,COME,t u l l ɑ,122,syrjaenenuralic
+312616,komi1269,COME,l o k n ɯ,124,syrjaenenuralic
+312617,komi1268,COME,v o n ɯ,123,syrjaenenuralic
+312618,komi1268,COME,l o k n ɯ,124,syrjaenenuralic
+312619,selk1253,COME,t yː,126,syrjaenenuralic
+312620,udmu1245,COME,v u ɯ n ɯ,123,syrjaenenuralic
+312621,udmu1245,COME,l ɯ k t ɯ n ɯ,124,syrjaenenuralic
+312622,ngan1291,COME,t u j ɕ ɑ,125,syrjaenenuralic
+312623,erzy1239,COUNT,l o v o m s,127,syrjaenenuralic
+312624,ingr1248,COUNT,l ɑ s k i ɑ,128,syrjaenenuralic
+312625,komi1269,COUNT,l ɯ dʲ dʲ ɯ n ɯ,128,syrjaenenuralic
+312626,komi1268,COUNT,l ɯ dʲ dʲ ɯ n ɯ,128,syrjaenenuralic
+312627,ngan1291,COUNT,t u ə b t u s ɑ,129,syrjaenenuralic
+312628,selk1253,COUNT,t oː r,130,syrjaenenuralic
+312629,udmu1245,COUNT,l ɯ dʑ dʑ ɯ n ɯ,128,syrjaenenuralic
+312630,erzy1239,CUT,n ɑ r ɑ m s,131,syrjaenenuralic
+312631,erzy1239,CUT,p e tʃ k e m s,135,syrjaenenuralic
+312632,komi1269,CUT,v u n d ɑ v n ɯ,133,syrjaenenuralic
+312633,komi1269,CUT,ʃ ɤ r ɯ ʃ t n ɯ,137,syrjaenenuralic
+312634,komi1268,CUT,v u n d ɯ n ɯ,133,syrjaenenuralic
+312635,komi1268,CUT,ʃ ɯ r n ɯ,137,syrjaenenuralic
+312636,selk1253,CUT,m ɑ tʃ ə,134,syrjaenenuralic
+312637,udmu1245,CUT,v ɑ n d ɯ n ɯ,133,syrjaenenuralic
+312638,udmu1245,CUT,ʃ o r ɯ n ɯ,137,syrjaenenuralic
+312639,ingr1248,CUT,l e i ɡ̥ ɑ d̥ ɑ,132,syrjaenenuralic
+312640,ingr1248,CUT,h ø l v æ d̥ æ,136,syrjaenenuralic
+312641,ngan1291,CUT,m ə t u dʲ ɑ,134,syrjaenenuralic
+312642,erzy1239,DIE,k u l o m s,138,syrjaenenuralic
+312643,ingr1248,DIE,k oː l l ɑ,139,syrjaenenuralic
+312644,komi1269,DIE,k u v n ɯ,140,syrjaenenuralic
+312645,komi1268,DIE,k u v n ɯ,140,syrjaenenuralic
+312646,ngan1291,DIE,dʲ ɑ ŋ ɡ u m s ɑ,141,syrjaenenuralic
+312647,selk1253,DIE,q uː,142,syrjaenenuralic
+312648,udmu1245,DIE,k u l ɯ n ɯ,140,syrjaenenuralic
+312649,ngan1291,DIE,k u ə dʲ ɑ,143,syrjaenenuralic
+312650,ingr1248,DIG,k ɑ i v ɑː,145,syrjaenenuralic
+312651,ngan1291,DIG,ɕ i r k ə dʲ i,147,syrjaenenuralic
+312652,udmu1245,DIG,k o p ɑ n ɯ,146,syrjaenenuralic
+312653,erzy1239,DIG,tʃ u v o m s,144,syrjaenenuralic
+312654,erzy1239,DIG,tʃ u p o ɲ e m s,144,syrjaenenuralic
+312655,komi1269,DIG,ɡ ɑ r j ɯ n ɯ,146,syrjaenenuralic
+312656,komi1268,DIG,ɡ o d n ɯ,146,syrjaenenuralic
+312657,selk1253,DIG,t i l ə,148,syrjaenenuralic
+312658,udmu1245,DIG,ɡ u d ɯ n ɯ,146,syrjaenenuralic
+312659,komi1269,DIRTY,ɲ ɑ tʲ ɤ ɕ,152,syrjaenenuralic
+312660,erzy1239,DIRTY,k ɑ r ɡ o tɕ,149,syrjaenenuralic
+312661,erzy1239,DIRTY,r u d ɑ z o v,156,syrjaenenuralic
+312662,ingr1248,DIRTY,r e u ɡ̥ ɑ z,150,syrjaenenuralic
+312663,ingr1248,DIRTY,m u s t ɑ,157,syrjaenenuralic
+312664,komi1268,DIRTY,ɕ ɤ d,151,syrjaenenuralic
+312665,komi1268,DIRTY,ɲ ɑ tʲ,152,syrjaenenuralic
+312666,ngan1291,DIRTY,ɲ e ɡ ɯ k u,153,syrjaenenuralic
+312667,selk1253,DIRTY,tʃ ɑ m,154,syrjaenenuralic
+312668,udmu1245,DIRTY,k ɯ r ɕ,155,syrjaenenuralic
+312669,udmu1245,DIRTY,ɕ ɤ d,151,syrjaenenuralic
+312670,komi1269,DOG,p o n,158,syrjaenenuralic
+312671,erzy1239,DOG,p i ɲ e,158,syrjaenenuralic
+312672,erzy1239,DOG,k i s k ɑ,161,syrjaenenuralic
+312673,ingr1248,DOG,k o i r ɑ,159,syrjaenenuralic
+312674,komi1268,DOG,p o n,158,syrjaenenuralic
+312675,ngan1291,DOG,b ɑ ŋ,158,syrjaenenuralic
+312676,selk1253,DOG,k ɤ n ɑ ŋ,160,syrjaenenuralic
+312677,udmu1245,DOG,p u n ɯ,158,syrjaenenuralic
+312678,erzy1239,DRINK,ɕ i m e m s,162,syrjaenenuralic
+312679,ingr1248,DRINK,j oː v v ɑ,163,syrjaenenuralic
+312680,komi1269,DRINK,j u n ɯ,164,syrjaenenuralic
+312681,komi1268,DRINK,j u n ɯ,164,syrjaenenuralic
+312682,ngan1291,DRINK,b ɯ t ɯ dʲ i,165,syrjaenenuralic
+312683,selk1253,DRINK,y t ə,166,syrjaenenuralic
+312684,udmu1245,DRINK,j u ɯ n ɯ,164,syrjaenenuralic
+312685,erzy1239,DRY,k o ɕ k e,167,syrjaenenuralic
+312686,komi1269,DRY,k ɤ s,169,syrjaenenuralic
+312687,komi1268,DRY,k o s,169,syrjaenenuralic
+312688,ngan1291,DRY,k o ɕ y ə,170,syrjaenenuralic
+312689,selk1253,DRY,tʃ ɤ k ə,171,syrjaenenuralic
+312690,udmu1245,DRY,k ɤ s,169,syrjaenenuralic
+312691,ingr1248,DRY,k u i v ɑ,168,syrjaenenuralic
+312692,erzy1239,BLUNT,n o ʃ k ɑ,81,syrjaenenuralic
+312693,ingr1248,BLUNT,n y r h i,82,syrjaenenuralic
+312694,komi1268,BLUNT,n ɯ ʒ,83,syrjaenenuralic
+312695,ngan1291,BLUNT,t ɯ ɑ m əː,84,syrjaenenuralic
+312696,selk1253,BLUNT,q ɑ m ə l ə ʎ,85,syrjaenenuralic
+312697,udmu1245,BLUNT,n ɯ ʒ,83,syrjaenenuralic
+312698,erzy1239,DUST,p u ʎ,172,syrjaenenuralic
+312699,erzy1239,DUST,tʃ e ʎ k e,176,syrjaenenuralic
+312700,ingr1248,DUST,p ø l l y,172,syrjaenenuralic
+312701,komi1269,DUST,b u s,172,syrjaenenuralic
+312702,komi1268,DUST,b u s,172,syrjaenenuralic
+312703,ngan1291,DUST,dʲ ɑ ŋ,173,syrjaenenuralic
+312704,ngan1291,DUST,ʎ i ʎ ə,177,syrjaenenuralic
+312705,selk1253,DUST,p u n ɑ,174,syrjaenenuralic
+312706,udmu1245,DUST,t u z o n,175,syrjaenenuralic
+312707,erzy1239,EAR,p i ʎ e,178,syrjaenenuralic
+312708,ingr1248,EAR,k o r v ɑ,179,syrjaenenuralic
+312709,komi1269,EAR,p e ʎ,178,syrjaenenuralic
+312710,komi1268,EAR,p e ʎ,178,syrjaenenuralic
+312711,ngan1291,EAR,k o u,180,syrjaenenuralic
+312712,udmu1245,EAR,p e ʎ,178,syrjaenenuralic
+312713,selk1253,EAR,q oː,180,syrjaenenuralic
+312714,erzy1239,EARTH (SOIL),m o d ɑ,181,syrjaenenuralic
+312715,ingr1248,EARTH (SOIL),m ɑː,182,syrjaenenuralic
+312716,komi1269,EARTH (SOIL),m u,182,syrjaenenuralic
+312717,komi1268,EARTH (SOIL),m u,182,syrjaenenuralic
+312718,ngan1291,EARTH (SOIL),m o u,182,syrjaenenuralic
+312719,selk1253,EARTH (SOIL),tʃ u ə̠ tʃ tʃ ə,183,syrjaenenuralic
+312720,udmu1245,EARTH (SOIL),m u,182,syrjaenenuralic
+312721,erzy1239,EAT,s e v e m s,184,syrjaenenuralic
+312722,erzy1239,EAT,j ɑ r s ɑ m s,189,syrjaenenuralic
+312723,ingr1248,EAT,s øː vː æ,185,syrjaenenuralic
+312724,komi1269,EAT,ɕ o j n ɯ,186,syrjaenenuralic
+312725,komi1268,EAT,ɕ o j n ɯ,186,syrjaenenuralic
+312726,ngan1291,EAT,ŋ ə m s ɑ,187,syrjaenenuralic
+312727,udmu1245,EAT,ɕ i ɯ n ɯ,186,syrjaenenuralic
+312728,selk1253,EAT,ɑ m,188,syrjaenenuralic
+312729,erzy1239,EGG,ɑ l,190,syrjaenenuralic
+312730,ingr1248,EGG,m u n ɑ,191,syrjaenenuralic
+312731,komi1269,EGG,k o ʎ tʲ,192,syrjaenenuralic
+312732,komi1268,EGG,k o ʎ k,192,syrjaenenuralic
+312733,ngan1291,EGG,m ə n u,191,syrjaenenuralic
+312734,selk1253,EGG,e ŋ,193,syrjaenenuralic
+312735,udmu1245,EGG,p u z,194,syrjaenenuralic
+312736,ngan1291,EYE,ɕ e j m ɯ,195,syrjaenenuralic
+312737,erzy1239,EYE,ɕ e ʎ m e,195,syrjaenenuralic
+312738,ingr1248,EYE,s i l m æ,195,syrjaenenuralic
+312739,komi1269,EYE,ɕ i n,196,syrjaenenuralic
+312740,komi1268,EYE,ɕ i n,196,syrjaenenuralic
+312741,selk1253,EYE,s ɑ j i,197,syrjaenenuralic
+312742,udmu1245,EYE,ɕ i n,196,syrjaenenuralic
+312743,ingr1248,FALL,t o k k u ɑ,199,syrjaenenuralic
+312744,udmu1245,FALL,u ɕ ɯ n ɯ,200,syrjaenenuralic
+312745,erzy1239,FALL,p r ɑ m s,198,syrjaenenuralic
+312746,komi1269,FALL,u ɕ n ɯ,200,syrjaenenuralic
+312747,komi1268,FALL,u ɕ n ɯ,200,syrjaenenuralic
+312748,ngan1291,FALL,tʃ ə l h dʲ i,201,syrjaenenuralic
+312749,ngan1291,FALL,s o h ə dʲ ɑ,203,syrjaenenuralic
+312750,selk1253,FALL,ɑː l tɕ ə,202,syrjaenenuralic
+312751,ingr1248,FAR,e t t æː l,205,syrjaenenuralic
+312752,komi1268,FAR,ɯ l ɯ n,206,syrjaenenuralic
+312753,erzy1239,FAR,v ɑ s o l o,204,syrjaenenuralic
+312754,komi1269,FAR,ɯ l ɯ n,206,syrjaenenuralic
+312755,ngan1291,FAR,k u n t ə ɡ u n u,207,syrjaenenuralic
+312756,selk1253,FAR,k u n t ɑ k,208,syrjaenenuralic
+312757,udmu1245,FAR,k ɯ dʲ o k ɯ n,207,syrjaenenuralic
+312758,ingr1248,FATHER,æ t t i,210,syrjaenenuralic
+312759,erzy1239,FATHER,tʲ e tʲ ɑ,209,syrjaenenuralic
+312760,komi1269,FATHER,ɑ j,212,syrjaenenuralic
+312761,komi1268,FATHER,b ɑ tʲ,211,syrjaenenuralic
+312762,komi1268,FATHER,ɑ j,212,syrjaenenuralic
+312763,ngan1291,FATHER,dʲ e s ɯ,213,syrjaenenuralic
+312764,selk1253,FATHER,ɤ s ə,213,syrjaenenuralic
+312765,udmu1245,FATHER,ɑ j ɯ,212,syrjaenenuralic
+312766,udmu1245,FATHER,b u b ɯ,214,syrjaenenuralic
+312767,erzy1239,FEAR (BE AFRAID),p e ʎ e m s,215,syrjaenenuralic
+312768,ingr1248,FEAR (BE AFRAID),p ø l æ d̥ æ,216,syrjaenenuralic
+312769,ingr1248,FEAR (BE AFRAID),h e r v i d̥ æ,221,syrjaenenuralic
+312770,komi1269,FEAR (BE AFRAID),p o v n ɯ,217,syrjaenenuralic
+312771,komi1268,FEAR (BE AFRAID),p o v n ɯ,217,syrjaenenuralic
+312772,ngan1291,FEAR (BE AFRAID),h ɯ l ɯ m s ɯ,218,syrjaenenuralic
+312773,selk1253,FEAR (BE AFRAID),e n ə,219,syrjaenenuralic
+312774,udmu1245,FEAR (BE AFRAID),k ɯ ʃ k ɑ n ɯ,220,syrjaenenuralic
+312775,udmu1245,FEAR (BE AFRAID),k u r d ɑ n ɯ,222,syrjaenenuralic
+312776,ingr1248,FEATHER,s u l ɡ̥ ɑ,223,syrjaenenuralic
+312777,ngan1291,FEATHER,t o t ə,226,syrjaenenuralic
+312778,erzy1239,FEATHER,t o l ɡ ɑ,223,syrjaenenuralic
+312779,ingr1248,FEATHER,h ø y h e n,229,syrjaenenuralic
+312780,komi1269,FEATHER,b o r d t ɯ v,225,syrjaenenuralic
+312781,komi1269,FEATHER,ɡ ɤ n,224,syrjaenenuralic
+312782,komi1268,FEATHER,ɡ ɤ n,224,syrjaenenuralic
+312783,selk1253,FEATHER,t uː,227,syrjaenenuralic
+312784,selk1253,FEATHER,t ɑ r,230,syrjaenenuralic
+312785,udmu1245,FEATHER,t ɯ l ɯ,228,syrjaenenuralic
+312786,erzy1239,FIGHT,t u rʲ e m s,231,syrjaenenuralic
+312787,komi1269,FIGHT,t ɯ ʃ k ɑ ɕ n ɯ,232,syrjaenenuralic
+312788,komi1268,FIGHT,k o ɕ ɑ ɕ n ɯ,232,syrjaenenuralic
+312789,ngan1291,FIGHT,t o r ɑ s ɑ,233,syrjaenenuralic
+312790,selk1253,FIGHT,q u ə̠ t u,234,syrjaenenuralic
+312791,udmu1245,FIGHT,ʒ u ɡ i ɕ k ɯ n ɯ,235,syrjaenenuralic
+312792,komi1268,FIGHT,t ɯ ʃ k ɑ ɕ n ɯ,232,syrjaenenuralic
+312793,ngan1291,FIGHT,k ə m ə u ʔ t ə s ɑ,236,syrjaenenuralic
+312794,erzy1239,FIRE,t o l,237,syrjaenenuralic
+312795,ingr1248,FIRE,t u l i,237,syrjaenenuralic
+312796,komi1269,FIRE,b i,238,syrjaenenuralic
+312797,ngan1291,FIRE,t u j,239,syrjaenenuralic
+312798,selk1253,FIRE,t yː,239,syrjaenenuralic
+312799,udmu1245,FIRE,t ɯ l,237,syrjaenenuralic
+312800,komi1268,FIRE,b i,238,syrjaenenuralic
+312801,erzy1239,FISH,k ɑ l,240,syrjaenenuralic
+312802,ingr1248,FISH,k ɑ l ɑ,240,syrjaenenuralic
+312803,komi1269,FISH,tɕ e r i,241,syrjaenenuralic
+312804,komi1268,FISH,tɕ e r i,241,syrjaenenuralic
+312805,ngan1291,FISH,k o l ɯ,240,syrjaenenuralic
+312806,selk1253,FISH,q u ə̠ l ə,240,syrjaenenuralic
+312807,udmu1245,FISH,tɕ o r ɯ ɡ,241,syrjaenenuralic
+312808,erzy1239,FIVE,v e tʲ e,242,syrjaenenuralic
+312809,ingr1248,FIVE,v iː z,242,syrjaenenuralic
+312810,komi1269,FIVE,v i t,242,syrjaenenuralic
+312811,komi1268,FIVE,v i t,242,syrjaenenuralic
+312812,ngan1291,FIVE,s ə ŋ h ə ʎ ɑ ŋ k ə,243,syrjaenenuralic
+312813,selk1253,FIVE,s o m p ə l ɑ ŋ q ə,243,syrjaenenuralic
+312814,udmu1245,FIVE,v i tʲ,242,syrjaenenuralic
+312815,erzy1239,FLOAT,u k ʃ n o m s,249,syrjaenenuralic
+312816,komi1269,FLOAT,u j j ɯ n ɯ,251,syrjaenenuralic
+312817,komi1268,FLOAT,ʃ l ɯ v ɡ ɯ n ɯ,250,syrjaenenuralic
+312818,ngan1291,FLOAT,dʲ ɑ m b i ɕ ɑ,252,syrjaenenuralic
+312819,ngan1291,FLOAT,k u dʲ u s ɑ,254,syrjaenenuralic
+312820,selk1253,FLOAT,q uː r ə,253,syrjaenenuralic
+312821,udmu1245,FLOAT,l e j k ɑ n ɯ,251,syrjaenenuralic
+312822,erzy1239,FLOW,tʃ u dʲ e m s,255,syrjaenenuralic
+312823,ingr1248,FLOW,v i r r ɑ d̥ ɑ,256,syrjaenenuralic
+312824,komi1269,FLOW,v i z ɯ v t n ɯ,257,syrjaenenuralic
+312825,komi1268,FLOW,v i z u v t n ɯ,257,syrjaenenuralic
+312826,ngan1291,FLOW,l u ɑ ʔ t u s ɑ,258,syrjaenenuralic
+312827,selk1253,FLOW,k ŋ,259,syrjaenenuralic
+312828,udmu1245,FLOW,v i j ɑ n ɯ,260,syrjaenenuralic
+312829,udmu1245,FLOW,b ɯ ʑ ɯ n ɯ,257,syrjaenenuralic
+312830,komi1269,FLOWER,dʑ o r i dʑ,263,syrjaenenuralic
+312831,erzy1239,FLOWER,tɕ e tɕ ɑ,261,syrjaenenuralic
+312832,erzy1239,FLOWER,ts v e t,263,syrjaenenuralic
+312833,ingr1248,FLOWER,k u k k ɑ,262,syrjaenenuralic
+312834,komi1268,FLOWER,dʑ o r i dʑ,263,syrjaenenuralic
+312835,ngan1291,FLOWER,l u k u ð i ɑ j,264,syrjaenenuralic
+312836,selk1253,FLOWER,s ɯ r k ə,265,syrjaenenuralic
+312837,udmu1245,FLOWER,ɕ ɑ ɕ k ɑ,266,syrjaenenuralic
+312838,komi1269,FLY (MOVE THROUGH AIR),l e b ɑ v n ɯ,269,syrjaenenuralic
+312839,erzy1239,FLY (MOVE THROUGH AIR),ʎ i v tʲ ɑ m s,267,syrjaenenuralic
+312840,ingr1248,FLY (MOVE THROUGH AIR),l e n t æː,268,syrjaenenuralic
+312841,komi1268,FLY (MOVE THROUGH AIR),l e b ɑ v n ɯ,269,syrjaenenuralic
+312842,ngan1291,FLY (MOVE THROUGH AIR),t ə i r ɕ i,270,syrjaenenuralic
+312843,selk1253,FLY (MOVE THROUGH AIR),t iː,271,syrjaenenuralic
+312844,udmu1245,FLY (MOVE THROUGH AIR),l o b ɯ n ɯ,269,syrjaenenuralic
+312845,ngan1291,FOG,k ə k u,275,syrjaenenuralic
+312846,erzy1239,FOG,s u v,272,syrjaenenuralic
+312847,erzy1239,FOG,t u m ɑ n,274,syrjaenenuralic
+312848,ingr1248,FOG,s u m u,272,syrjaenenuralic
+312849,ingr1248,FOG,u d̥ u,278,syrjaenenuralic
+312850,ingr1248,FOG,t o m ɑ k k ɑ,279,syrjaenenuralic
+312851,komi1269,FOG,t u m ɑ n,274,syrjaenenuralic
+312852,komi1268,FOG,r u,273,syrjaenenuralic
+312853,selk1253,FOG,tɕ ɑ p t u,276,syrjaenenuralic
+312854,udmu1245,FOG,b u s,277,syrjaenenuralic
+312855,ngan1291,FOOT,ŋ o j,283,syrjaenenuralic
+312856,erzy1239,FOOT,p i ʎ ɡ e,280,syrjaenenuralic
+312857,ingr1248,FOOT,j ɑ l ɡ̥ ɑ,281,syrjaenenuralic
+312858,komi1269,FOOT,k o k,282,syrjaenenuralic
+312859,komi1268,FOOT,k o k,282,syrjaenenuralic
+312860,selk1253,FOOT,t o p ə,284,syrjaenenuralic
+312861,udmu1245,FOOT,k u k,282,syrjaenenuralic
+312862,udmu1245,FOOT,p ɯ d,285,syrjaenenuralic
+312863,erzy1239,FOUR,ɲ i ʎ e,292,syrjaenenuralic
+312864,ingr1248,FOUR,n e l j æ,292,syrjaenenuralic
+312865,komi1269,FOUR,ɲ o ʎ,292,syrjaenenuralic
+312866,komi1268,FOUR,ɲ o ʎ,292,syrjaenenuralic
+312867,ngan1291,FOUR,tʃ ə t ə,293,syrjaenenuralic
+312868,selk1253,FOUR,t eː t t ə,293,syrjaenenuralic
+312869,udmu1245,FOUR,ɲ ɯ ʎ,292,syrjaenenuralic
+312870,erzy1239,FREEZE,t ɑ rʲ k s t ɑ m s,294,syrjaenenuralic
+312871,erzy1239,FREEZE,e j e n d ɑ m s,298,syrjaenenuralic
+312872,erzy1239,FREEZE,k e ʎ e m s,299,syrjaenenuralic
+312873,ingr1248,FREEZE,j æː t t y æ,295,syrjaenenuralic
+312874,komi1269,FREEZE,k ɯ n m ɯ n ɯ,296,syrjaenenuralic
+312875,komi1268,FREEZE,k ɯ n m ɯ n ɯ,296,syrjaenenuralic
+312876,ngan1291,FREEZE,k ə n t ɯ dʲ i,297,syrjaenenuralic
+312877,selk1253,FREEZE,q ɑ n t ə,297,syrjaenenuralic
+312878,udmu1245,FREEZE,k ɯ n m ɯ n ɯ,296,syrjaenenuralic
+312879,selk1253,FULL,t iː r ə ʎ,304,syrjaenenuralic
+312880,erzy1239,FULL,p e ʃ k ɕ e,300,syrjaenenuralic
+312881,ingr1248,FULL,t æ y z,301,syrjaenenuralic
+312882,komi1269,FULL,t ɯ r,302,syrjaenenuralic
+312883,komi1268,FULL,t ɯ r,302,syrjaenenuralic
+312884,ngan1291,FULL,dʲ u l s ɯ ə,303,syrjaenenuralic
+312885,ngan1291,FULL,m y n t y ɕ ɑ,305,syrjaenenuralic
+312886,udmu1245,FULL,t ɯ r,302,syrjaenenuralic
+312887,ingr1248,GIVE,ɑ n t ɑː,307,syrjaenenuralic
+312888,komi1269,GIVE,ɕ e t n ɯ,308,syrjaenenuralic
+312889,komi1268,GIVE,ɕ e t n ɯ,308,syrjaenenuralic
+312890,ngan1291,GIVE,m i ɕ i,309,syrjaenenuralic
+312891,selk1253,GIVE,m i,309,syrjaenenuralic
+312892,udmu1245,GIVE,ɕ o t ɯ n ɯ,308,syrjaenenuralic
+312893,erzy1239,GIVE,m ɑ k s o m s,306,syrjaenenuralic
+312894,erzy1239,GOOD,p ɑ r o,310,syrjaenenuralic
+312895,ingr1248,GOOD,h y v æ,311,syrjaenenuralic
+312896,komi1269,GOOD,b u r,310,syrjaenenuralic
+312897,komi1268,GOOD,b u r,310,syrjaenenuralic
+312898,komi1268,GOOD,ʃ ɑ ɲ,315,syrjaenenuralic
+312899,ngan1291,GOOD,ɲ ɑ ɡ əː,312,syrjaenenuralic
+312900,selk1253,GOOD,s o m ɑ,313,syrjaenenuralic
+312901,udmu1245,GOOD,u m o j,314,syrjaenenuralic
+312902,udmu1245,GOOD,dʑ e tɕ,316,syrjaenenuralic
+312903,erzy1239,GRASS,tʲ i k ʃ e,317,syrjaenenuralic
+312904,ingr1248,GRASS,r o h o,318,syrjaenenuralic
+312905,komi1269,GRASS,t u r u n,319,syrjaenenuralic
+312906,ngan1291,GRASS,ɲ o t ə,320,syrjaenenuralic
+312907,selk1253,GRASS,ɲ uː tʃ ə,320,syrjaenenuralic
+312908,udmu1245,GRASS,t u r ɯ n,319,syrjaenenuralic
+312909,komi1268,GRASS,t u r u n,319,syrjaenenuralic
+312910,erzy1239,GREEN,p i ʒ e,321,syrjaenenuralic
+312911,ingr1248,GREEN,r o h o i n,322,syrjaenenuralic
+312912,komi1269,GREEN,z e ʎ o n ɤ j,324,syrjaenenuralic
+312913,komi1268,GREEN,v e ʒ,323,syrjaenenuralic
+312914,ngan1291,GREEN,ɲ o t ə r ə k u,325,syrjaenenuralic
+312915,ngan1291,GREEN,ŋ i n d i ɑ ʔ s ɯ ə,327,syrjaenenuralic
+312916,selk1253,GREEN,n o r æ ʎ,326,syrjaenenuralic
+312917,udmu1245,GREEN,v o ʒ,323,syrjaenenuralic
+312918,komi1269,HAIR,j u r ɕ i,331,syrjaenenuralic
+312919,erzy1239,HAIR,tʃ e rʲ,328,syrjaenenuralic
+312920,erzy1239,HAIR,p o n ɑ,333,syrjaenenuralic
+312921,ingr1248,HAIR,h i u z,329,syrjaenenuralic
+312922,ingr1248,HAIR,k ɑ r v ɑ,334,syrjaenenuralic
+312923,komi1269,HAIR,ɡ ɤ n,335,syrjaenenuralic
+312924,komi1268,HAIR,ɕ i,330,syrjaenenuralic
+312925,komi1268,HAIR,ɡ ɤ n,335,syrjaenenuralic
+312926,ngan1291,HAIR,ŋ ɑ b t ə,332,syrjaenenuralic
+312927,selk1253,HAIR,oː p t ə,332,syrjaenenuralic
+312928,selk1253,HAIR,t ɑ r,328,syrjaenenuralic
+312929,udmu1245,HAIR,ɕ i,330,syrjaenenuralic
+312930,udmu1245,HAIR,ɡ o n,335,syrjaenenuralic
+312931,erzy1239,HAND,k e dʲ,336,syrjaenenuralic
+312932,ingr1248,HAND,k æ z i,336,syrjaenenuralic
+312933,komi1269,HAND,k i,337,syrjaenenuralic
+312934,komi1268,HAND,k i,337,syrjaenenuralic
+312935,ngan1291,HAND,dʲ y t y,338,syrjaenenuralic
+312936,selk1253,HAND,u t ə,338,syrjaenenuralic
+312937,udmu1245,HAND,k i,337,syrjaenenuralic
+312938,komi1269,HEAD,j u r,341,syrjaenenuralic
+312939,erzy1239,HEAD,p rʲ ɑ,339,syrjaenenuralic
+312940,ingr1248,HEAD,p æː,340,syrjaenenuralic
+312941,komi1268,HEAD,j u r,341,syrjaenenuralic
+312942,ngan1291,HEAD,ŋ o j b u,342,syrjaenenuralic
+312943,selk1253,HEAD,o l ə,343,syrjaenenuralic
+312944,udmu1245,HEAD,j ɯ r,341,syrjaenenuralic
+312945,ngan1291,HEAR,dʲ i n d i ɕ i,347,syrjaenenuralic
+312946,erzy1239,HEAR,k u ʎ e m s,344,syrjaenenuralic
+312947,erzy1239,HEAR,m ɑ rʲ ɑ m s,349,syrjaenenuralic
+312948,ingr1248,HEAR,k uː l l ɑ,345,syrjaenenuralic
+312949,komi1269,HEAR,k ɯ v n ɯ,346,syrjaenenuralic
+312950,komi1268,HEAR,k ɯ v n ɯ,346,syrjaenenuralic
+312951,selk1253,HEAR,y n t ə,348,syrjaenenuralic
+312952,udmu1245,HEAR,k ɯ l ɯ n ɯ,346,syrjaenenuralic
+312953,udmu1245,HEART,ɕ u l e m,352,syrjaenenuralic
+312954,erzy1239,HEART,ɕ e dʲ e j,350,syrjaenenuralic
+312955,ingr1248,HEART,s y æ n,351,syrjaenenuralic
+312956,komi1269,HEART,ɕ ɤ l ɤ m,352,syrjaenenuralic
+312957,komi1268,HEART,ɕ ɤ l ɤ m,352,syrjaenenuralic
+312958,ngan1291,HEART,s əː,353,syrjaenenuralic
+312959,selk1253,HEART,s iː tɕ ə,354,syrjaenenuralic
+312960,udmu1245,HEAVY,ɕ e k ɯ t,357,syrjaenenuralic
+312961,erzy1239,HEAVY,s t ɑ k ɑ,355,syrjaenenuralic
+312962,ingr1248,HEAVY,r ɑ s k ɑ z,356,syrjaenenuralic
+312963,ingr1248,HEAVY,r ɑ ŋ k k ɑ,360,syrjaenenuralic
+312964,komi1269,HEAVY,ɕ ɤ k ɯ t,357,syrjaenenuralic
+312965,komi1268,HEAVY,ɕ ɤ k ɯ d,357,syrjaenenuralic
+312966,ngan1291,HEAVY,s ə ŋ k u t u o,358,syrjaenenuralic
+312967,selk1253,HEAVY,s ɤ tʃ tʃ ə m,359,syrjaenenuralic
+312968,erzy1239,HERE,tʲ e s e,361,syrjaenenuralic
+312969,ingr1248,HERE,s iː n,362,syrjaenenuralic
+312970,komi1269,HERE,t ɑ t ɤ n,363,syrjaenenuralic
+312971,komi1269,HERE,e s t ɤ n,363,syrjaenenuralic
+312972,komi1268,HERE,t ɑ n,363,syrjaenenuralic
+312973,komi1268,HERE,e t ɑ n,363,syrjaenenuralic
+312974,ngan1291,HERE,ə m n ɯ,364,syrjaenenuralic
+312975,ngan1291,HERE,m i ʔ i ɑ,365,syrjaenenuralic
+312976,selk1253,HERE,t i n t ə,363,syrjaenenuralic
+312977,udmu1245,HERE,t ɑ t ɯ n,363,syrjaenenuralic
+312978,komi1269,HIT,v ɑ tɕ k ɯ n ɯ,368,syrjaenenuralic
+312979,komi1268,HIT,v ɑ tɕ k ɯ n ɯ,368,syrjaenenuralic
+312980,erzy1239,HIT,v ɑ tʃ k o dʲ e m s,366,syrjaenenuralic
+312981,erzy1239,HIT,rʲ i ʃ t ɑ m s,371,syrjaenenuralic
+312982,ingr1248,HIT,l øː v v æ,367,syrjaenenuralic
+312983,ingr1248,HIT,i s k i æ,372,syrjaenenuralic
+312984,ingr1248,HIT,l o h m ɑ d̥ ɑ,373,syrjaenenuralic
+312985,komi1268,HIT,k u tɕ k ɯ n ɯ,368,syrjaenenuralic
+312986,ngan1291,HIT,h o ɕ y dʲ i,369,syrjaenenuralic
+312987,selk1253,HIT,q æː t t ə,370,syrjaenenuralic
+312988,udmu1245,HIT,ʒ u ɡ ɯ n ɯ,368,syrjaenenuralic
+312989,udmu1245,HIT,ʃ u k k ɯ n ɯ,368,syrjaenenuralic
+312990,erzy1239,HORN (ANATOMY),ɕ u r o,374,syrjaenenuralic
+312991,ingr1248,HORN (ANATOMY),s ɑ r v i,375,syrjaenenuralic
+312992,komi1269,HORN (ANATOMY),ɕ u r,374,syrjaenenuralic
+312993,komi1268,HORN (ANATOMY),ɕ u r,374,syrjaenenuralic
+312994,ngan1291,HORN (ANATOMY),ŋ ɑ m t ə,376,syrjaenenuralic
+312995,selk1253,HORN (ANATOMY),ɑː m t ə,376,syrjaenenuralic
+312996,udmu1245,HORN (ANATOMY),ɕ u r,374,syrjaenenuralic
+312997,ingr1248,HUNT,j ɑ h t i,377,syrjaenenuralic
+312998,komi1269,HUNT,v ɤ r ɑ v n ɯ,378,syrjaenenuralic
+312999,komi1268,HUNT,v ɤ r ɑ v n ɯ,378,syrjaenenuralic
+313000,ngan1291,HUNT,b ɑ s u dʲ ɑ,379,syrjaenenuralic
+313001,ngan1291,HUNT,k o t ə dʲ ɑ,381,syrjaenenuralic
+313002,selk1253,HUNT,s uː r ə m ə j,380,syrjaenenuralic
+313003,udmu1245,HUNT,p ɤ j ʃ u r ɑ n ɯ,378,syrjaenenuralic
+313004,udmu1245,HUNT,ɲ u l e s k ɑ n ɯ,382,syrjaenenuralic
+313005,komi1269,HUSBAND,m u ʒ i k,386,syrjaenenuralic
+313006,komi1269,HUSBAND,ɑ j k ɑ,390,syrjaenenuralic
+313007,komi1269,HUSBAND,ʒ ɤ n i k,386,syrjaenenuralic
+313008,komi1268,HUSBAND,v e r ɤ s,385,syrjaenenuralic
+313009,ngan1291,HUSBAND,b ə b ə + tʃ ə r ə,387,syrjaenenuralic
+313010,ngan1291,HUSBAND,k u ə dʲ u m u,391,syrjaenenuralic
+313011,selk1253,HUSBAND,t i p i,388,syrjaenenuralic
+313012,udmu1245,HUSBAND,k ɑ r t,389,syrjaenenuralic
+313013,ingr1248,HUSBAND,m eː z,384,syrjaenenuralic
+313014,erzy1239,HUSBAND,m i rʲ dʲ e,383,syrjaenenuralic
+313015,erzy1239,ICE,e j,393,syrjaenenuralic
+313016,ingr1248,ICE,j æː,394,syrjaenenuralic
+313017,komi1269,ICE,j ɯ,394,syrjaenenuralic
+313018,komi1268,ICE,j ɯ,394,syrjaenenuralic
+313019,ngan1291,ICE,s ɯ r,395,syrjaenenuralic
+313020,selk1253,ICE,uː l q o,396,syrjaenenuralic
+313021,udmu1245,ICE,j ɤ,394,syrjaenenuralic
+313022,erzy1239,IF,b u tʲ i,397,syrjaenenuralic
+313023,ingr1248,IF,j o z,398,syrjaenenuralic
+313024,komi1269,IF,k ɤ,399,syrjaenenuralic
+313025,komi1268,IF,k ɤ,399,syrjaenenuralic
+313026,udmu1245,IF,k e,399,syrjaenenuralic
+313027,selk1253,IF,q ɑ t ɑ,400,syrjaenenuralic
+313028,erzy1239,KILL,m ɑ ʃ t o m s,401,syrjaenenuralic
+313029,erzy1239,KILL,tʃ ɑ v o m s,401,syrjaenenuralic
+313030,ingr1248,KILL,s u r m ɑ d̥ ɑ,402,syrjaenenuralic
+313031,ngan1291,KILL,k o t u dʲ ɑ,405,syrjaenenuralic
+313032,selk1253,KILL,q u ə̠ t,406,syrjaenenuralic
+313033,udmu1245,KILL,v i ɯ n ɯ,404,syrjaenenuralic
+313034,komi1269,KILL,v i j n ɯ,404,syrjaenenuralic
+313035,komi1268,KILL,k u l ɤ d n ɯ,403,syrjaenenuralic
+313036,komi1268,KILL,v i j n ɯ,404,syrjaenenuralic
+313037,erzy1239,KNEE,k u m ɑ ʒ ɑ,407,syrjaenenuralic
+313038,ingr1248,KNEE,p o l v i,408,syrjaenenuralic
+313039,komi1269,KNEE,p i dʑ ɤ s,409,syrjaenenuralic
+313040,komi1268,KNEE,p i dʑ ɤ s,409,syrjaenenuralic
+313041,selk1253,KNEE,p uː l ə,411,syrjaenenuralic
+313042,udmu1245,KNEE,p ɯ dʲ e s,409,syrjaenenuralic
+313043,ngan1291,KNEE,h ə ɑ ɡ ɑ j,410,syrjaenenuralic
+313044,erzy1239,KNOW,s o d ɑ m s,412,syrjaenenuralic
+313045,ingr1248,KNOW,t iː t æː,413,syrjaenenuralic
+313046,komi1269,KNOW,t ɤ d n ɯ,413,syrjaenenuralic
+313047,komi1268,KNOW,t ɤ d n ɯ,413,syrjaenenuralic
+313048,komi1268,KNOW,k u ʒ n ɯ,415,syrjaenenuralic
+313049,ngan1291,KNOW,tʃ ə n ɯ dʲ i,413,syrjaenenuralic
+313050,selk1253,KNOW,t e n ə m ə,414,syrjaenenuralic
+313051,udmu1245,KNOW,t o d ɯ n ɯ,413,syrjaenenuralic
+313052,erzy1239,LAKE,e rʲ k e,416,syrjaenenuralic
+313053,ingr1248,LAKE,j æ r v i,417,syrjaenenuralic
+313054,komi1269,LAKE,t ɯ,418,syrjaenenuralic
+313055,komi1268,LAKE,t ɯ,418,syrjaenenuralic
+313056,ngan1291,LAKE,t u r k u,419,syrjaenenuralic
+313057,selk1253,LAKE,t oː,418,syrjaenenuralic
+313058,udmu1245,LAKE,t ɯ,418,syrjaenenuralic
+313059,erzy1239,LAUGH,p e j dʲ e m s,420,syrjaenenuralic
+313060,erzy1239,LAUGH,r ɑ k ɑ m s,425,syrjaenenuralic
+313061,ingr1248,LAUGH,n ɑ ɡ r ɑː,421,syrjaenenuralic
+313062,komi1269,LAUGH,s e r ɑ v n ɯ,422,syrjaenenuralic
+313063,komi1268,LAUGH,ɕ e r ɑ v n ɯ,422,syrjaenenuralic
+313064,ngan1291,LAUGH,h i dʲ i ɕ i,423,syrjaenenuralic
+313065,selk1253,LAUGH,p i s ə j,424,syrjaenenuralic
+313066,udmu1245,LAUGH,ɕ e r e k j ɑ n ɯ,422,syrjaenenuralic
+313067,erzy1239,LEAF,l o p ɑ,426,syrjaenenuralic
+313068,ingr1248,LEAF,l e h t i,427,syrjaenenuralic
+313069,komi1269,LEAF,k o r,428,syrjaenenuralic
+313070,komi1268,LEAF,ʎ i s,427,syrjaenenuralic
+313071,komi1268,LEAF,k o r,428,syrjaenenuralic
+313072,ngan1291,LEAF,h o r ɑ ð i ɑ j,429,syrjaenenuralic
+313073,selk1253,LEAF,tɕ ɑː p ə,430,syrjaenenuralic
+313074,udmu1245,LEAF,k u ɑ r,428,syrjaenenuralic
+313075,ingr1248,LEG,j ɑ l ɡ̥ ɑ,432,syrjaenenuralic
+313076,komi1269,LEG,k o k,433,syrjaenenuralic
+313077,komi1268,LEG,k o k,433,syrjaenenuralic
+313078,ngan1291,LEG,ŋ o j,434,syrjaenenuralic
+313079,selk1253,LEG,t o p ə,435,syrjaenenuralic
+313080,udmu1245,LEG,k u k,433,syrjaenenuralic
+313081,udmu1245,LEG,p ɯ d,436,syrjaenenuralic
+313082,erzy1239,LEG,p i ʎ ɡ e,431,syrjaenenuralic
+313083,erzy1239,LIE DOWN,m ɑ dʲ e ʑ + ɑ ʃ tʲ e m s,437,syrjaenenuralic
+313084,komi1269,LIE DOWN,k u j l ɯ n ɯ,438,syrjaenenuralic
+313085,komi1268,LIE DOWN,k u j l ɯ n ɯ,438,syrjaenenuralic
+313086,ngan1291,LIE DOWN,t o ɲ dʲ i ɑ j tʃ i s ɯ,439,syrjaenenuralic
+313087,selk1253,LIE DOWN,i p p i,440,syrjaenenuralic
+313088,udmu1245,LIE DOWN,k ɯ ʎ ʎ ɯ n ɯ,438,syrjaenenuralic
+313089,erzy1239,BE ALIVE,e rʲ ɑ m s,36,syrjaenenuralic
+313090,ingr1248,BE ALIVE,e lː æː,37,syrjaenenuralic
+313091,komi1269,BE ALIVE,o v n ɯ,38,syrjaenenuralic
+313092,komi1268,BE ALIVE,o v n ɯ,38,syrjaenenuralic
+313093,ngan1291,BE ALIVE,ɲ i l ɯ dʲ i,37,syrjaenenuralic
+313094,selk1253,BE ALIVE,i l ə,37,syrjaenenuralic
+313095,udmu1245,BE ALIVE,u l ɯ n ɯ,38,syrjaenenuralic
+313096,erzy1239,LIVER,m ɑ k s o,441,syrjaenenuralic
+313097,ingr1248,LIVER,m ɑ k s ɑ,441,syrjaenenuralic
+313098,komi1268,LIVER,m u s,442,syrjaenenuralic
+313099,ngan1291,LIVER,m i t ə,443,syrjaenenuralic
+313100,selk1253,LIVER,m ɯː t ə,443,syrjaenenuralic
+313101,udmu1245,LIVER,m u s,442,syrjaenenuralic
+313102,komi1269,LIVER,m u s,442,syrjaenenuralic
+313103,erzy1239,LONG,k u v ɑ k ɑ,444,syrjaenenuralic
+313104,ingr1248,LONG,p i t k i,445,syrjaenenuralic
+313105,komi1269,LONG,k u ʑ,446,syrjaenenuralic
+313106,ngan1291,LONG,k u n t ɡ u,447,syrjaenenuralic
+313107,selk1253,LONG,tɕ u m p u,448,syrjaenenuralic
+313108,udmu1245,LONG,k u ʑ,446,syrjaenenuralic
+313109,komi1268,LONG,k u ʑ,446,syrjaenenuralic
+313110,erzy1239,LOUSE,e ʎ i,449,syrjaenenuralic
+313111,ingr1248,LOUSE,t æ i,450,syrjaenenuralic
+313112,komi1269,LOUSE,t o j,451,syrjaenenuralic
+313113,komi1268,LOUSE,t o j,451,syrjaenenuralic
+313114,udmu1245,LOUSE,t e j,451,syrjaenenuralic
+313115,selk1253,LOUSE,u n tʃ u,452,syrjaenenuralic
+313116,erzy1239,MANY,l ɑ m o,453,syrjaenenuralic
+313117,ingr1248,MANY,m o n i,454,syrjaenenuralic
+313118,komi1269,MANY,u n ɑ,455,syrjaenenuralic
+313119,komi1268,MANY,u n ɑ,455,syrjaenenuralic
+313120,ngan1291,MANY,ŋ u ŋ k ə ɡ ə,456,syrjaenenuralic
+313121,selk1253,MANY,k o tɕ tɕ ə,457,syrjaenenuralic
+313122,udmu1245,MANY,t r o s,458,syrjaenenuralic
+313123,erzy1239,FLESH OR MEAT,s i v e ʎ,244,syrjaenenuralic
+313124,ingr1248,FLESH OR MEAT,l i h ɑ,245,syrjaenenuralic
+313125,komi1269,FLESH OR MEAT,j ɑ i,246,syrjaenenuralic
+313126,komi1268,FLESH OR MEAT,j ɑ i,246,syrjaenenuralic
+313127,ngan1291,FLESH OR MEAT,ɕ ɑ h ɯ,247,syrjaenenuralic
+313128,selk1253,FLESH OR MEAT,u ə̠ tɕ ə,248,syrjaenenuralic
+313129,udmu1245,FLESH OR MEAT,s i ʎ,244,syrjaenenuralic
+313130,erzy1239,MOON,k o v,459,syrjaenenuralic
+313131,ingr1248,MOON,k uː,460,syrjaenenuralic
+313132,komi1269,MOON,t ɤ l i ɕ,461,syrjaenenuralic
+313133,komi1268,MOON,t ɤ l ɯ ɕ,461,syrjaenenuralic
+313134,ngan1291,MOON,k i tʃ ə ð əː,462,syrjaenenuralic
+313135,selk1253,MOON,i r æ,463,syrjaenenuralic
+313136,udmu1245,MOON,t o l e ʑ,461,syrjaenenuralic
+313137,erzy1239,MOTHER,ɑ v ɑ,464,syrjaenenuralic
+313138,ingr1248,MOTHER,e m æ,465,syrjaenenuralic
+313139,ingr1248,MOTHER,m ɑː m ɑ,466,syrjaenenuralic
+313140,komi1269,MOTHER,m ɑ m,466,syrjaenenuralic
+313141,komi1268,MOTHER,m ɑ m,466,syrjaenenuralic
+313142,ngan1291,MOTHER,ɲ e m ɯ,465,syrjaenenuralic
+313143,selk1253,MOTHER,ɤ m ə,465,syrjaenenuralic
+313144,udmu1245,MOTHER,m u m ɯ,466,syrjaenenuralic
+313145,udmu1245,MOTHER,ɑ n ɑ i,467,syrjaenenuralic
+313146,komi1269,MOUNTAIN,k e r ɤ s,470,syrjaenenuralic
+313147,komi1268,MOUNTAIN,tɕ o j,469,syrjaenenuralic
+313148,ngan1291,MOUNTAIN,b ə r u,471,syrjaenenuralic
+313149,udmu1245,MOUNTAIN,ɡ u r e ʑ,470,syrjaenenuralic
+313150,erzy1239,MOUNTAIN,p ɑ n d o,468,syrjaenenuralic
+313151,selk1253,MOUNTAIN,q ɤː,472,syrjaenenuralic
+313152,erzy1239,MOUTH,k u r ɡ o,473,syrjaenenuralic
+313153,komi1269,MOUTH,ɤ m,475,syrjaenenuralic
+313154,komi1268,MOUTH,v o m,475,syrjaenenuralic
+313155,ngan1291,MOUTH,ŋ ɑ ŋ,476,syrjaenenuralic
+313156,selk1253,MOUTH,ɑː ŋ,476,syrjaenenuralic
+313157,udmu1245,MOUTH,ɯ m,475,syrjaenenuralic
+313158,ingr1248,MOUTH,s uː,474,syrjaenenuralic
+313159,selk1253,NAME,n i m,478,syrjaenenuralic
+313160,erzy1239,NAME,ʎ e m,477,syrjaenenuralic
+313161,ingr1248,NAME,n i m i,478,syrjaenenuralic
+313162,komi1269,NAME,ɲ i m,478,syrjaenenuralic
+313163,komi1268,NAME,ɲ i m,478,syrjaenenuralic
+313164,ngan1291,NAME,ɲ i m,478,syrjaenenuralic
+313165,udmu1245,NAME,ɲ i m,478,syrjaenenuralic
+313166,erzy1239,NARROW,tʲ e j i ɲ e,479,syrjaenenuralic
+313167,komi1269,NARROW,dʑ e s k ɯ t,482,syrjaenenuralic
+313168,komi1268,NARROW,v e k ɲ i,481,syrjaenenuralic
+313169,komi1268,NARROW,o t t ɤ m,486,syrjaenenuralic
+313170,ngan1291,NARROW,ɕ i k y ə,483,syrjaenenuralic
+313171,selk1253,NARROW,tɕ u ə̠ s ə,484,syrjaenenuralic
+313172,udmu1245,NARROW,ɕ u b e ɡ,485,syrjaenenuralic
+313173,ingr1248,NARROW,k ɑ i d̥ ɑ,480,syrjaenenuralic
+313174,ngan1291,NARROW,ɲ e u,487,syrjaenenuralic
+313175,erzy1239,NEAR,m ɑ l ɑ s o,488,syrjaenenuralic
+313176,ingr1248,NEAR,l i ɡ̥ i,489,syrjaenenuralic
+313177,komi1269,NEAR,m ɑ t ɯ n,490,syrjaenenuralic
+313178,komi1268,NEAR,m ɑ t ɯ n,490,syrjaenenuralic
+313179,ngan1291,NEAR,k ɑ dʲ ɑ,491,syrjaenenuralic
+313180,ngan1291,NEAR,n o ɡ ɑ ʔ ʎ u k y,493,syrjaenenuralic
+313181,selk1253,NEAR,tʃ ɑ tʃ æ,492,syrjaenenuralic
+313182,udmu1245,NEAR,m ɑ t ɯ n,490,syrjaenenuralic
+313183,selk1253,NECK,s oː ʎ,498,syrjaenenuralic
+313184,erzy1239,NECK,k i rʲ ɡ ɑ,494,syrjaenenuralic
+313185,ingr1248,NECK,k ɑ ɡ̥ l ɑ,495,syrjaenenuralic
+313186,komi1269,NECK,ɡ o ʎ ɑ,495,syrjaenenuralic
+313187,komi1268,NECK,ɕ i l ɯ,496,syrjaenenuralic
+313188,komi1268,NECK,ɡ o ʎ ɑ,495,syrjaenenuralic
+313189,ngan1291,NECK,b ɑ k ə ð ə,497,syrjaenenuralic
+313190,udmu1245,NECK,tɕ ɯ r t ɯ,499,syrjaenenuralic
+313191,erzy1239,NEW,o d,500,syrjaenenuralic
+313192,ingr1248,NEW,uː z,501,syrjaenenuralic
+313193,komi1269,NEW,v i ʎ,502,syrjaenenuralic
+313194,komi1268,NEW,v ɯ ʎ,502,syrjaenenuralic
+313195,ngan1291,NEW,m e ɲ dʲ ɑ dʲ e,503,syrjaenenuralic
+313196,udmu1245,NEW,v ɯ ʎ,502,syrjaenenuralic
+313197,selk1253,NEW,ɕ e n t ə,504,syrjaenenuralic
+313198,erzy1239,NIGHT,v e,505,syrjaenenuralic
+313199,ingr1248,NIGHT,øː,506,syrjaenenuralic
+313200,komi1269,NIGHT,o j,507,syrjaenenuralic
+313201,komi1268,NIGHT,v o j,507,syrjaenenuralic
+313202,ngan1291,NIGHT,h iː,508,syrjaenenuralic
+313203,selk1253,NIGHT,p i,509,syrjaenenuralic
+313204,udmu1245,NIGHT,u j,507,syrjaenenuralic
+313205,erzy1239,NOSE,s u d o,510,syrjaenenuralic
+313206,ingr1248,NOSE,n e n æ,511,syrjaenenuralic
+313207,ngan1291,NOSE,ŋ y ŋ k ə,513,syrjaenenuralic
+313208,selk1253,NOSE,p u tɕ ə,514,syrjaenenuralic
+313209,udmu1245,NOSE,n ɯ r,512,syrjaenenuralic
+313210,komi1269,NOSE,n ɯ r,512,syrjaenenuralic
+313211,komi1268,NOSE,n ɯ r,512,syrjaenenuralic
+313212,erzy1239,NOT,ɑ,515,syrjaenenuralic
+313213,ingr1248,NOT,e i,516,syrjaenenuralic
+313214,komi1269,NOT,ɑ b u,518,syrjaenenuralic
+313215,komi1268,NOT,o z,517,syrjaenenuralic
+313216,ngan1291,NOT,ɲ i s ɯ,519,syrjaenenuralic
+313217,selk1253,NOT,ɑ ɕ ɑ,520,syrjaenenuralic
+313218,udmu1245,NOT,u z,517,syrjaenenuralic
+313219,komi1269,NOT,ɲ e,521,syrjaenenuralic
+313220,erzy1239,ONE,v e j k e,522,syrjaenenuralic
+313221,ingr1248,ONE,y k s,523,syrjaenenuralic
+313222,komi1269,ONE,ɤ tʲ i k,524,syrjaenenuralic
+313223,komi1268,ONE,ɤ tʲ i,524,syrjaenenuralic
+313224,ngan1291,ONE,ŋ u ʔ ə i ʔ,525,syrjaenenuralic
+313225,selk1253,ONE,o k k ə r,526,syrjaenenuralic
+313226,udmu1245,ONE,o d i ɡ,524,syrjaenenuralic
+313227,erzy1239,OTHER,o m b o,527,syrjaenenuralic
+313228,erzy1239,OTHER,ʎ i j ɑ,532,syrjaenenuralic
+313229,ingr1248,OTHER,t o i n,528,syrjaenenuralic
+313230,komi1269,OTHER,m ɤ d,529,syrjaenenuralic
+313231,komi1268,OTHER,m ɤ d,529,syrjaenenuralic
+313232,ngan1291,OTHER,h u n s əː,530,syrjaenenuralic
+313233,ngan1291,OTHER,ŋ ɑ m i ɑ j,533,syrjaenenuralic
+313234,selk1253,OTHER,ɑː m ə,531,syrjaenenuralic
+313235,udmu1245,OTHER,m u k e t,529,syrjaenenuralic
+313236,erzy1239,PERSON,l o m ɑ ɲ,534,syrjaenenuralic
+313237,ingr1248,PERSON,i h m iː n,535,syrjaenenuralic
+313238,ingr1248,PERSON,h e n k i,540,syrjaenenuralic
+313239,ingr1248,PERSON,e lː æː j æ,541,syrjaenenuralic
+313240,komi1269,PERSON,m o r t,536,syrjaenenuralic
+313241,komi1268,PERSON,m o r t,536,syrjaenenuralic
+313242,ngan1291,PERSON,ŋ ɑ n ɑ ʔ s ɑ,537,syrjaenenuralic
+313243,selk1253,PERSON,q u m,538,syrjaenenuralic
+313244,udmu1245,PERSON,ɑ dʲ ɑ m i,539,syrjaenenuralic
+313245,udmu1245,PERSON,m u r t,536,syrjaenenuralic
+313246,ngan1291,PLAY,s ɑ n i r ɕ ɑ,545,syrjaenenuralic
+313247,erzy1239,PLAY,n ɑ l k ɕ e m s,542,syrjaenenuralic
+313248,ingr1248,PLAY,p e l ɑ d̥ ɑ,543,syrjaenenuralic
+313249,ingr1248,PLAY,t i u k k ɑː,547,syrjaenenuralic
+313250,komi1269,PLAY,o r s n ɯ,544,syrjaenenuralic
+313251,komi1268,PLAY,v o r s n ɯ,544,syrjaenenuralic
+313252,selk1253,PLAY,s ɑː n t ə r,545,syrjaenenuralic
+313253,udmu1245,PLAY,ʃ u d ɯ n ɯ,546,syrjaenenuralic
+313254,ingr1248,PULL,t e m m ɑ d̥ ɑ,549,syrjaenenuralic
+313255,erzy1239,PULL,u s k o m s,548,syrjaenenuralic
+313256,ingr1248,PULL,v e tː æː,553,syrjaenenuralic
+313257,ingr1248,PULL,t ɑ s s i ɑ,554,syrjaenenuralic
+313258,komi1269,PULL,k ɯ s k ɯ n ɯ,550,syrjaenenuralic
+313259,ngan1291,PULL,ɲ ɑ ɡ ə b t ɯ s ɯ,551,syrjaenenuralic
+313260,selk1253,PULL,yː,552,syrjaenenuralic
+313261,udmu1245,PULL,k ɯ s k ɯ n ɯ,550,syrjaenenuralic
+313262,komi1268,PULL,k ɯ s k ɯ n ɯ,550,syrjaenenuralic
+313263,komi1269,PUSH,t o j l ɑ v n ɯ,557,syrjaenenuralic
+313264,komi1268,PUSH,t o j n ɯ,557,syrjaenenuralic
+313265,erzy1239,PUSH,t u l k ɑ dʲ e m s,555,syrjaenenuralic
+313266,ingr1248,PUSH,l y ɡ̥ æ d̥ æ,556,syrjaenenuralic
+313267,ingr1248,PUSH,t o u ɡ̥ ɑ d̥ ɑ,561,syrjaenenuralic
+313268,ngan1291,PUSH,n o m ə dʲ ɑ,558,syrjaenenuralic
+313269,selk1253,PUSH,n o q q o,559,syrjaenenuralic
+313270,udmu1245,PUSH,d o n ɡ ɯ n ɯ,560,syrjaenenuralic
+313271,erzy1239,RAINING OR RAIN,p i ʑ e m s,562,syrjaenenuralic
+313272,ingr1248,RAINING OR RAIN,s ɑ e,563,syrjaenenuralic
+313273,ingr1248,RAINING OR RAIN,v i h m ɑ,567,syrjaenenuralic
+313274,komi1269,RAINING OR RAIN,z e r,564,syrjaenenuralic
+313275,komi1268,RAINING OR RAIN,z e r,564,syrjaenenuralic
+313276,ngan1291,RAINING OR RAIN,s o r u ɑ,565,syrjaenenuralic
+313277,selk1253,RAINING OR RAIN,s o r ə n tʃ æ,566,syrjaenenuralic
+313278,udmu1245,RAINING OR RAIN,z o r,564,syrjaenenuralic
+313279,erzy1239,RED,j ɑ k s tʲ e rʲ e,568,syrjaenenuralic
+313280,ingr1248,RED,p u nː ɑ i n,569,syrjaenenuralic
+313281,komi1268,RED,ɡ ɤ r d,570,syrjaenenuralic
+313282,ngan1291,RED,dʲ ɑ b ɑ k u o,571,syrjaenenuralic
+313283,selk1253,RED,ɲ ɑː r q ə,572,syrjaenenuralic
+313284,udmu1245,RED,ɡ o r d,570,syrjaenenuralic
+313285,komi1269,RED,ɡ ɤ r d,570,syrjaenenuralic
+313286,erzy1239,RIVER,ʎ e j,573,syrjaenenuralic
+313287,ingr1248,RIVER,j o ɡ̥ i,574,syrjaenenuralic
+313288,komi1269,RIVER,j u,574,syrjaenenuralic
+313289,komi1268,RIVER,j u,574,syrjaenenuralic
+313290,ngan1291,RIVER,ɲ e m ɯ ʔ ɯ ɑ,575,syrjaenenuralic
+313291,ngan1291,RIVER,b i ɡ ɑ j,578,syrjaenenuralic
+313292,selk1253,RIVER,k ɯ,576,syrjaenenuralic
+313293,selk1253,RIVER,q o l ə t t u,579,syrjaenenuralic
+313294,udmu1245,RIVER,ʃ u r,577,syrjaenenuralic
+313295,erzy1239,ROAD,k i,580,syrjaenenuralic
+313296,ingr1248,ROAD,t eː,581,syrjaenenuralic
+313297,komi1269,ROAD,t u j,582,syrjaenenuralic
+313298,komi1268,ROAD,t u j,582,syrjaenenuralic
+313299,ngan1291,ROAD,ŋ u t ɑ,583,syrjaenenuralic
+313300,ngan1291,ROAD,s ə r əː,585,syrjaenenuralic
+313301,selk1253,ROAD,u ə̠ t t ə,584,syrjaenenuralic
+313302,udmu1245,ROAD,ɕ u r e s,585,syrjaenenuralic
+313303,erzy1239,ROOT,j u r,586,syrjaenenuralic
+313304,ingr1248,ROOT,j uː r i,586,syrjaenenuralic
+313305,komi1269,ROOT,v u ʒ,587,syrjaenenuralic
+313306,komi1268,ROOT,v u ʒ,587,syrjaenenuralic
+313307,ngan1291,ROOT,b ə n t u,588,syrjaenenuralic
+313308,selk1253,ROOT,k o n tʃ ə,589,syrjaenenuralic
+313309,udmu1245,ROOT,v ɯ ʒ ɯ,587,syrjaenenuralic
+313310,erzy1239,ROOT,u n d o k s,590,syrjaenenuralic
+313311,erzy1239,ROOT,k o rʲ o n,591,syrjaenenuralic
+313312,ingr1248,ROPE,k ø y z,593,syrjaenenuralic
+313313,komi1269,ROPE,ɡ e z,593,syrjaenenuralic
+313314,komi1268,ROPE,ɡ e z,593,syrjaenenuralic
+313315,ngan1291,ROPE,b ɯ n ɯ,594,syrjaenenuralic
+313316,selk1253,ROPE,tʃ eː m tʃ ə,595,syrjaenenuralic
+313317,erzy1239,ROPE,p i k s,592,syrjaenenuralic
+313318,udmu1245,ROPE,ɡ o z ɯ,593,syrjaenenuralic
+313319,erzy1239,ROUND,k r u ɡ l o j,596,syrjaenenuralic
+313320,erzy1239,ROUND,k e v e rʲ,601,syrjaenenuralic
+313321,ingr1248,ROUND,y m b̥ æ r ɡ̥ æ i n,597,syrjaenenuralic
+313322,komi1269,ROUND,ɡ ɤ ɡ r ɤ s ɑ,598,syrjaenenuralic
+313323,komi1268,ROUND,ɡ ɤ ɡ r ɤ s,598,syrjaenenuralic
+313324,ngan1291,ROUND,l ɑ l u j k u ə,599,syrjaenenuralic
+313325,ngan1291,ROUND,m ɑ n d ɑ j k u,603,syrjaenenuralic
+313326,selk1253,ROUND,p y r ə ʎ,600,syrjaenenuralic
+313327,selk1253,ROUND,k o ʎ ɑ ʎ,604,syrjaenenuralic
+313328,udmu1245,ROUND,k o t ɯ r e s,598,syrjaenenuralic
+313329,udmu1245,ROUND,p i t ɯ r e s,598,syrjaenenuralic
+313330,ingr1248,ROUND,p øː r i æ,602,syrjaenenuralic
+313331,erzy1239,RUB,tʃ o v ɑ m s,605,syrjaenenuralic
+313332,erzy1239,RUB,j o z ɑ m s,610,syrjaenenuralic
+313333,ingr1248,RUB,i h m ɑ d̥ ɑ,606,syrjaenenuralic
+313334,komi1269,RUB,z ɯ r t n ɯ,607,syrjaenenuralic
+313335,komi1269,RUB,tʲ o r i t n ɯ,607,syrjaenenuralic
+313336,komi1268,RUB,z ɯ r ɑ v n ɯ,607,syrjaenenuralic
+313337,komi1268,RUB,ɲ i r ɑ v n ɯ,607,syrjaenenuralic
+313338,ngan1291,RUB,ɲ ɑ k i dʲ ɑ,608,syrjaenenuralic
+313339,selk1253,RUB,p yː q ə l tʃ ə k k u,609,syrjaenenuralic
+313340,udmu1245,RUB,z ɯ r ɑ n ɯ,607,syrjaenenuralic
+313341,udmu1245,RUB,p o s ɯ n ɯ,612,syrjaenenuralic
+313342,ingr1248,RUB,h eː r o j ɑ,611,syrjaenenuralic
+313343,komi1269,RUB,ɲ i r t n ɯ,607,syrjaenenuralic
+313344,erzy1239,SALT,s ɑ l,613,syrjaenenuralic
+313345,ingr1248,SALT,s oː l ɑ,613,syrjaenenuralic
+313346,komi1269,SALT,s o v,613,syrjaenenuralic
+313347,komi1268,SALT,s o v,613,syrjaenenuralic
+313348,ngan1291,SALT,s ɯ r,613,syrjaenenuralic
+313349,selk1253,SALT,ɕ ɑː q,613,syrjaenenuralic
+313350,udmu1245,SALT,s ɯ l ɑ l,613,syrjaenenuralic
+313351,komi1268,SAND,l ɯ ɑ,616,syrjaenenuralic
+313352,erzy1239,SAND,p e s o k,614,syrjaenenuralic
+313353,ingr1248,SAND,l iː v ɑ,615,syrjaenenuralic
+313354,komi1269,SAND,p e s ɤ k,617,syrjaenenuralic
+313355,ngan1291,SAND,dʲ uː,618,syrjaenenuralic
+313356,selk1253,SAND,k oː r ɑ,619,syrjaenenuralic
+313357,udmu1245,SAND,l u o,620,syrjaenenuralic
+313358,erzy1239,SAY,j o v t ɑ m s,621,syrjaenenuralic
+313359,erzy1239,SAY,m e rʲ e m s,626,syrjaenenuralic
+313360,ingr1248,SAY,s ɑ nː oː ɑ,622,syrjaenenuralic
+313361,ingr1248,SAY,v e r k k ɑː,627,syrjaenenuralic
+313362,komi1269,SAY,v i ɕ t ɑ v n ɯ,623,syrjaenenuralic
+313363,komi1269,SAY,ʃ u n ɯ,622,syrjaenenuralic
+313364,komi1268,SAY,v i ɕ t ɑ v n ɯ,623,syrjaenenuralic
+313365,komi1268,SAY,ʃ u n ɯ,622,syrjaenenuralic
+313366,ngan1291,SAY,m u n s ɑ,624,syrjaenenuralic
+313367,selk1253,SAY,k ɤ t,625,syrjaenenuralic
+313368,udmu1245,SAY,ʃ u ɯ n ɯ,622,syrjaenenuralic
+313369,udmu1245,SAY,v e r ɑ n ɯ,628,syrjaenenuralic
+313370,erzy1239,SEE,ɲ e j e m s,629,syrjaenenuralic
+313371,ingr1248,SEE,n æ h h æ,630,syrjaenenuralic
+313372,komi1269,SEE,ɑ dʑ dʑ ɯ n ɯ,631,syrjaenenuralic
+313373,komi1269,SEE,v i dʑ ɤ t n ɯ,634,syrjaenenuralic
+313374,komi1268,SEE,ɑ dʑ dʑ ɯ n ɯ,631,syrjaenenuralic
+313375,ngan1291,SEE,ŋ ə ð y ɕ ɑ,632,syrjaenenuralic
+313376,ngan1291,SEE,ɕ e j m ɯ ʔ s ɯ,635,syrjaenenuralic
+313377,selk1253,SEE,m ɑ n tʃ ə,633,syrjaenenuralic
+313378,udmu1245,SEE,ɑ dʑ dʑ ɯ n ɯ,631,syrjaenenuralic
+313379,erzy1239,SEED,v i dʲ m e,636,syrjaenenuralic
+313380,ingr1248,SEED,s eː m e n,637,syrjaenenuralic
+313381,komi1269,SEED,t u ɕ,638,syrjaenenuralic
+313382,komi1269,SEED,k ɤ dʑ ɯ s,638,syrjaenenuralic
+313383,komi1268,SEED,t u ɕ,638,syrjaenenuralic
+313384,komi1268,SEED,k ɤ i d ɯ s,638,syrjaenenuralic
+313385,selk1253,SEED,m u m m o l,639,syrjaenenuralic
+313386,udmu1245,SEED,t ɯ ɕ,638,syrjaenenuralic
+313387,udmu1245,SEED,k i d ɯ s,638,syrjaenenuralic
+313388,erzy1239,SEW,s t ɑ m s,640,syrjaenenuralic
+313389,ingr1248,SEW,o m m e l l ɑ,641,syrjaenenuralic
+313390,komi1269,SEW,v u r n ɯ,642,syrjaenenuralic
+313391,komi1268,SEW,v u r n ɯ,642,syrjaenenuralic
+313392,ngan1291,SEW,s o tʃ ə dʲ ɑ,643,syrjaenenuralic
+313393,ngan1291,SEW,s o n s ɯ dʲ i,644,syrjaenenuralic
+313394,selk1253,SEW,ɕ yː t t ə,643,syrjaenenuralic
+313395,udmu1245,SEW,v u r ɯ n ɯ,642,syrjaenenuralic
+313396,erzy1239,SHORT,n u rʲ k ɑ,645,syrjaenenuralic
+313397,ingr1248,SHORT,l y h y d̥,646,syrjaenenuralic
+313398,ingr1248,SHORT,m ɑ d̥ ɑ l ɑ i n,651,syrjaenenuralic
+313399,komi1269,SHORT,dʒ e ɲ ɯ t,647,syrjaenenuralic
+313400,komi1268,SHORT,dʒ e ɲ ɯ d,647,syrjaenenuralic
+313401,ngan1291,SHORT,k əː ʎ u k y,648,syrjaenenuralic
+313402,selk1253,SHORT,q ɑː m ə,649,syrjaenenuralic
+313403,udmu1245,SHORT,v ɑ k tɕ i,650,syrjaenenuralic
+313404,erzy1239,SING,m o r ɑ m s,652,syrjaenenuralic
+313405,ingr1248,SING,l ɑ u l ɑː,653,syrjaenenuralic
+313406,komi1269,SING,ɕ ɯ v n ɯ,654,syrjaenenuralic
+313407,komi1268,SING,ɕ ɯ v n ɯ,654,syrjaenenuralic
+313408,ngan1291,SING,k ə j ŋ i ʔ ɕ ɑ,655,syrjaenenuralic
+313409,selk1253,SING,k o ʎ m ə tʃ tʃ ə,656,syrjaenenuralic
+313410,udmu1245,SING,k ɯ r dʑ ɑ n ɯ,657,syrjaenenuralic
+313411,erzy1239,SIT,ɑ ʃ tʲ e m s + o z ɑ d o,658,syrjaenenuralic
+313412,ingr1248,SIT,i s t u ɑ,659,syrjaenenuralic
+313413,komi1269,SIT,p u k ɑ v n ɯ,660,syrjaenenuralic
+313414,komi1268,SIT,p u k ɑ v n ɯ,660,syrjaenenuralic
+313415,ngan1291,SIT,ŋ o m t y ɕ ɑ,661,syrjaenenuralic
+313416,selk1253,SIT,ɑː m t i,662,syrjaenenuralic
+313417,udmu1245,SIT,p u k ɯ n ɯ,660,syrjaenenuralic
+313418,erzy1239,SKIN,k i ɕ k e,663,syrjaenenuralic
+313419,ingr1248,SKIN,i h o,664,syrjaenenuralic
+313420,ingr1248,SKIN,h i b j æ,669,syrjaenenuralic
+313421,ingr1248,SKIN,t eː l ɑ,670,syrjaenenuralic
+313422,komi1268,SKIN,k u,665,syrjaenenuralic
+313423,ngan1291,SKIN,k u h u o,666,syrjaenenuralic
+313424,selk1253,SKIN,q o p ə,667,syrjaenenuralic
+313425,udmu1245,SKIN,k u,665,syrjaenenuralic
+313426,erzy1239,SKIN,k e dʲ,668,syrjaenenuralic
+313427,komi1269,SKIN,k u tɕ i k,665,syrjaenenuralic
+313428,erzy1239,SKY,m e ɲ e ʎ,671,syrjaenenuralic
+313429,ingr1248,SKY,t ɑ i v ɑ z,672,syrjaenenuralic
+313430,komi1269,SKY,j e n ɤ ʒ,673,syrjaenenuralic
+313431,komi1268,SKY,j e n e ʒ,673,syrjaenenuralic
+313432,ngan1291,SKY,ŋ u ə,674,syrjaenenuralic
+313433,selk1253,SKY,n o m,675,syrjaenenuralic
+313434,udmu1245,SKY,i n,676,syrjaenenuralic
+313435,ingr1248,SLEEP,n u k k u ɑ,678,syrjaenenuralic
+313436,ingr1248,SLEEP,m ɑ m m ɑ d̥ ɑ,681,syrjaenenuralic
+313437,erzy1239,SLEEP,u d o m s,677,syrjaenenuralic
+313438,komi1269,SLEEP,u ʑ n ɯ,679,syrjaenenuralic
+313439,komi1268,SLEEP,u ʑ n ɯ,679,syrjaenenuralic
+313440,ngan1291,SLEEP,k u n d u ɑ s ɑ,680,syrjaenenuralic
+313441,selk1253,SLEEP,q o n t i,680,syrjaenenuralic
+313442,udmu1245,SLEEP,i ʑ ɯ n ɯ,679,syrjaenenuralic
+313443,erzy1239,SMALL,v i ʃ k ɑ,682,syrjaenenuralic
+313444,ingr1248,SMALL,p eː n,683,syrjaenenuralic
+313445,komi1269,SMALL,u tɕ ɤ t,684,syrjaenenuralic
+313446,komi1268,SMALL,i tɕ ɤ t,684,syrjaenenuralic
+313447,komi1268,SMALL,p o s ɲ ɯ d,688,syrjaenenuralic
+313448,ngan1291,SMALL,h i ɲ i ə,685,syrjaenenuralic
+313449,ngan1291,SMALL,ɕ i ə ʔ l ɑ k u,689,syrjaenenuralic
+313450,selk1253,SMALL,k ɯ p ɑ,686,syrjaenenuralic
+313451,udmu1245,SMALL,p i tɕ i,687,syrjaenenuralic
+313452,erzy1239,SMELL,ɲ i k ɕ e m s,690,syrjaenenuralic
+313453,komi1269,SMELL,z ɯ n ɑ v n i,691,syrjaenenuralic
+313454,komi1268,SMELL,i s ɑ v n ɯ,691,syrjaenenuralic
+313455,ngan1291,SMELL,tʃ i n y dʲ ɑ,692,syrjaenenuralic
+313456,selk1253,SMELL,ɑ p t æ p t ə,693,syrjaenenuralic
+313457,udmu1245,SMELL,z ɯ n j ɑ n ɯ,691,syrjaenenuralic
+313458,erzy1239,SMOKE (EXHAUST),k ɑ tʃ ɑ m o,694,syrjaenenuralic
+313459,ingr1248,SMOKE (EXHAUST),s ɑ v v u,695,syrjaenenuralic
+313460,komi1269,SMOKE (EXHAUST),tʃ ɯ n,696,syrjaenenuralic
+313461,komi1268,SMOKE (EXHAUST),tʃ ɯ n,696,syrjaenenuralic
+313462,udmu1245,SMOKE (EXHAUST),tʃ ɯ n,696,syrjaenenuralic
+313463,ngan1291,SMOKE (EXHAUST),dʲ ɑ k ɑ ɡ ə,697,syrjaenenuralic
+313464,selk1253,SMOKE (EXHAUST),p u r q ə,698,syrjaenenuralic
+313465,ingr1248,SMOOTH,l ɑ kː i ɑ,700,syrjaenenuralic
+313466,komi1268,SMOOTH,v o ʎ ɯ d,699,syrjaenenuralic
+313467,erzy1239,SMOOTH,v ɑ l ɑ ɲ ɑ,699,syrjaenenuralic
+313468,ingr1248,SMOOTH,s i lː iː æ,699,syrjaenenuralic
+313469,komi1269,SMOOTH,v o ʎ k ɯ t,699,syrjaenenuralic
+313470,komi1268,SMOOTH,ʃ ɯ ʎ ɯ d,699,syrjaenenuralic
+313471,selk1253,SMOOTH,l e p ɑ,701,syrjaenenuralic
+313472,udmu1245,SMOOTH,v o ʎ ɯ t,699,syrjaenenuralic
+313473,selk1253,SNAKE,ɕ yː,706,syrjaenenuralic
+313474,erzy1239,SNAKE,ɡ u j,702,syrjaenenuralic
+313475,erzy1239,SNAKE,j o z n e,707,syrjaenenuralic
+313476,ingr1248,SNAKE,m ɑ d̥ o,703,syrjaenenuralic
+313477,ingr1248,SNAKE,m ɑː h iː n,708,syrjaenenuralic
+313478,komi1269,SNAKE,z m e j,705,syrjaenenuralic
+313479,komi1268,SNAKE,k ɯ j,704,syrjaenenuralic
+313480,udmu1245,SNAKE,k ɯ j,704,syrjaenenuralic
+313481,erzy1239,SNOW,l o v,709,syrjaenenuralic
+313482,ingr1248,SNOW,l u m i,709,syrjaenenuralic
+313483,komi1269,SNOW,l ɯ m,709,syrjaenenuralic
+313484,komi1268,SNOW,l ɯ m,709,syrjaenenuralic
+313485,ngan1291,SNOW,dʲ u m,709,syrjaenenuralic
+313486,ngan1291,SNOW,ɕ i r y,710,syrjaenenuralic
+313487,selk1253,SNOW,s ɯ r ə,710,syrjaenenuralic
+313488,udmu1245,SNOW,l ɯ m ɯ,709,syrjaenenuralic
+313489,selk1253,SOME,q ɑ j + k o s,716,syrjaenenuralic
+313490,erzy1239,SOME,k o n ɑ + b u tʲ i,711,syrjaenenuralic
+313491,erzy1239,SOME,m e ʑ e + b u tʲ i,717,syrjaenenuralic
+313492,erzy1239,SOME,t ɑ + k o d ɑ m o,719,syrjaenenuralic
+313493,ingr1248,SOME,m i ɡ̥ æ,712,syrjaenenuralic
+313494,ingr1248,SOME,j o ɡ̥ u,718,syrjaenenuralic
+313495,komi1269,SOME,k i n k ɤ,714,syrjaenenuralic
+313496,komi1268,SOME,k u tʃ ɤ m + k ɤ,713,syrjaenenuralic
+313497,ngan1291,SOME,k u r ə dʲ i k y ə,715,syrjaenenuralic
+313498,ngan1291,SOME,m ɑː ɡ y ə,712,syrjaenenuralic
+313499,udmu1245,SOME,k u d i z + k e,713,syrjaenenuralic
+313500,udmu1245,SOME,k i n + k e,713,syrjaenenuralic
+313501,erzy1239,SPIT,ɕ e ʎ ɡ e m s,720,syrjaenenuralic
+313502,ingr1248,SPIT,s y l k i æ,720,syrjaenenuralic
+313503,komi1269,SPIT,ɕ ɤ l ɑ v n ɯ,721,syrjaenenuralic
+313504,komi1268,SPIT,ɕ ɤ l ɑ v n ɯ,721,syrjaenenuralic
+313505,ngan1291,SPIT,ɕ e b ɕ i dʲ i,722,syrjaenenuralic
+313506,selk1253,SPIT,s y ə s ə,723,syrjaenenuralic
+313507,udmu1245,SPIT,ɕ ɑ l ɑ n ɯ,721,syrjaenenuralic
+313508,komi1269,SPLIT,v u n d ɯ ʃ t n ɯ,727,syrjaenenuralic
+313509,ingr1248,SPLIT,h ɑ l ɑ i s s ɑ,725,syrjaenenuralic
+313510,erzy1239,SPLIT,l ɑ z o m s,724,syrjaenenuralic
+313511,komi1268,SPLIT,tɕ ɑ ʃ k ɤ d n ɯ,726,syrjaenenuralic
+313512,komi1268,SPLIT,p o t k ɤ d n ɯ,731,syrjaenenuralic
+313513,ngan1291,SPLIT,k ɯ r k ɑ ʔ s ɑ,728,syrjaenenuralic
+313514,ngan1291,SPLIT,tʃ ə i r ɕ i,732,syrjaenenuralic
+313515,selk1253,SPLIT,p ɑ tɕ ɑ l,729,syrjaenenuralic
+313516,udmu1245,SPLIT,p i ʎ ɯ n ɯ,730,syrjaenenuralic
+313517,ingr1248,SQUEEZE,ɑ h i s t ɑː,734,syrjaenenuralic
+313518,komi1269,SQUEEZE,ʒ m i t n ɯ,736,syrjaenenuralic
+313519,komi1268,SQUEEZE,n ɯ r n ɯ,735,syrjaenenuralic
+313520,komi1268,SQUEEZE,ʎ i tɕ k ɯ n ɯ,740,syrjaenenuralic
+313521,ngan1291,SQUEEZE,m e b k i ɕ i,737,syrjaenenuralic
+313522,selk1253,SQUEEZE,ɯ p,738,syrjaenenuralic
+313523,udmu1245,SQUEEZE,ɲ u r ɑ n ɯ,735,syrjaenenuralic
+313524,udmu1245,SQUEEZE,p ɑ tɕ k ɑ t ɯ n ɯ,740,syrjaenenuralic
+313525,erzy1239,SQUEEZE,ʎ e p ʃ tʲ ɑ m s,733,syrjaenenuralic
+313526,erzy1239,SQUEEZE,tʃ e m e rʲ dʲ e m s,739,syrjaenenuralic
+313527,erzy1239,SQUEEZE,ɕ u v o r d ɑ m s,741,syrjaenenuralic
+313528,ingr1248,SQUEEZE,p u r i s t ɑː,734,syrjaenenuralic
+313529,ingr1248,SQUEEZE,p i ɡ̥ i s t æː,742,syrjaenenuralic
+313530,erzy1239,STAB,ɕ ɑ l ɡ o m s,743,syrjaenenuralic
+313531,ingr1248,STAB,t ø r ɡ̥ æ d̥ æ,744,syrjaenenuralic
+313532,komi1269,STAB,t ɑ tʃ k ɑ v n ɯ,745,syrjaenenuralic
+313533,komi1269,STAB,tʲ u k ɲ i t n ɯ,744,syrjaenenuralic
+313534,komi1268,STAB,s u tʃ k ɯ n ɯ,745,syrjaenenuralic
+313535,komi1268,STAB,b ɯ tʃ k ɯ n ɯ,745,syrjaenenuralic
+313536,ngan1291,STAB,n ə r u dʲ i,746,syrjaenenuralic
+313537,udmu1245,STAB,b ɯ ʃ k ɑ l t ɯ n ɯ,745,syrjaenenuralic
+313538,erzy1239,STAB,p u p ɑ m s,748,syrjaenenuralic
+313539,selk1253,STAB,s u ə̠ ŋ k ə,747,syrjaenenuralic
+313540,erzy1239,STAND,ɑ ʃ tʲ e m s + ɕ tʲ ɑ d o,749,syrjaenenuralic
+313541,komi1269,STAND,s u l ɑ v n ɯ,751,syrjaenenuralic
+313542,komi1268,STAND,s u l ɑ v n ɯ,751,syrjaenenuralic
+313543,ngan1291,STAND,n ə n s ɯ dʲ i,752,syrjaenenuralic
+313544,selk1253,STAND,n ɯ ŋ k i,753,syrjaenenuralic
+313545,udmu1245,STAND,s ɯ l ɯ n ɯ,751,syrjaenenuralic
+313546,ingr1248,STAND,s e i s s æ,750,syrjaenenuralic
+313547,ingr1248,STAR,t æ h t i,755,syrjaenenuralic
+313548,komi1269,STAR,k ɤ dʑ ɯ v,756,syrjaenenuralic
+313549,komi1268,STAR,k o dʑ u v,756,syrjaenenuralic
+313550,ngan1291,STAR,h o t ə dʲ i ə,757,syrjaenenuralic
+313551,selk1253,STAR,q ɯ ɕ ə ŋ q ɑ,758,syrjaenenuralic
+313552,erzy1239,STAR,tʲ e ʃ tʲ e,754,syrjaenenuralic
+313553,udmu1245,STAR,k i ʑ i ʎ i,756,syrjaenenuralic
+313554,erzy1239,STONE,c e v,759,syrjaenenuralic
+313555,ingr1248,STONE,k i v i,760,syrjaenenuralic
+313556,komi1269,STONE,i z,761,syrjaenenuralic
+313557,komi1268,STONE,i z,761,syrjaenenuralic
+313558,ngan1291,STONE,h u ɑ l ə,762,syrjaenenuralic
+313559,selk1253,STONE,p yː,763,syrjaenenuralic
+313560,udmu1245,STONE,i z,761,syrjaenenuralic
+313561,ingr1248,STRAIGHT,s oː r ɑ,765,syrjaenenuralic
+313562,ingr1248,STRAIGHT,o i k i ɑ,770,syrjaenenuralic
+313563,komi1269,STRAIGHT,v e ɕ k ɯ d,766,syrjaenenuralic
+313564,komi1268,STRAIGHT,v e ɕ k ɯ d,766,syrjaenenuralic
+313565,ngan1291,STRAIGHT,n ə m ə ɡ əː,767,syrjaenenuralic
+313566,selk1253,STRAIGHT,t ɑː t,768,syrjaenenuralic
+313567,udmu1245,STRAIGHT,ʃ o ɲ e r,769,syrjaenenuralic
+313568,erzy1239,STRAIGHT,v i dʲ e,764,syrjaenenuralic
+313569,erzy1239,SUCK,p o tʲ ɑ m s,771,syrjaenenuralic
+313570,ingr1248,SUCK,i mː iː æ,772,syrjaenenuralic
+313571,selk1253,SUCK,ɲ i m,774,syrjaenenuralic
+313572,udmu1245,SUCK,n o n ɯ n ɯ,773,syrjaenenuralic
+313573,komi1269,SUCK,ɲ i m ɑ v n ɯ,773,syrjaenenuralic
+313574,komi1268,SUCK,ɲ o ɲ ɑ v n ɯ,773,syrjaenenuralic
+313575,erzy1239,SUN,tʃ i,775,syrjaenenuralic
+313576,ingr1248,SUN,p æ i v y d̥,776,syrjaenenuralic
+313577,komi1268,SUN,ʃ o n d i,777,syrjaenenuralic
+313578,ngan1291,SUN,k o u,778,syrjaenenuralic
+313579,selk1253,SUN,tɕ eː l ə,779,syrjaenenuralic
+313580,udmu1245,SUN,ʃ u n d ɯ,777,syrjaenenuralic
+313581,komi1269,SUN,ʃ o n d i,777,syrjaenenuralic
+313582,erzy1239,SWELL,t ɑ r ɡ o ʑ e m s,780,syrjaenenuralic
+313583,ingr1248,SWELL,p ɑ i s u ɑ,781,syrjaenenuralic
+313584,komi1269,SWELL,p o ʎ d ɯ n ɯ,782,syrjaenenuralic
+313585,komi1268,SWELL,p ɯ k t ɯ n ɯ,782,syrjaenenuralic
+313586,komi1268,SWELL,d u n d ɯ n ɯ,785,syrjaenenuralic
+313587,ngan1291,SWELL,h o ɲ y dʲ i,783,syrjaenenuralic
+313588,selk1253,SWELL,tʃ ɑ ŋ k u,784,syrjaenenuralic
+313589,udmu1245,SWELL,p ɯ k t ɯ n ɯ,782,syrjaenenuralic
+313590,udmu1245,SWELL,t ɤ r n ɑ n ɯ,786,syrjaenenuralic
+313591,ingr1248,SWIM,u jː uː ɑ,788,syrjaenenuralic
+313592,komi1269,SWIM,u j ɑ v n ɯ,789,syrjaenenuralic
+313593,komi1268,SWIM,u j ɑ v n ɯ,789,syrjaenenuralic
+313594,komi1268,SWIM,v ɑ r tʲ tɕ ɯ n ɯ,792,syrjaenenuralic
+313595,selk1253,SWIM,uː,791,syrjaenenuralic
+313596,udmu1245,SWIM,u j ɑ n ɯ,789,syrjaenenuralic
+313597,erzy1239,SWIM,u j e m s,787,syrjaenenuralic
+313598,ngan1291,SWIM,h o ð ɯ r s ɯ,790,syrjaenenuralic
+313599,komi1269,TAIL,b ɤ ʒ,795,syrjaenenuralic
+313600,komi1268,TAIL,b ɤ ʒ,795,syrjaenenuralic
+313601,ngan1291,TAIL,t ə j b u,796,syrjaenenuralic
+313602,udmu1245,TAIL,b ɯ ʒ,795,syrjaenenuralic
+313603,erzy1239,TAIL,p u l o,793,syrjaenenuralic
+313604,ingr1248,TAIL,h æ n d̥ æ,794,syrjaenenuralic
+313605,selk1253,TAIL,t ɑ l tɕ u,796,syrjaenenuralic
+313606,selk1253,TAIL,m e tɕ ɑ,797,syrjaenenuralic
+313607,komi1269,THAT,s i j ɑ,800,syrjaenenuralic
+313608,erzy1239,THAT,t o n ɑ,798,syrjaenenuralic
+313609,erzy1239,THAT,ɕ e,802,syrjaenenuralic
+313610,ingr1248,THAT,t oː,799,syrjaenenuralic
+313611,komi1268,THAT,t ɯ,799,syrjaenenuralic
+313612,komi1268,THAT,s i j ɤ,800,syrjaenenuralic
+313613,ngan1291,THAT,t ə t i,801,syrjaenenuralic
+313614,ngan1291,THAT,t ɑː n i ə,803,syrjaenenuralic
+313615,ngan1291,THAT,t ɑ k əː,804,syrjaenenuralic
+313616,selk1253,THAT,t oː,799,syrjaenenuralic
+313617,udmu1245,THAT,s o,802,syrjaenenuralic
+313618,ngan1291,THERE,ə m ə ɲ i,808,syrjaenenuralic
+313619,ngan1291,THERE,t ə n i,808,syrjaenenuralic
+313620,erzy1239,THERE,t o s o,805,syrjaenenuralic
+313621,erzy1239,THERE,ɕ e s e,807,syrjaenenuralic
+313622,ingr1248,THERE,t oː ɑ l,806,syrjaenenuralic
+313623,komi1269,THERE,s e t ɤ n,807,syrjaenenuralic
+313624,komi1268,THERE,s e n,807,syrjaenenuralic
+313625,komi1268,THERE,e s t ɤ n,807,syrjaenenuralic
+313626,selk1253,THERE,t oː n t ə,808,syrjaenenuralic
+313627,udmu1245,THERE,o t ɯ n,807,syrjaenenuralic
+313628,erzy1239,THEY,s i ɲ,809,syrjaenenuralic
+313629,ingr1248,THEY,h øː,810,syrjaenenuralic
+313630,komi1269,THEY,n i j ɑ,811,syrjaenenuralic
+313631,komi1268,THEY,n ɑ j ɤ,811,syrjaenenuralic
+313632,selk1253,THEY,t e p ə t,813,syrjaenenuralic
+313633,udmu1245,THEY,s o o s,814,syrjaenenuralic
+313634,ngan1291,THEY,s ɯ t ɯ ŋ,812,syrjaenenuralic
+313635,komi1269,THICK,k ɯ z,817,syrjaenenuralic
+313636,komi1268,THICK,k ɯ z,817,syrjaenenuralic
+313637,selk1253,THICK,ɲ ɑ ŋ t u,818,syrjaenenuralic
+313638,udmu1245,THICK,z ɤ k,819,syrjaenenuralic
+313639,erzy1239,THICK,e tʃ k e,815,syrjaenenuralic
+313640,ingr1248,THICK,p ɑ k s u,816,syrjaenenuralic
+313641,erzy1239,THIN,tʃ o v ɑ,820,syrjaenenuralic
+313642,ingr1248,THIN,h o i k k ɑ,821,syrjaenenuralic
+313643,ingr1248,THIN,h eː n o,826,syrjaenenuralic
+313644,komi1269,THIN,v ɤ s ɲ i d,822,syrjaenenuralic
+313645,ngan1291,THIN,ɲ e u,823,syrjaenenuralic
+313646,selk1253,THIN,tɕ oː p t ə,824,syrjaenenuralic
+313647,komi1268,THIN,v e s ɲ ɯ d,822,syrjaenenuralic
+313648,ngan1291,THIN,dʲ o b t ə ɡ əː,824,syrjaenenuralic
+313649,udmu1245,THIN,v e k tɕ i,825,syrjaenenuralic
+313650,erzy1239,THINK,d u m ɑ m s,827,syrjaenenuralic
+313651,komi1269,THINK,d u m ɑ j t n ɯ,830,syrjaenenuralic
+313652,komi1268,THINK,m ɤ v n ɑ v n ɯ,829,syrjaenenuralic
+313653,ngan1291,THINK,s ɯ ɲ ə r u ə dʲ i,831,syrjaenenuralic
+313654,selk1253,THINK,t e n i r p i,832,syrjaenenuralic
+313655,udmu1245,THINK,m ɑ l p ɑ n ɯ,830,syrjaenenuralic
+313656,erzy1239,THINK,ɑ rʲ ɕ e m s,833,syrjaenenuralic
+313657,ingr1248,THINK,m e i n ɑ d̥ ɑ,828,syrjaenenuralic
+313658,komi1268,THINK,d u m ɑ j t n ɯ,830,syrjaenenuralic
+313659,erzy1239,THIS,tʲ e,834,syrjaenenuralic
+313660,ingr1248,THIS,t æ m æ,835,syrjaenenuralic
+313661,komi1269,THIS,e t ɑ,834,syrjaenenuralic
+313662,komi1268,THIS,t ɑ,834,syrjaenenuralic
+313663,ngan1291,THIS,ə m ə,836,syrjaenenuralic
+313664,selk1253,THIS,t ɑ m,835,syrjaenenuralic
+313665,udmu1245,THIS,t ɑ,834,syrjaenenuralic
+313666,komi1268,THIS,e t ɑ j ɤ,834,syrjaenenuralic
+313667,erzy1239,THREE,k o l m o,837,syrjaenenuralic
+313668,ingr1248,THREE,k o l d̥,838,syrjaenenuralic
+313669,komi1269,THREE,k u j i m,839,syrjaenenuralic
+313670,ngan1291,THREE,n ɑ ɡ y r,840,syrjaenenuralic
+313671,selk1253,THREE,n ɑː k u r,840,syrjaenenuralic
+313672,udmu1245,THREE,k ui ɲ,839,syrjaenenuralic
+313673,komi1268,THREE,k u j i m,839,syrjaenenuralic
+313674,erzy1239,THROW,j o r t o m s,841,syrjaenenuralic
+313675,erzy1239,THROW,k ɑ j ɑ m s,847,syrjaenenuralic
+313676,ingr1248,THROW,h e i t t æː,842,syrjaenenuralic
+313677,komi1269,THROW,tɕ ɑ p k ɑ v n ɯ,844,syrjaenenuralic
+313678,komi1269,THROW,ʃ u p k ɑ v n ɯ,844,syrjaenenuralic
+313679,komi1268,THROW,k o j n ɯ,843,syrjaenenuralic
+313680,ngan1291,THROW,b ɑ j b u dʲ ɑ,845,syrjaenenuralic
+313681,ngan1291,THROW,s ə t ə m ə s ɑ,848,syrjaenenuralic
+313682,selk1253,THROW,tɕ ɑ tʃ tʃ ə,846,syrjaenenuralic
+313683,udmu1245,THROW,k u j ɑ n ɯ,843,syrjaenenuralic
+313684,udmu1245,THROW,s e r p ɑ ʎ ʎ ɑ n ɯ,849,syrjaenenuralic
+313685,komi1268,THROW,tɕ ɤ v t n ɯ,844,syrjaenenuralic
+313686,erzy1239,TIE,s o d o m s,850,syrjaenenuralic
+313687,ingr1248,TIE,s i tː oː ɑ,851,syrjaenenuralic
+313688,komi1269,TIE,k ɤ r t ɑ v n ɯ,852,syrjaenenuralic
+313689,ngan1291,TIE,s ɑ r ə dʲ ɑ,853,syrjaenenuralic
+313690,selk1253,TIE,s ɑː r ə,853,syrjaenenuralic
+313691,komi1268,TIE,k ɤ r t ɑ v n ɯ,852,syrjaenenuralic
+313692,udmu1245,TIE,d u m ɯ n ɯ,854,syrjaenenuralic
+313693,udmu1245,TIE,k e r t t ɯ n ɯ,852,syrjaenenuralic
+313694,selk1253,TONGUE,ɕ eː,857,syrjaenenuralic
+313695,erzy1239,TONGUE,k e ʎ,855,syrjaenenuralic
+313696,ingr1248,TONGUE,k eː l i,855,syrjaenenuralic
+313697,komi1268,TONGUE,k ɯ v,855,syrjaenenuralic
+313698,ngan1291,TONGUE,ɕ i ə dʲ ə,856,syrjaenenuralic
+313699,udmu1245,TONGUE,k ɯ l,855,syrjaenenuralic
+313700,komi1269,TONGUE,k ɯ v,855,syrjaenenuralic
+313701,ingr1248,TOOTH,h ɑ m m ɑ z,859,syrjaenenuralic
+313702,komi1269,TOOTH,p i ɲ,860,syrjaenenuralic
+313703,komi1268,TOOTH,p i ɲ,860,syrjaenenuralic
+313704,ngan1291,TOOTH,tʃ i m i,861,syrjaenenuralic
+313705,selk1253,TOOTH,t i m ə,861,syrjaenenuralic
+313706,udmu1245,TOOTH,p i ɲ,860,syrjaenenuralic
+313707,erzy1239,TOOTH,p e j,858,syrjaenenuralic
+313708,erzy1239,TREE,tʃ u v t o,862,syrjaenenuralic
+313709,ingr1248,TREE,p uː,863,syrjaenenuralic
+313710,komi1269,TREE,p u,863,syrjaenenuralic
+313711,ngan1291,TREE,h u ɑ ɑ,864,syrjaenenuralic
+313712,selk1253,TREE,p oː,863,syrjaenenuralic
+313713,udmu1245,TREE,p i s + p u,865,syrjaenenuralic
+313714,komi1268,TREE,p u,863,syrjaenenuralic
+313715,komi1269,TURN,b e r ɡ ɤ t tɕ ɯ n ɯ,868,syrjaenenuralic
+313716,selk1253,TURN,p iː k ə l,870,syrjaenenuralic
+313717,erzy1239,TURN,p u r d ɑ m s,866,syrjaenenuralic
+313718,erzy1239,TURN,v e ʎ ɑ v t o m s,871,syrjaenenuralic
+313719,ingr1248,TURN,k æː n t y æ,867,syrjaenenuralic
+313720,komi1268,TURN,b e r ɡ ɑ v n ɯ,868,syrjaenenuralic
+313721,komi1268,TURN,k e ʒ n ɯ,872,syrjaenenuralic
+313722,ngan1291,TURN,b ə b t u ɑ ʔ t ə s ɑ,869,syrjaenenuralic
+313723,udmu1245,TURN,b e r ɯ k t i ɕ k ɯ n ɯ,868,syrjaenenuralic
+313724,erzy1239,TWO,k ɑ v t o,873,syrjaenenuralic
+313725,ingr1248,TWO,k ɑ k s,874,syrjaenenuralic
+313726,komi1269,TWO,k ɯ k,874,syrjaenenuralic
+313727,komi1268,TWO,k ɯ k,874,syrjaenenuralic
+313728,ngan1291,TWO,ɕ i t i,875,syrjaenenuralic
+313729,udmu1245,TWO,k ɯ k,874,syrjaenenuralic
+313730,selk1253,TWO,ɕ i t ə,875,syrjaenenuralic
+313731,erzy1239,VOMIT,u k s n o m s,876,syrjaenenuralic
+313732,ingr1248,VOMIT,o k s e n d̥ ɑ i s s ɑ,877,syrjaenenuralic
+313733,komi1269,VOMIT,ɤ s ɤ t n ɯ,878,syrjaenenuralic
+313734,komi1268,VOMIT,v o s n ɯ,878,syrjaenenuralic
+313735,komi1268,VOMIT,ɡ o r dʑ ɯ n ɯ,881,syrjaenenuralic
+313736,selk1253,VOMIT,tː ə,879,syrjaenenuralic
+313737,udmu1245,VOMIT,ɤ s k ɯ n ɯ,880,syrjaenenuralic
+313738,erzy1239,WALK,j ɑ k ɑ m s,882,syrjaenenuralic
+313739,ingr1248,WALK,k æ v e l l æ,883,syrjaenenuralic
+313740,komi1269,WALK,v e t l ɤ t l ɯ n ɯ,884,syrjaenenuralic
+313741,komi1268,WALK,v e t l ɯ n ɯ,884,syrjaenenuralic
+313742,ngan1291,WALK,dʲ o ð y r ɕ ɑ,885,syrjaenenuralic
+313743,selk1253,WALK,q y ə l,886,syrjaenenuralic
+313744,udmu1245,WALK,w ɑ m ɯ ʃ t ɯ n ɯ,887,syrjaenenuralic
+313745,udmu1245,WALK,v e t l ɯ n ɯ,884,syrjaenenuralic
+313746,ingr1248,WARM,v ɑ r i,889,syrjaenenuralic
+313747,erzy1239,WARM,ʎ e m b e,888,syrjaenenuralic
+313748,ingr1248,WARM,s oː j ɑ,893,syrjaenenuralic
+313749,komi1269,WARM,ʃ o n ɯ t,890,syrjaenenuralic
+313750,komi1268,WARM,ʃ o n ɯ d,890,syrjaenenuralic
+313751,ngan1291,WARM,ɲ y ɲ ɑ,891,syrjaenenuralic
+313752,ngan1291,WARM,h e k u s ɯ,894,syrjaenenuralic
+313753,selk1253,WARM,p yː,892,syrjaenenuralic
+313754,udmu1245,WARM,ʃ u n ɯ t,890,syrjaenenuralic
+313755,ingr1248,WARM,l æ m m æː,895,syrjaenenuralic
+313756,erzy1239,WASH,ʃ ʎ ɑ m s,896,syrjaenenuralic
+313757,komi1269,WASH,m i ɕ ɕ ɯ n ɯ,898,syrjaenenuralic
+313758,komi1268,WASH,m ɯ ɕ k ɯ n ɯ,898,syrjaenenuralic
+313759,ngan1291,WASH,k ə l ə,899,syrjaenenuralic
+313760,ngan1291,WASH,ɲ o b u s ɑ,901,syrjaenenuralic
+313761,selk1253,WASH,m uː s ə l tʃ ə,900,syrjaenenuralic
+313762,ingr1248,WASH,p e s s æ,897,syrjaenenuralic
+313763,udmu1245,WASH,m i ɕ k ɯ n ɯ,898,syrjaenenuralic
+313764,erzy1239,WATER,v e dʲ,902,syrjaenenuralic
+313765,ingr1248,WATER,v e z i,902,syrjaenenuralic
+313766,komi1268,WATER,v ɑ,903,syrjaenenuralic
+313767,ngan1291,WATER,b ɯ ʔ,904,syrjaenenuralic
+313768,selk1253,WATER,y t,902,syrjaenenuralic
+313769,udmu1245,WATER,v u,903,syrjaenenuralic
+313770,komi1269,WATER,v ɑ,903,syrjaenenuralic
+313771,erzy1239,WE,m i ɲ,905,syrjaenenuralic
+313772,komi1269,WE,m i,905,syrjaenenuralic
+313773,ngan1291,WE,m ɯ ŋ,905,syrjaenenuralic
+313774,ingr1248,WE,m øː,905,syrjaenenuralic
+313775,komi1268,WE,m i,905,syrjaenenuralic
+313776,selk1253,WE,m eː,905,syrjaenenuralic
+313777,udmu1245,WE,m i,905,syrjaenenuralic
+313778,ingr1248,WHITE,v ɑ l k i ɑ,907,syrjaenenuralic
+313779,komi1269,WHITE,tɕ o tɕ k o m,909,syrjaenenuralic
+313780,komi1268,WHITE,j e dʒ ɯ d,908,syrjaenenuralic
+313781,ngan1291,WHITE,s ɯ r,910,syrjaenenuralic
+313782,udmu1245,WHITE,t ɤ dʲ ɯ,912,syrjaenenuralic
+313783,selk1253,WHITE,s ɤ r ə,911,syrjaenenuralic
+313784,erzy1239,WHITE,ɑ ʃ o,906,syrjaenenuralic
+313785,erzy1239,WIDE,k e ʎ e j,913,syrjaenenuralic
+313786,ingr1248,WIDE,l e vː iː æ,914,syrjaenenuralic
+313787,komi1269,WIDE,p ɑ ɕ k ɯ t,915,syrjaenenuralic
+313788,komi1268,WIDE,p ɑ ɕ k ɯ d,915,syrjaenenuralic
+313789,komi1268,WIDE,o t ɑ,917,syrjaenenuralic
+313790,ngan1291,WIDE,t ɑ n t ə ɡ əː,916,syrjaenenuralic
+313791,selk1253,WIDE,tʃ ɑː n tʃ ə,916,syrjaenenuralic
+313792,udmu1245,WIDE,p ɑ ɕ k ɯ t,915,syrjaenenuralic
+313793,erzy1239,WIFE,ɲ i,918,syrjaenenuralic
+313794,erzy1239,WIFE,k o ʑ ɑ j k ɑ,925,syrjaenenuralic
+313795,erzy1239,WIFE,v ɑ s t ɑ,927,syrjaenenuralic
+313796,komi1269,WIFE,i ɲ,921,syrjaenenuralic
+313797,komi1268,WIFE,ɡ ɤ t ɯ r,920,syrjaenenuralic
+313798,ngan1291,WIFE,b ə b ə + tʃ ə r ə + n ɯ,922,syrjaenenuralic
+313799,ngan1291,WIFE,ɲ e m ɯ b t ɯ ʔ ɯ ɑ,926,syrjaenenuralic
+313800,selk1253,WIFE,i m m ɑ,923,syrjaenenuralic
+313801,udmu1245,WIFE,k ɯ ʃ n o,924,syrjaenenuralic
+313802,ingr1248,WIFE,n ɑ i n,919,syrjaenenuralic
+313803,selk1253,WING,k uː t ə,932,syrjaenenuralic
+313804,erzy1239,WING,ɕ o l m o,928,syrjaenenuralic
+313805,ingr1248,WING,s iː b̥ i,929,syrjaenenuralic
+313806,komi1269,WING,b o r d,930,syrjaenenuralic
+313807,komi1268,WING,b o r d,930,syrjaenenuralic
+313808,ngan1291,WING,tʃ u o,931,syrjaenenuralic
+313809,udmu1245,WING,b u r d,930,syrjaenenuralic
+313810,erzy1239,WIPE,n ɑ r d ɑ m s,933,syrjaenenuralic
+313811,ingr1248,WIPE,p yː h k i æ,934,syrjaenenuralic
+313812,komi1269,WIPE,tɕ ɯ ʃ k ɯ n ɯ,935,syrjaenenuralic
+313813,komi1268,WIPE,tɕ ɯ ʃ k ɯ n ɯ,935,syrjaenenuralic
+313814,ngan1291,WIPE,ɲ ɑ k i dʲ ɑ,936,syrjaenenuralic
+313815,selk1253,WIPE,m uː s ə,937,syrjaenenuralic
+313816,udmu1245,WIPE,tʃ u ʃ ɯ n ɯ,938,syrjaenenuralic
+313817,selk1253,FOREST,m ɑ tɕ ə,289,syrjaenenuralic
+313818,udmu1245,FOREST,ɲ u l e s,290,syrjaenenuralic
+313819,erzy1239,FOREST,v i rʲ,286,syrjaenenuralic
+313820,ingr1248,FOREST,m e tː s æ,287,syrjaenenuralic
+313821,komi1269,FOREST,v ɤ r,286,syrjaenenuralic
+313822,komi1268,FOREST,v ɤ r,286,syrjaenenuralic
+313823,ngan1291,FOREST,m u ŋ k u,288,syrjaenenuralic
+313824,udmu1245,FOREST,ɕ i k,291,syrjaenenuralic
+313825,erzy1239,WORM,s u k s,939,syrjaenenuralic
+313826,ingr1248,WORM,m ɑ d̥ o,940,syrjaenenuralic
+313827,komi1269,WORM,ɡ ɑ ɡ,942,syrjaenenuralic
+313828,komi1268,WORM,n o m ɯ r,941,syrjaenenuralic
+313829,ngan1291,WORM,k ə ʎ ɕ y ʔ ə,943,syrjaenenuralic
+313830,selk1253,WORM,tʃ u k,944,syrjaenenuralic
+313831,udmu1245,WORM,n u m ɯ r,941,syrjaenenuralic
+313832,erzy1239,YEAR,i j e,945,syrjaenenuralic
+313833,ingr1248,YEAR,v oː z,946,syrjaenenuralic
+313834,komi1269,YEAR,v o,947,syrjaenenuralic
+313835,komi1269,YEAR,ɡ o d,951,syrjaenenuralic
+313836,komi1268,YEAR,v o,947,syrjaenenuralic
+313837,ngan1291,YEAR,h y ə,948,syrjaenenuralic
+313838,selk1253,YEAR,p o,949,syrjaenenuralic
+313839,udmu1245,YEAR,ɑ r,950,syrjaenenuralic
+313840,erzy1239,YELLOW,o ʒ o,952,syrjaenenuralic
+313841,komi1269,YELLOW,v e ʒ,954,syrjaenenuralic
+313842,komi1268,YELLOW,v i ʒ,954,syrjaenenuralic
+313843,selk1253,YELLOW,p ɑ t ə ʎ,956,syrjaenenuralic
+313844,udmu1245,YELLOW,tʃ u ʒ,957,syrjaenenuralic
+313845,ingr1248,YELLOW,k e l t ɑ i n,953,syrjaenenuralic
+313846,ngan1291,YELLOW,t o dʲ ɑ k u ə,955,syrjaenenuralic

@@ -1,0 +1,947 @@
+id,doculect,concept,forms,lexstatid,db
+255773,khas1269,ALL,r o ʔ,1,nagarajakhasian
+255774,lyng1241,ALL,p r o k,1,nagarajakhasian
+255775,warj1242,ALL,b ə r ɒ ʔ,1,nagarajakhasian
+255776,shwe1236,ALL,p ai̯,3,nagarajakhasian
+255777,khmu1256,ALL,s a m,2,nagarajakhasian
+255778,khas1269,AND,b aː d,4,nagarajakhasian
+255779,warj1242,AND,w aː,5,nagarajakhasian
+255780,khas1269,ANIMAL,m r aː d,6,nagarajakhasian
+255781,khas1269,ASH,d p ei̯,7,nagarajakhasian
+255782,lyng1241,ASH,ə p a w,9,nagarajakhasian
+255783,warj1242,ASH,t v ʊ,11,nagarajakhasian
+255784,shwe1236,ASH,k ə h v a ŋ,10,nagarajakhasian
+255785,khmu1256,ASH,b ɔ h,8,nagarajakhasian
+255786,khas1269,AT,h a,12,nagarajakhasian
+255787,lyng1241,AT,h e,12,nagarajakhasian
+255788,warj1242,AT,t i,14,nagarajakhasian
+255789,khmu1256,AT,d a ʔ,13,nagarajakhasian
+255790,khas1269,BACK,d i e n,15,nagarajakhasian
+255791,lyng1241,BACK,b a d + d o n,17,nagarajakhasian
+255792,warj1242,BACK,t ə m p ɒ ŋ,15,nagarajakhasian
+255793,shwe1236,BACK,k r ɔ ŋ,16,nagarajakhasian
+255794,khmu1256,BACK,k d r ɔː ŋ,16,nagarajakhasian
+255795,khas1269,BAD,s ɲ i e w,18,nagarajakhasian
+255796,lyng1241,BAD,k ɨ cʰ a,20,nagarajakhasian
+255797,warj1242,BAD,k ɒ̃ m,22,nagarajakhasian
+255798,shwe1236,BAD,kʰ u,21,nagarajakhasian
+255799,khmu1256,BAD,ɲ oː ɲ,19,nagarajakhasian
+255800,khas1269,BARK,s e p,23,nagarajakhasian
+255801,lyng1241,BARK,s i e ʔ,25,nagarajakhasian
+255802,warj1242,BARK,s ɪ ə ʔ,25,nagarajakhasian
+255803,shwe1236,BARK,g ɔ ʔ,26,nagarajakhasian
+255804,khmu1256,BARK,s ə ŋ kʰ r a ʔ,24,nagarajakhasian
+255805,khas1269,BECAUSE,n a m a r,29,nagarajakhasian
+255806,lyng1241,BECAUSE,a m t e,31,nagarajakhasian
+255807,warj1242,BECAUSE,k a ʔ,32,nagarajakhasian
+255808,khmu1256,BECAUSE,j ɔ ʔ,30,nagarajakhasian
+255809,khas1269,BELLY,k p o ʔ,33,nagarajakhasian
+255810,lyng1241,BELLY,l ə w b a ʔ,35,nagarajakhasian
+255811,warj1242,BELLY,p ɒ ʔ,33,nagarajakhasian
+255812,shwe1236,BELLY,v ɛ ʔ,36,nagarajakhasian
+255813,khmu1256,BELLY,l uː j,34,nagarajakhasian
+255814,khas1269,BIG,h e ʔ,37,nagarajakhasian
+255815,lyng1241,BIG,k ɨ m b a,39,nagarajakhasian
+255816,warj1242,BIG,m ɪ a,41,nagarajakhasian
+255817,shwe1236,BIG,d a ŋ,40,nagarajakhasian
+255818,khmu1256,BIG,h a m,38,nagarajakhasian
+255819,khas1269,BIRD,s i m,42,nagarajakhasian
+255820,lyng1241,BIRD,s i m,42,nagarajakhasian
+255821,warj1242,BIRD,k s e m,42,nagarajakhasian
+255822,shwe1236,BIRD,s i m,42,nagarajakhasian
+255823,khmu1256,BIRD,s iː m,42,nagarajakhasian
+255824,khas1269,BITE,d ai̯ t,43,nagarajakhasian
+255825,lyng1241,BITE,k ɨ nː a p,45,nagarajakhasian
+255826,warj1242,BITE,h i t,47,nagarajakhasian
+255827,shwe1236,BITE,g a ʔ,46,nagarajakhasian
+255828,khmu1256,BITE,p o k,44,nagarajakhasian
+255829,khas1269,BLACK,j o ŋ,48,nagarajakhasian
+255830,lyng1241,BLACK,ɨ ɲ o ŋ,48,nagarajakhasian
+255831,warj1242,BLACK,p r i ŋ,51,nagarajakhasian
+255832,shwe1236,BLACK,j ə m,50,nagarajakhasian
+255833,khmu1256,BLACK,h i ə ŋ,49,nagarajakhasian
+255834,khas1269,BLOOD,s a m,52,nagarajakhasian
+255835,lyng1241,BLOOD,s a m,52,nagarajakhasian
+255836,warj1242,BLOOD,r ʊ ə,53,nagarajakhasian
+255837,shwe1236,BLOOD,h a m,52,nagarajakhasian
+255838,khmu1256,BLOOD,m aː m,52,nagarajakhasian
+255839,khas1269,BLOW (OF WIND),p ɨ r s a t,54,nagarajakhasian
+255840,lyng1241,BLOW (OF WIND),pʰ ɨ nː u r,56,nagarajakhasian
+255841,warj1242,BLOW (OF WIND),p e t,54,nagarajakhasian
+255842,shwe1236,BLOW (OF WIND),p u t,54,nagarajakhasian
+255843,khmu1256,BLOW (OF WIND),h u r,55,nagarajakhasian
+255844,khas1269,BONE,ʃ ʔ e ŋ,61,nagarajakhasian
+255845,lyng1241,BONE,c ʔ e ŋ,61,nagarajakhasian
+255846,warj1242,BONE,tʃ ɪ ə ʔ,62,nagarajakhasian
+255847,shwe1236,BONE,k ə ʔ a ŋ,61,nagarajakhasian
+255848,khmu1256,BONE,c ə ʔ aː ŋ,61,nagarajakhasian
+255849,khas1269,BREATHE,r i ŋ + m ɨ n s i e m,63,nagarajakhasian
+255850,lyng1241,BREATHE,r i ŋ + ɨ n s o m,63,nagarajakhasian
+255851,warj1242,BREATHE,r e ŋ + h ə n s ʊ,63,nagarajakhasian
+255852,shwe1236,BREATHE,pʰ ɯ m,65,nagarajakhasian
+255853,khmu1256,BREATHE,h r ɲ ɨ ə m,64,nagarajakhasian
+255854,khas1269,BURN,tʰ a ŋ,66,nagarajakhasian
+255855,lyng1241,BURN,ɨ tʰ a ŋ,66,nagarajakhasian
+255856,warj1242,BURN,ɵ/θ a ŋ,66,nagarajakhasian
+255857,shwe1236,BURN,g u t,68,nagarajakhasian
+255858,khmu1256,BURN,p ɔː k,67,nagarajakhasian
+255859,khas1269,CHILD,kʰ u n,69,nagarajakhasian
+255860,lyng1241,CHILD,kʰ o n,69,nagarajakhasian
+255861,warj1242,CHILD,h ʊ n,69,nagarajakhasian
+255862,shwe1236,CHILD,k u ə n,69,nagarajakhasian
+255863,khmu1256,CHILD,k ɔː n,69,nagarajakhasian
+255864,khas1269,CLOUD,l ʔ o ʔ,70,nagarajakhasian
+255865,lyng1241,CLOUD,l ʔ o ʔ,70,nagarajakhasian
+255866,warj1242,CLOUD,l ə m p e m,73,nagarajakhasian
+255867,shwe1236,CLOUD,u t,72,nagarajakhasian
+255868,khmu1256,CLOUD,h ə m p uː t,71,nagarajakhasian
+255869,khas1269,COLD,kʰ r i a t,74,nagarajakhasian
+255870,lyng1241,COLD,b ɨ n s i r,76,nagarajakhasian
+255871,warj1242,COLD,k t j a m,77,nagarajakhasian
+255872,shwe1236,COLD,k a t,74,nagarajakhasian
+255873,khmu1256,COLD,h uː c,75,nagarajakhasian
+255874,khas1269,COME,w a n,78,nagarajakhasian
+255875,lyng1241,COME,l ɨ nː a r,80,nagarajakhasian
+255876,warj1242,COME,v a,78,nagarajakhasian
+255877,shwe1236,COME,h l u h,81,nagarajakhasian
+255878,khmu1256,COME,g aːi̯,79,nagarajakhasian
+255879,khas1269,COUNT,ɲ j a w,84,nagarajakhasian
+255880,lyng1241,COUNT,cʰ ɨ nː a n,86,nagarajakhasian
+255881,warj1242,COUNT,tʃ aː,87,nagarajakhasian
+255882,shwe1236,COUNT,d i r,87,nagarajakhasian
+255883,khmu1256,COUNT,n a p,85,nagarajakhasian
+255884,khas1269,CUT,kʰ a p,88,nagarajakhasian
+255885,lyng1241,CUT,kʰ ɨ nː a p,88,nagarajakhasian
+255886,warj1242,CUT,p a m,89,nagarajakhasian
+255887,shwe1236,CUT,s e t,90,nagarajakhasian
+255888,khmu1256,CUT,p aː t,89,nagarajakhasian
+255889,khas1269,DAY (NOT NIGHT),s ŋ i,91,nagarajakhasian
+255890,lyng1241,DAY (NOT NIGHT),s ŋ ei̯,91,nagarajakhasian
+255891,warj1242,DAY (NOT NIGHT),ʃ ŋ aː,91,nagarajakhasian
+255892,shwe1236,DAY (NOT NIGHT),s ə ŋ i,91,nagarajakhasian
+255893,khmu1256,DAY (NOT NIGHT),s i ʔ,91,nagarajakhasian
+255894,khas1269,DIE,j a p,92,nagarajakhasian
+255895,lyng1241,DIE,ɲ i nː a p,92,nagarajakhasian
+255896,warj1242,DIE,j i p,92,nagarajakhasian
+255897,shwe1236,DIE,j ə m,92,nagarajakhasian
+255898,khmu1256,DIE,h aː n,93,nagarajakhasian
+255899,khas1269,DIG,t i ʔ,94,nagarajakhasian
+255900,lyng1241,DIG,t ɨ nː i e t,96,nagarajakhasian
+255901,warj1242,DIG,t ɪ ə ʔ,94,nagarajakhasian
+255902,shwe1236,DIG,p u ə r,97,nagarajakhasian
+255903,khmu1256,DIG,kʰ ɨ ə ŋ,95,nagarajakhasian
+255904,khas1269,DIRTY,ɟ a b o ʔ,98,nagarajakhasian
+255905,lyng1241,DIRTY,d ɨ mː u t,100,nagarajakhasian
+255906,warj1242,DIRTY,tʃ ə m e t,100,nagarajakhasian
+255907,shwe1236,DIRTY,ɟ u + ɟ u,101,nagarajakhasian
+255908,khmu1256,DIRTY,r u k,99,nagarajakhasian
+255909,khas1269,DOG,k s e w,102,nagarajakhasian
+255910,lyng1241,DOG,k s u,102,nagarajakhasian
+255911,warj1242,DOG,k s ɪ a,102,nagarajakhasian
+255912,shwe1236,DOG,s ɔ,102,nagarajakhasian
+255913,khmu1256,DOG,s ɔ ʔ,102,nagarajakhasian
+255914,khas1269,DRINK,d i ʔ,103,nagarajakhasian
+255915,lyng1241,DRINK,d ɨ nː i e t,105,nagarajakhasian
+255916,warj1242,DRINK,d e ʔ,103,nagarajakhasian
+255917,shwe1236,DRINK,t e ə ŋ,106,nagarajakhasian
+255918,khmu1256,DRINK,ʔ ɨ ə k,104,nagarajakhasian
+255919,khas1269,DRY,r kʰ i a ŋ,107,nagarajakhasian
+255920,lyng1241,DRY,r i ə ŋ kʰ o ŋ,107,nagarajakhasian
+255921,warj1242,DRY,rʰ ɪ ə ŋ,107,nagarajakhasian
+255922,shwe1236,DRY,r ai̯,109,nagarajakhasian
+255923,khmu1256,DRY,h ə t a ŋ,108,nagarajakhasian
+255924,khas1269,BLUNT,i s i ʔ,57,nagarajakhasian
+255925,lyng1241,BLUNT,ɟ o s m oi̯ t,59,nagarajakhasian
+255926,warj1242,BLUNT,l e n,60,nagarajakhasian
+255927,khmu1256,BLUNT,d aː l,58,nagarajakhasian
+255928,khas1269,DUST,p u m + p u m,110,nagarajakhasian
+255929,warj1242,DUST,t j ə l pʰ ʊ ʔ,113,nagarajakhasian
+255930,shwe1236,DUST,k ə r b o h,112,nagarajakhasian
+255931,khmu1256,DUST,b ɔ h,111,nagarajakhasian
+255932,khas1269,EAR,ʃ k o r,114,nagarajakhasian
+255933,lyng1241,EAR,l ə k u r,114,nagarajakhasian
+255934,warj1242,EAR,t ə r a ŋ,117,nagarajakhasian
+255935,shwe1236,EAR,h j ɔ ʔ,116,nagarajakhasian
+255936,khmu1256,EAR,r m əː j,115,nagarajakhasian
+255937,khas1269,EARTH (SOIL),kʰ ɨ d e w,118,nagarajakhasian
+255938,lyng1241,EARTH (SOIL),k m i ə ŋ,120,nagarajakhasian
+255939,shwe1236,EARTH (SOIL),k ə t ɛ,118,nagarajakhasian
+255940,khmu1256,EARTH (SOIL),p ə t e ʔ,119,nagarajakhasian
+255941,khas1269,EAT,b aː m,121,nagarajakhasian
+255942,lyng1241,EAT,b ɨ nː ə ŋ,123,nagarajakhasian
+255943,warj1242,EAT,b ʊ ə,125,nagarajakhasian
+255944,shwe1236,EAT,h a p,124,nagarajakhasian
+255945,khmu1256,EAT,m a h,122,nagarajakhasian
+255946,khas1269,EGG,p ɨ lː e ŋ,126,nagarajakhasian
+255947,lyng1241,EGG,p ɨ lː ɨ ŋ,126,nagarajakhasian
+255948,warj1242,EGG,s ʔ i,128,nagarajakhasian
+255949,shwe1236,EGG,k ə t ə m,127,nagarajakhasian
+255950,khmu1256,EGG,k ə d o ŋ,127,nagarajakhasian
+255951,khas1269,EYE,kʰ m a t,129,nagarajakhasian
+255952,lyng1241,EYE,kʰ m a t,129,nagarajakhasian
+255953,warj1242,EYE,m a t,129,nagarajakhasian
+255954,shwe1236,EYE,ŋ ai̯,130,nagarajakhasian
+255955,khmu1256,EYE,m a t,129,nagarajakhasian
+255956,khas1269,FALL,h a p,131,nagarajakhasian
+255957,lyng1241,FALL,e ŋ ai̯,133,nagarajakhasian
+255958,warj1242,FALL,h ə r e m,135,nagarajakhasian
+255959,shwe1236,FALL,r a r,134,nagarajakhasian
+255960,khmu1256,FALL,g r ɔː j,132,nagarajakhasian
+255961,khas1269,FAR,ɟ ŋ ai̯,136,nagarajakhasian
+255962,lyng1241,FAR,ɟ ŋ i,136,nagarajakhasian
+255963,warj1242,FAR,tʃ ŋ ʊ,136,nagarajakhasian
+255964,shwe1236,FAR,s ə ŋ ai̯,137,nagarajakhasian
+255965,khmu1256,FAR,ɟ aː r,136,nagarajakhasian
+255966,khas1269,FAT (ORGANIC SUBSTANCE),s ŋ aːi̯ d,138,nagarajakhasian
+255967,lyng1241,FAT (ORGANIC SUBSTANCE),ɨ mː i r,140,nagarajakhasian
+255968,warj1242,FAT (ORGANIC SUBSTANCE),l ə ʔ ɒ t,142,nagarajakhasian
+255969,shwe1236,FAT (ORGANIC SUBSTANCE),k ə m u,141,nagarajakhasian
+255970,khmu1256,FAT (ORGANIC SUBSTANCE),m əː j,139,nagarajakhasian
+255971,khas1269,FATHER,k p a,143,nagarajakhasian
+255972,lyng1241,FATHER,p a,143,nagarajakhasian
+255973,warj1242,FATHER,p a,143,nagarajakhasian
+255974,shwe1236,FATHER,k u n,145,nagarajakhasian
+255975,khmu1256,FATHER,j o ŋ,144,nagarajakhasian
+255976,khas1269,FEAR (BE AFRAID),ʃ e p t i e ŋ,146,nagarajakhasian
+255977,lyng1241,FEAR (BE AFRAID),t i e ŋ + d a i t,148,nagarajakhasian
+255978,warj1242,FEAR (BE AFRAID),k t ɪ ə ŋ,150,nagarajakhasian
+255979,shwe1236,FEAR (BE AFRAID),j ɔ,149,nagarajakhasian
+255980,khmu1256,FEAR (BE AFRAID),h ŋ k ɨ ə r,147,nagarajakhasian
+255981,khas1269,FEATHER,s e r,151,nagarajakhasian
+255982,lyng1241,FEATHER,s i r,151,nagarajakhasian
+255983,warj1242,FEATHER,θ ə b ə ɪ a r,153,nagarajakhasian
+255984,khmu1256,FEATHER,kʰ uː l,152,nagarajakhasian
+255985,khas1269,FEW,kʰ ɨ + d i a t,154,nagarajakhasian
+255986,lyng1241,FEW,t a h + d i a t,156,nagarajakhasian
+255987,shwe1236,FEW,b r e,157,nagarajakhasian
+255988,khmu1256,FEW,l aː ŋ,155,nagarajakhasian
+255989,khas1269,FIGHT,j a ʃ o ʔ,158,nagarajakhasian
+255990,lyng1241,FIGHT,j a m u ʔ,160,nagarajakhasian
+255991,shwe1236,FIGHT,t a i k,161,nagarajakhasian
+255992,khmu1256,FIGHT,l eː w,159,nagarajakhasian
+255993,khas1269,FIRE,d i ŋ,162,nagarajakhasian
+255994,lyng1241,FIRE,ə d o ɲ,162,nagarajakhasian
+255995,warj1242,FIRE,ʃ m e n,165,nagarajakhasian
+255996,shwe1236,FIRE,ŋ ə r,164,nagarajakhasian
+255997,khmu1256,FIRE,pʰ r ɨ ə,163,nagarajakhasian
+255998,khas1269,FISH,d o ʔ kʰ a,166,nagarajakhasian
+255999,lyng1241,FISH,kʰ a,167,nagarajakhasian
+256000,warj1242,FISH,h i,168,nagarajakhasian
+256001,shwe1236,FISH,k a,167,nagarajakhasian
+256002,khmu1256,FISH,k a ʔ,167,nagarajakhasian
+256003,khas1269,FIVE,s a n,169,nagarajakhasian
+256004,lyng1241,FIVE,s a n,169,nagarajakhasian
+256005,warj1242,FIVE,r a n,169,nagarajakhasian
+256006,shwe1236,FIVE,pʰ ə n,170,nagarajakhasian
+256007,khas1269,FLOAT,p e r,175,nagarajakhasian
+256008,lyng1241,FLOAT,r a ŋ,177,nagarajakhasian
+256009,warj1242,FLOAT,s p e r,175,nagarajakhasian
+256010,shwe1236,FLOAT,p l ɯ r,175,nagarajakhasian
+256011,khmu1256,FLOAT,h r l oː j,176,nagarajakhasian
+256012,khas1269,FLOW,t uːi̯ d,178,nagarajakhasian
+256013,lyng1241,FLOW,s ɨ + t oːi̯ d,178,nagarajakhasian
+256014,warj1242,FLOW,p ɒ r,181,nagarajakhasian
+256015,shwe1236,FLOW,h l ai̯,180,nagarajakhasian
+256016,khmu1256,FLOW,k ɔː r,179,nagarajakhasian
+256017,khas1269,FLOWER,s ɨ t i e w,182,nagarajakhasian
+256018,lyng1241,FLOWER,s ɨ t e w,182,nagarajakhasian
+256019,warj1242,FLOWER,kʰ l ʊ ə,185,nagarajakhasian
+256020,shwe1236,FLOWER,p o h,184,nagarajakhasian
+256021,khmu1256,FLOWER,r aː ŋ,183,nagarajakhasian
+256022,khas1269,FLY (MOVE THROUGH AIR),h e r,186,nagarajakhasian
+256023,lyng1241,FLY (MOVE THROUGH AIR),k ɨ d ei̯,188,nagarajakhasian
+256024,warj1242,FLY (MOVE THROUGH AIR),p ɪ a r,186,nagarajakhasian
+256025,shwe1236,FLY (MOVE THROUGH AIR),p ə r,186,nagarajakhasian
+256026,khmu1256,FLY (MOVE THROUGH AIR),t ɨː r,187,nagarajakhasian
+256027,khas1269,FOG,d u m + l ʔ o ʔ,189,nagarajakhasian
+256028,lyng1241,FOG,n i o ŋ + i a,191,nagarajakhasian
+256029,warj1242,FOG,d ʊ m,193,nagarajakhasian
+256030,shwe1236,FOG,a j,192,nagarajakhasian
+256031,khmu1256,FOG,ʔ o m + h m p uː t,190,nagarajakhasian
+256032,khas1269,FOOT,k ɟ a t,194,nagarajakhasian
+256033,lyng1241,FOOT,k ɟ a t,194,nagarajakhasian
+256034,warj1242,FOOT,n ɪ a,197,nagarajakhasian
+256035,shwe1236,FOOT,ɟ ɯ ŋ,196,nagarajakhasian
+256036,khmu1256,FOOT,ɟ ɨ ə ŋ,195,nagarajakhasian
+256037,khas1269,FOUR,s a w,202,nagarajakhasian
+256038,lyng1241,FOUR,s a w,202,nagarajakhasian
+256039,warj1242,FOUR,r ɪ a,205,nagarajakhasian
+256040,shwe1236,FOUR,pʰ o n,204,nagarajakhasian
+256041,khmu1256,FOUR,p uː l,203,nagarajakhasian
+256042,khas1269,FREEZE,ʃ o ʔ + tʰ a ʔ,206,nagarajakhasian
+256043,lyng1241,FREEZE,t ɨ ŋː a m,207,nagarajakhasian
+256044,warj1242,FREEZE,tʰ a ʔ,209,nagarajakhasian
+256045,shwe1236,FREEZE,k r ɔ ʔ,208,nagarajakhasian
+256046,khas1269,FRUIT,s o ʔ,210,nagarajakhasian
+256047,lyng1241,FRUIT,s u ʔ,210,nagarajakhasian
+256048,warj1242,FRUIT,s ɒ ʔ,210,nagarajakhasian
+256049,shwe1236,FRUIT,p l e,211,nagarajakhasian
+256050,khmu1256,FRUIT,p l e ʔ,211,nagarajakhasian
+256051,khas1269,GIVE,a j,212,nagarajakhasian
+256052,lyng1241,GIVE,ɨ nː ai̯,214,nagarajakhasian
+256053,warj1242,GIVE,ʔ aː,216,nagarajakhasian
+256054,shwe1236,GIVE,d ɛ h,215,nagarajakhasian
+256055,khmu1256,GIVE,ʔ a n,213,nagarajakhasian
+256056,lyng1241,GOOD,m ɨ rʰː i a ŋ,218,nagarajakhasian
+256057,warj1242,GOOD,m ɪ ə t,219,nagarajakhasian
+256058,shwe1236,GOOD,l a ʔ,217,nagarajakhasian
+256059,khmu1256,GOOD,l ə ʔ,217,nagarajakhasian
+256060,khas1269,GRASS,pʰ l a ŋ,220,nagarajakhasian
+256061,lyng1241,GRASS,pʰ l a ŋ,220,nagarajakhasian
+256062,warj1242,GRASS,s m ʊ t,223,nagarajakhasian
+256063,shwe1236,GRASS,k ə r b a n,222,nagarajakhasian
+256064,khmu1256,GRASS,c i t,221,nagarajakhasian
+256065,khas1269,GREEN,ɟ ɨ r ŋ a m,224,nagarajakhasian
+256066,lyng1241,GREEN,s ɨ ŋ i ə ŋ,226,nagarajakhasian
+256067,warj1242,GREEN,tʃ ə r ŋ a m,224,nagarajakhasian
+256068,shwe1236,GREEN,ɲ ə r,227,nagarajakhasian
+256069,khmu1256,GREEN,s iː w,225,nagarajakhasian
+256070,khas1269,GUTS,s i e r,228,nagarajakhasian
+256071,lyng1241,GUTS,s o r,228,nagarajakhasian
+256072,warj1242,GUTS,n ɒ r,230,nagarajakhasian
+256073,shwe1236,GUTS,r ɛ ŋ,229,nagarajakhasian
+256074,khmu1256,GUTS,ʰr i ə ŋ,229,nagarajakhasian
+256075,khas1269,HAIR,s ɲ i u ʔ,231,nagarajakhasian
+256076,lyng1241,HAIR,s ɲ i ə k,231,nagarajakhasian
+256077,warj1242,HAIR,s ʊ ʔ,231,nagarajakhasian
+256078,shwe1236,HAIR,h u ʔ,231,nagarajakhasian
+256079,khmu1256,HAIR,kʰ uː l,232,nagarajakhasian
+256080,khas1269,HAND,k t i,233,nagarajakhasian
+256081,lyng1241,HAND,k t ei̯,233,nagarajakhasian
+256082,warj1242,HAND,t aː,233,nagarajakhasian
+256083,shwe1236,HAND,t i,233,nagarajakhasian
+256084,khmu1256,HAND,t i ʔ,233,nagarajakhasian
+256085,khas1269,HE,u,234,nagarajakhasian
+256086,lyng1241,HE,ɟ u t u ʔ,236,nagarajakhasian
+256087,warj1242,HE,u,234,nagarajakhasian
+256088,shwe1236,HE,ə n,237,nagarajakhasian
+256089,khmu1256,HE,g əː,235,nagarajakhasian
+256090,khas1269,HEAD,kʰ l i e ʔ,238,nagarajakhasian
+256091,lyng1241,HEAD,kʰ l i ʔ,238,nagarajakhasian
+256092,warj1242,HEAD,kʰ l ɪ a,238,nagarajakhasian
+256093,shwe1236,HEAD,k i ŋ,240,nagarajakhasian
+256094,khmu1256,HEAD,k m p o ŋ,239,nagarajakhasian
+256095,khas1269,HEAR,s ŋ a p,241,nagarajakhasian
+256096,lyng1241,HEAR,s ŋ u,241,nagarajakhasian
+256097,warj1242,HEAR,s ã ʔ,241,nagarajakhasian
+256098,shwe1236,HEAR,ɟ u,243,nagarajakhasian
+256099,khmu1256,HEAR,m e c,242,nagarajakhasian
+256100,khas1269,HEART,k l o ŋ + s a m,244,nagarajakhasian
+256101,lyng1241,HEART,k l o ŋ + s a m,244,nagarajakhasian
+256102,warj1242,HEART,k l ɒ ŋ + r ʊ ə,244,nagarajakhasian
+256103,shwe1236,HEART,n u ə r,246,nagarajakhasian
+256104,khmu1256,HEART,t l ɔː m + ŋ o k,245,nagarajakhasian
+256105,khas1269,HEAVY,h e ʔ,247,nagarajakhasian
+256106,lyng1241,HEAVY,k e b a ʔ,249,nagarajakhasian
+256107,warj1242,HEAVY,s t ʊ ʔ,251,nagarajakhasian
+256108,shwe1236,HEAVY,ɟ ə n,250,nagarajakhasian
+256109,khmu1256,HEAVY,k t a m,248,nagarajakhasian
+256110,khas1269,HERE,h a ŋ + e,252,nagarajakhasian
+256111,lyng1241,HERE,h a i ʔ,254,nagarajakhasian
+256112,warj1242,HERE,t i eː,255,nagarajakhasian
+256113,khmu1256,HERE,d a ʔ + g iː,253,nagarajakhasian
+256114,khas1269,HIT,t i e d,256,nagarajakhasian
+256115,lyng1241,HIT,u d a ʔ,258,nagarajakhasian
+256116,warj1242,HIT,d a t,256,nagarajakhasian
+256117,shwe1236,HIT,t ɯ m,259,nagarajakhasian
+256118,khmu1256,HIT,p u ʔ,257,nagarajakhasian
+256119,khas1269,HOLD OR TAKE,ʃ i m,260,nagarajakhasian
+256120,lyng1241,HOLD OR TAKE,tʰ o m,262,nagarajakhasian
+256121,warj1242,HOLD OR TAKE,l ʊ m,264,nagarajakhasian
+256122,shwe1236,HOLD OR TAKE,l ɛ,263,nagarajakhasian
+256123,khmu1256,HOLD OR TAKE,d e ʔ,261,nagarajakhasian
+256124,khas1269,HOW,k u m o,265,nagarajakhasian
+256125,lyng1241,HOW,n a ŋ + e t,267,nagarajakhasian
+256126,warj1242,HOW,k i j a ʔ,269,nagarajakhasian
+256127,shwe1236,HOW,kʰ ɯ j + m ɔ,268,nagarajakhasian
+256128,khmu1256,HOW,n ɛː w + m ə ʔ,266,nagarajakhasian
+256129,khas1269,HUNT,b e ʔ,270,nagarajakhasian
+256130,lyng1241,HUNT,w u ŋ + a,272,nagarajakhasian
+256131,warj1242,HUNT,p ə t a r,274,nagarajakhasian
+256132,shwe1236,HUNT,ɟ ɔ m,273,nagarajakhasian
+256133,khmu1256,HUNT,j ɔ h + l a ʔ + b r i ʔ,271,nagarajakhasian
+256134,khas1269,HUSBAND,t ŋ a,275,nagarajakhasian
+256135,lyng1241,HUSBAND,k o r a ŋ,277,nagarajakhasian
+256136,warj1242,HUSBAND,l ɒ k,279,nagarajakhasian
+256137,shwe1236,HUSBAND,r ə l e h,278,nagarajakhasian
+256138,khmu1256,HUSBAND,g l e ʔ,276,nagarajakhasian
+256139,khas1269,I,ŋ a,280,nagarajakhasian
+256140,lyng1241,I,n ə,280,nagarajakhasian
+256141,warj1242,I,ŋ ə,280,nagarajakhasian
+256142,shwe1236,I,ʔ ɔ,281,nagarajakhasian
+256143,khmu1256,I,ʔ o ʔ,281,nagarajakhasian
+256144,khas1269,ICE,tʰ a ʔ,282,nagarajakhasian
+256145,lyng1241,ICE,tʰ a ʔ + ə lː i ʔ,284,nagarajakhasian
+256146,warj1242,ICE,tʰ a ʔ,282,nagarajakhasian
+256147,khmu1256,ICE,ʔ o m + k l oː n,283,nagarajakhasian
+256148,khas1269,IF,l a d a,285,nagarajakhasian
+256149,lyng1241,IF,l e d e,285,nagarajakhasian
+256150,warj1242,IF,n i m ə,287,nagarajakhasian
+256151,khmu1256,IF,ʔ a n,286,nagarajakhasian
+256152,khas1269,IN,h a,288,nagarajakhasian
+256153,lyng1241,IN,h e,288,nagarajakhasian
+256154,warj1242,IN,t i,290,nagarajakhasian
+256155,khmu1256,IN,k l u ə ŋ,289,nagarajakhasian
+256156,khas1269,KILL,p ɨ j a p,291,nagarajakhasian
+256157,lyng1241,KILL,p ɨ ɲ a p,291,nagarajakhasian
+256158,warj1242,KILL,p ə j i p,291,nagarajakhasian
+256159,shwe1236,KILL,p i ə m,291,nagarajakhasian
+256160,khmu1256,KILL,pʰ aː n,292,nagarajakhasian
+256161,khas1269,KNOW,t i p,293,nagarajakhasian
+256162,lyng1241,KNOW,h e ʔ k ə n,295,nagarajakhasian
+256163,warj1242,KNOW,t ɒ ʔ,297,nagarajakhasian
+256164,shwe1236,KNOW,n ə p,296,nagarajakhasian
+256165,khmu1256,KNOW,n əː ŋ,294,nagarajakhasian
+256166,khas1269,LAKE,p u ŋ,298,nagarajakhasian
+256167,lyng1241,LAKE,p u ŋ,298,nagarajakhasian
+256168,warj1242,LAKE,s ʊ,299,nagarajakhasian
+256169,khas1269,LAUGH,r kʰ i e,300,nagarajakhasian
+256170,lyng1241,LAUGH,ɨ lː o m,302,nagarajakhasian
+256171,warj1242,LAUGH,r ʊ,303,nagarajakhasian
+256172,khmu1256,LAUGH,kʰ r a s,301,nagarajakhasian
+256173,khas1269,LEAF,s l a,304,nagarajakhasian
+256174,lyng1241,LEAF,s l a,304,nagarajakhasian
+256175,warj1242,LEAF,s l i,304,nagarajakhasian
+256176,shwe1236,LEAF,h l a,304,nagarajakhasian
+256177,khmu1256,LEAF,ʰl a ʔ,304,nagarajakhasian
+256178,khas1269,LEFT,d i a ŋ,305,nagarajakhasian
+256179,lyng1241,LEFT,t ɨ mː i ə ŋ,305,nagarajakhasian
+256180,warj1242,LEFT,d i + p a r + t a + d ɪ ə ŋ,308,nagarajakhasian
+256181,shwe1236,LEFT,ʔ i + v e,307,nagarajakhasian
+256182,khmu1256,LEFT,l u ə ŋ + w e ʔ,306,nagarajakhasian
+256183,khas1269,LEG,k ɟ a t,309,nagarajakhasian
+256184,lyng1241,LEG,k ɟ a t,309,nagarajakhasian
+256185,warj1242,LEG,n ɪ a,312,nagarajakhasian
+256186,shwe1236,LEG,ɟ ɯ ŋ,311,nagarajakhasian
+256187,khmu1256,LEG,p l ɔː ŋ,310,nagarajakhasian
+256188,khas1269,LIE (MISLEAD),tʰ o k,313,nagarajakhasian
+256189,lyng1241,LIE (MISLEAD),tʰ ɨ lː oi̯ t,315,nagarajakhasian
+256190,warj1242,LIE (MISLEAD),p ə r ɒ ʔ,317,nagarajakhasian
+256191,shwe1236,LIE (MISLEAD),c ɔ ʔ,316,nagarajakhasian
+256192,khmu1256,LIE (MISLEAD),ɲ u ə ʔ,314,nagarajakhasian
+256193,khas1269,BE ALIVE,i m,27,nagarajakhasian
+256194,lyng1241,BE ALIVE,ɨ nː i m,27,nagarajakhasian
+256195,warj1242,BE ALIVE,p ʔ e m,27,nagarajakhasian
+256196,shwe1236,BE ALIVE,i m,27,nagarajakhasian
+256197,khmu1256,BE ALIVE,j a t,28,nagarajakhasian
+256198,khas1269,LIVER,d o ʔ uː d,318,nagarajakhasian
+256199,lyng1241,LIVER,n oː d,320,nagarajakhasian
+256200,warj1242,LIVER,k θ i m,322,nagarajakhasian
+256201,shwe1236,LIVER,k ə r t ɔ m,321,nagarajakhasian
+256202,khmu1256,LIVER,t l ɔː m + r ɔ ŋ,319,nagarajakhasian
+256203,khas1269,LONG,ɟ r o ŋ,323,nagarajakhasian
+256204,lyng1241,LONG,ɟ ɨ rː o ŋ,323,nagarajakhasian
+256205,warj1242,LONG,k ə r ɒ ŋ,323,nagarajakhasian
+256206,shwe1236,LONG,h l ɯ ŋ,325,nagarajakhasian
+256207,khmu1256,LONG,w aː ŋ,324,nagarajakhasian
+256208,khas1269,LOUSE,k s i,326,nagarajakhasian
+256209,lyng1241,LOUSE,s ɨ lː i e t,327,nagarajakhasian
+256210,warj1242,LOUSE,k s a,326,nagarajakhasian
+256211,shwe1236,LOUSE,s i,326,nagarajakhasian
+256212,khmu1256,LOUSE,s e ʔ,326,nagarajakhasian
+256213,khas1269,MALE PERSON,ʃ ɨ r a ŋ,328,nagarajakhasian
+256214,lyng1241,MALE PERSON,kʰ o k o r a ŋ,328,nagarajakhasian
+256215,warj1242,MALE PERSON,t ə r m a,331,nagarajakhasian
+256216,shwe1236,MALE PERSON,i m e,330,nagarajakhasian
+256217,khmu1256,MALE PERSON,c m b r ɔ ʔ,329,nagarajakhasian
+256218,khas1269,MANY,b u n,332,nagarajakhasian
+256219,lyng1241,MANY,b o n,332,nagarajakhasian
+256220,warj1242,MANY,ʃ i b ʊ ə,335,nagarajakhasian
+256221,shwe1236,MANY,k ɯ n,334,nagarajakhasian
+256222,khmu1256,MANY,m aː k,333,nagarajakhasian
+256223,khas1269,FLESH OR MEAT,d o ʔ,171,nagarajakhasian
+256224,lyng1241,FLESH OR MEAT,m ei̯ m,173,nagarajakhasian
+256225,warj1242,FLESH OR MEAT,d ɒ ʔ,171,nagarajakhasian
+256226,shwe1236,FLESH OR MEAT,j ə ŋ,174,nagarajakhasian
+256227,khmu1256,FLESH OR MEAT,ʔ a h,172,nagarajakhasian
+256228,khas1269,MOTHER,k m i e,336,nagarajakhasian
+256229,lyng1241,MOTHER,g m a,336,nagarajakhasian
+256230,warj1242,MOTHER,m aː,336,nagarajakhasian
+256231,shwe1236,MOTHER,m a,336,nagarajakhasian
+256232,khmu1256,MOTHER,m a ʔ,336,nagarajakhasian
+256233,khas1269,MOUNTAIN,l u m,337,nagarajakhasian
+256234,lyng1241,MOUNTAIN,d o m,339,nagarajakhasian
+256235,warj1242,MOUNTAIN,p d e ŋ,341,nagarajakhasian
+256236,shwe1236,MOUNTAIN,s o r,340,nagarajakhasian
+256237,khmu1256,MOUNTAIN,m o k,338,nagarajakhasian
+256238,khas1269,MOUTH,ʃ ɨ t u r,342,nagarajakhasian
+256239,lyng1241,MOUTH,g a p,344,nagarajakhasian
+256240,warj1242,MOUTH,t k ɒ ŋ,345,nagarajakhasian
+256241,shwe1236,MOUTH,m u r,342,nagarajakhasian
+256242,khmu1256,MOUTH,t ɔ h,343,nagarajakhasian
+256243,khas1269,NAME,k ɨ r t e ŋ,346,nagarajakhasian
+256244,warj1242,NAME,t v ɪ ə ŋ,348,nagarajakhasian
+256245,khmu1256,NAME,s ŋ m ə h,347,nagarajakhasian
+256246,khas1269,NARROW,r a ʃ i ŋ,349,nagarajakhasian
+256247,khmu1256,NARROW,s g ɛː p,350,nagarajakhasian
+256248,khas1269,NEAR,ɟ a n,351,nagarajakhasian
+256249,lyng1241,NEAR,ɟ ŋ a n,351,nagarajakhasian
+256250,warj1242,NEAR,t j a n,351,nagarajakhasian
+256251,shwe1236,NEAR,d ə t,353,nagarajakhasian
+256252,khmu1256,NEAR,l e h,352,nagarajakhasian
+256253,khas1269,NECK,r ɨ d a ŋ,354,nagarajakhasian
+256254,lyng1241,NECK,k r a ŋ,354,nagarajakhasian
+256255,warj1242,NECK,r d a ŋ,354,nagarajakhasian
+256256,shwe1236,NECK,r ə m ɔ ŋ,354,nagarajakhasian
+256257,khmu1256,NECK,k t u ə r,355,nagarajakhasian
+256258,khas1269,NEW,tʰ ɨ mː ai̯,356,nagarajakhasian
+256259,lyng1241,NEW,tʰ ɨ mː ai̯,356,nagarajakhasian
+256260,warj1242,NEW,θ m aː,356,nagarajakhasian
+256261,shwe1236,NEW,k ə m ɛ,356,nagarajakhasian
+256262,khmu1256,NEW,h mː e ʔ,357,nagarajakhasian
+256263,khas1269,NIGHT,m i e t,358,nagarajakhasian
+256264,lyng1241,NIGHT,s ə ɲ u,360,nagarajakhasian
+256265,warj1242,NIGHT,l ə m a ʔ,361,nagarajakhasian
+256266,shwe1236,NIGHT,s ɯ m,359,nagarajakhasian
+256267,khmu1256,NIGHT,p s ɨ ə m,359,nagarajakhasian
+256268,khas1269,NOSE,kʰ m u t,362,nagarajakhasian
+256269,lyng1241,NOSE,l e u m u t,364,nagarajakhasian
+256270,warj1242,NOSE,m ə r k ɒ̃ ŋ,365,nagarajakhasian
+256271,shwe1236,NOSE,m u h,363,nagarajakhasian
+256272,khmu1256,NOSE,m u h,363,nagarajakhasian
+256273,khas1269,NOT,ɨ m,366,nagarajakhasian
+256274,lyng1241,NOT,ɨ ɟ i,367,nagarajakhasian
+256275,warj1242,NOT,t ɒ ʔ + t ə,369,nagarajakhasian
+256276,shwe1236,NOT,k ə,368,nagarajakhasian
+256277,khmu1256,NOT,ʔ a m,366,nagarajakhasian
+256278,khas1269,OLD,r i m,370,nagarajakhasian
+256279,lyng1241,OLD,r i m,370,nagarajakhasian
+256280,warj1242,OLD,s ə r e m,370,nagarajakhasian
+256281,shwe1236,OLD,p r i m,370,nagarajakhasian
+256282,khmu1256,OLD,ʰm a ŋ,371,nagarajakhasian
+256283,khas1269,ONE,u w ei̯,372,nagarajakhasian
+256284,lyng1241,ONE,u w e w,372,nagarajakhasian
+256285,warj1242,ONE,m i,375,nagarajakhasian
+256286,shwe1236,ONE,u,374,nagarajakhasian
+256287,khmu1256,ONE,m oː j,373,nagarajakhasian
+256288,khas1269,OTHER,k i + w ei̯,376,nagarajakhasian
+256289,lyng1241,OTHER,m a r b e r,377,nagarajakhasian
+256290,shwe1236,OTHER,l ai̯,378,nagarajakhasian
+256291,khas1269,PERSON,b r i e w,379,nagarajakhasian
+256292,lyng1241,PERSON,b r y,379,nagarajakhasian
+256293,warj1242,PERSON,t j ə p r e ʊ,381,nagarajakhasian
+256294,shwe1236,PERSON,b i,380,nagarajakhasian
+256295,khas1269,PLAY,l e ʔ + k ai̯,382,nagarajakhasian
+256296,lyng1241,PLAY,kʰ e lː ai̯,384,nagarajakhasian
+256297,warj1242,PLAY,kʰ i r ʊ,386,nagarajakhasian
+256298,shwe1236,PLAY,k ə v ɛ ʔ,385,nagarajakhasian
+256299,khmu1256,PLAY,t ŋ̍ h ɔː j,383,nagarajakhasian
+256300,khas1269,PULL,t a n,387,nagarajakhasian
+256301,lyng1241,PULL,r ɨ nː i e ŋ,389,nagarajakhasian
+256302,warj1242,PULL,p ə t ɪ a ʔ,391,nagarajakhasian
+256303,shwe1236,PULL,r ɯ i t,390,nagarajakhasian
+256304,khmu1256,PULL,t o h,388,nagarajakhasian
+256305,khas1269,PUSH,kʰ ɨ nː i a ʔ,392,nagarajakhasian
+256306,lyng1241,PUSH,k ɨ cʰ e w,394,nagarajakhasian
+256307,warj1242,PUSH,kʰ ə + j i t,396,nagarajakhasian
+256308,shwe1236,PUSH,c o n,395,nagarajakhasian
+256309,khmu1256,PUSH,k ɲ uː t,393,nagarajakhasian
+256310,khas1269,RAIN (RAINING),s l a p,397,nagarajakhasian
+256311,lyng1241,RAIN (RAINING),s l a p,397,nagarajakhasian
+256312,warj1242,RAIN (RAINING),s l aː,397,nagarajakhasian
+256313,shwe1236,RAIN (RAINING),ɟ u ŋ,399,nagarajakhasian
+256314,khmu1256,RAIN (RAINING),k m a ʔ,398,nagarajakhasian
+256315,khas1269,RED,s a w,400,nagarajakhasian
+256316,lyng1241,RED,ə n s a w,400,nagarajakhasian
+256317,warj1242,RED,s ɪ a,403,nagarajakhasian
+256318,shwe1236,RED,kʰ o,402,nagarajakhasian
+256319,khmu1256,RED,j i m,401,nagarajakhasian
+256320,khas1269,CORRECT (RIGHT),d ei̯,82,nagarajakhasian
+256321,lyng1241,CORRECT (RIGHT),d e w,82,nagarajakhasian
+256322,warj1242,CORRECT (RIGHT),t ɒ ʔ,83,nagarajakhasian
+256323,khas1269,RIGHT,m o n,404,nagarajakhasian
+256324,lyng1241,RIGHT,t ɨ m + m o n,404,nagarajakhasian
+256325,warj1242,RIGHT,d i + p a r + t a + m ɒ n,406,nagarajakhasian
+256326,khmu1256,RIGHT,l u ə ŋ + h a m,405,nagarajakhasian
+256327,khas1269,RIVER,w a ʔ,407,nagarajakhasian
+256328,lyng1241,RIVER,p o r,409,nagarajakhasian
+256329,warj1242,RIVER,ʔ a m,410,nagarajakhasian
+256330,shwe1236,RIVER,o m,410,nagarajakhasian
+256331,khmu1256,RIVER,ʰr o ŋ,408,nagarajakhasian
+256332,khas1269,ROAD,l ɨ t i,411,nagarajakhasian
+256333,lyng1241,ROAD,t w a r,413,nagarajakhasian
+256334,warj1242,ROAD,s ə r ɒ k,415,nagarajakhasian
+256335,shwe1236,ROAD,d e ŋ,414,nagarajakhasian
+256336,khmu1256,ROAD,ŋ ɔː r,412,nagarajakhasian
+256337,khas1269,ROOT,t ɨ r ai̯,416,nagarajakhasian
+256338,lyng1241,ROOT,t ɨ rː ai̯,416,nagarajakhasian
+256339,warj1242,ROOT,ʃ i t,419,nagarajakhasian
+256340,shwe1236,ROOT,r i ə r,418,nagarajakhasian
+256341,khmu1256,ROOT,r i ə s,417,nagarajakhasian
+256342,khas1269,ROPE,t ɨ lː ai̯,420,nagarajakhasian
+256343,lyng1241,ROPE,l a ŋ ai̯,422,nagarajakhasian
+256344,warj1242,ROPE,t ə r ʊ,424,nagarajakhasian
+256345,shwe1236,ROPE,v ə r,423,nagarajakhasian
+256346,khmu1256,ROPE,c m ə ʔ,421,nagarajakhasian
+256347,khas1269,ROTTEN,p ʔ u t,425,nagarajakhasian
+256348,lyng1241,ROTTEN,ɟ ɨ lː i t,427,nagarajakhasian
+256349,warj1242,ROTTEN,kʰ v i,429,nagarajakhasian
+256350,shwe1236,ROTTEN,ə m,428,nagarajakhasian
+256351,khmu1256,ROTTEN,ʰm u ʔ,426,nagarajakhasian
+256352,khas1269,RUB,k ɨ r ʃ u t,430,nagarajakhasian
+256353,lyng1241,RUB,k ɨ r cʰ u t,430,nagarajakhasian
+256354,warj1242,RUB,k ə tʃ ʊ t,430,nagarajakhasian
+256355,shwe1236,RUB,s u t,430,nagarajakhasian
+256356,khmu1256,RUB,h u k,431,nagarajakhasian
+256357,khas1269,SALT,m l u ʔ,432,nagarajakhasian
+256358,lyng1241,SALT,m a l u k,432,nagarajakhasian
+256359,warj1242,SALT,p ʊ ʔ,435,nagarajakhasian
+256360,shwe1236,SALT,s ɔ ʔ,434,nagarajakhasian
+256361,khmu1256,SALT,ʰm aː r,433,nagarajakhasian
+256362,khas1269,SAND,ʃ ʔ i a p,436,nagarajakhasian
+256363,lyng1241,SAND,cʰ ʔ j a p,436,nagarajakhasian
+256364,warj1242,SAND,s ə r v ʊ,439,nagarajakhasian
+256365,shwe1236,SAND,s ai̯,438,nagarajakhasian
+256366,khmu1256,SAND,s r e h,437,nagarajakhasian
+256367,khas1269,SAY,o ŋ,440,nagarajakhasian
+256368,lyng1241,SAY,ɨ nː o ŋ,440,nagarajakhasian
+256369,warj1242,SAY,ʔ ɒ ŋ,440,nagarajakhasian
+256370,shwe1236,SAY,d a h,442,nagarajakhasian
+256371,khmu1256,SAY,s r o ʔ,441,nagarajakhasian
+256372,khas1269,SCRATCH,t r uː d,443,nagarajakhasian
+256373,lyng1241,SCRATCH,t ɨ rː u t,443,nagarajakhasian
+256374,warj1242,SCRATCH,kʰ ə b ɒ ʔ,445,nagarajakhasian
+256375,shwe1236,SCRATCH,p ɔ ʔ,445,nagarajakhasian
+256376,khmu1256,SCRATCH,g o r,444,nagarajakhasian
+256377,khas1269,SEA,d u r i a w,446,nagarajakhasian
+256378,warj1242,SEA,d ʊ r ɪ ə ʊ,446,nagarajakhasian
+256379,khas1269,SEE,j o ʔ i,447,nagarajakhasian
+256380,lyng1241,SEE,m u ɟ o ʔ,449,nagarajakhasian
+256381,warj1242,SEE,m a ʔ,450,nagarajakhasian
+256382,shwe1236,SEE,j ɯ,447,nagarajakhasian
+256383,khmu1256,SEE,g uː ɲ,448,nagarajakhasian
+256384,khas1269,SEED,s ɨ m b ai̯,451,nagarajakhasian
+256385,lyng1241,SEED,ɟ e lː ei̯,453,nagarajakhasian
+256386,warj1242,SEED,t j ʊ s b a,455,nagarajakhasian
+256387,shwe1236,SEED,k ə ʔ a ŋ,454,nagarajakhasian
+256388,khmu1256,SEED,k l ɔː ŋ,452,nagarajakhasian
+256389,khas1269,SEW,s u ʔ,456,nagarajakhasian
+256390,lyng1241,SEW,s ɨ nː e k,458,nagarajakhasian
+256391,warj1242,SEW,s ʊ,456,nagarajakhasian
+256392,shwe1236,SEW,ɟ i ŋ,459,nagarajakhasian
+256393,khmu1256,SEW,l ɔ s,457,nagarajakhasian
+256394,khas1269,SHARP,n e p,460,nagarajakhasian
+256395,lyng1241,SHARP,ɨ t a ʔ,462,nagarajakhasian
+256396,warj1242,SHARP,n e p,460,nagarajakhasian
+256397,shwe1236,SHARP,l ə m,463,nagarajakhasian
+256398,khmu1256,SHARP,ʔ o h,461,nagarajakhasian
+256399,khas1269,SHORT,l ɨ ŋ k o t,464,nagarajakhasian
+256400,lyng1241,SHORT,t ɨ m b a n,466,nagarajakhasian
+256401,warj1242,SHORT,tʃ r i t,468,nagarajakhasian
+256402,shwe1236,SHORT,ɛ m,467,nagarajakhasian
+256403,khmu1256,SHORT,h d e ʔ,465,nagarajakhasian
+256404,khas1269,SING,r w ai̯,469,nagarajakhasian
+256405,lyng1241,SING,r ɨ ŋ w i,469,nagarajakhasian
+256406,warj1242,SING,r v ʊ,469,nagarajakhasian
+256407,shwe1236,SING,ŋ i r,471,nagarajakhasian
+256408,khmu1256,SING,t əː m,470,nagarajakhasian
+256409,khas1269,SIT,ʃ o ŋ,472,nagarajakhasian
+256410,lyng1241,SIT,cʰ o ŋ,472,nagarajakhasian
+256411,warj1242,SIT,ʃ k ɪ ə,474,nagarajakhasian
+256412,shwe1236,SIT,m ɔ ʔ,473,nagarajakhasian
+256413,khmu1256,SIT,d e n,472,nagarajakhasian
+256414,khas1269,SKIN,s i e ʔ + d o ʔ,475,nagarajakhasian
+256415,lyng1241,SKIN,s i e ʔ + m ei̯ m,477,nagarajakhasian
+256416,warj1242,SKIN,s ɪ ə ʔ,479,nagarajakhasian
+256417,shwe1236,SKIN,h u r,478,nagarajakhasian
+256418,khmu1256,SKIN,h m p uː r,476,nagarajakhasian
+256419,khas1269,SKY,b e ŋ,480,nagarajakhasian
+256420,lyng1241,SKY,b r ei̯,480,nagarajakhasian
+256421,shwe1236,SKY,p l e ŋ,480,nagarajakhasian
+256422,khmu1256,SKY,l w aː ŋ,481,nagarajakhasian
+256423,khas1269,SLEEP,tʰ i a ʔ,482,nagarajakhasian
+256424,lyng1241,SLEEP,ɨ ɲ i ɲ,484,nagarajakhasian
+256425,warj1242,SLEEP,θ ɪ ə ʔ,482,nagarajakhasian
+256426,shwe1236,SLEEP,ʔ i t,485,nagarajakhasian
+256427,khmu1256,SLEEP,s i h,483,nagarajakhasian
+256428,khas1269,SMALL,r i t,486,nagarajakhasian
+256429,lyng1241,SMALL,d o h + d i t,488,nagarajakhasian
+256430,warj1242,SMALL,s b ɪ ə t,490,nagarajakhasian
+256431,shwe1236,SMALL,d i ə t,489,nagarajakhasian
+256432,khmu1256,SMALL,k ʔ ɛː ŋ,487,nagarajakhasian
+256433,khas1269,SMELL,s m a,491,nagarajakhasian
+256434,lyng1241,SMELL,ɨ nː a w,493,nagarajakhasian
+256435,warj1242,SMELL,r ʔ ɪ ə ŋ,495,nagarajakhasian
+256436,shwe1236,SMELL,ʔ u r,494,nagarajakhasian
+256437,khmu1256,SMELL,m e c,492,nagarajakhasian
+256438,khas1269,SMOKE (EXHAUST),t d e m,496,nagarajakhasian
+256439,lyng1241,SMOKE (EXHAUST),ɨ tʰ a k,498,nagarajakhasian
+256440,warj1242,SMOKE (EXHAUST),t d e m,496,nagarajakhasian
+256441,shwe1236,SMOKE (EXHAUST),t ɯ k,499,nagarajakhasian
+256442,khmu1256,SMOKE (EXHAUST),p t ə ʔ,497,nagarajakhasian
+256443,khas1269,SMOOTH,ɟ l i ʔ,500,nagarajakhasian
+256444,lyng1241,SMOOTH,ɟ ɨ m p ai̯,502,nagarajakhasian
+256445,warj1242,SMOOTH,t j ə lː i ʔ,500,nagarajakhasian
+256446,shwe1236,SMOOTH,k l e ə t,503,nagarajakhasian
+256447,khmu1256,SMOOTH,l m ɛː t,501,nagarajakhasian
+256448,khas1269,SNAKE,b s e ɲ,504,nagarajakhasian
+256449,lyng1241,SNAKE,b s e ɲ,504,nagarajakhasian
+256450,warj1242,SNAKE,p s e n,504,nagarajakhasian
+256451,shwe1236,SNAKE,h i ŋ,504,nagarajakhasian
+256452,khmu1256,SNAKE,m a r,505,nagarajakhasian
+256453,khas1269,SNOW,j o r,506,nagarajakhasian
+256454,warj1242,SNOW,k s ɪ ə ŋ + m ə ŋ,507,nagarajakhasian
+256455,khas1269,SOME,kʰ ɨ d i a t,508,nagarajakhasian
+256456,lyng1241,SOME,t a ʔ + d i a t,510,nagarajakhasian
+256457,warj1242,SOME,ʃ i t j ĩ ŋ,512,nagarajakhasian
+256458,shwe1236,SOME,p ə r d i,511,nagarajakhasian
+256459,khmu1256,SOME,l aː ŋ,509,nagarajakhasian
+256460,khas1269,SPIT,b i a ʔ,513,nagarajakhasian
+256461,lyng1241,SPIT,ɟ ɨ r tʰ e w,515,nagarajakhasian
+256462,warj1242,SPIT,p ə θ e ʊ,516,nagarajakhasian
+256463,shwe1236,SPIT,b ɛ ʔ,513,nagarajakhasian
+256464,khmu1256,SPIT,k ɟ u h,514,nagarajakhasian
+256465,khas1269,SPLIT,pʰ i a ʔ,517,nagarajakhasian
+256466,lyng1241,SPLIT,tʰ ɨ lː a ʔ,519,nagarajakhasian
+256467,warj1242,SPLIT,pʰ i t,520,nagarajakhasian
+256468,shwe1236,SPLIT,p l o h,517,nagarajakhasian
+256469,khmu1256,SPLIT,l a k,518,nagarajakhasian
+256470,khas1269,SQUEEZE,kʰ e m,521,nagarajakhasian
+256471,lyng1241,SQUEEZE,kʰ ɨ nː i m,521,nagarajakhasian
+256472,warj1242,SQUEEZE,tʃ ə p ɪ ə,523,nagarajakhasian
+256473,shwe1236,SQUEEZE,p i ə t,522,nagarajakhasian
+256474,khmu1256,SQUEEZE,p ɨ ə t,522,nagarajakhasian
+256475,khas1269,STAB,d u ŋ,524,nagarajakhasian
+256476,lyng1241,STAB,d a e ŋ,526,nagarajakhasian
+256477,warj1242,STAB,t ə d ʊ ŋ,524,nagarajakhasian
+256478,shwe1236,STAB,b r u h,527,nagarajakhasian
+256479,khmu1256,STAB,k e ɲ,525,nagarajakhasian
+256480,khas1269,STAND,i e ŋ,528,nagarajakhasian
+256481,lyng1241,STAND,ɲ i ə ŋ,528,nagarajakhasian
+256482,warj1242,STAND,r ə ŋ,528,nagarajakhasian
+256483,shwe1236,STAND,ɟ ə ŋ,528,nagarajakhasian
+256484,khmu1256,STAND,d ɨ n,528,nagarajakhasian
+256485,khas1269,STAR,kʰ l u r,529,nagarajakhasian
+256486,lyng1241,STAR,kʰ l o r,529,nagarajakhasian
+256487,warj1242,STAR,kʰ l ʊ ə + ʃ m e n,531,nagarajakhasian
+256488,shwe1236,STAR,s ə m i ŋ,530,nagarajakhasian
+256489,khmu1256,STAR,s r m e ɲ,530,nagarajakhasian
+256490,khas1269,STICK,d i e ŋ,532,nagarajakhasian
+256491,lyng1241,STICK,ə d i ə ŋ,532,nagarajakhasian
+256492,warj1242,STICK,p ə r ɪ a,535,nagarajakhasian
+256493,shwe1236,STICK,h v i ə t,534,nagarajakhasian
+256494,khmu1256,STICK,l m p aː k,533,nagarajakhasian
+256495,khas1269,STONE,m a w,536,nagarajakhasian
+256496,lyng1241,STONE,m a w,536,nagarajakhasian
+256497,warj1242,STONE,ʃ m ɪ a,536,nagarajakhasian
+256498,shwe1236,STONE,m o,536,nagarajakhasian
+256499,khmu1256,STONE,g l aː ŋ,537,nagarajakhasian
+256500,khas1269,STRAIGHT,b i e t,538,nagarajakhasian
+256501,lyng1241,STRAIGHT,l ɨ m pʰ a r,540,nagarajakhasian
+256502,warj1242,STRAIGHT,b ɪ t,538,nagarajakhasian
+256503,shwe1236,STRAIGHT,pʰ i ə ŋ,538,nagarajakhasian
+256504,khmu1256,STRAIGHT,t eː r,539,nagarajakhasian
+256505,khas1269,SUCK,k ɟ i t,541,nagarajakhasian
+256506,lyng1241,SUCK,k ɨ ɟ o k,543,nagarajakhasian
+256507,warj1242,SUCK,t j ʊ r,544,nagarajakhasian
+256508,shwe1236,SUCK,b u,542,nagarajakhasian
+256509,khmu1256,SUCK,b u ʔ,542,nagarajakhasian
+256510,khas1269,SUN,s ŋ i,545,nagarajakhasian
+256511,lyng1241,SUN,s ŋ ei̯,545,nagarajakhasian
+256512,warj1242,SUN,n j ʊ ŋ a,547,nagarajakhasian
+256513,shwe1236,SUN,s ə ŋ i,545,nagarajakhasian
+256514,khmu1256,SUN,m a t + b r i ʔ,546,nagarajakhasian
+256515,khas1269,SWELL,a t,548,nagarajakhasian
+256516,lyng1241,SWELL,ɨ nː a t,548,nagarajakhasian
+256517,warj1242,SWELL,ʔ a t,548,nagarajakhasian
+256518,shwe1236,SWELL,g ɯ,550,nagarajakhasian
+256519,khmu1256,SWELL,ʔ ɛ h,549,nagarajakhasian
+256520,khas1269,SWIM,ɟ ŋ i,551,nagarajakhasian
+256521,lyng1241,SWIM,ɟ ɨ nː ai̯,551,nagarajakhasian
+256522,warj1242,SWIM,r ɪ ə ŋ,553,nagarajakhasian
+256523,shwe1236,SWIM,l ɔ j,552,nagarajakhasian
+256524,khmu1256,SWIM,cʰ aːi̯,551,nagarajakhasian
+256525,khas1269,TAIL,t d o ŋ,554,nagarajakhasian
+256526,lyng1241,TAIL,k d o ŋ,554,nagarajakhasian
+256527,warj1242,TAIL,t d ɒ ŋ,554,nagarajakhasian
+256528,shwe1236,TAIL,s t a ʔ,555,nagarajakhasian
+256529,khmu1256,TAIL,h t a ʔ,555,nagarajakhasian
+256530,khas1269,THAT,t a,556,nagarajakhasian
+256531,lyng1241,THAT,g a + t ei̯,558,nagarajakhasian
+256532,warj1242,THAT,k e,559,nagarajakhasian
+256533,shwe1236,THAT,t ai̯,556,nagarajakhasian
+256534,khmu1256,THAT,ʰn aːi̯,557,nagarajakhasian
+256535,khas1269,THERE,k a tʰ i e,560,nagarajakhasian
+256536,lyng1241,THERE,g a tʰ o ʔ,560,nagarajakhasian
+256537,warj1242,THERE,t ʊ + t ʊ n,562,nagarajakhasian
+256538,khmu1256,THERE,d a ʔ + aːi̯,561,nagarajakhasian
+256539,khas1269,THEY,k i,563,nagarajakhasian
+256540,lyng1241,THEY,g i ʔ,563,nagarajakhasian
+256541,warj1242,THEY,j ə,565,nagarajakhasian
+256542,shwe1236,THEY,g e,563,nagarajakhasian
+256543,khmu1256,THEY,n ɔː,564,nagarajakhasian
+256544,khas1269,THICK,r b e n,566,nagarajakhasian
+256545,lyng1241,THICK,r ɨ m b i n,566,nagarajakhasian
+256546,warj1242,THICK,r b e n,566,nagarajakhasian
+256547,shwe1236,THICK,h ə t,568,nagarajakhasian
+256548,khmu1256,THICK,h m b ɨ l,567,nagarajakhasian
+256549,khas1269,THIN,s t a ŋ,569,nagarajakhasian
+256550,lyng1241,THIN,s ɨ t a ŋ,569,nagarajakhasian
+256551,shwe1236,THIN,h r e r,571,nagarajakhasian
+256552,khmu1256,THIN,h d a ʔ,570,nagarajakhasian
+256553,khas1269,THINK,p ɨ r kʰ a t,572,nagarajakhasian
+256554,shwe1236,THINK,tʰ a ŋ,574,nagarajakhasian
+256555,khmu1256,THINK,t r g ə t,573,nagarajakhasian
+256556,khas1269,THIS,e,575,nagarajakhasian
+256557,lyng1241,THIS,g a + i ʔ,577,nagarajakhasian
+256558,warj1242,THIS,k e,576,nagarajakhasian
+256559,shwe1236,THIS,ʔ ɯ,578,nagarajakhasian
+256560,khmu1256,THIS,g iː,576,nagarajakhasian
+256561,khas1269,THOU,m e,579,nagarajakhasian
+256562,lyng1241,THOU,m i,579,nagarajakhasian
+256563,warj1242,THOU,ɪ ə m,580,nagarajakhasian
+256564,shwe1236,THOU,m i,579,nagarajakhasian
+256565,khmu1256,THOU,m eː,579,nagarajakhasian
+256566,khas1269,THREE,l ai̯,581,nagarajakhasian
+256567,lyng1241,THREE,l ai̯,581,nagarajakhasian
+256568,warj1242,THREE,l a,581,nagarajakhasian
+256569,shwe1236,THREE,ʔ u ə j,583,nagarajakhasian
+256570,khmu1256,THREE,p e ʔ,582,nagarajakhasian
+256571,khas1269,THROW,k a w a ŋ,584,nagarajakhasian
+256572,lyng1241,THROW,l ɨ tʰ e w,586,nagarajakhasian
+256573,warj1242,THROW,pʰ ə d a t,588,nagarajakhasian
+256574,shwe1236,THROW,r u p,587,nagarajakhasian
+256575,khmu1256,THROW,pʰ o k,585,nagarajakhasian
+256576,khas1269,TIE,t e ʔ,589,nagarajakhasian
+256577,lyng1241,TIE,t ɨ nː a k,590,nagarajakhasian
+256578,warj1242,TIE,k ʊ t,591,nagarajakhasian
+256579,shwe1236,TIE,t o ʔ,589,nagarajakhasian
+256580,khmu1256,TIE,t u k,589,nagarajakhasian
+256581,khas1269,TONGUE,tʰ ɨ lː i e ɟ,592,nagarajakhasian
+256582,lyng1241,TONGUE,tʰ ɨ lː oi̯ t,594,nagarajakhasian
+256583,warj1242,TONGUE,kʰ l i t,596,nagarajakhasian
+256584,shwe1236,TONGUE,k ə r t a ʔ,595,nagarajakhasian
+256585,khmu1256,TONGUE,h t aː k,593,nagarajakhasian
+256586,khas1269,TOOTH,b i a t,597,nagarajakhasian
+256587,lyng1241,TOOTH,m oi̯ ɲ,599,nagarajakhasian
+256588,warj1242,TOOTH,l ə m e n,599,nagarajakhasian
+256589,shwe1236,TOOTH,h r a ŋ,598,nagarajakhasian
+256590,khmu1256,TOOTH,ʰr aː ŋ,598,nagarajakhasian
+256591,khas1269,TREE,d i e ŋ,600,nagarajakhasian
+256592,lyng1241,TREE,d i ə ŋ,600,nagarajakhasian
+256593,warj1242,TREE,t v ɪ a,603,nagarajakhasian
+256594,shwe1236,TREE,h e,602,nagarajakhasian
+256595,khmu1256,TREE,s ʔ ɔː ŋ,601,nagarajakhasian
+256596,khas1269,TURN,k ɨ lː a,604,nagarajakhasian
+256597,warj1242,TURN,kʰ ə r v i,607,nagarajakhasian
+256598,shwe1236,TURN,p ə n,606,nagarajakhasian
+256599,khmu1256,TURN,w e r,605,nagarajakhasian
+256600,khas1269,TWO,aː r,608,nagarajakhasian
+256601,lyng1241,TWO,a r,608,nagarajakhasian
+256602,warj1242,TWO,ʔ ʊ̃ ə,609,nagarajakhasian
+256603,shwe1236,TWO,ʔ a r,608,nagarajakhasian
+256604,khmu1256,TWO,b aː r,608,nagarajakhasian
+256605,khas1269,VOMIT,p r e i,610,nagarajakhasian
+256606,lyng1241,VOMIT,p ɨ rː a w,610,nagarajakhasian
+256607,warj1242,VOMIT,h ə r ɒ ʔ,613,nagarajakhasian
+256608,shwe1236,VOMIT,h ɯ r,612,nagarajakhasian
+256609,khmu1256,VOMIT,h ɨ ə l,611,nagarajakhasian
+256610,khas1269,WALK,j aːi̯ d,614,nagarajakhasian
+256611,lyng1241,WALK,d i nː i ʔ,616,nagarajakhasian
+256612,warj1242,WALK,l ɪ a,617,nagarajakhasian
+256613,khmu1256,WALK,j ɔ h,615,nagarajakhasian
+256614,khas1269,WARM,s ʔ aːi̯ d,618,nagarajakhasian
+256615,lyng1241,WARM,ɨ n ʃ i t,620,nagarajakhasian
+256616,warj1242,WARM,d ɒ t,622,nagarajakhasian
+256617,shwe1236,WARM,k ə ʔ ɯ r,621,nagarajakhasian
+256618,khmu1256,WARM,h ʔ ɨ m,619,nagarajakhasian
+256619,khas1269,WASH,s a i t,623,nagarajakhasian
+256620,warj1242,WASH,k s i,626,nagarajakhasian
+256621,shwe1236,WASH,kʰ oi̯,625,nagarajakhasian
+256622,khmu1256,WASH,r aː,624,nagarajakhasian
+256623,khas1269,WATER,u m,627,nagarajakhasian
+256624,lyng1241,WATER,g u m,627,nagarajakhasian
+256625,warj1242,WATER,ʔ a m,627,nagarajakhasian
+256626,shwe1236,WATER,ʔ o m,627,nagarajakhasian
+256627,khas1269,WE,ŋ i,628,nagarajakhasian
+256628,lyng1241,WE,j e w,630,nagarajakhasian
+256629,warj1242,WE,ʔ ɪ ə,631,nagarajakhasian
+256630,shwe1236,WE,ʔ ɛ,629,nagarajakhasian
+256631,khmu1256,WE,ʔ i ʔ,629,nagarajakhasian
+256632,khas1269,WET,ɟʰ i e ʔ,632,nagarajakhasian
+256633,lyng1241,WET,ɟ i m b ai̯ t,634,nagarajakhasian
+256634,warj1242,WET,t j ə r i ə ʔ,636,nagarajakhasian
+256635,shwe1236,WET,o m + p j o + p j o,635,nagarajakhasian
+256636,khmu1256,WET,d ɛː c,633,nagarajakhasian
+256637,khas1269,WHAT,ei̯,637,nagarajakhasian
+256638,lyng1241,WHAT,u m e t,639,nagarajakhasian
+256639,warj1242,WHAT,i + a,640,nagarajakhasian
+256640,shwe1236,WHAT,m ɔ,638,nagarajakhasian
+256641,khmu1256,WHAT,ʰm ə h,638,nagarajakhasian
+256642,khas1269,WHEN,l a o,641,nagarajakhasian
+256643,lyng1241,WHEN,m ɨ nː e t,642,nagarajakhasian
+256644,warj1242,WHEN,d a ŋ + j a ʔ,643,nagarajakhasian
+256645,khas1269,WHERE,h a ei̯,644,nagarajakhasian
+256646,lyng1241,WHERE,h a e t,644,nagarajakhasian
+256647,warj1242,WHERE,t i + j a ʔ,647,nagarajakhasian
+256648,shwe1236,WHERE,m ɔ,646,nagarajakhasian
+256649,khmu1256,WHERE,ʔ a r + m ə ʔ,645,nagarajakhasian
+256650,khas1269,WHITE,l i e ʔ,648,nagarajakhasian
+256651,lyng1241,WHITE,ə lː i ʔ,648,nagarajakhasian
+256652,warj1242,WHITE,s l a ŋ,650,nagarajakhasian
+256653,shwe1236,WHITE,b l ɔ ʔ,649,nagarajakhasian
+256654,khmu1256,WHITE,k l ɔː k,649,nagarajakhasian
+256655,khas1269,WHO,o,651,nagarajakhasian
+256656,lyng1241,WHO,j ə t,653,nagarajakhasian
+256657,warj1242,WHO,u,655,nagarajakhasian
+256658,shwe1236,WHO,p ai̯,654,nagarajakhasian
+256659,khmu1256,WHO,m ə ʔ,652,nagarajakhasian
+256660,khas1269,WIDE,j a r,656,nagarajakhasian
+256661,lyng1241,WIDE,ɨ i ə r,658,nagarajakhasian
+256662,warj1242,WIDE,h ɪ a ŋ,659,nagarajakhasian
+256663,shwe1236,WIDE,v a h,657,nagarajakhasian
+256664,khmu1256,WIDE,w a h,657,nagarajakhasian
+256665,khas1269,WIFE,t ŋ a,660,nagarajakhasian
+256666,lyng1241,WIFE,k o tʰ a w,662,nagarajakhasian
+256667,warj1242,WIFE,k ə + l ɒ k,664,nagarajakhasian
+256668,shwe1236,WIFE,p ə l e,663,nagarajakhasian
+256669,khmu1256,WIFE,k m b r a ʔ,661,nagarajakhasian
+256670,khas1269,WIND,l ʔ e r,665,nagarajakhasian
+256671,lyng1241,WIND,l ʔ i e r,665,nagarajakhasian
+256672,warj1242,WIND,s r ʊ ə,668,nagarajakhasian
+256673,shwe1236,WIND,k u r,667,nagarajakhasian
+256674,khmu1256,WIND,h d r əː j,666,nagarajakhasian
+256675,khas1269,WING,tʰ a p ŋ i a ŋ,669,nagarajakhasian
+256676,lyng1241,WING,tʰ a p i r,670,nagarajakhasian
+256677,warj1242,WING,θ ə b ə ɪ a r,672,nagarajakhasian
+256678,shwe1236,WING,p e ə ŋ,671,nagarajakhasian
+256679,khmu1256,WING,p ɨ r,670,nagarajakhasian
+256680,khas1269,WIPE,ŋ i a d,673,nagarajakhasian
+256681,lyng1241,WIPE,i nː a t,673,nagarajakhasian
+256682,warj1242,WIPE,ʃ ʔ ɪ ə ʔ,676,nagarajakhasian
+256683,shwe1236,WIPE,kʰ u t,675,nagarajakhasian
+256684,khmu1256,WIPE,r m c ɛ h,674,nagarajakhasian
+256685,khas1269,WITH,b a d,677,nagarajakhasian
+256686,lyng1241,WITH,n a m,679,nagarajakhasian
+256687,warj1242,WITH,b ə ʔ,678,nagarajakhasian
+256688,khmu1256,WITH,p a ʔ,678,nagarajakhasian
+256689,khas1269,WOMAN,k ɨ tʰ ei̯,680,nagarajakhasian
+256690,lyng1241,WOMAN,r a w k m a w,682,nagarajakhasian
+256691,warj1242,WOMAN,h ə θ a,684,nagarajakhasian
+256692,shwe1236,WOMAN,i p ə n,683,nagarajakhasian
+256693,khmu1256,WOMAN,c m k ɨ n,681,nagarajakhasian
+256694,khas1269,FOREST,kʰ l a w,198,nagarajakhasian
+256695,lyng1241,FOREST,l ə w t ə p,200,nagarajakhasian
+256696,warj1242,FOREST,k ə r m ɪ a,201,nagarajakhasian
+256697,shwe1236,FOREST,b r i,199,nagarajakhasian
+256698,khmu1256,FOREST,b r i ʔ,199,nagarajakhasian
+256699,khas1269,WORM,w i e ʔ,685,nagarajakhasian
+256700,lyng1241,WORM,w i a k,685,nagarajakhasian
+256701,warj1242,WORM,kʰ v i,688,nagarajakhasian
+256702,shwe1236,WORM,r i ə r,687,nagarajakhasian
+256703,khmu1256,WORM,h m b r aːi̯,686,nagarajakhasian
+256704,khas1269,YOU,pʰ i,694,nagarajakhasian
+256705,lyng1241,YOU,pʰ j a w,695,nagarajakhasian
+256706,warj1242,YOU,h i,696,nagarajakhasian
+256707,shwe1236,YOU,p ɛ,694,nagarajakhasian
+256708,khmu1256,YOU,b ɔː,694,nagarajakhasian
+256709,khas1269,YEAR,s e m,689,nagarajakhasian
+256710,lyng1241,YEAR,s i m,689,nagarajakhasian
+256711,warj1242,YEAR,s e m,689,nagarajakhasian
+256712,shwe1236,YEAR,s ə ə m,689,nagarajakhasian
+256713,khmu1256,YEAR,n ɨ m,689,nagarajakhasian
+256714,khas1269,YELLOW,s t e m,690,nagarajakhasian
+256715,lyng1241,YELLOW,s ɨ t i m,690,nagarajakhasian
+256716,warj1242,YELLOW,t ŋ ʊ ə,693,nagarajakhasian
+256717,shwe1236,YELLOW,t e ŋ,692,nagarajakhasian
+256718,khmu1256,YELLOW,c ŋ aː r,691,nagarajakhasian

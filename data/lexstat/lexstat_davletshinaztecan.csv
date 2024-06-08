@@ -1,0 +1,590 @@
+id,doculect,concept,forms,lexstatid,db
+151730,tete1251,ALL,n o tʃ iː,1,davletshinaztecan
+151731,nort2957,ALL,n o tʃ i + n,1,davletshinaztecan
+151732,isth1242,ALL,n o tʃ i,1,davletshinaztecan
+151733,isth1241,ALL,n o tʃ i,1,davletshinaztecan
+151734,taba1265,ALL,m u tʃ i,1,davletshinaztecan
+151735,pipi1250,ALL,m u tʃ i,1,davletshinaztecan
+151736,tete1251,ASH,tɬ a k o + n e x + tɬ iː,2,davletshinaztecan
+151737,nort2957,ASH,tɬ e k o + n e x + tɬ i,2,davletshinaztecan
+151738,isth1242,ASH,k w a + n eː x,2,davletshinaztecan
+151739,isth1241,ASH,b a + n eː x,2,davletshinaztecan
+151740,taba1265,ASH,k ó/o + n e x + t i,2,davletshinaztecan
+151741,pipi1250,ASH,n e x + t i,2,davletshinaztecan
+151742,tete1251,BARK,j e w a + j u + tɬ,4,davletshinaztecan
+151743,nort2957,BARK,j e w a + j o,4,davletshinaztecan
+151744,isth1242,BARK,k w a + k a h l oː + ʔ,3,davletshinaztecan
+151745,isth1241,BARK,b a + g a h l o,3,davletshinaztecan
+151746,taba1265,BARK,s u l + k o i,5,davletshinaztecan
+151747,pipi1250,BARK,eː w a + j u,4,davletshinaztecan
+151748,tete1251,BELLY,i h t e,6,davletshinaztecan
+151749,nort2957,BELLY,i h t e,6,davletshinaztecan
+151750,isth1242,BELLY,t a l a x,7,davletshinaztecan
+151751,isth1241,BELLY,i h t i,6,davletshinaztecan
+151752,taba1265,BELLY,i h t i,6,davletshinaztecan
+151753,pipi1250,BELLY,i h t i,6,davletshinaztecan
+151754,tete1251,BIG,b i e j iː,8,davletshinaztecan
+151755,nort2957,BIG,w e j i,8,davletshinaztecan
+151756,isth1242,BIG,w e j i,8,davletshinaztecan
+151757,isth1241,BIG,w eː j,8,davletshinaztecan
+151758,taba1265,BIG,w e j,8,davletshinaztecan
+151759,pipi1250,BIG,w eː j,8,davletshinaztecan
+151760,tete1251,BIRD,t u t u + tɬ,9,davletshinaztecan
+151761,nort2957,BIRD,t o t o + tɬ,9,davletshinaztecan
+151762,isth1242,BIRD,t oː t oː + ʔ,9,davletshinaztecan
+151763,isth1241,BIRD,t oː t o + t,9,davletshinaztecan
+151764,taba1265,BIRD,t uː r u + t,9,davletshinaztecan
+151765,pipi1250,BIRD,t uː t u + t,9,davletshinaztecan
+151766,tete1251,BITE,k e ts o m a,11,davletshinaztecan
+151767,nort2957,BITE,tɬ a n + k e tʃ i j a,10,davletshinaztecan
+151768,isth1242,BITE,t a n + k w a,10,davletshinaztecan
+151769,isth1241,BITE,t a m + b a,10,davletshinaztecan
+151770,pipi1250,BITE,t a n + k w a,10,davletshinaztecan
+151771,tete1251,BLACK,tɬ i l + t iː k,12,davletshinaztecan
+151772,nort2957,BLACK,tɬ i l + t i k,12,davletshinaztecan
+151773,isth1242,BLACK,p iː s + t i ʔ,12,davletshinaztecan
+151774,isth1241,BLACK,p i s + t i k,12,davletshinaztecan
+151775,taba1265,BLACK,j a j á/a k,13,davletshinaztecan
+151776,pipi1250,BLACK,t iː l + t i k,12,davletshinaztecan
+151777,tete1251,BLOOD,j e s + tɬ iː,14,davletshinaztecan
+151778,nort2957,BLOOD,j e s + tɬ i,14,davletshinaztecan
+151779,isth1242,BLOOD,e s + t i,14,davletshinaztecan
+151780,isth1241,BLOOD,e s + t i,14,davletshinaztecan
+151781,taba1265,BLOOD,e s + t i,14,davletshinaztecan
+151782,pipi1250,BLOOD,e s + t i,14,davletshinaztecan
+151783,tete1251,BONE,m iː m iː t e + tɬ,16,davletshinaztecan
+151784,nort2957,BONE,o h m i + tɬ,15,davletshinaztecan
+151785,isth1242,BONE,o m i + ʔ,15,davletshinaztecan
+151786,isth1241,BONE,o m i + t,15,davletshinaztecan
+151787,taba1265,BONE,u m i + t,15,davletshinaztecan
+151788,pipi1250,BONE,uː m i + t,15,davletshinaztecan
+151789,tete1251,BREAST,tʃ i tʃ iː w a l,17,davletshinaztecan
+151790,nort2957,BREAST,tʃ i tʃ i w a l,17,davletshinaztecan
+151791,isth1242,BREAST,tʃ iː tʃ i w a l,17,davletshinaztecan
+151792,isth1241,BREAST,tʃ i tʃ i w a l,17,davletshinaztecan
+151793,taba1265,BREAST,tʃ i tʃ i,17,davletshinaztecan
+151794,pipi1250,BREAST,tʃ iː tʃ i h,17,davletshinaztecan
+151795,tete1251,BURN (SOMETHING),tɬ a t i a,18,davletshinaztecan
+151796,nort2957,BURN (SOMETHING),t i t i ts a,18,davletshinaztecan
+151797,isth1242,BURN (SOMETHING),t a t i á/a,18,davletshinaztecan
+151798,isth1241,BURN (SOMETHING),t a t a,18,davletshinaztecan
+151799,taba1265,BURN (SOMETHING),t a t i,18,davletshinaztecan
+151800,pipi1250,BURN (SOMETHING),t a t i a,18,davletshinaztecan
+151801,tete1251,CLAW,i s t e,19,davletshinaztecan
+151802,nort2957,CLAW,i s t + n,19,davletshinaztecan
+151803,isth1242,CLAW,i s t i,19,davletshinaztecan
+151804,isth1241,CLAW,i s t i,19,davletshinaztecan
+151805,taba1265,CLAW,i s t i,19,davletshinaztecan
+151806,pipi1250,CLAW,i s t i + t,19,davletshinaztecan
+151807,tete1251,CLOUD,m e x + tɬ iː,20,davletshinaztecan
+151808,nort2957,CLOUD,m e x + tɬ i,20,davletshinaztecan
+151809,isth1242,CLOUD,m i x + t i,20,davletshinaztecan
+151810,isth1241,CLOUD,m iː x + t i,20,davletshinaztecan
+151811,pipi1250,CLOUD,m i x + t i,20,davletshinaztecan
+151812,tete1251,COLD,i ts + t iː k,22,davletshinaztecan
+151813,nort2957,COLD,i ts + t i k,22,davletshinaztecan
+151814,isth1242,COLD,s e s eː ʔ,21,davletshinaztecan
+151815,isth1241,COLD,s e s eː k,21,davletshinaztecan
+151816,taba1265,COLD,s e s e k,21,davletshinaztecan
+151817,pipi1250,COLD,s e s e k,21,davletshinaztecan
+151818,tete1251,COME,i b i ts,23,davletshinaztecan
+151819,nort2957,COME,w i ts,23,davletshinaztecan
+151820,isth1242,COME,w iː ʔ,23,davletshinaztecan
+151821,isth1241,COME,w iː ts,23,davletshinaztecan
+151822,taba1265,COME,ɲ o ts,23,davletshinaztecan
+151823,pipi1250,COME,w iː ts,23,davletshinaztecan
+151824,tete1251,DIE,m iː k iː,24,davletshinaztecan
+151825,nort2957,DIE,m i k i,24,davletshinaztecan
+151826,isth1242,DIE,m i k i,24,davletshinaztecan
+151827,isth1241,DIE,m i g i,24,davletshinaztecan
+151828,taba1265,DIE,m i k i,24,davletshinaztecan
+151829,pipi1250,DIE,m i k i,24,davletshinaztecan
+151830,tete1251,DOG,tʃ iː tʃ iː + t u,26,davletshinaztecan
+151831,nort2957,DOG,tʃ i tʃ i,26,davletshinaztecan
+151832,isth1242,DOG,p eː l o,25,davletshinaztecan
+151833,isth1241,DOG,p e l o,25,davletshinaztecan
+151834,taba1265,DOG,tʃ u tʃ u,26,davletshinaztecan
+151835,pipi1250,DOG,p eː l u,25,davletshinaztecan
+151836,tete1251,DRINK,o n + i,27,davletshinaztecan
+151837,nort2957,DRINK,o n + i,27,davletshinaztecan
+151838,isth1242,DRINK,o n + i + á/a,27,davletshinaztecan
+151839,isth1241,DRINK,o n + i,27,davletshinaztecan
+151840,taba1265,DRINK,x i + k,28,davletshinaztecan
+151841,pipi1250,DRINK,u n + i,27,davletshinaztecan
+151842,tete1251,DRY,w a h + k iː,30,davletshinaztecan
+151843,nort2957,DRY,w a h + k i,30,davletshinaztecan
+151844,isth1242,DRY,w aː k + t o ʔ,29,davletshinaztecan
+151845,isth1241,DRY,w aː k + t o k,29,davletshinaztecan
+151846,taba1265,DRY,w a k + t u k,29,davletshinaztecan
+151847,pipi1250,DRY,w aː k + t u k,29,davletshinaztecan
+151848,tete1251,EAR,n a k a s,31,davletshinaztecan
+151849,nort2957,EAR,n a k a s,31,davletshinaztecan
+151850,isth1242,EAR,n a k a s,31,davletshinaztecan
+151851,isth1241,EAR,n a g a s,31,davletshinaztecan
+151852,taba1265,EAR,n a k a s,31,davletshinaztecan
+151853,pipi1250,EAR,n a k a s,31,davletshinaztecan
+151854,tete1251,EARTH (SOIL),tɬ ø l iː,32,davletshinaztecan
+151855,nort2957,EARTH (SOIL),tɬ a l i,32,davletshinaztecan
+151856,isth1242,EARTH (SOIL),t aː h l i,32,davletshinaztecan
+151857,isth1241,EARTH (SOIL),t aː h l i,32,davletshinaztecan
+151858,taba1265,EARTH (SOIL),t a h l i,32,davletshinaztecan
+151859,pipi1250,EARTH (SOIL),t aː l,32,davletshinaztecan
+151860,tete1251,EAT,k w a,33,davletshinaztecan
+151861,nort2957,EAT,k w a,33,davletshinaztecan
+151862,isth1242,EAT,k w a,33,davletshinaztecan
+151863,isth1241,EAT,b aː,33,davletshinaztecan
+151864,taba1265,EAT,b w aː,33,davletshinaztecan
+151865,pipi1250,EAT,k w a,33,davletshinaztecan
+151866,tete1251,EGG,t u t o l + t e tɬ,35,davletshinaztecan
+151867,nort2957,EGG,t o t o l + t e + tɬ,35,davletshinaztecan
+151868,isth1242,EGG,t e k s i s,34,davletshinaztecan
+151869,isth1241,EGG,t e k s i s,34,davletshinaztecan
+151870,taba1265,EGG,p i l + ts i n,36,davletshinaztecan
+151871,pipi1250,EGG,t e k s i s + t i,34,davletshinaztecan
+151872,tete1251,EYE,i x + t e l o l o,37,davletshinaztecan
+151873,nort2957,EYE,i x + t e l o l o,37,davletshinaztecan
+151874,isth1242,EYE,iː x,38,davletshinaztecan
+151875,isth1241,EYE,iː x + t o l o l o,37,davletshinaztecan
+151876,taba1265,EYE,iː x,38,davletshinaztecan
+151877,pipi1250,EYE,iː x,38,davletshinaztecan
+151878,tete1251,FAT (ORGANIC SUBSTANCE),m a n t e k a,39,davletshinaztecan
+151879,nort2957,FAT (ORGANIC SUBSTANCE),tʃ i a k + tɬ i,40,davletshinaztecan
+151880,isth1242,FAT (ORGANIC SUBSTANCE),t o m a h k a,39,davletshinaztecan
+151881,isth1241,FAT (ORGANIC SUBSTANCE),m a n t e g a,39,davletshinaztecan
+151882,taba1265,FAT (ORGANIC SUBSTANCE),m a n t e k a,39,davletshinaztecan
+151883,tete1251,FEATHER,t o h m i tɬ,41,davletshinaztecan
+151884,nort2957,FEATHER,i h w i + tɬ,42,davletshinaztecan
+151885,isth1242,FEATHER,ts o h m i + ʔ,41,davletshinaztecan
+151886,isth1241,FEATHER,ts o h m i + t,41,davletshinaztecan
+151887,taba1265,FEATHER,i j + u h w i + j u,41,davletshinaztecan
+151888,pipi1250,FEATHER,u h m i + j u,41,davletshinaztecan
+151889,tete1251,FIRE,tɬ e + ts i n + tɬ iː,44,davletshinaztecan
+151890,nort2957,FIRE,tɬ e + tɬ,43,davletshinaztecan
+151891,isth1242,FIRE,t i ʔ + t i,43,davletshinaztecan
+151892,isth1241,FIRE,t i + t,43,davletshinaztecan
+151893,taba1265,FIRE,t i + t,43,davletshinaztecan
+151894,pipi1250,FIRE,t iː + t,43,davletshinaztecan
+151895,tete1251,FISH,m iː tʃ iː,46,davletshinaztecan
+151896,nort2957,FISH,m i tʃ i,46,davletshinaztecan
+151897,isth1242,FISH,t oː p o h,45,davletshinaztecan
+151898,isth1241,FISH,t oː p o h,45,davletshinaztecan
+151899,taba1265,FISH,x eː n e h,47,davletshinaztecan
+151900,pipi1250,FISH,m i tʃ i n,46,davletshinaztecan
+151901,tete1251,FLY (MOVE THROUGH AIR),p a tɬ ø n i,49,davletshinaztecan
+151902,nort2957,FLY (MOVE THROUGH AIR),p a tɬ a n i,49,davletshinaztecan
+151903,isth1242,FLY (MOVE THROUGH AIR),p a t aː n i,49,davletshinaztecan
+151904,isth1241,FLY (MOVE THROUGH AIR),p a t aː n i,49,davletshinaztecan
+151905,taba1265,FLY (MOVE THROUGH AIR),p a r a n i,49,davletshinaztecan
+151906,pipi1250,FLY (MOVE THROUGH AIR),p a t aː n i,49,davletshinaztecan
+151907,tete1251,FOOT,i kx iː,50,davletshinaztecan
+151908,nort2957,FOOT,i kx i,50,davletshinaztecan
+151909,isth1242,FOOT,i kx i,50,davletshinaztecan
+151910,isth1241,FOOT,i kx i,50,davletshinaztecan
+151911,taba1265,FOOT,i kx i,50,davletshinaztecan
+151912,pipi1250,FOOT,kx i,50,davletshinaztecan
+151913,tete1251,FULL,t i e n + t iː k a,51,davletshinaztecan
+151914,nort2957,FULL,t e n + t o k,51,davletshinaztecan
+151915,isth1242,FULL,t eː n + t o ʔ,51,davletshinaztecan
+151916,isth1241,FULL,t eː n + t o k,51,davletshinaztecan
+151917,taba1265,FULL,n eː + t i k,52,davletshinaztecan
+151918,pipi1250,FULL,t eː n + t u k,51,davletshinaztecan
+151919,tete1251,GIVE,m a k a,53,davletshinaztecan
+151920,nort2957,GIVE,m a k a,53,davletshinaztecan
+151921,isth1242,GIVE,m a k a,53,davletshinaztecan
+151922,isth1241,GIVE,m a g a,53,davletshinaztecan
+151923,taba1265,GIVE,m a,53,davletshinaztecan
+151924,pipi1250,GIVE,m a k a,53,davletshinaztecan
+151925,tete1251,GOOD,k w a l iː,55,davletshinaztecan
+151926,nort2957,GOOD,k w a l i,55,davletshinaztecan
+151927,isth1242,GOOD,j eː k + t i,54,davletshinaztecan
+151928,isth1241,GOOD,j e k + t i,54,davletshinaztecan
+151929,taba1265,GOOD,j e k + t i,54,davletshinaztecan
+151930,pipi1250,GOOD,j eː k,54,davletshinaztecan
+151931,tete1251,GREEN,x o x o k + t iː k,56,davletshinaztecan
+151932,nort2957,GREEN,x o x o k + t i k,56,davletshinaztecan
+151933,isth1242,GREEN,x o x o k + t i ʔ,56,davletshinaztecan
+151934,isth1241,GREEN,x o x o k + t i k,56,davletshinaztecan
+151935,taba1265,GREEN,x u x u í/i + k,56,davletshinaztecan
+151936,pipi1250,GREEN,x u x u w i + k,56,davletshinaztecan
+151937,tete1251,HAIR,ts o n + tɬ iː,57,davletshinaztecan
+151938,nort2957,HAIR,ts o n + tɬ i,57,davletshinaztecan
+151939,isth1242,HAIR,ts o n + k a l,57,davletshinaztecan
+151940,isth1241,HAIR,ts o n + g a l,57,davletshinaztecan
+151941,taba1265,HAIR,ts u n + t i,57,davletshinaztecan
+151942,pipi1250,HAIR,ts u n + k a l,57,davletshinaztecan
+151943,tete1251,HAND,m ø,58,davletshinaztecan
+151944,nort2957,HAND,m a + n,58,davletshinaztecan
+151945,isth1242,HAND,m a j i ʔ,58,davletshinaztecan
+151946,isth1241,HAND,m aː,58,davletshinaztecan
+151947,taba1265,HAND,m aː + n,58,davletshinaztecan
+151948,pipi1250,HAND,m e j,58,davletshinaztecan
+151949,tete1251,HEAD,ts o n + t e k o,59,davletshinaztecan
+151950,nort2957,HEAD,ts o n + t e k o,59,davletshinaztecan
+151951,isth1242,HEAD,ts o n + t e k o n,59,davletshinaztecan
+151952,isth1241,HEAD,ts o n + t e g o n,59,davletshinaztecan
+151953,taba1265,HEAD,ts u n + t e k o n,59,davletshinaztecan
+151954,pipi1250,HEAD,ts u n + t e k u m a + t,59,davletshinaztecan
+151955,tete1251,HEAR,k a k iː,60,davletshinaztecan
+151956,nort2957,HEAR,k a k i,60,davletshinaztecan
+151957,isth1242,HEAR,k a k i,60,davletshinaztecan
+151958,isth1241,HEAR,g a g i,60,davletshinaztecan
+151959,taba1265,HEAR,k a i,60,davletshinaztecan
+151960,pipi1250,HEAR,k aː k i,60,davletshinaztecan
+151961,tete1251,HEART,j u l o h + tɬ iː,62,davletshinaztecan
+151962,nort2957,HEART,j o l + o,62,davletshinaztecan
+151963,isth1242,HEART,j aː l m a h,61,davletshinaztecan
+151964,isth1241,HEART,a l m a,61,davletshinaztecan
+151965,taba1265,HEART,j u h + l u,62,davletshinaztecan
+151966,pipi1250,HEART,j u l,62,davletshinaztecan
+151967,nort2957,HORN (ANATOMY),k w a k o w,63,davletshinaztecan
+151968,isth1242,HORN (ANATOMY),k w aː k w a,63,davletshinaztecan
+151969,isth1241,HORN (ANATOMY),b aː b aː,63,davletshinaztecan
+151970,taba1265,HORN (ANATOMY),k o k o i t,65,davletshinaztecan
+151971,pipi1250,HORN (ANATOMY),k a tʃ o h,64,davletshinaztecan
+151972,tete1251,I,n a h a,67,davletshinaztecan
+151973,nort2957,I,n e h w a + tɬ,67,davletshinaztecan
+151974,isth1242,I,n e h,67,davletshinaztecan
+151975,isth1241,I,n e h a,67,davletshinaztecan
+151976,taba1265,I,n e h e,67,davletshinaztecan
+151977,pipi1250,I,n a,67,davletshinaztecan
+151978,tete1251,KILL,m iː k + t iː a,68,davletshinaztecan
+151979,nort2957,KILL,m i k + t i a,68,davletshinaztecan
+151980,isth1242,KILL,m i k + t i a,68,davletshinaztecan
+151981,isth1241,KILL,m i k + t i a,68,davletshinaztecan
+151982,taba1265,KILL,m i k + t i,68,davletshinaztecan
+151983,pipi1250,KILL,m i k + t i a,68,davletshinaztecan
+151984,tete1251,KNEE,tɬ a n + k w a t e,69,davletshinaztecan
+151985,nort2957,KNEE,tɬ a n + k w a,69,davletshinaztecan
+151986,isth1242,KNEE,t a n + k w aː + ʔ,69,davletshinaztecan
+151987,isth1241,KNEE,t a m + b a,69,davletshinaztecan
+151988,taba1265,KNEE,t a m + b w a + n,69,davletshinaztecan
+151989,pipi1250,KNEE,t e w a h k a,70,davletshinaztecan
+151990,tete1251,KNOW (SOMETHING),m a t iː,71,davletshinaztecan
+151991,nort2957,KNOW (SOMETHING),m a t i,71,davletshinaztecan
+151992,isth1242,KNOW (SOMETHING),m a t i,71,davletshinaztecan
+151993,isth1241,KNOW (SOMETHING),m a t i,71,davletshinaztecan
+151994,taba1265,KNOW (SOMETHING),m a,71,davletshinaztecan
+151995,pipi1250,KNOW (SOMETHING),m a t i,71,davletshinaztecan
+151996,tete1251,LEAF,x iː b iː tɬ,73,davletshinaztecan
+151997,nort2957,LEAF,x i w i + tɬ,73,davletshinaztecan
+151998,isth1242,LEAF,i s w a ʔ,72,davletshinaztecan
+151999,isth1241,LEAF,i s w a + t,72,davletshinaztecan
+152000,taba1265,LEAF,i s w a + t,72,davletshinaztecan
+152001,pipi1250,LEAF,i s w a + t,72,davletshinaztecan
+152002,tete1251,LIE (REST),m o + t i e k a,74,davletshinaztecan
+152003,nort2957,LIE (REST),m o + t e k a,74,davletshinaztecan
+152004,isth1242,LIE (REST),m o + t eː c a,74,davletshinaztecan
+152005,isth1241,LIE (REST),m o + t e g a,74,davletshinaztecan
+152006,taba1265,LIE (REST),m u + r e k a + k,74,davletshinaztecan
+152007,pipi1250,LIE (REST),m u + t eː k a,74,davletshinaztecan
+152008,nort2957,LIVER,j e l + tɬ a p a tʃ,76,davletshinaztecan
+152009,isth1242,LIVER,j oː l,75,davletshinaztecan
+152010,pipi1250,LIVER,e l + t a p a tʃ,76,davletshinaztecan
+152011,tete1251,LONG,b e j a k,77,davletshinaztecan
+152012,nort2957,LONG,w e j a k,77,davletshinaztecan
+152013,isth1242,LONG,w eː j a k t i ʔ,77,davletshinaztecan
+152014,isth1241,LONG,w eː j a k,77,davletshinaztecan
+152015,taba1265,LONG,w e j a k,77,davletshinaztecan
+152016,pipi1250,LONG,w e j a k,77,davletshinaztecan
+152017,tete1251,LOUSE,a t iː m iː + tɬ,78,davletshinaztecan
+152018,nort2957,LOUSE,p i o h o,79,davletshinaztecan
+152019,isth1242,LOUSE,a t i m i ʔ,78,davletshinaztecan
+152020,isth1241,LOUSE,aː t i n,78,davletshinaztecan
+152021,taba1265,LOUSE,aː t i n,78,davletshinaztecan
+152022,pipi1250,LOUSE,a t i m e + t,78,davletshinaztecan
+152023,tete1251,MAN,u m b r e,81,davletshinaztecan
+152024,nort2957,MAN,tɬ a k a tɬ,80,davletshinaztecan
+152025,isth1242,MAN,t aː g a + ʔ,80,davletshinaztecan
+152026,isth1241,MAN,t aː g a + t,80,davletshinaztecan
+152027,taba1265,MAN,t aː k a + t,80,davletshinaztecan
+152028,pipi1250,MAN,t aː k a + t,80,davletshinaztecan
+152029,tete1251,MANY,m e j a k,82,davletshinaztecan
+152030,nort2957,MANY,m i a k,82,davletshinaztecan
+152031,isth1242,MANY,m i a ʔ,82,davletshinaztecan
+152032,isth1241,MANY,m i a k,82,davletshinaztecan
+152033,taba1265,MANY,m i a k p a,82,davletshinaztecan
+152034,pipi1250,MANY,m i j a k,82,davletshinaztecan
+152035,tete1251,FLESH OR MEAT,n a k a + tɬ,48,davletshinaztecan
+152036,nort2957,FLESH OR MEAT,n a k a + tɬ,48,davletshinaztecan
+152037,isth1242,FLESH OR MEAT,n a k a + ʔ,48,davletshinaztecan
+152038,isth1241,FLESH OR MEAT,n a g a + t,48,davletshinaztecan
+152039,taba1265,FLESH OR MEAT,n a k a + t,48,davletshinaztecan
+152040,pipi1250,FLESH OR MEAT,n a k a + t,48,davletshinaztecan
+152041,tete1251,MOON,m i e ts + tɬ iː,83,davletshinaztecan
+152042,nort2957,MOON,m e ts + tɬ i,83,davletshinaztecan
+152043,isth1242,MOON,m eː ts + t i,83,davletshinaztecan
+152044,isth1241,MOON,m eː s + t i,83,davletshinaztecan
+152045,taba1265,MOON,m eː ts + t i,83,davletshinaztecan
+152046,pipi1250,MOON,m eː ts + t i,83,davletshinaztecan
+152047,tete1251,MOUNTAIN,t e p i e + tɬ,84,davletshinaztecan
+152048,nort2957,MOUNTAIN,t e p e + tɬ,84,davletshinaztecan
+152049,isth1242,MOUNTAIN,t e p eː + ʔ,84,davletshinaztecan
+152050,isth1241,MOUNTAIN,t e p eː + t,84,davletshinaztecan
+152051,pipi1250,MOUNTAIN,t e p eː + t,84,davletshinaztecan
+152052,tete1251,MOUTH,k a m a + k,86,davletshinaztecan
+152053,nort2957,MOUTH,k a m a + k,86,davletshinaztecan
+152054,isth1242,MOUTH,t eː n,85,davletshinaztecan
+152055,isth1241,MOUTH,t eː n,85,davletshinaztecan
+152056,taba1265,MOUTH,t eː n,85,davletshinaztecan
+152057,pipi1250,MOUTH,t eː n,85,davletshinaztecan
+152058,tete1251,NAME,t u k ø,87,davletshinaztecan
+152059,nort2957,NAME,t o k a h + tɬ i,87,davletshinaztecan
+152060,isth1242,NAME,t oː k aː + ʔ,87,davletshinaztecan
+152061,isth1241,NAME,t o g a,87,davletshinaztecan
+152062,taba1265,NAME,t u w a + n,87,davletshinaztecan
+152063,pipi1250,NAME,t uː k e j,87,davletshinaztecan
+152064,tete1251,NECK,k e tʃ + k o tʃ tɬ a,89,davletshinaztecan
+152065,nort2957,NECK,k e tʃ,88,davletshinaztecan
+152066,isth1242,NECK,k e tʃ,88,davletshinaztecan
+152067,isth1241,NECK,g eː tʃ,88,davletshinaztecan
+152068,taba1265,NECK,k e tʃ,88,davletshinaztecan
+152069,pipi1250,NECK,k e tʃ + k uː j u,88,davletshinaztecan
+152070,tete1251,NEW,j a n k w iː + k,90,davletshinaztecan
+152071,nort2957,NEW,j a n k w i + k,90,davletshinaztecan
+152072,isth1242,NEW,j a m k w i + ʔ,90,davletshinaztecan
+152073,isth1241,NEW,j a m b i + k,90,davletshinaztecan
+152074,taba1265,NEW,j a m b w i + k,90,davletshinaztecan
+152075,pipi1250,NEW,j a n k w i + k,90,davletshinaztecan
+152076,tete1251,NIGHT,j o w a l iː,91,davletshinaztecan
+152077,nort2957,NIGHT,j o w a l i,91,davletshinaztecan
+152078,isth1242,NIGHT,j o w a l,91,davletshinaztecan
+152079,isth1241,NIGHT,t a + j o á/a,91,davletshinaztecan
+152080,taba1265,NIGHT,t a + j u w a + k,91,davletshinaztecan
+152081,pipi1250,NIGHT,t a + j u w a,91,davletshinaztecan
+152082,tete1251,NOSE,j e k a + ts o l,92,davletshinaztecan
+152083,nort2957,NOSE,j e k a + k,92,davletshinaztecan
+152084,isth1242,NOSE,j a k + t i,92,davletshinaztecan
+152085,isth1241,NOSE,j a g a + t,92,davletshinaztecan
+152086,taba1265,NOSE,j a k,92,davletshinaztecan
+152087,pipi1250,NOSE,j a k,92,davletshinaztecan
+152088,tete1251,NOT,a m o,93,davletshinaztecan
+152089,nort2957,NOT,a h m o,93,davletshinaztecan
+152090,isth1242,NOT,a j aː ʔ,94,davletshinaztecan
+152091,isth1241,NOT,a m ó/o,93,davletshinaztecan
+152092,taba1265,NOT,t e,96,davletshinaztecan
+152093,pipi1250,NOT,t eː + t e s u,95,davletshinaztecan
+152094,tete1251,ONE,s i e,97,davletshinaztecan
+152095,nort2957,ONE,s e j a,97,davletshinaztecan
+152096,isth1242,ONE,s eː,97,davletshinaztecan
+152097,isth1241,ONE,s e,97,davletshinaztecan
+152098,taba1265,ONE,s e,97,davletshinaztecan
+152099,pipi1250,ONE,s eː,97,davletshinaztecan
+152100,tete1251,PERSON,h i e n t e,99,davletshinaztecan
+152101,isth1242,PERSON,h e n t e,99,davletshinaztecan
+152102,isth1241,PERSON,k r i s t i a n o h,98,davletshinaztecan
+152103,taba1265,PERSON,j o h o m e h,100,davletshinaztecan
+152104,pipi1250,PERSON,k r i s t a n u h,98,davletshinaztecan
+152105,tete1251,RAINING OR RAIN,k iː j a b iː + tɬ,103,davletshinaztecan
+152106,nort2957,RAINING OR RAIN,k i j a w i + tɬ,103,davletshinaztecan
+152107,isth1242,RAINING OR RAIN,k i a h u aː + ʔ,102,davletshinaztecan
+152108,isth1241,RAINING OR RAIN,aː + ts o n a + t,101,davletshinaztecan
+152109,taba1265,RAINING OR RAIN,tʃ i m aː + t,105,davletshinaztecan
+152110,pipi1250,RAINING OR RAIN,aː + t,104,davletshinaztecan
+152111,tete1251,RED,tʃ i + tʃ i + l t iː k,107,davletshinaztecan
+152112,nort2957,RED,tʃ i + tʃ i l + t i k,107,davletshinaztecan
+152113,isth1242,RED,tʃ iː l + t i ʔ,107,davletshinaztecan
+152114,isth1241,RED,t a + t a w i + k,106,davletshinaztecan
+152115,taba1265,RED,t r a i k,108,davletshinaztecan
+152116,pipi1250,RED,tʃ iː l + t i k,107,davletshinaztecan
+152117,tete1251,ROAD,o h + tɬ iː,109,davletshinaztecan
+152118,nort2957,ROAD,o h + tɬ i,109,davletshinaztecan
+152119,isth1242,ROAD,o h + t i,109,davletshinaztecan
+152120,isth1241,ROAD,o h + t i,109,davletshinaztecan
+152121,taba1265,ROAD,u h + t i,109,davletshinaztecan
+152122,pipi1250,ROAD,u h + t i,109,davletshinaztecan
+152123,tete1251,ROOT,n e l w a + j u + tɬ,111,davletshinaztecan
+152124,nort2957,ROOT,n e l w a + tɬ,111,davletshinaztecan
+152125,isth1242,ROOT,n e l w a + ʔ,111,davletshinaztecan
+152126,isth1241,ROOT,b a + t a k s o n,110,davletshinaztecan
+152127,taba1265,ROOT,t a l w a + t,111,davletshinaztecan
+152128,pipi1250,ROOT,n e l w a + t,111,davletshinaztecan
+152129,tete1251,ROUND,j e w a l + t iː k,113,davletshinaztecan
+152130,nort2957,ROUND,j e w a l + t i k,113,davletshinaztecan
+152131,isth1242,ROUND,j a w a l + t i ʔ,113,davletshinaztecan
+152132,isth1241,ROUND,m o n s o,112,davletshinaztecan
+152133,taba1265,ROUND,t u l u ts + t i k,114,davletshinaztecan
+152134,pipi1250,ROUND,j a w a l + n a h,113,davletshinaztecan
+152135,tete1251,SAND,x ø l iː,115,davletshinaztecan
+152136,nort2957,SAND,x a l i,115,davletshinaztecan
+152137,isth1242,SAND,x aː h l i,115,davletshinaztecan
+152138,isth1241,SAND,x aː h l i,115,davletshinaztecan
+152139,taba1265,SAND,x aː h l i,115,davletshinaztecan
+152140,pipi1250,SAND,aː + x aː l,115,davletshinaztecan
+152141,tete1251,SAY,ʰt o a,116,davletshinaztecan
+152142,nort2957,SAY,i h t o a,116,davletshinaztecan
+152143,isth1242,SAY,k + i h t o a,116,davletshinaztecan
+152144,isth1241,SAY,i h t o a,116,davletshinaztecan
+152145,taba1265,SAY,i h l i,117,davletshinaztecan
+152146,pipi1250,SAY,i l w i a,117,davletshinaztecan
+152147,tete1251,SEE,ʰt a,118,davletshinaztecan
+152148,nort2957,SEE,i t a,118,davletshinaztecan
+152149,isth1242,SEE,i t a,118,davletshinaztecan
+152150,isth1241,SEE,i t a,118,davletshinaztecan
+152151,taba1265,SEE,i r a,118,davletshinaztecan
+152152,pipi1250,SEE,i t a,118,davletshinaztecan
+152153,tete1251,SEED,x iː n + ø tʃ + tɬ iː,122,davletshinaztecan
+152154,nort2957,SEED,a tʃ tɬ i,120,davletshinaztecan
+152155,isth1242,SEED,j oː l,119,davletshinaztecan
+152156,isth1241,SEED,j oː l,119,davletshinaztecan
+152157,taba1265,SEED,j u h l u,119,davletshinaztecan
+152158,pipi1250,SEED,iː x,121,davletshinaztecan
+152159,tete1251,SIT,m o + tɬ ø l iː a,123,davletshinaztecan
+152160,nort2957,SIT,m o + tɬ a l i a,123,davletshinaztecan
+152161,isth1242,SIT,m o + t aː l i á/a,123,davletshinaztecan
+152162,isth1241,SIT,m o + t aː l i,123,davletshinaztecan
+152163,taba1265,SIT,m u + r a l i h + t u k,123,davletshinaztecan
+152164,pipi1250,SIT,m u + t aː l i a,123,davletshinaztecan
+152165,tete1251,SKIN,j e w a j o,126,davletshinaztecan
+152166,nort2957,SKIN,j e w a j o,126,davletshinaztecan
+152167,isth1242,SKIN,k a h l oː + ʔ,125,davletshinaztecan
+152168,isth1241,SKIN,b e t a x,124,davletshinaztecan
+152169,taba1265,SKIN,b w é/e r a x t i,124,davletshinaztecan
+152170,pipi1250,SKIN,eː w a j u,126,davletshinaztecan
+152171,tete1251,SLEEP,k o tʃ iː,127,davletshinaztecan
+152172,nort2957,SLEEP,k o tʃ i,127,davletshinaztecan
+152173,isth1242,SLEEP,k o tʃ i,127,davletshinaztecan
+152174,isth1241,SLEEP,g o tʃ i,127,davletshinaztecan
+152175,taba1265,SLEEP,k u tʃ i,127,davletshinaztecan
+152176,pipi1250,SLEEP,k u tʃ i,127,davletshinaztecan
+152177,tete1251,SMALL,ts i ts iː k iː + ts i,133,davletshinaztecan
+152178,nort2957,SMALL,k i ts i n i n,130,davletshinaztecan
+152179,isth1242,SMALL,a l iː m + p a,129,davletshinaztecan
+152180,isth1241,SMALL,tʃ i h tʃ i n t i + ts i n,128,davletshinaztecan
+152181,taba1265,SMALL,ts i r i + t u k,132,davletshinaztecan
+152182,pipi1250,SMALL,a tʃ i h + tʃ i n,131,davletshinaztecan
+152183,tete1251,SMOKE (EXHAUST),p u k + tɬ iː,134,davletshinaztecan
+152184,nort2957,SMOKE (EXHAUST),p o k + tɬ i,134,davletshinaztecan
+152185,isth1242,SMOKE (EXHAUST),p oː k + t i,134,davletshinaztecan
+152186,isth1241,SMOKE (EXHAUST),p oː k + t i,134,davletshinaztecan
+152187,taba1265,SMOKE (EXHAUST),p uː k + t i,134,davletshinaztecan
+152188,pipi1250,SMOKE (EXHAUST),p u k + t i,134,davletshinaztecan
+152189,tete1251,STAND,m o + k e ts a,135,davletshinaztecan
+152190,nort2957,STAND,m o + t e l + k e ts a,135,davletshinaztecan
+152191,isth1242,STAND,m o + k e ts a,135,davletshinaztecan
+152192,isth1241,STAND,m o + g e ts a,135,davletshinaztecan
+152193,taba1265,STAND,i h k a t u k,136,davletshinaztecan
+152194,pipi1250,STAND,m u + k e ts a,135,davletshinaztecan
+152195,tete1251,STAR,s i tɬ a l iː,138,davletshinaztecan
+152196,nort2957,STAR,s i tɬ a l i,138,davletshinaztecan
+152197,isth1242,STAR,s iː t a l i n,138,davletshinaztecan
+152198,isth1241,STAR,l u s e r o,137,davletshinaztecan
+152199,taba1265,STAR,s iː t a l,138,davletshinaztecan
+152200,pipi1250,STAR,s iː t a l,138,davletshinaztecan
+152201,tete1251,STONE,t i e + t e + t u,139,davletshinaztecan
+152202,nort2957,STONE,t e + tɬ,139,davletshinaztecan
+152203,isth1242,STONE,t e ʔ + t i,139,davletshinaztecan
+152204,isth1241,STONE,t e + t,139,davletshinaztecan
+152205,taba1265,STONE,x aː l + t e + t,140,davletshinaztecan
+152206,pipi1250,STONE,t e + t,139,davletshinaztecan
+152207,tete1251,SUN,t u n a l iː,141,davletshinaztecan
+152208,nort2957,SUN,t o n a l + ts i n + tɬ i,141,davletshinaztecan
+152209,isth1242,SUN,t o + t a h + ts iː n,142,davletshinaztecan
+152210,isth1241,SUN,t oː n a t i,141,davletshinaztecan
+152211,taba1265,SUN,r o n t i n,143,davletshinaztecan
+152212,pipi1250,SUN,t uː n a l,141,davletshinaztecan
+152213,tete1251,SWIM,m + ø + b iː l ø n a,147,davletshinaztecan
+152214,nort2957,SWIM,m + a l + t i j a,146,davletshinaztecan
+152215,isth1242,SWIM,aː + p a t aː n i,145,davletshinaztecan
+152216,isth1241,SWIM,aː h k i a,144,davletshinaztecan
+152217,tete1251,TAIL,k w iː tɬ a p iː l,148,davletshinaztecan
+152218,nort2957,TAIL,k w i tɬ a p i l,148,davletshinaztecan
+152219,isth1242,TAIL,k w i t a p iː l,148,davletshinaztecan
+152220,isth1241,TAIL,b i t a p i l,148,davletshinaztecan
+152221,taba1265,TAIL,b w i r a p i l,148,davletshinaztecan
+152222,pipi1250,TAIL,k w i tɬ a p i l,148,davletshinaztecan
+152223,tete1251,THAT,iː n + u,150,davletshinaztecan
+152224,nort2957,THAT,i n + o n,150,davletshinaztecan
+152225,isth1242,THAT,i n + eː p a,150,davletshinaztecan
+152226,isth1241,THAT,h oː n,149,davletshinaztecan
+152227,taba1265,THAT,h uː n i,149,davletshinaztecan
+152228,pipi1250,THAT,u n i,149,davletshinaztecan
+152229,tete1251,THIS,i n + i,151,davletshinaztecan
+152230,nort2957,THIS,i n + i n,151,davletshinaztecan
+152231,isth1242,THIS,i n + iː n,151,davletshinaztecan
+152232,isth1241,THIS,h iː n,151,davletshinaztecan
+152233,taba1265,THIS,h iː n i,151,davletshinaztecan
+152234,pipi1250,THIS,i n i,151,davletshinaztecan
+152235,tete1251,THOU,t a h a,152,davletshinaztecan
+152236,nort2957,THOU,t e h w a,152,davletshinaztecan
+152237,isth1242,THOU,t e h,152,davletshinaztecan
+152238,isth1241,THOU,t e h a,152,davletshinaztecan
+152239,taba1265,THOU,t e h e,152,davletshinaztecan
+152240,pipi1250,THOU,t a,152,davletshinaztecan
+152241,tete1251,TONGUE,n e n e p iː l,153,davletshinaztecan
+152242,nort2957,TONGUE,n e n e p i l,153,davletshinaztecan
+152243,isth1242,TONGUE,l e n w a,154,davletshinaztecan
+152244,isth1241,TONGUE,n e n e p i l,153,davletshinaztecan
+152245,taba1265,TONGUE,n eː n e p i l,153,davletshinaztecan
+152246,pipi1250,TONGUE,n e n e p i l,153,davletshinaztecan
+152247,tete1251,TOOTH,tɬ a n + k o tʃ,155,davletshinaztecan
+152248,nort2957,TOOTH,tɬ a n,155,davletshinaztecan
+152249,isth1242,TOOTH,t a n + t i,155,davletshinaztecan
+152250,isth1241,TOOTH,t a n,155,davletshinaztecan
+152251,taba1265,TOOTH,t aː n,155,davletshinaztecan
+152252,pipi1250,TOOTH,t a n,155,davletshinaztecan
+152253,tete1251,TREE,k w a b iː + tɬ,156,davletshinaztecan
+152254,nort2957,TREE,k o w i + tɬ,156,davletshinaztecan
+152255,isth1242,TREE,k w a w i + ʔ,156,davletshinaztecan
+152256,isth1241,TREE,b a w i + t,156,davletshinaztecan
+152257,taba1265,TREE,k o i + t,156,davletshinaztecan
+152258,pipi1250,TREE,k w a w i + t,156,davletshinaztecan
+152259,tete1251,TWO,u m e,157,davletshinaztecan
+152260,nort2957,TWO,o m e,157,davletshinaztecan
+152261,isth1242,TWO,oː m e,157,davletshinaztecan
+152262,isth1241,TWO,oː m e,157,davletshinaztecan
+152263,taba1265,TWO,uː m e,157,davletshinaztecan
+152264,pipi1250,TWO,uː m e,157,davletshinaztecan
+152265,tete1251,WALK,n e h + n e m iː,158,davletshinaztecan
+152266,nort2957,WALK,n e h + n e m i,158,davletshinaztecan
+152267,isth1242,WALK,n e h + n e m i,158,davletshinaztecan
+152268,isth1241,WALK,n e h + n e m i,158,davletshinaztecan
+152269,taba1265,WALK,n e h + n e m i,158,davletshinaztecan
+152270,pipi1250,WALK,n e h + n e m i,158,davletshinaztecan
+152271,tete1251,HOT OR WARM,t o t u n + k iː,66,davletshinaztecan
+152272,nort2957,HOT OR WARM,t o t o n k i,66,davletshinaztecan
+152273,isth1242,HOT OR WARM,t o t oː n i ʔ,66,davletshinaztecan
+152274,isth1241,HOT OR WARM,t o t oː n i k,66,davletshinaztecan
+152275,taba1265,HOT OR WARM,t r uː n i k,66,davletshinaztecan
+152276,pipi1250,HOT OR WARM,t u t uː n i k,66,davletshinaztecan
+152277,tete1251,WATER,ø + ts i n + tɬ i,160,davletshinaztecan
+152278,nort2957,WATER,a + tɬ,159,davletshinaztecan
+152279,isth1242,WATER,aː ʔ + t i,159,davletshinaztecan
+152280,isth1241,WATER,aː + t,159,davletshinaztecan
+152281,taba1265,WATER,m aː + t,159,davletshinaztecan
+152282,pipi1250,WATER,aː + t,159,davletshinaztecan
+152283,tete1251,WE,t e h w a,161,davletshinaztecan
+152284,nort2957,WE,t e h w a n,161,davletshinaztecan
+152285,isth1242,WE,t e h a m e h,161,davletshinaztecan
+152286,isth1241,WE,t e h a m e h,161,davletshinaztecan
+152287,taba1265,WE,t o h o m e n,161,davletshinaztecan
+152288,pipi1250,WE,t e h e m e t,161,davletshinaztecan
+152289,tete1251,WHAT,tɬ i n iː n u,163,davletshinaztecan
+152290,nort2957,WHAT,tɬ e n,162,davletshinaztecan
+152291,isth1242,WHAT,t eː,162,davletshinaztecan
+152292,isth1241,WHAT,t eː,162,davletshinaztecan
+152293,taba1265,WHAT,t a i,162,davletshinaztecan
+152294,pipi1250,WHAT,t aː,162,davletshinaztecan
+152295,tete1251,WHITE,tʃ i pː p ø w a k,165,davletshinaztecan
+152296,nort2957,WHITE,i s t a k,164,davletshinaztecan
+152297,isth1242,WHITE,i s t aː ʔ,164,davletshinaztecan
+152298,isth1241,WHITE,i s t aː k,164,davletshinaztecan
+152299,taba1265,WHITE,i s t aː k,164,davletshinaztecan
+152300,pipi1250,WHITE,i s t a k,164,davletshinaztecan
+152301,tete1251,WHO,ø k iː n u,167,davletshinaztecan
+152302,nort2957,WHO,a k i n,167,davletshinaztecan
+152303,isth1242,WHO,aː ʔ,166,davletshinaztecan
+152304,isth1241,WHO,aː k,166,davletshinaztecan
+152305,taba1265,WHO,a i k,166,davletshinaztecan
+152306,pipi1250,WHO,k aː,168,davletshinaztecan
+152307,tete1251,WOMAN,s o w a + tɬ,169,davletshinaztecan
+152308,nort2957,WOMAN,s i w a + tɬ,169,davletshinaztecan
+152309,isth1242,WOMAN,s i w aː + ʔ,169,davletshinaztecan
+152310,isth1241,WOMAN,s o áː/aː + t,169,davletshinaztecan
+152311,taba1265,WOMAN,s u w a + t,169,davletshinaztecan
+152312,pipi1250,WOMAN,s i w aː + t,169,davletshinaztecan
+152313,tete1251,YELLOW,k o s t iː k,170,davletshinaztecan
+152314,nort2957,YELLOW,k o s t i k,170,davletshinaztecan
+152315,isth1242,YELLOW,k o s t i ʔ,170,davletshinaztecan
+152316,isth1241,YELLOW,g o s t i k,170,davletshinaztecan
+152317,taba1265,YELLOW,j u k s i k,171,davletshinaztecan
+152318,pipi1250,YELLOW,t u l t i k,170,davletshinaztecan

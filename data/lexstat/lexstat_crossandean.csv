@@ -1,0 +1,3682 @@
+id,doculect,concept,forms,lexstatid,db
+148049,east2551,ONE,h u k,356,crossandean
+148050,east2551,ONE,h u χ,356,crossandean
+148051,east2551,ONE,h u q,356,crossandean
+148052,ayac1239,ONE,h u k,356,crossandean
+148053,chac1250,ONE,s u x,356,crossandean
+148054,caja1238,ONE,s u χ,356,crossandean
+148055,chip1262,ONE,z i n t a,358,crossandean
+148056,cusc1236,ONE,h u χ,356,crossandean
+148057,hual1241,ONE,h u k,356,crossandean
+148058,huay1241,ONE,s u k,356,crossandean
+148059,jauj1238,ONE,h u k,356,crossandean
+148060,imba1240,ONE,ʃ u k,356,crossandean
+148061,lamb1276,ONE,u k,356,crossandean
+148062,jaqa1244,ONE,m a j a,357,crossandean
+148063,cauq1239,ONE,m a j a,357,crossandean
+148064,sanm1289,ONE,s u k,356,crossandean
+148065,yauy1235,ONE,h u k,356,crossandean
+148066,sout2991,ONE,u x,356,crossandean
+148067,napo1242,ONE,ʃ u,356,crossandean
+148068,paca1245,ONE,x u k,356,crossandean
+148069,sout2990,ONE,ʃ u k,356,crossandean
+148070,puno1238,ONE,u x,356,crossandean
+148071,inga1252,ONE,s u g,356,crossandean
+148072,sant1432,ONE,s u x,356,crossandean
+148073,tena1240,ONE,ʃ u x,356,crossandean
+148074,coro1247,ONE,u k,356,crossandean
+148075,east2551,TEN,tʃ u n k a,506,crossandean
+148076,ayac1239,TEN,tʃ u n k a,506,crossandean
+148077,chac1250,TEN,ʈʂ u n g a,506,crossandean
+148078,caja1238,TEN,ʈʂ u n g a,506,crossandean
+148079,chip1262,TEN,t u n k a,506,crossandean
+148080,cusc1236,TEN,tʃ u n k a,506,crossandean
+148081,hual1241,TEN,tʃ u n k a,506,crossandean
+148082,huay1241,TEN,ʈʂ u n k a,506,crossandean
+148083,imba1240,TEN,tʃ u n g a,506,crossandean
+148084,lamb1276,TEN,d i e s,507,crossandean
+148085,jaqa1244,TEN,ʈʂ u n k a,506,crossandean
+148086,cauq1239,TEN,ʈʂ u n k a,506,crossandean
+148087,sanm1289,TEN,tʃ u n g a,506,crossandean
+148088,yauy1235,TEN,ʈʂ u n k a,506,crossandean
+148089,sout2991,TEN,tʃ u n k a,506,crossandean
+148090,napo1242,TEN,tʃ u n g a,506,crossandean
+148091,paca1245,TEN,ʈʂ u ŋ k a,506,crossandean
+148092,sout2990,TEN,tʃ i n g u,506,crossandean
+148093,puno1238,TEN,tʃ u n k a,506,crossandean
+148094,inga1252,TEN,tʃ u n g a,506,crossandean
+148095,sant1432,TEN,tʃ u ŋ k a,506,crossandean
+148096,tena1240,TEN,tʃ u n g a,506,crossandean
+148097,coro1247,TEN,ʈʂ u n k a,506,crossandean
+148098,east2551,GREEN,q o m i r,205,crossandean
+148099,ayac1239,GREEN,χ u m i !r̝/r,205,crossandean
+148100,chac1250,GREEN,tʃ i k j a x,206,crossandean
+148101,caja1238,GREEN,tʃ i ʁ j a x,206,crossandean
+148102,chip1262,GREEN,tʃʼ o j ɲ a,207,crossandean
+148103,cusc1236,GREEN,qʼ u m i r,205,crossandean
+148104,hual1241,GREEN,b e r d e,208,crossandean
+148105,huay1241,GREEN,b i ɾ d i,208,crossandean
+148106,imba1240,GREEN,b i ɾ d i,208,crossandean
+148107,lamb1276,GREEN,tʃ i χ j a χ,206,crossandean
+148108,jaqa1244,GREEN,b e r d e,208,crossandean
+148109,cauq1239,GREEN,tʃ i k j a,206,crossandean
+148110,sanm1289,GREEN,tʃ i k j a k,206,crossandean
+148111,yauy1235,GREEN,b e r d e,208,crossandean
+148112,sout2991,GREEN,qʼ u m i r,205,crossandean
+148113,napo1242,GREEN,b i r d i,208,crossandean
+148114,paca1245,GREEN,b e r d i,208,crossandean
+148115,sout2990,GREEN,k i ʎ u,209,crossandean
+148116,puno1238,GREEN,qʼ u m i r,205,crossandean
+148117,sant1432,GREEN,q o m e ɾ,205,crossandean
+148118,tena1240,GREEN,b e r d e,208,crossandean
+148119,coro1247,GREEN,ts i q j a q,206,crossandean
+148120,east2551,YELLOW,q a r w a,591,crossandean
+148121,ayac1239,YELLOW,χ e ʎ u,590,crossandean
+148122,chac1250,YELLOW,k i dʑ u,590,crossandean
+148123,caja1238,YELLOW,q a r w a,591,crossandean
+148124,chip1262,YELLOW,qʼ i ʎ u,590,crossandean
+148125,cusc1236,YELLOW,qʼ i ʎ u,590,crossandean
+148126,hual1241,YELLOW,q a r w a ʃ,591,crossandean
+148127,jauj1238,YELLOW,t u n ʔ u ʂ,592,crossandean
+148128,huay1241,YELLOW,t u n ʔ u ʂ,592,crossandean
+148129,imba1240,YELLOW,k i ʎ u,590,crossandean
+148130,lamb1276,YELLOW,χ a r w a,591,crossandean
+148131,jaqa1244,YELLOW,t j u j u,593,crossandean
+148132,cauq1239,YELLOW,q a r w a,591,crossandean
+148133,sanm1289,YELLOW,k i dʑ u,590,crossandean
+148134,yauy1235,YELLOW,q a r w a ʃ,591,crossandean
+148135,sout2991,YELLOW,qʼ i ʎ u,590,crossandean
+148136,napo1242,YELLOW,k i ʎ u,590,crossandean
+148137,paca1245,YELLOW,ʁ a ɾ w a,591,crossandean
+148138,sout2990,YELLOW,k i ʎ u,590,crossandean
+148139,puno1238,YELLOW,qʼ i ʎ u,590,crossandean
+148140,inga1252,YELLOW,x i ʎ u,590,crossandean
+148141,sant1432,YELLOW,q ɪ ʒ u,590,crossandean
+148142,tena1240,YELLOW,k i ʎ u,590,crossandean
+148143,coro1247,YELLOW,q a r w a,591,crossandean
+148144,east2551,BIG,h a t u n,13,crossandean
+148145,ayac1239,BIG,h a t u ŋ,13,crossandean
+148146,chac1250,BIG,a t u n,13,crossandean
+148147,caja1238,BIG,a t u n,13,crossandean
+148148,chip1262,BIG,m i k t a,15,crossandean
+148149,cusc1236,BIG,h a t u n,13,crossandean
+148150,hual1241,BIG,h a t u n,13,crossandean
+148151,huay1241,BIG,h a t u n,13,crossandean
+148152,imba1240,BIG,x a t u n,13,crossandean
+148153,lamb1276,BIG,a t u n,13,crossandean
+148154,jaqa1244,BIG,a x tsʼ a,14,crossandean
+148155,cauq1239,BIG,a s ʈʂʼ a,14,crossandean
+148156,sanm1289,BIG,a t u n,13,crossandean
+148157,yauy1235,BIG,h a t u n,13,crossandean
+148158,sout2991,BIG,h a t u n,13,crossandean
+148159,napo1242,BIG,h a t u n,13,crossandean
+148160,paca1245,BIG,x a t u ŋ,13,crossandean
+148161,sout2990,BIG,a t u n,13,crossandean
+148162,puno1238,BIG,h a t u n,13,crossandean
+148163,inga1252,BIG,a t u n,13,crossandean
+148164,sant1432,BIG,a t u n,13,crossandean
+148165,tena1240,BIG,a t u n,13,crossandean
+148166,coro1247,BIG,a t u n,13,crossandean
+148167,east2551,UP,h a n a n,542,crossandean
+148168,ayac1239,UP,h a n a χ,542,crossandean
+148169,chac1250,UP,a n a x,542,crossandean
+148170,caja1238,UP,a n a χ,542,crossandean
+148171,chip1262,UP,ts e w k u,544,crossandean
+148172,cusc1236,UP,w i tʃ ai,546,crossandean
+148173,hual1241,UP,h a n a,542,crossandean
+148174,huay1241,UP,χ a n a,542,crossandean
+148175,imba1240,UP,x a t u n,542,crossandean
+148176,lamb1276,UP,a n a χ,542,crossandean
+148177,jaqa1244,UP,a r i + j a,543,crossandean
+148178,cauq1239,UP,a r i + j a,543,crossandean
+148179,sanm1289,UP,a n a k,542,crossandean
+148180,yauy1235,UP,h a n ai,542,crossandean
+148181,sout2991,UP,p a t a,548,crossandean
+148182,napo1242,UP,h a w a,547,crossandean
+148183,paca1245,UP,x a n a,542,crossandean
+148184,sout2990,UP,a w a,547,crossandean
+148185,puno1238,UP,w i tʃ ai,546,crossandean
+148186,inga1252,UP,a w a + p i,547,crossandean
+148187,inga1252,UP,w i tʃ ai,546,crossandean
+148188,sant1432,UP,a n a χ,542,crossandean
+148189,tena1240,UP,a n a k,542,crossandean
+148190,coro1247,UP,u m a,545,crossandean
+148191,east2551,SMALL,tʃ i k i,457,crossandean
+148192,east2551,SMALL,tʃ i n k i,457,crossandean
+148193,east2551,SMALL,tʃ i n l i,458,crossandean
+148194,east2551,SMALL,h u tʃ ui,455,crossandean
+148195,east2551,SMALL,t a k s a,453,crossandean
+148196,ayac1239,SMALL,t a k s a,453,crossandean
+148197,ayac1239,SMALL,u tʃ ui,455,crossandean
+148198,chac1250,SMALL,u tʃ ui + ʎ a,455,crossandean
+148199,caja1238,SMALL,t a k ʃ a,453,crossandean
+148200,chip1262,SMALL,z q o l t a,456,crossandean
+148201,cusc1236,SMALL,h u tʃʼ ui,455,crossandean
+148202,hual1241,SMALL,i tʃ i k,455,crossandean
+148203,huay1241,SMALL,u tʃ u k,455,crossandean
+148204,huay1241,SMALL,t a k ʂ a,453,crossandean
+148205,imba1240,SMALL,u tʃ i + ʎ a,455,crossandean
+148206,lamb1276,SMALL,t a k ʃ a,453,crossandean
+148207,jaqa1244,SMALL,u t j i t j a,454,crossandean
+148208,jaqa1244,SMALL,u x t j i t j a,454,crossandean
+148209,cauq1239,SMALL,i t j i t j a,454,crossandean
+148210,sanm1289,SMALL,t a k ʃ a,453,crossandean
+148211,yauy1235,SMALL,u tʃ ui,455,crossandean
+148212,sout2991,SMALL,h u tʃʼ ui,455,crossandean
+148213,napo1242,SMALL,i tʃ i + ʎ a,455,crossandean
+148214,paca1245,SMALL,u tʃ u k,455,crossandean
+148215,sout2990,SMALL,u tʃ i + ʎ a,455,crossandean
+148216,puno1238,SMALL,h u tʃʼ ui,455,crossandean
+148217,inga1252,SMALL,u tʃ u + ʎ a,455,crossandean
+148218,sant1432,SMALL,u t u + l a,455,crossandean
+148219,tena1240,SMALL,i tʃ i + ʎ a,455,crossandean
+148220,coro1247,SMALL,u tʃ u k,455,crossandean
+148221,coro1247,SMALL,i tʃ i k,455,crossandean
+148222,east2551,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148223,ayac1239,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148224,ayac1239,YOUNG (OF WOMAN),p a s ɲ a,609,crossandean
+148225,chac1250,YOUNG (OF WOMAN),ʃ i p a ʃ,602,crossandean
+148226,caja1238,YOUNG (OF WOMAN),ʃ i p a ʃ,602,crossandean
+148227,chip1262,YOUNG (OF WOMAN),t u r,603,crossandean
+148228,cusc1236,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148229,hual1241,YOUNG (OF WOMAN),w a n k a ʃ,604,crossandean
+148230,huay1241,YOUNG (OF WOMAN),l a s a k,605,crossandean
+148231,huay1241,YOUNG (OF WOMAN),w a m l a,607,crossandean
+148232,imba1240,YOUNG (OF WOMAN),w a ɾ m i,606,crossandean
+148233,lamb1276,YOUNG (OF WOMAN),ʃ i p a ʃ,602,crossandean
+148234,jaqa1244,YOUNG (OF WOMAN),s i p a + s a,602,crossandean
+148235,cauq1239,YOUNG (OF WOMAN),s i p a + s a,602,crossandean
+148236,sanm1289,YOUNG (OF WOMAN),ʃ i p a ʃ,602,crossandean
+148237,yauy1235,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148238,sout2991,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148239,napo1242,YOUNG (OF WOMAN),m a l t a,608,crossandean
+148240,paca1245,YOUNG (OF WOMAN),x i p a ʃ,602,crossandean
+148241,paca1245,YOUNG (OF WOMAN),r a ʁ a k,605,crossandean
+148242,sout2990,YOUNG (OF WOMAN),ʃ i p a s,602,crossandean
+148243,puno1238,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148244,inga1252,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148245,sant1432,YOUNG (OF WOMAN),s i p a s,602,crossandean
+148246,tena1240,YOUNG (OF WOMAN),m a l t a,608,crossandean
+148247,coro1247,YOUNG (OF WOMAN),ʃ i p a ʃ,602,crossandean
+148248,east2551,YOUNG (OF MAN),m a q t a,594,crossandean
+148249,east2551,YOUNG (OF MAN),p a s ɲ a,601,crossandean
+148250,east2551,YOUNG (OF MAN),w ai n a,595,crossandean
+148251,ayac1239,YOUNG (OF MAN),m a χ t a,594,crossandean
+148252,chac1250,YOUNG (OF MAN),w ai n a,595,crossandean
+148253,caja1238,YOUNG (OF MAN),w a m r a,595,crossandean
+148254,chip1262,YOUNG (OF MAN),tʰ o w a,597,crossandean
+148255,cusc1236,YOUNG (OF MAN),w ai n a,595,crossandean
+148256,hual1241,YOUNG (OF MAN),w a n k a ʃ,595,crossandean
+148257,huay1241,YOUNG (OF MAN),w a l a ʂ,595,crossandean
+148258,imba1240,YOUNG (OF MAN),x a t u n + w a m b ɾ a,599,crossandean
+148259,lamb1276,YOUNG (OF MAN),m a l t u n,600,crossandean
+148260,jaqa1244,YOUNG (OF MAN),m u s u,596,crossandean
+148261,cauq1239,YOUNG (OF MAN),m u s u,596,crossandean
+148262,sanm1289,YOUNG (OF MAN),w ai n a,595,crossandean
+148263,yauy1235,YOUNG (OF MAN),m a χ t a,594,crossandean
+148264,sout2991,YOUNG (OF MAN),w ai n a,595,crossandean
+148265,napo1242,YOUNG (OF MAN),m a l t a,594,crossandean
+148266,paca1245,YOUNG (OF MAN),w a m ɾ a,595,crossandean
+148267,sout2990,YOUNG (OF MAN),m u s u,596,crossandean
+148268,sout2990,YOUNG (OF MAN),w ai n a,595,crossandean
+148269,puno1238,YOUNG (OF MAN),w ai n a,595,crossandean
+148270,inga1252,YOUNG (OF MAN),m u s u,596,crossandean
+148271,sant1432,YOUNG (OF MAN),w ai n a,595,crossandean
+148272,tena1240,YOUNG (OF MAN),m a l t a,594,crossandean
+148273,coro1247,YOUNG (OF MAN),x o b e n,598,crossandean
+148274,east2551,OLD (OF MAN),m a tʃ u,344,crossandean
+148275,ayac1239,OLD (OF MAN),m a tʃ u,344,crossandean
+148276,chac1250,OLD (OF MAN),m a tʃ u,344,crossandean
+148277,caja1238,OLD (OF MAN),m au k a,345,crossandean
+148278,chip1262,OLD (OF MAN),tʃ a k w a,347,crossandean
+148279,cusc1236,OLD (OF MAN),m a tʃ u,344,crossandean
+148280,hual1241,OLD (OF MAN),au k i s,348,crossandean
+148281,huay1241,OLD (OF MAN),au k i ʃ,348,crossandean
+148282,imba1240,OLD (OF MAN),ɾ u k u,349,crossandean
+148283,lamb1276,OLD (OF MAN),!r̝/r u k u,349,crossandean
+148284,jaqa1244,OLD (OF MAN),a tʃ a + k a,346,crossandean
+148285,cauq1239,OLD (OF MAN),a tʃ a + k a,346,crossandean
+148286,sanm1289,OLD (OF MAN),m a tʃ u,344,crossandean
+148287,yauy1235,OLD (OF MAN),au k i ʃ,348,crossandean
+148288,sout2991,OLD (OF MAN),a tʃ a + tʃ i,346,crossandean
+148289,napo1242,OLD (OF MAN),r u k u,349,crossandean
+148290,paca1245,OLD (OF MAN),au k i ŋ,348,crossandean
+148291,sout2990,OLD (OF MAN),ɾ u k u,349,crossandean
+148292,puno1238,OLD (OF MAN),m a tʃ u,344,crossandean
+148293,inga1252,OLD (OF MAN),r u k u,349,crossandean
+148294,sant1432,OLD (OF MAN),m a tʃ u,344,crossandean
+148295,tena1240,OLD (OF MAN),r u k u,349,crossandean
+148296,coro1247,OLD (OF MAN),au k i s,348,crossandean
+148297,east2551,OLD (OF WOMAN),p a j a,350,crossandean
+148298,ayac1239,OLD (OF WOMAN),p a j a,350,crossandean
+148299,chac1250,OLD (OF WOMAN),p a j a,350,crossandean
+148300,caja1238,OLD (OF WOMAN),b i e x a,351,crossandean
+148301,chip1262,OLD (OF WOMAN),tʃ a k w,353,crossandean
+148302,cusc1236,OLD (OF WOMAN),p a j a,350,crossandean
+148303,hual1241,OLD (OF WOMAN),tʃ a k w a n,353,crossandean
+148304,huay1241,OLD (OF WOMAN),tʃ a k w a ʂ,353,crossandean
+148305,imba1240,OLD (OF WOMAN),p a j a,350,crossandean
+148306,lamb1276,OLD (OF WOMAN),!r̝/r u k u,354,crossandean
+148307,lamb1276,OLD (OF WOMAN),!r̝/r u k u + n a,354,crossandean
+148308,jaqa1244,OLD (OF WOMAN),a p a + k a,352,crossandean
+148309,cauq1239,OLD (OF WOMAN),a p a + k a,352,crossandean
+148310,sanm1289,OLD (OF WOMAN),p a j a,350,crossandean
+148311,yauy1235,OLD (OF WOMAN),tʃ a k w a ʃ,353,crossandean
+148312,sout2991,OLD (OF WOMAN),a tʃ a + tʃ i,355,crossandean
+148313,napo1242,OLD (OF WOMAN),r u k u,354,crossandean
+148314,paca1245,OLD (OF WOMAN),tʃ a tʃ a s,353,crossandean
+148315,paca1245,OLD (OF WOMAN),s a k w a,353,crossandean
+148316,sout2990,OLD (OF WOMAN),p a j a,350,crossandean
+148317,puno1238,OLD (OF WOMAN),p a j a,350,crossandean
+148318,sant1432,OLD (OF WOMAN),p a j a,350,crossandean
+148319,tena1240,OLD (OF WOMAN),r u k u,354,crossandean
+148320,coro1247,OLD (OF WOMAN),ʈʂ a k w a s,353,crossandean
+148321,east2551,SICK,o n q o + tʃ i,423,crossandean
+148322,ayac1239,SICK,o ŋ χ o,423,crossandean
+148323,caja1238,SICK,q i ʃ a,424,crossandean
+148324,chip1262,SICK,a z i n z,426,crossandean
+148325,chip1262,SICK,l a a kʰ i z,427,crossandean
+148326,cusc1236,SICK,u n q u,423,crossandean
+148327,hual1241,SICK,q i ʃ j a,424,crossandean
+148328,huay1241,SICK,ʔ i ʃ j a,424,crossandean
+148329,imba1240,SICK,u n k u,423,crossandean
+148330,lamb1276,SICK,q i ʃ a,424,crossandean
+148331,jaqa1244,SICK,u s u,425,crossandean
+148332,cauq1239,SICK,u s u,425,crossandean
+148333,sanm1289,SICK,u n g u,423,crossandean
+148334,yauy1235,SICK,q i ʃ a,424,crossandean
+148335,sout2991,SICK,u n q u,423,crossandean
+148336,napo1242,SICK,u n g u + tʃ i + n a,423,crossandean
+148337,paca1245,SICK,χ e ʃ j a,424,crossandean
+148338,sout2990,SICK,u n g u + n a,423,crossandean
+148339,puno1238,SICK,u n q u,423,crossandean
+148340,inga1252,SICK,u n g u,423,crossandean
+148341,sant1432,SICK,o ŋ q o s,423,crossandean
+148342,tena1240,SICK,u n g u,423,crossandean
+148343,coro1247,SICK,q i ʃ j a,424,crossandean
+148344,east2551,YEAR,w a t a,588,crossandean
+148345,ayac1239,YEAR,w a t a,588,crossandean
+148346,chac1250,YEAR,w a t a,588,crossandean
+148347,caja1238,YEAR,w a t a,588,crossandean
+148348,chip1262,YEAR,w a t a,588,crossandean
+148349,cusc1236,YEAR,w a t a,588,crossandean
+148350,hual1241,YEAR,w a t a,588,crossandean
+148351,huay1241,YEAR,w a t a,588,crossandean
+148352,imba1240,YEAR,w a t a,588,crossandean
+148353,lamb1276,YEAR,a ɲ o,589,crossandean
+148354,jaqa1244,YEAR,w a t a,588,crossandean
+148355,cauq1239,YEAR,w a t j a,588,crossandean
+148356,sanm1289,YEAR,w a t a,588,crossandean
+148357,yauy1235,YEAR,w a t a,588,crossandean
+148358,yauy1235,YEAR,w a t ə,588,crossandean
+148359,sout2991,YEAR,w a t a,588,crossandean
+148360,napo1242,YEAR,w a t a,588,crossandean
+148361,paca1245,YEAR,w a t a,588,crossandean
+148362,sout2990,YEAR,w a t a,588,crossandean
+148363,puno1238,YEAR,w a t a,588,crossandean
+148364,inga1252,YEAR,w a t a,588,crossandean
+148365,sant1432,YEAR,w a t a,588,crossandean
+148366,tena1240,YEAR,w a t a,588,crossandean
+148367,coro1247,YEAR,w a t a,588,crossandean
+148368,east2551,GET TIRED,p i s i p a,183,crossandean
+148369,ayac1239,GET TIRED,p i s i p a,183,crossandean
+148370,chac1250,GET TIRED,ç ai k u,184,crossandean
+148371,caja1238,GET TIRED,ʃ ai k u,184,crossandean
+148372,chip1262,GET TIRED,o t z,185,crossandean
+148373,cusc1236,GET TIRED,s ai kʼ u,184,crossandean
+148374,hual1241,GET TIRED,p i ʃ i p a,183,crossandean
+148375,huay1241,GET TIRED,p i ʃ i p a,183,crossandean
+148376,jauj1238,GET TIRED,p i ʃ i p a,183,crossandean
+148377,huay1241,GET TIRED,u t i k a,187,crossandean
+148378,imba1240,GET TIRED,ʃ ai x u + ʃ k a,184,crossandean
+148379,lamb1276,GET TIRED,ʃ ai k u,184,crossandean
+148380,jaqa1244,GET TIRED,ʃ ai k u,184,crossandean
+148381,cauq1239,GET TIRED,ʃ ai k u,184,crossandean
+148382,sanm1289,GET TIRED,ç ai k u,184,crossandean
+148383,yauy1235,GET TIRED,ʃ ai k u,184,crossandean
+148384,sout2991,GET TIRED,s ai kʼ u,184,crossandean
+148385,napo1242,GET TIRED,s a m b ai + n a,186,crossandean
+148386,paca1245,GET TIRED,p i ç i k aː,183,crossandean
+148387,sout2990,GET TIRED,ʃ ai k u + n a,184,crossandean
+148388,sout2990,GET TIRED,s a m b a + j a + n a,186,crossandean
+148389,puno1238,GET TIRED,s ai kʼ u,184,crossandean
+148390,inga1252,GET TIRED,s a m b a + j a,186,crossandean
+148391,inga1252,GET TIRED,s ai k u + r i,184,crossandean
+148392,sant1432,GET TIRED,s ai k u s,184,crossandean
+148393,tena1240,GET TIRED,s a m b a + j a,186,crossandean
+148394,coro1247,GET TIRED,ʃ eː k u,184,crossandean
+148395,east2551,MANY,a s k a,297,crossandean
+148396,east2551,MANY,n i s j u,302,crossandean
+148397,ayac1239,MANY,a tʃ k a,297,crossandean
+148398,caja1238,MANY,a tʃ k a,297,crossandean
+148399,chip1262,MANY,w a k tʃ i,299,crossandean
+148400,chip1262,MANY,l o k i,301,crossandean
+148401,chip1262,MANY,m u s p a,304,crossandean
+148402,cusc1236,MANY,a s kʰ a,297,crossandean
+148403,hual1241,MANY,a tʃ k a,297,crossandean
+148404,huay1241,MANY,a tʃ k a,297,crossandean
+148405,imba1240,MANY,a tʃ k a,297,crossandean
+148406,lamb1276,MANY,a tʃ k a,297,crossandean
+148407,jaqa1244,MANY,a ʈʂ h i,298,crossandean
+148408,cauq1239,MANY,a ʈʂ i,298,crossandean
+148409,sanm1289,MANY,a tʃ k a,297,crossandean
+148410,yauy1235,MANY,a tʃ k a,297,crossandean
+148411,sout2991,MANY,a ʃ kʰ a + s,297,crossandean
+148412,napo1242,MANY,a ʃ k a,297,crossandean
+148413,paca1245,MANY,i s i s iː,300,crossandean
+148414,sout2990,MANY,a tʃ k a,297,crossandean
+148415,sout2990,MANY,j a p a,303,crossandean
+148416,puno1238,MANY,a ʃ kʰ a,297,crossandean
+148417,inga1252,MANY,a tʃ k a,297,crossandean
+148418,sant1432,MANY,a tʃ k a,297,crossandean
+148419,tena1240,MANY,a ʃ k a,297,crossandean
+148420,coro1247,MANY,a ts k a,297,crossandean
+148421,east2551,FULL,ʎ i n p a,181,crossandean
+148422,east2551,FULL,h u n t a,178,crossandean
+148423,ayac1239,FULL,h u n t a,178,crossandean
+148424,chac1250,FULL,x u n d a,178,crossandean
+148425,caja1238,FULL,u n d a,178,crossandean
+148426,chip1262,FULL,ts i n a,180,crossandean
+148427,chip1262,FULL,tʃ h i p i,182,crossandean
+148428,cusc1236,FULL,h u n tʼ a,178,crossandean
+148429,hual1241,FULL,h u n t a,178,crossandean
+148430,huay1241,FULL,h u n t a,178,crossandean
+148431,imba1240,FULL,x u n d a,178,crossandean
+148432,lamb1276,FULL,u n d a,178,crossandean
+148433,jaqa1244,FULL,pʰ u q a,179,crossandean
+148434,cauq1239,FULL,pʰ u qʰ a,179,crossandean
+148435,sanm1289,FULL,x u n d a,178,crossandean
+148436,yauy1235,FULL,h u n t a,178,crossandean
+148437,sout2991,FULL,h u n tʼ a,178,crossandean
+148438,napo1242,FULL,h u n d a,178,crossandean
+148439,paca1245,FULL,x u n t a,178,crossandean
+148440,sout2990,FULL,u n d a,178,crossandean
+148441,puno1238,FULL,h u n tʼ a,178,crossandean
+148442,inga1252,FULL,x u n d a,178,crossandean
+148443,sant1432,FULL,u n t a,178,crossandean
+148444,tena1240,FULL,u n d a + k t a,178,crossandean
+148445,coro1247,FULL,u n t a,178,crossandean
+148446,east2551,EMPTY,tʃ u s a q,114,crossandean
+148447,caja1238,EMPTY,i ʎ a x,111,crossandean
+148448,chip1262,EMPTY,l a a tʃ i,113,crossandean
+148449,cusc1236,EMPTY,tʃʼ u s a χ,114,crossandean
+148450,hual1241,EMPTY,h aː k u + χ,115,crossandean
+148451,huay1241,EMPTY,h a l k u + ʂ a,116,crossandean
+148452,imba1240,EMPTY,tʃ u ʃ a x,114,crossandean
+148453,lamb1276,EMPTY,tʃ u n dʒ a,117,crossandean
+148454,jaqa1244,EMPTY,h aː m a,112,crossandean
+148455,cauq1239,EMPTY,h a m a,112,crossandean
+148456,yauy1235,EMPTY,i ʎ a χ,111,crossandean
+148457,sout2991,EMPTY,tʃʼ u s a χ,114,crossandean
+148458,napo1242,EMPTY,tʃ u ʃ a,114,crossandean
+148459,paca1245,EMPTY,i l aː,111,crossandean
+148460,sout2990,EMPTY,tʃ u ʃ a,114,crossandean
+148461,puno1238,EMPTY,tʃʼ u s a χ,114,crossandean
+148462,inga1252,EMPTY,tʃ u s a,114,crossandean
+148463,sant1432,EMPTY,tʃ u s a χ,114,crossandean
+148464,tena1240,EMPTY,tʃ u ʃ a x,114,crossandean
+148465,coro1247,EMPTY,i n a ʎ a,111,crossandean
+148466,east2551,HEAVY,ʎ a s a,227,crossandean
+148467,ayac1239,HEAVY,ʎ a s a χ,227,crossandean
+148468,chac1250,HEAVY,dʑ a ç a,227,crossandean
+148469,caja1238,HEAVY,ʎ a ʃ a,227,crossandean
+148470,chip1262,HEAVY,l i k s i,229,crossandean
+148471,chip1262,HEAVY,pʰ a p s a,230,crossandean
+148472,cusc1236,HEAVY,ʎ a s a,227,crossandean
+148473,hual1241,HEAVY,l a s a,227,crossandean
+148474,huay1241,HEAVY,ʎ a s a ʔ,227,crossandean
+148475,imba1240,HEAVY,ʎ a ʃ a x,227,crossandean
+148476,lamb1276,HEAVY,ʒ a ʃ a,227,crossandean
+148477,jaqa1244,HEAVY,p i s k i,228,crossandean
+148478,cauq1239,HEAVY,p i s k i,228,crossandean
+148479,sanm1289,HEAVY,dʑ a ç a,227,crossandean
+148480,yauy1235,HEAVY,ʎ a s a,227,crossandean
+148481,sout2991,HEAVY,ʎ a s a,227,crossandean
+148482,napo1242,HEAVY,ʎ a ʃ a,227,crossandean
+148483,paca1245,HEAVY,l a s a,227,crossandean
+148484,sout2990,HEAVY,ʎ a ʃ a,227,crossandean
+148485,puno1238,HEAVY,ʎ a s a,227,crossandean
+148486,inga1252,HEAVY,ʎ a s a,227,crossandean
+148487,sant1432,HEAVY,l a s a χ,227,crossandean
+148488,tena1240,HEAVY,ʎ a ʃ a,227,crossandean
+148489,coro1247,HEAVY,l a s a,227,crossandean
+148490,east2551,LIGHT (WEIGHT),tʃ a ʎ a,275,crossandean
+148491,east2551,LIGHT (WEIGHT),p a n q a,274,crossandean
+148492,ayac1239,LIGHT (WEIGHT),s a m p a,271,crossandean
+148493,chip1262,LIGHT (WEIGHT),kʰ e z h i,273,crossandean
+148494,cusc1236,LIGHT (WEIGHT),tʃʰ a ʎ a,275,crossandean
+148495,hual1241,LIGHT (WEIGHT),a n k a ʃ,274,crossandean
+148496,huay1241,LIGHT (WEIGHT),h a k j a,276,crossandean
+148497,imba1240,LIGHT (WEIGHT),f a n g a + ʎ a,274,crossandean
+148498,lamb1276,LIGHT (WEIGHT),l a p ʃ a,278,crossandean
+148499,jaqa1244,LIGHT (WEIGHT),h a m a,272,crossandean
+148500,cauq1239,LIGHT (WEIGHT),h a m a,272,crossandean
+148501,sanm1289,LIGHT (WEIGHT),u t k a,280,crossandean
+148502,yauy1235,LIGHT (WEIGHT),ʃ a k j a + ʎ a,276,crossandean
+148503,sout2991,LIGHT (WEIGHT),tʃʰ a ʎ a,275,crossandean
+148504,napo1242,LIGHT (WEIGHT),p a n g a + ʎ a,274,crossandean
+148505,sout2990,LIGHT (WEIGHT),p a n g a + ʎ a,274,crossandean
+148506,puno1238,LIGHT (WEIGHT),s u x a,279,crossandean
+148507,inga1252,LIGHT (WEIGHT),m a n a + ʎ a s a,277,crossandean
+148508,sant1432,LIGHT (WEIGHT),m a n a + l a s a χ,277,crossandean
+148509,tena1240,LIGHT (WEIGHT),p a n g a + ʎ a,274,crossandean
+148510,coro1247,LIGHT (WEIGHT),a n k a ʃ,274,crossandean
+148511,east2551,FAR,k a r u,126,crossandean
+148512,ayac1239,FAR,k a ɾ u,126,crossandean
+148513,chac1250,FAR,k a r u,126,crossandean
+148514,caja1238,FAR,k a r u,126,crossandean
+148515,chip1262,FAR,a z h k i n,128,crossandean
+148516,chip1262,FAR,n a kʰ u,130,crossandean
+148517,cusc1236,FAR,k a r u,126,crossandean
+148518,hual1241,FAR,k a r u,126,crossandean
+148519,huay1241,FAR,k a l u,126,crossandean
+148520,imba1240,FAR,k a ɾ u,126,crossandean
+148521,lamb1276,FAR,k a r u,126,crossandean
+148522,jaqa1244,FAR,h a j a,127,crossandean
+148523,cauq1239,FAR,h a j a,127,crossandean
+148524,sanm1289,FAR,k a r u,126,crossandean
+148525,yauy1235,FAR,k a r u,126,crossandean
+148526,sout2991,FAR,k a r u,126,crossandean
+148527,napo1242,FAR,k a r u,126,crossandean
+148528,paca1245,FAR,k a ɾ u,126,crossandean
+148529,sout2990,FAR,k a r u,126,crossandean
+148530,sout2990,FAR,tʃ i p i,131,crossandean
+148531,puno1238,FAR,k a r u,126,crossandean
+148532,inga1252,FAR,k a r u,126,crossandean
+148533,sant1432,FAR,k a ɾ u,126,crossandean
+148534,tena1240,FAR,k a r u,126,crossandean
+148535,coro1247,FAR,l a r g u,129,crossandean
+148536,east2551,HOT OR WARM,q o ɲ i,240,crossandean
+148537,ayac1239,HOT OR WARM,χ o ɲ i,240,crossandean
+148538,chac1250,HOT OR WARM,k u ɲ u,240,crossandean
+148539,caja1238,HOT OR WARM,q u ɲ u χ,240,crossandean
+148540,chip1262,HOT OR WARM,q u t ɲ i,240,crossandean
+148541,cusc1236,HOT OR WARM,qʼ u ɲ i,240,crossandean
+148542,hual1241,HOT OR WARM,a k a χ,242,crossandean
+148543,huay1241,HOT OR WARM,a k a ʈʂ a q,242,crossandean
+148544,imba1240,HOT OR WARM,k u n k u + ʎ a,240,crossandean
+148545,lamb1276,HOT OR WARM,χ u ɲ u χ,240,crossandean
+148546,jaqa1244,HOT OR WARM,h u n ʈʂʼ u,241,crossandean
+148547,cauq1239,HOT OR WARM,h u n ʈʂʼ u,241,crossandean
+148548,sanm1289,HOT OR WARM,k u ɲ u,240,crossandean
+148549,yauy1235,HOT OR WARM,a k a tʃ a q,242,crossandean
+148550,sout2991,HOT OR WARM,qʼ u ɲ i,240,crossandean
+148551,napo1242,HOT OR WARM,r u p a,243,crossandean
+148552,paca1245,HOT OR WARM,χ o ɲ u,240,crossandean
+148553,sout2990,HOT OR WARM,ɾ u p a,243,crossandean
+148554,puno1238,HOT OR WARM,qʼ u ɲ i,240,crossandean
+148555,inga1252,HOT OR WARM,k u n u,240,crossandean
+148556,inga1252,HOT OR WARM,r u p a,243,crossandean
+148557,sant1432,HOT OR WARM,ɾ u p a χ,243,crossandean
+148558,tena1240,HOT OR WARM,r u p a k,243,crossandean
+148559,coro1247,HOT OR WARM,a tʃ a tʃ a q,242,crossandean
+148560,east2551,COLD,tʃ i r i,63,crossandean
+148561,ayac1239,COLD,tʃ i ɾ i,63,crossandean
+148562,chac1250,COLD,tʃ i r i,63,crossandean
+148563,caja1238,COLD,tʃ i r i,63,crossandean
+148564,chip1262,COLD,s a k i,64,crossandean
+148565,cusc1236,COLD,tʃ i r i,63,crossandean
+148566,hual1241,COLD,q a s a,66,crossandean
+148567,huay1241,COLD,a l a l a ʔ,65,crossandean
+148568,imba1240,COLD,tʃ i ɾ i,63,crossandean
+148569,lamb1276,COLD,x a s a,66,crossandean
+148570,jaqa1244,COLD,a tsʼ i k i,63,crossandean
+148571,cauq1239,COLD,h a ʈʂʼ i k i,63,crossandean
+148572,sanm1289,COLD,tʃ i r i,63,crossandean
+148573,yauy1235,COLD,a l a l a,65,crossandean
+148574,sout2991,COLD,tʃ i r i,63,crossandean
+148575,napo1242,COLD,tʃ i r i,63,crossandean
+148576,paca1245,COLD,a l a l ai,65,crossandean
+148577,sout2990,COLD,tʃ i r i,63,crossandean
+148578,puno1238,COLD,tʃ i r i,63,crossandean
+148579,inga1252,COLD,tʃ i r i,63,crossandean
+148580,sant1432,COLD,tʃ i ɾ i,63,crossandean
+148581,tena1240,COLD,tʃ i r i,63,crossandean
+148582,coro1247,COLD,a l a l a,65,crossandean
+148583,east2551,DRY,tʃ a k i,89,crossandean
+148584,ayac1239,DRY,tʃ a k i,89,crossandean
+148585,chac1250,DRY,tʃ a k i,89,crossandean
+148586,caja1238,DRY,tʃ a k i,89,crossandean
+148587,chip1262,DRY,qʰ u t ɲ i,90,crossandean
+148588,chip1262,DRY,qʰ u ɲ i,90,crossandean
+148589,cusc1236,DRY,tʃʼ a k i,89,crossandean
+148590,hual1241,DRY,tʃ a k i,89,crossandean
+148591,huay1241,DRY,tʃ a k i,89,crossandean
+148592,imba1240,DRY,tʃ a k i + ʃ k a,89,crossandean
+148593,lamb1276,DRY,tʃ a k i,89,crossandean
+148594,jaqa1244,DRY,tʃ aː k i,89,crossandean
+148595,cauq1239,DRY,tʃ a k i,89,crossandean
+148596,sanm1289,DRY,tʃ a k i,89,crossandean
+148597,yauy1235,DRY,tʃ a k i,89,crossandean
+148598,sout2991,DRY,tʃʼ a k i,89,crossandean
+148599,napo1242,DRY,tʃ a k i + tʃ i + n a,89,crossandean
+148600,paca1245,DRY,s a k i,89,crossandean
+148601,sout2990,DRY,tʃ a k i + ʃ k a,89,crossandean
+148602,puno1238,DRY,tʃʼ a k i,89,crossandean
+148603,inga1252,DRY,tʃ a x i + s k a,89,crossandean
+148604,sant1432,DRY,tʃ a x i,89,crossandean
+148605,tena1240,DRY,tʃ a k i + ʃ k a,89,crossandean
+148606,coro1247,DRY,ts a k i,89,crossandean
+148607,ayac1239,RIGHT,a ʎ e χ,374,crossandean
+148608,chac1250,RIGHT,a dʑ i,374,crossandean
+148609,caja1238,RIGHT,a dʒ i n,374,crossandean
+148610,chip1262,RIGHT,z h e w a,376,crossandean
+148611,cusc1236,RIGHT,p a ɲ a,377,crossandean
+148612,hual1241,RIGHT,d e r e tʃ a,375,crossandean
+148613,huay1241,RIGHT,a ʎ a ʔ + w ai,374,crossandean
+148614,imba1240,RIGHT,a l i,374,crossandean
+148615,lamb1276,RIGHT,a dʒ i,374,crossandean
+148616,jaqa1244,RIGHT,d e r e tʃ a,375,crossandean
+148617,cauq1239,RIGHT,d e r e tʃ a,375,crossandean
+148618,sanm1289,RIGHT,a dʑ i,374,crossandean
+148619,yauy1235,RIGHT,a ʎ i,374,crossandean
+148620,sout2991,RIGHT,p a ɲ a,377,crossandean
+148621,napo1242,RIGHT,a l i + m a k i,374,crossandean
+148622,sout2990,RIGHT,k u s k a,379,crossandean
+148623,puno1238,RIGHT,d e r e tʃ a,375,crossandean
+148624,inga1252,RIGHT,a ʎ i + m a,374,crossandean
+148625,sant1432,RIGHT,q ɪ ʒ a,378,crossandean
+148626,tena1240,RIGHT,a l i,374,crossandean
+148627,coro1247,RIGHT,d e r e tʃ a,375,crossandean
+148628,east2551,SWEET,m i s k i,496,crossandean
+148629,ayac1239,SWEET,m i s k i,496,crossandean
+148630,chac1250,SWEET,m i s k i,496,crossandean
+148631,caja1238,SWEET,m i ʃ k i,496,crossandean
+148632,chip1262,SWEET,m a z qʼ a,496,crossandean
+148633,cusc1236,SWEET,m i s kʼ i,496,crossandean
+148634,hual1241,SWEET,m i ʃ k i,496,crossandean
+148635,huay1241,SWEET,m i ʃ k i,496,crossandean
+148636,imba1240,SWEET,m i ʃ k i,496,crossandean
+148637,lamb1276,SWEET,ɲ u k ɲ u,498,crossandean
+148638,jaqa1244,SWEET,m u x s a,497,crossandean
+148639,cauq1239,SWEET,m u s a,497,crossandean
+148640,sanm1289,SWEET,m i s k i,496,crossandean
+148641,yauy1235,SWEET,m i ʃ k i,496,crossandean
+148642,sout2991,SWEET,m i s kʼ i,496,crossandean
+148643,napo1242,SWEET,m i ʃ k i,496,crossandean
+148644,paca1245,SWEET,m i ç k i,496,crossandean
+148645,sout2990,SWEET,m i ʃ k i,496,crossandean
+148646,puno1238,SWEET,m i s kʼ i,496,crossandean
+148647,inga1252,SWEET,m i s x i,496,crossandean
+148648,inga1252,SWEET,d u s i,499,crossandean
+148649,sant1432,SWEET,m i ʃ k i,496,crossandean
+148650,tena1240,SWEET,m i ʃ k i,496,crossandean
+148651,coro1247,SWEET,m i ʃ k i,496,crossandean
+148652,east2551,HAPPY,k u s a,216,crossandean
+148653,east2551,HAPPY,k u s i,216,crossandean
+148654,ayac1239,HAPPY,k u s i,216,crossandean
+148655,chac1250,HAPPY,k u ʃ i,216,crossandean
+148656,caja1238,HAPPY,k u ʃ i,216,crossandean
+148657,chip1262,HAPPY,k u z i,216,crossandean
+148658,cusc1236,HAPPY,k u s i,216,crossandean
+148659,hual1241,HAPPY,k u ʃ i,216,crossandean
+148660,huay1241,HAPPY,k u ʃ i + ʎ a,216,crossandean
+148661,imba1240,HAPPY,k u ʃ i + ʎ a,216,crossandean
+148662,lamb1276,HAPPY,k u ʃ i,216,crossandean
+148663,jaqa1244,HAPPY,k u ʃ u,216,crossandean
+148664,cauq1239,HAPPY,k u ʃ u,216,crossandean
+148665,sanm1289,HAPPY,k u ʃ i,216,crossandean
+148666,yauy1235,HAPPY,k u ʃ i,216,crossandean
+148667,sout2991,HAPPY,k u s i,216,crossandean
+148668,napo1242,HAPPY,k u ʃ i,216,crossandean
+148669,paca1245,HAPPY,k u ʃ i + k u,216,crossandean
+148670,sout2990,HAPPY,k u ʃ i,216,crossandean
+148671,puno1238,HAPPY,k u s i,216,crossandean
+148672,sant1432,HAPPY,k u s i,216,crossandean
+148673,tena1240,HAPPY,k u ʃ i,216,crossandean
+148674,coro1247,HAPPY,k u ʃ i,216,crossandean
+148675,east2551,NEW,m o s o q,326,crossandean
+148676,east2551,NEW,m u s u q,326,crossandean
+148677,ayac1239,NEW,m o s o χ,326,crossandean
+148678,chac1250,NEW,m u ʃ u k,326,crossandean
+148679,caja1238,NEW,m u ʃ u χ,326,crossandean
+148680,chip1262,NEW,e w u,328,crossandean
+148681,cusc1236,NEW,m u s u χ,326,crossandean
+148682,hual1241,NEW,m u ʃ u χ,326,crossandean
+148683,huay1241,NEW,m u ʂ u ʔ,326,crossandean
+148684,imba1240,NEW,m u ʃ u x,326,crossandean
+148685,lamb1276,NEW,m u ʃ u x,326,crossandean
+148686,jaqa1244,NEW,m a tʃ a q a,327,crossandean
+148687,cauq1239,NEW,m a tʃ a q a,327,crossandean
+148688,sanm1289,NEW,m u ʃ u k,326,crossandean
+148689,yauy1235,NEW,m u ʃ u q,326,crossandean
+148690,sout2991,NEW,m u s u χ,326,crossandean
+148691,napo1242,NEW,m u ʃ u,326,crossandean
+148692,paca1245,NEW,m u ʃ o χ,326,crossandean
+148693,sout2990,NEW,m u ʃ u,326,crossandean
+148694,puno1238,NEW,m u s u χ,326,crossandean
+148695,inga1252,NEW,m u s u,326,crossandean
+148696,sant1432,NEW,m o s o χ,326,crossandean
+148697,tena1240,NEW,m u ʃ u x,326,crossandean
+148698,coro1247,NEW,m u ʃ u q,326,crossandean
+148699,east2551,GO,r i,191,crossandean
+148700,ayac1239,GO,ɾ i,191,crossandean
+148701,chac1250,GO,r i,191,crossandean
+148702,caja1238,GO,r i,191,crossandean
+148703,chip1262,GO,o qʰ z,193,crossandean
+148704,cusc1236,GO,r i,191,crossandean
+148705,hual1241,GO,a w a,194,crossandean
+148706,huay1241,GO,l i,191,crossandean
+148707,jauj1238,GO,ai w a,194,crossandean
+148708,imba1240,GO,ɾ i + n a,191,crossandean
+148709,lamb1276,GO,r i,191,crossandean
+148710,lamb1276,GO,!r̝/r i,191,crossandean
+148711,jaqa1244,GO,m a x a,192,crossandean
+148712,cauq1239,GO,m a x a,192,crossandean
+148713,sanm1289,GO,r i,191,crossandean
+148714,yauy1235,GO,r i,191,crossandean
+148715,sout2991,GO,r i,191,crossandean
+148716,napo1242,GO,r i + n a,191,crossandean
+148717,paca1245,GO,ɾ i,191,crossandean
+148718,sout2990,GO,ɾ i + n a,191,crossandean
+148719,puno1238,GO,r i,191,crossandean
+148720,inga1252,GO,r i,191,crossandean
+148721,sant1432,GO,ɾ iː,191,crossandean
+148722,tena1240,GO,r i,191,crossandean
+148723,coro1247,GO,eː w a,194,crossandean
+148724,east2551,COME,h a m u,67,crossandean
+148725,ayac1239,COME,h a m u,67,crossandean
+148726,chac1250,COME,ʃ a m u,67,crossandean
+148727,caja1238,COME,ʃ a m u,67,crossandean
+148728,chip1262,COME,tʰ o n z,69,crossandean
+148729,cusc1236,COME,h a m u,67,crossandean
+148730,hual1241,COME,ʃ a m u,67,crossandean
+148731,huay1241,COME,ʂ a m u,67,crossandean
+148732,imba1240,COME,ʃ a m u + n a,67,crossandean
+148733,lamb1276,COME,ʃ a m u,67,crossandean
+148734,jaqa1244,COME,u x t a,68,crossandean
+148735,cauq1239,COME,u x t a,68,crossandean
+148736,cauq1239,COME,u s t a,68,crossandean
+148737,sanm1289,COME,ʃ a m u,67,crossandean
+148738,yauy1235,COME,h a m u,67,crossandean
+148739,sout2991,COME,h a m u,67,crossandean
+148740,napo1242,COME,ʃ a m u + n a,67,crossandean
+148741,paca1245,COME,ʃ a m u,67,crossandean
+148742,sout2990,COME,ʃ a m u + n a,67,crossandean
+148743,puno1238,COME,h a m u,67,crossandean
+148744,inga1252,COME,s a m u,67,crossandean
+148745,sant1432,COME,a m u,67,crossandean
+148746,tena1240,COME,ʃ a m u,67,crossandean
+148747,coro1247,COME,ʃ a m u,67,crossandean
+148748,east2551,WALK,p u r i,549,crossandean
+148749,ayac1239,WALK,p u ɾ i,549,crossandean
+148750,chac1250,WALK,p u r i,549,crossandean
+148751,caja1238,WALK,p u r i,549,crossandean
+148752,chip1262,WALK,o qʰ z,551,crossandean
+148753,cusc1236,WALK,p u r i,549,crossandean
+148754,hual1241,WALK,p u r i,549,crossandean
+148755,huay1241,WALK,p u l i,549,crossandean
+148756,imba1240,WALK,p u ɾ i + n a,549,crossandean
+148757,lamb1276,WALK,p u r i,549,crossandean
+148758,jaqa1244,WALK,w a s a,550,crossandean
+148759,cauq1239,WALK,w a s a,550,crossandean
+148760,sanm1289,WALK,p u r i,549,crossandean
+148761,yauy1235,WALK,p u r i,549,crossandean
+148762,sout2991,WALK,p u r i,549,crossandean
+148763,napo1242,WALK,p u r i + n a,549,crossandean
+148764,paca1245,WALK,p u ɾ i,549,crossandean
+148765,sout2990,WALK,p u r i + n a,549,crossandean
+148766,puno1238,WALK,p u r i,549,crossandean
+148767,inga1252,WALK,p u r i,549,crossandean
+148768,sant1432,WALK,p u ɾ iː,549,crossandean
+148769,tena1240,WALK,p u r i,549,crossandean
+148770,coro1247,WALK,p u r i,549,crossandean
+148771,east2551,STAND,ʃ a j a,469,crossandean
+148772,ayac1239,STAND,s a j a,469,crossandean
+148773,chac1250,STAND,ʃ a j a,469,crossandean
+148774,caja1238,STAND,ʃ a j a,469,crossandean
+148775,chip1262,STAND,z h a a z,470,crossandean
+148776,cusc1236,STAND,ʃ a j a,469,crossandean
+148777,hual1241,STAND,ʃ a j a,469,crossandean
+148778,huay1241,STAND,s aː,469,crossandean
+148779,imba1240,STAND,ʃ a j a + ɾ i + n a,469,crossandean
+148780,lamb1276,STAND,ʃ a j a,469,crossandean
+148781,jaqa1244,STAND,s a j a,469,crossandean
+148782,cauq1239,STAND,s a j a,469,crossandean
+148783,sanm1289,STAND,ʃ a j a,469,crossandean
+148784,yauy1235,STAND,ʃ a j a,469,crossandean
+148785,sout2991,STAND,ʃ a j a,469,crossandean
+148786,napo1242,STAND,ʃ a j a + r i + n a,469,crossandean
+148787,paca1245,STAND,ʈʂ a ʈʂ a,471,crossandean
+148788,sout2990,STAND,ʃ a j a,469,crossandean
+148789,puno1238,STAND,ʃ a j a,469,crossandean
+148790,inga1252,STAND,ʃ a j a + k u,469,crossandean
+148791,sant1432,STAND,ʃ a j a,469,crossandean
+148792,tena1240,STAND,ʃ a j a,469,crossandean
+148793,coro1247,STAND,ʃ aː,469,crossandean
+148794,east2551,SIT,t i j a,437,crossandean
+148795,east2551,SIT,p a tʃ i,444,crossandean
+148796,ayac1239,SIT,t i j a,437,crossandean
+148797,chac1250,SIT,t i j a,437,crossandean
+148798,caja1238,SIT,t i j a,437,crossandean
+148799,chip1262,SIT,h u l z,439,crossandean
+148800,cusc1236,SIT,t i j a,437,crossandean
+148801,hual1241,SIT,h a m a,440,crossandean
+148802,huay1241,SIT,t i j u,437,crossandean
+148803,jauj1238,SIT,t i j u,437,crossandean
+148804,imba1240,SIT,t i j a + ɾ i + n a,437,crossandean
+148805,lamb1276,SIT,t a,442,crossandean
+148806,jaqa1244,SIT,u tʰ,441,crossandean
+148807,cauq1239,SIT,ʃ u k a,438,crossandean
+148808,sanm1289,SIT,t i j a,437,crossandean
+148809,yauy1235,SIT,t i j a,437,crossandean
+148810,sout2991,SIT,t i j a,437,crossandean
+148811,napo1242,SIT,t i j a + r i + n a,437,crossandean
+148812,paca1245,SIT,k u k u,443,crossandean
+148813,paca1245,SIT,tʃ a p a,442,crossandean
+148814,paca1245,SIT,t !ai/a + k u,437,crossandean
+148815,sout2990,SIT,t i j a + r i + n a,437,crossandean
+148816,puno1238,SIT,t i j a,437,crossandean
+148817,inga1252,SIT,t i j a + k u,437,crossandean
+148818,sant1432,SIT,t !iː/i j a + x u,437,crossandean
+148819,tena1240,SIT,t i j a,437,crossandean
+148820,coro1247,SIT,a m a,440,crossandean
+148821,ayac1239,SWIM,n a d j a,500,crossandean
+148822,chac1250,SWIM,w ai t a,500,crossandean
+148823,caja1238,SWIM,n a d a,500,crossandean
+148824,chip1262,SWIM,t u j u n z,501,crossandean
+148825,cusc1236,SWIM,w ai t a,500,crossandean
+148826,hual1241,SWIM,n a r j a,500,crossandean
+148827,huay1241,SWIM,m aː t a,500,crossandean
+148828,imba1240,SWIM,w a m b u + n a,500,crossandean
+148829,lamb1276,SWIM,n a d a,500,crossandean
+148830,jaqa1244,SWIM,m a ʃ q i,502,crossandean
+148831,cauq1239,SWIM,n a d a,500,crossandean
+148832,sanm1289,SWIM,w ai t a,500,crossandean
+148833,yauy1235,SWIM,n a d a,500,crossandean
+148834,sout2991,SWIM,w ai tʼ a,500,crossandean
+148835,napo1242,SWIM,w ai t a + n a,500,crossandean
+148836,sout2990,SWIM,w ai t a + n a,500,crossandean
+148837,puno1238,SWIM,t u j u,501,crossandean
+148838,inga1252,SWIM,w ai t a,500,crossandean
+148839,sant1432,SWIM,w ai t a,500,crossandean
+148840,tena1240,SWIM,w ai t a,500,crossandean
+148841,coro1247,SWIM,n a d a,500,crossandean
+148842,east2551,FLY (MOVE THROUGH AIR),p a l a,152,crossandean
+148843,east2551,FLY (MOVE THROUGH AIR),p a w a,151,crossandean
+148844,ayac1239,FLY (MOVE THROUGH AIR),p a w a,151,crossandean
+148845,chac1250,FLY (MOVE THROUGH AIR),p a w a,151,crossandean
+148846,caja1238,FLY (MOVE THROUGH AIR),p a r i,152,crossandean
+148847,chip1262,FLY (MOVE THROUGH AIR),l a j z,154,crossandean
+148848,cusc1236,FLY (MOVE THROUGH AIR),pʰ a w a,151,crossandean
+148849,hual1241,FLY (MOVE THROUGH AIR),p aː r i,152,crossandean
+148850,huay1241,FLY (MOVE THROUGH AIR),p aː l i,152,crossandean
+148851,imba1240,FLY (MOVE THROUGH AIR),b u l a + n a,152,crossandean
+148852,lamb1276,FLY (MOVE THROUGH AIR),p a r i,152,crossandean
+148853,jaqa1244,FLY (MOVE THROUGH AIR),h a x + p t a,153,crossandean
+148854,cauq1239,FLY (MOVE THROUGH AIR),h a x + p t a,153,crossandean
+148855,sanm1289,FLY (MOVE THROUGH AIR),p a w a,151,crossandean
+148856,yauy1235,FLY (MOVE THROUGH AIR),p a w a,151,crossandean
+148857,sout2991,FLY (MOVE THROUGH AIR),pʰ a w a,151,crossandean
+148858,napo1242,FLY (MOVE THROUGH AIR),w a m b u + r i + n a,155,crossandean
+148859,paca1245,FLY (MOVE THROUGH AIR),p aː ɾ i,152,crossandean
+148860,sout2990,FLY (MOVE THROUGH AIR),p a w a + n a,151,crossandean
+148861,puno1238,FLY (MOVE THROUGH AIR),h a l a + n t a,156,crossandean
+148862,sant1432,FLY (MOVE THROUGH AIR),p aː,152,crossandean
+148863,tena1240,FLY (MOVE THROUGH AIR),w a m b u + r i,155,crossandean
+148864,coro1247,FLY (MOVE THROUGH AIR),b ue l ɛ,152,crossandean
+148865,east2551,LEFT,ʎ o k e,262,crossandean
+148866,ayac1239,LEFT,i tʃ o χ,260,crossandean
+148867,chac1250,LEFT,dʑ u k i,262,crossandean
+148868,caja1238,LEFT,i tʃ u χ,260,crossandean
+148869,chip1262,LEFT,z q a r a,263,crossandean
+148870,cusc1236,LEFT,ʎ u qʼ i,262,crossandean
+148871,hual1241,LEFT,i tʃ u χ,260,crossandean
+148872,huay1241,LEFT,i tʃ u ʂ,260,crossandean
+148873,jauj1238,LEFT,i tʃ u ʂ,260,crossandean
+148874,imba1240,LEFT,ʎ u k i,262,crossandean
+148875,lamb1276,LEFT,i tʃ u q,260,crossandean
+148876,jaqa1244,LEFT,ʈʂʼ i q a,261,crossandean
+148877,cauq1239,LEFT,tsʼ i qʼ a,261,crossandean
+148878,sanm1289,LEFT,dʑ u k i,262,crossandean
+148879,yauy1235,LEFT,u p a,264,crossandean
+148880,sout2991,LEFT,ʎ u qʼ i,262,crossandean
+148881,napo1242,LEFT,ʎ u k i,262,crossandean
+148882,sout2990,LEFT,ʎ u k i,262,crossandean
+148883,puno1238,LEFT,ʎ u qʼ i,262,crossandean
+148884,inga1252,LEFT,ʎ u x i,262,crossandean
+148885,sant1432,LEFT,ʒ o χ e,262,crossandean
+148886,tena1240,LEFT,ʎ u k i,262,crossandean
+148887,coro1247,LEFT,i ts u q,260,crossandean
+148888,east2551,HIDE (CONCEAL),p a k a,231,crossandean
+148889,ayac1239,HIDE (CONCEAL),p a k a,231,crossandean
+148890,chac1250,HIDE (CONCEAL),p a k a,231,crossandean
+148891,caja1238,HIDE (CONCEAL),p a k a,231,crossandean
+148892,chip1262,HIDE (CONCEAL),tʃ h o j z,233,crossandean
+148893,cusc1236,HIDE (CONCEAL),p a k a,231,crossandean
+148894,hual1241,HIDE (CONCEAL),p a k a,231,crossandean
+148895,huay1241,HIDE (CONCEAL),p a k a,231,crossandean
+148896,imba1240,HIDE (CONCEAL),p a k a + n a,231,crossandean
+148897,lamb1276,HIDE (CONCEAL),p a k a,231,crossandean
+148898,jaqa1244,HIDE (CONCEAL),i m kʰ a,232,crossandean
+148899,cauq1239,HIDE (CONCEAL),i m kʰ a,232,crossandean
+148900,sanm1289,HIDE (CONCEAL),p a k a,231,crossandean
+148901,yauy1235,HIDE (CONCEAL),p a k a,231,crossandean
+148902,sout2991,HIDE (CONCEAL),p a k a,231,crossandean
+148903,napo1242,HIDE (CONCEAL),p a k a + n a,231,crossandean
+148904,paca1245,HIDE (CONCEAL),p a k a,231,crossandean
+148905,sout2990,HIDE (CONCEAL),p a k a + n a,231,crossandean
+148906,puno1238,HIDE (CONCEAL),p a k a,231,crossandean
+148907,inga1252,HIDE (CONCEAL),p a k a + k u + tʃ i,231,crossandean
+148908,sant1432,HIDE (CONCEAL),p a x a,231,crossandean
+148909,tena1240,HIDE (CONCEAL),p a k a,231,crossandean
+148910,coro1247,HIDE (CONCEAL),p a k a,231,crossandean
+148911,east2551,EAT,m a n j a,97,crossandean
+148912,east2551,EAT,m i χ u,94,crossandean
+148913,ayac1239,EAT,m i k u,94,crossandean
+148914,chac1250,EAT,m i k u,94,crossandean
+148915,caja1238,EAT,m i k u,94,crossandean
+148916,chip1262,EAT,l u l z,96,crossandean
+148917,cusc1236,EAT,m i x u,94,crossandean
+148918,hual1241,EAT,m i k u,94,crossandean
+148919,huay1241,EAT,m i k u,94,crossandean
+148920,imba1240,EAT,m i k u + n a,94,crossandean
+148921,lamb1276,EAT,m i k u,94,crossandean
+148922,jaqa1244,EAT,p a l u,95,crossandean
+148923,cauq1239,EAT,p a l u,95,crossandean
+148924,sanm1289,EAT,m i k u,94,crossandean
+148925,yauy1235,EAT,m i k u,94,crossandean
+148926,sout2991,EAT,m i kʰ u,94,crossandean
+148927,napo1242,EAT,m i k u + n a,94,crossandean
+148928,paca1245,EAT,m i k u,94,crossandean
+148929,paca1245,EAT,m i k a,94,crossandean
+148930,sout2990,EAT,m i k u + n a,94,crossandean
+148931,puno1238,EAT,m i kʰ u,94,crossandean
+148932,inga1252,EAT,m i k u,94,crossandean
+148933,sant1432,EAT,m i x u,94,crossandean
+148934,tena1240,EAT,m i k u,94,crossandean
+148935,coro1247,EAT,m i k u,94,crossandean
+148936,east2551,DRINK,u p j a,86,crossandean
+148937,ayac1239,DRINK,u p j a,86,crossandean
+148938,chac1250,DRINK,u p j a,86,crossandean
+148939,caja1238,DRINK,u p j a,86,crossandean
+148940,chip1262,DRINK,l i k z,88,crossandean
+148941,cusc1236,DRINK,u x j a,86,crossandean
+148942,huay1241,DRINK,u p j a,86,crossandean
+148943,imba1240,DRINK,u f j a + n a,86,crossandean
+148944,lamb1276,DRINK,u p j a,86,crossandean
+148945,jaqa1244,DRINK,u m a,87,crossandean
+148946,cauq1239,DRINK,u m a,87,crossandean
+148947,sanm1289,DRINK,u p j a,86,crossandean
+148948,yauy1235,DRINK,u p j a,86,crossandean
+148949,sout2991,DRINK,u x j a,86,crossandean
+148950,napo1242,DRINK,u p i + n a,86,crossandean
+148951,paca1245,DRINK,u p j a,86,crossandean
+148952,sout2990,DRINK,u p j a + n a,86,crossandean
+148953,puno1238,DRINK,u x a,87,crossandean
+148954,inga1252,DRINK,u p j a,86,crossandean
+148955,sant1432,DRINK,u p j a,86,crossandean
+148956,tena1240,DRINK,u p i,86,crossandean
+148957,coro1247,DRINK,u p j a,86,crossandean
+148958,east2551,BITE,k a tʃ u,24,crossandean
+148959,east2551,BITE,k a n i,21,crossandean
+148960,ayac1239,BITE,k a n i,21,crossandean
+148961,chac1250,BITE,k a n i,21,crossandean
+148962,caja1238,BITE,k a n i,21,crossandean
+148963,chip1262,BITE,ʈʂʼ a t z,23,crossandean
+148964,cusc1236,BITE,k a n i,21,crossandean
+148965,hual1241,BITE,k a ɲ i,21,crossandean
+148966,huay1241,BITE,k a n i,21,crossandean
+148967,imba1240,BITE,k a n i + n a,21,crossandean
+148968,lamb1276,BITE,k a n i,21,crossandean
+148969,jaqa1244,BITE,h au tʃʼ i,22,crossandean
+148970,cauq1239,BITE,h au tʃʼ i,22,crossandean
+148971,sanm1289,BITE,k a n i,21,crossandean
+148972,yauy1235,BITE,k a ʈʂ u,24,crossandean
+148973,sout2991,BITE,k a n i,21,crossandean
+148974,napo1242,BITE,k a n i + n a,21,crossandean
+148975,paca1245,BITE,k a n i,21,crossandean
+148976,sout2990,BITE,k a n i + n a,21,crossandean
+148977,puno1238,BITE,k a n i,21,crossandean
+148978,inga1252,BITE,k a n i,21,crossandean
+148979,sant1432,BITE,k a n iː,21,crossandean
+148980,tena1240,BITE,k a n i,21,crossandean
+148981,coro1247,BITE,k a n i,21,crossandean
+148982,east2551,SUCK,tʃ o n q a,490,crossandean
+148983,ayac1239,SUCK,s o χ o,488,crossandean
+148984,chac1250,SUCK,ç u k u,488,crossandean
+148985,cusc1236,SUCK,tʃʼ u n q a,490,crossandean
+148986,hual1241,SUCK,ʃ u q u,488,crossandean
+148987,huay1241,SUCK,ɲ u ɲ u,489,crossandean
+148988,imba1240,SUCK,tʃ u p a + n a,491,crossandean
+148989,lamb1276,SUCK,ʃ u ʁ u,488,crossandean
+148990,jaqa1244,SUCK,ʃ u qʼ u,488,crossandean
+148991,cauq1239,SUCK,ʃ u qʼ u,488,crossandean
+148992,sanm1289,SUCK,ç u k u,488,crossandean
+148993,yauy1235,SUCK,ʃ u q u,488,crossandean
+148994,sout2991,SUCK,tʃʼ u n q a,490,crossandean
+148995,napo1242,SUCK,ts u n g a + n a,490,crossandean
+148996,paca1245,SUCK,ç o χ u,488,crossandean
+148997,sout2990,SUCK,tʃ u p a + n a,491,crossandean
+148998,sout2990,SUCK,ts u n g a + n a,490,crossandean
+148999,sout2990,SUCK,tʃ u tʃ u + n a,491,crossandean
+149000,puno1238,SUCK,tʃʼ u n q a,490,crossandean
+149001,inga1252,SUCK,tʃ u tʃ u + r i,491,crossandean
+149002,sant1432,SUCK,tʃ o ŋ q a,490,crossandean
+149003,sant1432,SUCK,ɲ u ɲ u,489,crossandean
+149004,tena1240,SUCK,ts u n g a,490,crossandean
+149005,coro1247,SUCK,ʃ u q u,488,crossandean
+149006,east2551,LICK,ʎ a q w a,268,crossandean
+149007,east2551,LICK,l au q a,268,crossandean
+149008,ayac1239,LICK,ʎ a χ w a,268,crossandean
+149009,chac1250,LICK,dʑ a k w a,268,crossandean
+149010,caja1238,LICK,ʎ a q w a,268,crossandean
+149011,chip1262,LICK,i s z,270,crossandean
+149012,chip1262,LICK,i s i s z,270,crossandean
+149013,cusc1236,LICK,ʎ a χ w a,268,crossandean
+149014,hual1241,LICK,ʎ a q w a,268,crossandean
+149015,huay1241,LICK,ʎ a ʔ w a,268,crossandean
+149016,imba1240,LICK,l a m b i + n a,268,crossandean
+149017,lamb1276,LICK,ʒ a χ w a,268,crossandean
+149018,jaqa1244,LICK,h a ʎ p i,269,crossandean
+149019,cauq1239,LICK,h a ʎ p a,269,crossandean
+149020,sanm1289,LICK,dʑ a k w a,268,crossandean
+149021,yauy1235,LICK,ʎ a q w a,268,crossandean
+149022,sout2991,LICK,ʎ a q w a,268,crossandean
+149023,napo1242,LICK,ʎ au k a + n a,268,crossandean
+149024,paca1245,LICK,l a ʁ w a,268,crossandean
+149025,sout2990,LICK,l au k a + n a,268,crossandean
+149026,puno1238,LICK,ʎ a χ w a,268,crossandean
+149027,inga1252,LICK,ʎ a k w a,268,crossandean
+149028,sant1432,LICK,ʒ a χ w a,268,crossandean
+149029,tena1240,LICK,ʎ au k a,268,crossandean
+149030,coro1247,LICK,l a q w a,268,crossandean
+149031,ayac1239,SPIT,t o χ a,468,crossandean
+149032,chac1250,SPIT,t u k a,468,crossandean
+149033,caja1238,SPIT,t u ʁ a,468,crossandean
+149034,chip1262,SPIT,tʰ ui t z,468,crossandean
+149035,cusc1236,SPIT,tʰ u q a,468,crossandean
+149036,hual1241,SPIT,t u q a,468,crossandean
+149037,huay1241,SPIT,t u ʔ a,468,crossandean
+149038,imba1240,SPIT,t u k a + n a,468,crossandean
+149039,lamb1276,SPIT,t u ʁ a,468,crossandean
+149040,jaqa1244,SPIT,tʰ u s u,468,crossandean
+149041,cauq1239,SPIT,tʃ u s a,468,crossandean
+149042,sanm1289,SPIT,t u k a,468,crossandean
+149043,yauy1235,SPIT,t u q a,468,crossandean
+149044,sout2991,SPIT,tʰ u q a,468,crossandean
+149045,napo1242,SPIT,t i j u k a + n a,468,crossandean
+149046,paca1245,SPIT,t o χ a,468,crossandean
+149047,sout2990,SPIT,t i j u k a + n a,468,crossandean
+149048,puno1238,SPIT,tʰ u q a,468,crossandean
+149049,inga1252,SPIT,t u k a,468,crossandean
+149050,sant1432,SPIT,t o χ a,468,crossandean
+149051,tena1240,SPIT,t i j u k a,468,crossandean
+149052,coro1247,SPIT,t u q a,468,crossandean
+149053,east2551,SLEEP,p u ɲ u,450,crossandean
+149054,ayac1239,SLEEP,p u ɲ u,450,crossandean
+149055,chac1250,SLEEP,p u ɲ u,450,crossandean
+149056,caja1238,SLEEP,p u ɲ u,450,crossandean
+149057,chip1262,SLEEP,tʰ ai z,452,crossandean
+149058,cusc1236,SLEEP,p u ɲ u,450,crossandean
+149059,hual1241,SLEEP,p u ɲ u,450,crossandean
+149060,huay1241,SLEEP,p u ɲ u,450,crossandean
+149061,imba1240,SLEEP,p u ɲ u + n a,450,crossandean
+149062,lamb1276,SLEEP,p u n u,450,crossandean
+149063,jaqa1244,SLEEP,i k i,451,crossandean
+149064,cauq1239,SLEEP,i k i,451,crossandean
+149065,sanm1289,SLEEP,p u ɲ u,450,crossandean
+149066,yauy1235,SLEEP,p u ɲ u,450,crossandean
+149067,sout2991,SLEEP,p u ɲ u,450,crossandean
+149068,napo1242,SLEEP,p u ɲ u + n a,450,crossandean
+149069,paca1245,SLEEP,p u ɲ u,450,crossandean
+149070,sout2990,SLEEP,p u ɲ u + n a,450,crossandean
+149071,puno1238,SLEEP,p u ɲ u,450,crossandean
+149072,inga1252,SLEEP,p u ɲ u,450,crossandean
+149073,sant1432,SLEEP,p u ɲ u,450,crossandean
+149074,tena1240,SLEEP,p u ɲ u,450,crossandean
+149075,coro1247,SLEEP,p u ɲ u,450,crossandean
+149076,east2551,BE ALIVE,k au s a,7,crossandean
+149077,ayac1239,BE ALIVE,k au s a,7,crossandean
+149078,chac1250,BE ALIVE,k au s a,7,crossandean
+149079,caja1238,BE ALIVE,k au s a,7,crossandean
+149080,chip1262,BE ALIVE,z h e t z,9,crossandean
+149081,cusc1236,BE ALIVE,k au s a,7,crossandean
+149082,hual1241,BE ALIVE,k a w a,7,crossandean
+149083,huay1241,BE ALIVE,k au s a,7,crossandean
+149084,imba1240,BE ALIVE,k au s a + n a,7,crossandean
+149085,lamb1276,BE ALIVE,k au s a,7,crossandean
+149086,jaqa1244,BE ALIVE,h a k a,8,crossandean
+149087,cauq1239,BE ALIVE,h a k a,8,crossandean
+149088,sanm1289,BE ALIVE,k au s a,7,crossandean
+149089,yauy1235,BE ALIVE,k au s a,7,crossandean
+149090,sout2991,BE ALIVE,k au s a,7,crossandean
+149091,napo1242,BE ALIVE,k au s a + n a,7,crossandean
+149092,paca1245,BE ALIVE,k a w a,7,crossandean
+149093,sout2990,BE ALIVE,k au s a + n a,7,crossandean
+149094,puno1238,BE ALIVE,k au s a,7,crossandean
+149095,inga1252,BE ALIVE,k au x s a,7,crossandean
+149096,sant1432,BE ALIVE,k au s a,7,crossandean
+149097,tena1240,BE ALIVE,k au s a,7,crossandean
+149098,coro1247,BE ALIVE,k a w a,7,crossandean
+149099,east2551,DIE,w a ɲ u,79,crossandean
+149100,ayac1239,DIE,w a ɲ u,79,crossandean
+149101,chac1250,DIE,w a ɲ u,79,crossandean
+149102,caja1238,DIE,w a ɲ u,79,crossandean
+149103,chip1262,DIE,t i k z,81,crossandean
+149104,chip1262,DIE,z e r w i z,82,crossandean
+149105,cusc1236,DIE,w a ɲ u,79,crossandean
+149106,hual1241,DIE,w a ɲ u,79,crossandean
+149107,huay1241,DIE,w a ɲ u,79,crossandean
+149108,imba1240,DIE,w a ɲ u + n a,79,crossandean
+149109,lamb1276,DIE,w a n u,79,crossandean
+149110,jaqa1244,DIE,h i w a,80,crossandean
+149111,cauq1239,DIE,h i w a,80,crossandean
+149112,sanm1289,DIE,w a ɲ u,79,crossandean
+149113,yauy1235,DIE,w a ɲ u,79,crossandean
+149114,sout2991,DIE,w a ɲ u,79,crossandean
+149115,napo1242,DIE,w a ɲ u + n a,79,crossandean
+149116,paca1245,DIE,w a ɲ u + k u,79,crossandean
+149117,sout2990,DIE,w a ɲ u + n a,79,crossandean
+149118,puno1238,DIE,w a ɲ u,79,crossandean
+149119,inga1252,DIE,w a ɲ u,79,crossandean
+149120,sant1432,DIE,w a ɲ u,79,crossandean
+149121,tena1240,DIE,w a ɲ u,79,crossandean
+149122,coro1247,DIE,w a ɲ u,79,crossandean
+149123,east2551,WE (INCLUSIVE),ɲ o q a n tʃ i s,556,crossandean
+149124,ayac1239,WE (INCLUSIVE),ɲ o χ a n tʃ i k,556,crossandean
+149125,chac1250,WE (INCLUSIVE),ɲ u k a n tʃ i,556,crossandean
+149126,caja1238,WE (INCLUSIVE),n u ʁ a n dʒ i ʁ,556,crossandean
+149127,chip1262,WE (INCLUSIVE),u ʈʂ u m,558,crossandean
+149128,chip1262,WE (INCLUSIVE),u ʈʂ u n,558,crossandean
+149129,cusc1236,WE (INCLUSIVE),n u q a n tʃ i s,556,crossandean
+149130,hual1241,WE (INCLUSIVE),n u q a n tʃ i,556,crossandean
+149131,imba1240,WE (INCLUSIVE),ɲ u k a n tʃ i k,556,crossandean
+149132,lamb1276,WE (INCLUSIVE),n u ʁ a n tʃ i,556,crossandean
+149133,jaqa1244,WE (INCLUSIVE),h i w s a,557,crossandean
+149134,cauq1239,WE (INCLUSIVE),h i w s a,557,crossandean
+149135,sanm1289,WE (INCLUSIVE),ɲ u k a n tʃ i,556,crossandean
+149136,yauy1235,WE (INCLUSIVE),n u q a n tʃ i k,556,crossandean
+149137,sout2991,WE (INCLUSIVE),n u q a n tʃ i s,556,crossandean
+149138,napo1242,WE (INCLUSIVE),ɲ u k a n tʃ i,556,crossandean
+149139,paca1245,WE (INCLUSIVE),ɲ o χ a n s i,556,crossandean
+149140,sout2990,WE (INCLUSIVE),n u k a n tʃ i,556,crossandean
+149141,puno1238,WE (INCLUSIVE),n u q a n tʃ i s,556,crossandean
+149142,inga1252,WE (INCLUSIVE),n u k a n tʃ i,556,crossandean
+149143,sant1432,WE (INCLUSIVE),n o χ ai ʃ,556,crossandean
+149144,tena1240,WE (INCLUSIVE),ɲ u k a n tʃ i,556,crossandean
+149145,coro1247,WE (INCLUSIVE),ɲ u q a n ts i k,556,crossandean
+149146,east2551,SEE,q a w a,405,crossandean
+149147,east2551,SEE,r i k u,406,crossandean
+149148,ayac1239,SEE,χ a w a,405,crossandean
+149149,ayac1239,SEE,ɾ i k u,406,crossandean
+149150,chac1250,SEE,k a w a,405,crossandean
+149151,chac1250,SEE,r i k u,406,crossandean
+149152,caja1238,SEE,r i k a,406,crossandean
+149153,chip1262,SEE,tʃ e r z,408,crossandean
+149154,cusc1236,SEE,r i k u,406,crossandean
+149155,hual1241,SEE,r i k a,406,crossandean
+149156,huay1241,SEE,l i k a,406,crossandean
+149157,imba1240,SEE,ɾ i k u + n a,406,crossandean
+149158,lamb1276,SEE,r i k a,406,crossandean
+149159,jaqa1244,SEE,i ʎ a,407,crossandean
+149160,cauq1239,SEE,i ʎ a,407,crossandean
+149161,sanm1289,SEE,k a w a,405,crossandean
+149162,sanm1289,SEE,r i k u,406,crossandean
+149163,yauy1235,SEE,r i k a,406,crossandean
+149164,sout2991,SEE,r i k u,406,crossandean
+149165,napo1242,SEE,r i k u + n a,406,crossandean
+149166,paca1245,SEE,ɾ i k a,406,crossandean
+149167,sout2990,SEE,ɾ i k u + n a,406,crossandean
+149168,puno1238,SEE,r i k u,406,crossandean
+149169,inga1252,SEE,k a w a,405,crossandean
+149170,sant1432,SEE,q aː,405,crossandean
+149171,tena1240,SEE,r i k u,406,crossandean
+149172,coro1247,SEE,r i k a,406,crossandean
+149173,ayac1239,HEAR,u j a + ɾ i,221,crossandean
+149174,chac1250,HEAR,w i j a + r i,221,crossandean
+149175,caja1238,HEAR,u j a,221,crossandean
+149176,chip1262,HEAR,n o n z,223,crossandean
+149177,cusc1236,HEAR,u j a + ɾ i,221,crossandean
+149178,hual1241,HEAR,w i j a,221,crossandean
+149179,huay1241,HEAR,u j a + l i,221,crossandean
+149180,imba1240,HEAR,u j a + n a,221,crossandean
+149181,lamb1276,HEAR,u j a,221,crossandean
+149182,jaqa1244,HEAR,i ʃ a + p a,224,crossandean
+149183,cauq1239,HEAR,i ʃ p a,222,crossandean
+149184,sanm1289,HEAR,u j a + r i,221,crossandean
+149185,yauy1235,HEAR,u j a,221,crossandean
+149186,sout2991,HEAR,u j a + ɾ i,221,crossandean
+149187,napo1242,HEAR,u j a + n a,221,crossandean
+149188,paca1245,HEAR,u j a,221,crossandean
+149189,sout2990,HEAR,u j a + n a,221,crossandean
+149190,puno1238,HEAR,u j a + ɾ i,221,crossandean
+149191,inga1252,HEAR,u j a,221,crossandean
+149192,sant1432,HEAR,u j a + ɾ iː,221,crossandean
+149193,tena1240,HEAR,u j a,221,crossandean
+149194,coro1247,HEAR,w i j a,221,crossandean
+149195,east2551,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149196,ayac1239,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149197,chac1250,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149198,caja1238,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149199,chip1262,KNOW (SOMETHING),z i z,252,crossandean
+149200,cusc1236,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149201,hual1241,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149202,huay1241,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149203,imba1240,KNOW (SOMETHING),j a tʃ a + n a,251,crossandean
+149204,lamb1276,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149205,jaqa1244,KNOW (SOMETHING),j a t j i,251,crossandean
+149206,cauq1239,KNOW (SOMETHING),j a t j i,251,crossandean
+149207,sanm1289,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149208,yauy1235,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149209,sout2991,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149210,napo1242,KNOW (SOMETHING),j a tʃ a + n a,251,crossandean
+149211,paca1245,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149212,sout2990,KNOW (SOMETHING),j a tʃ a + n a,251,crossandean
+149213,puno1238,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149214,inga1252,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149215,sant1432,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149216,tena1240,KNOW (SOMETHING),j a tʃ a,251,crossandean
+149217,coro1247,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+149218,east2551,THINK (REFLECT),j u j a,508,crossandean
+149219,ayac1239,THINK (REFLECT),j u j a,508,crossandean
+149220,chac1250,THINK (REFLECT),j u j a,508,crossandean
+149221,caja1238,THINK (REFLECT),j u j a,508,crossandean
+149222,chip1262,THINK (REFLECT),l a pʼ i z i z,509,crossandean
+149223,cusc1236,THINK (REFLECT),j u j a,508,crossandean
+149224,hual1241,THINK (REFLECT),j a r p a,510,crossandean
+149225,huay1241,THINK (REFLECT),j ai n i + tʃ a + k u,511,crossandean
+149226,huay1241,THINK (REFLECT),j ai n i + k a + ʈʂ a,511,crossandean
+149227,huay1241,THINK (REFLECT),u m a + tʃ a + k u,511,crossandean
+149228,imba1240,THINK (REFLECT),j u j a + n a,508,crossandean
+149229,lamb1276,THINK (REFLECT),j a r p a,510,crossandean
+149230,jaqa1244,THINK (REFLECT),j u j a,508,crossandean
+149231,cauq1239,THINK (REFLECT),j u j a,508,crossandean
+149232,sanm1289,THINK (REFLECT),j u j a,508,crossandean
+149233,yauy1235,THINK (REFLECT),j a r p a,510,crossandean
+149234,sout2991,THINK (REFLECT),tʼ u k u,513,crossandean
+149235,napo1242,THINK (REFLECT),j u j a + n a,508,crossandean
+149236,paca1245,THINK (REFLECT),j a ɾ p a,510,crossandean
+149237,sout2990,THINK (REFLECT),j u j a + r i + n a,508,crossandean
+149238,puno1238,THINK (REFLECT),j u j a,508,crossandean
+149239,inga1252,THINK (REFLECT),j u j a,508,crossandean
+149240,sant1432,THINK (REFLECT),j a tʃ a,512,crossandean
+149241,tena1240,THINK (REFLECT),j u j a,508,crossandean
+149242,coro1247,THINK (REFLECT),j a r p a,510,crossandean
+149243,east2551,SPEAK,p a r l a,467,crossandean
+149244,east2551,SPEAK,r i m a,464,crossandean
+149245,ayac1239,SPEAK,ɾ i m a,464,crossandean
+149246,chac1250,SPEAK,r i m a,464,crossandean
+149247,caja1238,SPEAK,r i m a,464,crossandean
+149248,chip1262,SPEAK,tʃ h i j z,466,crossandean
+149249,cusc1236,SPEAK,r i m a,464,crossandean
+149250,hual1241,SPEAK,p a r l a,467,crossandean
+149251,huay1241,SPEAK,l i m a,464,crossandean
+149252,imba1240,SPEAK,ɾ i m a + n a,464,crossandean
+149253,lamb1276,SPEAK,r i m a,464,crossandean
+149254,jaqa1244,SPEAK,a r u,465,crossandean
+149255,cauq1239,SPEAK,a r u,465,crossandean
+149256,sanm1289,SPEAK,r i m a,464,crossandean
+149257,yauy1235,SPEAK,r i m a,464,crossandean
+149258,sout2991,SPEAK,p a r l a,467,crossandean
+149259,napo1242,SPEAK,r i m a + n a,464,crossandean
+149260,paca1245,SPEAK,p a ɾ l a,467,crossandean
+149261,sout2990,SPEAK,p a r l a + n a,467,crossandean
+149262,sout2990,SPEAK,ɾ i m a + n a,464,crossandean
+149263,puno1238,SPEAK,r i m a,464,crossandean
+149264,inga1252,SPEAK,r i m a,464,crossandean
+149265,sant1432,SPEAK,ɾ i m a,464,crossandean
+149266,tena1240,SPEAK,r i m a,464,crossandean
+149267,coro1247,SPEAK,p a r l a,467,crossandean
+149268,east2551,LAUGH,a s i,253,crossandean
+149269,ayac1239,LAUGH,a s i,253,crossandean
+149270,chac1250,LAUGH,a s i,253,crossandean
+149271,caja1238,LAUGH,a s i,253,crossandean
+149272,chip1262,LAUGH,tʰ a z z,255,crossandean
+149273,cusc1236,LAUGH,a s i,253,crossandean
+149274,hual1241,LAUGH,a s i,253,crossandean
+149275,huay1241,LAUGH,a s i,253,crossandean
+149276,jauj1238,LAUGH,a s i,253,crossandean
+149277,imba1240,LAUGH,a s i + n a,253,crossandean
+149278,lamb1276,LAUGH,a s i,253,crossandean
+149279,jaqa1244,LAUGH,n a r u,254,crossandean
+149280,cauq1239,LAUGH,n a r u,254,crossandean
+149281,sanm1289,LAUGH,a s i,253,crossandean
+149282,yauy1235,LAUGH,a s i,253,crossandean
+149283,sout2991,LAUGH,a s i,253,crossandean
+149284,napo1242,LAUGH,a s i + n a,253,crossandean
+149285,paca1245,LAUGH,a j i,253,crossandean
+149286,sout2990,LAUGH,a s i + n a,253,crossandean
+149287,puno1238,LAUGH,a s i,253,crossandean
+149288,inga1252,LAUGH,a s i,253,crossandean
+149289,sant1432,LAUGH,a s !iː/i,253,crossandean
+149290,tena1240,LAUGH,a s i,253,crossandean
+149291,coro1247,LAUGH,a s i,253,crossandean
+149292,east2551,CRY,w a q a,71,crossandean
+149293,ayac1239,CRY,w a χ a,71,crossandean
+149294,chac1250,CRY,w a k a,71,crossandean
+149295,caja1238,CRY,w a ʁ a,71,crossandean
+149296,chip1262,CRY,q aː z,73,crossandean
+149297,cusc1236,CRY,w a q a,71,crossandean
+149298,hual1241,CRY,w a q a,71,crossandean
+149299,huay1241,CRY,w a ʔ ai,71,crossandean
+149300,imba1240,CRY,w a k a + n a,71,crossandean
+149301,lamb1276,CRY,w a ʁ a,71,crossandean
+149302,jaqa1244,CRY,h a ts a,72,crossandean
+149303,cauq1239,CRY,h a ʈʂ a,72,crossandean
+149304,sanm1289,CRY,w a k a,71,crossandean
+149305,yauy1235,CRY,w a q a,71,crossandean
+149306,sout2991,CRY,w a q a,71,crossandean
+149307,napo1242,CRY,w a k a + n a,71,crossandean
+149308,paca1245,CRY,w a ʁ a,71,crossandean
+149309,sout2990,CRY,w a k a + n a,71,crossandean
+149310,puno1238,CRY,w a q a,71,crossandean
+149311,inga1252,CRY,w a k a,71,crossandean
+149312,sant1432,CRY,w a χ ai,71,crossandean
+149313,tena1240,CRY,w a k a,71,crossandean
+149314,coro1247,CRY,w a q a,71,crossandean
+149315,east2551,GIVE,q o,188,crossandean
+149316,ayac1239,GIVE,χ o,188,crossandean
+149317,chac1250,GIVE,k u,188,crossandean
+149318,caja1238,GIVE,q u,188,crossandean
+149319,chip1262,GIVE,i tʃ z,190,crossandean
+149320,cusc1236,GIVE,q u,188,crossandean
+149321,hual1241,GIVE,q u,188,crossandean
+149322,huay1241,GIVE,ʔ u,188,crossandean
+149323,imba1240,GIVE,k u + n a,188,crossandean
+149324,lamb1276,GIVE,q u,188,crossandean
+149325,jaqa1244,GIVE,j a k a,189,crossandean
+149326,cauq1239,GIVE,j a k a,189,crossandean
+149327,sanm1289,GIVE,k u,188,crossandean
+149328,yauy1235,GIVE,q u,188,crossandean
+149329,sout2991,GIVE,q u,188,crossandean
+149330,napo1242,GIVE,k u + n a,188,crossandean
+149331,paca1245,GIVE,χ o,188,crossandean
+149332,sout2990,GIVE,k u + n a,188,crossandean
+149333,puno1238,GIVE,q u,188,crossandean
+149334,inga1252,GIVE,k ua,188,crossandean
+149335,sant1432,GIVE,q o,188,crossandean
+149336,tena1240,GIVE,k u,188,crossandean
+149337,coro1247,GIVE,q u,188,crossandean
+149338,east2551,SEW,s i ɾ a,416,crossandean
+149339,ayac1239,SEW,s i ɾ a,416,crossandean
+149340,chac1250,SEW,s i ɾ a,416,crossandean
+149341,caja1238,SEW,s i ɾ a,416,crossandean
+149342,chip1262,SEW,kʰ o tʃ z,418,crossandean
+149343,cusc1236,SEW,s i ɾ a,416,crossandean
+149344,hual1241,SEW,h i ɾ a,416,crossandean
+149345,huay1241,SEW,h i l a,416,crossandean
+149346,imba1240,SEW,s i ɾ a + n a,416,crossandean
+149347,lamb1276,SEW,s i ɾ a,416,crossandean
+149348,jaqa1244,SEW,tsʼ u k u,417,crossandean
+149349,cauq1239,SEW,ʈʂʼ u k u,417,crossandean
+149350,sanm1289,SEW,s i ɾ a,416,crossandean
+149351,yauy1235,SEW,s i ɾ a,416,crossandean
+149352,sout2991,SEW,s i ɾ a,416,crossandean
+149353,napo1242,SEW,s i ɾ a + n a,416,crossandean
+149354,paca1245,SEW,x i ɾ a,416,crossandean
+149355,sout2990,SEW,s i ɾ a + n a,416,crossandean
+149356,puno1238,SEW,s i ɾ a,416,crossandean
+149357,inga1252,SEW,s i ɾ a,416,crossandean
+149358,sant1432,SEW,s e ɾ a,416,crossandean
+149359,tena1240,SEW,s i ɾ a,416,crossandean
+149360,coro1247,SEW,i r a,416,crossandean
+149361,east2551,STRIKE,p a n a,485,crossandean
+149362,east2551,STRIKE,t a k a,483,crossandean
+149363,ayac1239,STRIKE,w a χ t a,482,crossandean
+149364,ayac1239,STRIKE,t a k a,483,crossandean
+149365,chac1250,STRIKE,m a k a,483,crossandean
+149366,chac1250,STRIKE,w a k t a,482,crossandean
+149367,caja1238,STRIKE,t a k a,483,crossandean
+149368,chip1262,STRIKE,ʈʂ a k z,484,crossandean
+149369,cusc1236,STRIKE,t a k a,483,crossandean
+149370,huay1241,STRIKE,m a ʔ a,483,crossandean
+149371,imba1240,STRIKE,t a k a + n a,483,crossandean
+149372,lamb1276,STRIKE,t a k a,483,crossandean
+149373,jaqa1244,STRIKE,h ai tʃ a,486,crossandean
+149374,cauq1239,STRIKE,tʃ a n q a,483,crossandean
+149375,sanm1289,STRIKE,m a k a,483,crossandean
+149376,sanm1289,STRIKE,w a k t a,482,crossandean
+149377,yauy1235,STRIKE,m a q a,483,crossandean
+149378,sout2991,STRIKE,t a k a,483,crossandean
+149379,napo1242,STRIKE,s a g m a + n a,483,crossandean
+149380,paca1245,STRIKE,m a ʁ a,483,crossandean
+149381,sout2990,STRIKE,t u l u p u + n a,487,crossandean
+149382,sout2990,STRIKE,w a k t a + n a,482,crossandean
+149383,puno1238,STRIKE,t a k a,483,crossandean
+149384,inga1252,STRIKE,m a k a,483,crossandean
+149385,inga1252,STRIKE,t a k a + tʃ i,483,crossandean
+149386,sant1432,STRIKE,m a x a,483,crossandean
+149387,tena1240,STRIKE,w a x t a,482,crossandean
+149388,coro1247,STRIKE,t a k a,483,crossandean
+149389,east2551,THOU,q a n,516,crossandean
+149390,ayac1239,THOU,χ a m,516,crossandean
+149391,chac1250,THOU,k a m,516,crossandean
+149392,caja1238,THOU,q a m,516,crossandean
+149393,chip1262,THOU,a m,516,crossandean
+149394,cusc1236,THOU,q a n,516,crossandean
+149395,hual1241,THOU,q a m,516,crossandean
+149396,huay1241,THOU,q a m,516,crossandean
+149397,imba1240,THOU,k a n,516,crossandean
+149398,lamb1276,THOU,x a m,516,crossandean
+149399,jaqa1244,THOU,h u m a,517,crossandean
+149400,cauq1239,THOU,h u m a,517,crossandean
+149401,sanm1289,THOU,k a m,516,crossandean
+149402,yauy1235,THOU,q a m,516,crossandean
+149403,sout2991,THOU,q a n,516,crossandean
+149404,napo1242,THOU,k a n,516,crossandean
+149405,paca1245,THOU,ʁ a m,519,crossandean
+149406,sout2990,THOU,k a n,516,crossandean
+149407,puno1238,THOU,q a n,516,crossandean
+149408,inga1252,THOU,k a m,516,crossandean
+149409,sant1432,THOU,q a m,516,crossandean
+149410,tena1240,THOU,k a n,516,crossandean
+149411,coro1247,THOU,q a m,518,crossandean
+149412,east2551,PUSH,t a n q a,363,crossandean
+149413,ayac1239,PUSH,t a ŋ χ a,363,crossandean
+149414,chac1250,PUSH,t a n g a,363,crossandean
+149415,caja1238,PUSH,k u m s a,364,crossandean
+149416,chip1262,PUSH,r i m p ui z,366,crossandean
+149417,cusc1236,PUSH,t a n q a,363,crossandean
+149418,hual1241,PUSH,t a n q a,363,crossandean
+149419,huay1241,PUSH,k u m s a,364,crossandean
+149420,huay1241,PUSH,t a n ʔ a,363,crossandean
+149421,imba1240,PUSH,t a n g a + n a,363,crossandean
+149422,lamb1276,PUSH,k u m s a,364,crossandean
+149423,jaqa1244,PUSH,tʃ i m a,365,crossandean
+149424,cauq1239,PUSH,tʃ i m a,365,crossandean
+149425,sanm1289,PUSH,t a n g a,363,crossandean
+149426,yauy1235,PUSH,k u m s a,364,crossandean
+149427,sout2991,PUSH,t a n q a,363,crossandean
+149428,napo1242,PUSH,t a n g a + n a,363,crossandean
+149429,paca1245,PUSH,k u m a,364,crossandean
+149430,sout2990,PUSH,t a n g a + n a,363,crossandean
+149431,puno1238,PUSH,t a n q a,363,crossandean
+149432,inga1252,PUSH,t a n g a,363,crossandean
+149433,sant1432,PUSH,t a ŋ q a,363,crossandean
+149434,tena1240,PUSH,t a n g a,363,crossandean
+149435,coro1247,PUSH,t a n q a,363,crossandean
+149436,east2551,NOT,m a n a,342,crossandean
+149437,ayac1239,NOT,m a n a,342,crossandean
+149438,chac1250,NOT,m a n a,342,crossandean
+149439,caja1238,NOT,m a n a,342,crossandean
+149440,chip1262,NOT,a n a,342,crossandean
+149441,cusc1236,NOT,m a n a,342,crossandean
+149442,hual1241,NOT,m a n a,342,crossandean
+149443,huay1241,NOT,m a n a,342,crossandean
+149444,imba1240,NOT,m a n a,342,crossandean
+149445,lamb1276,NOT,m a n a,342,crossandean
+149446,jaqa1244,NOT,i ʃ a,343,crossandean
+149447,cauq1239,NOT,i ʃ a,343,crossandean
+149448,yauy1235,NOT,m a n a,342,crossandean
+149449,sout2991,NOT,m a n a,342,crossandean
+149450,napo1242,NOT,m a n a,342,crossandean
+149451,paca1245,NOT,m a n a,342,crossandean
+149452,sout2990,NOT,m a n a,342,crossandean
+149453,puno1238,NOT,m a n a,342,crossandean
+149454,inga1252,NOT,m a n a,342,crossandean
+149455,sant1432,NOT,m a n a,342,crossandean
+149456,tena1240,NOT,m a n a,342,crossandean
+149457,coro1247,NOT,m a n a,342,crossandean
+149458,east2551,WHAT,i m a,559,crossandean
+149459,ayac1239,WHAT,i m a,559,crossandean
+149460,chac1250,WHAT,i m a,559,crossandean
+149461,caja1238,WHAT,i m a,559,crossandean
+149462,chip1262,WHAT,ʈʂʰ u l u,561,crossandean
+149463,cusc1236,WHAT,i m a,559,crossandean
+149464,hual1241,WHAT,i m a,559,crossandean
+149465,huay1241,WHAT,i m a,559,crossandean
+149466,imba1240,WHAT,i m a,559,crossandean
+149467,lamb1276,WHAT,i m a,559,crossandean
+149468,jaqa1244,WHAT,q u s a,560,crossandean
+149469,cauq1239,WHAT,q u s i,560,crossandean
+149470,sanm1289,WHAT,i m a,559,crossandean
+149471,yauy1235,WHAT,i m a,559,crossandean
+149472,sout2991,WHAT,i m a,559,crossandean
+149473,napo1242,WHAT,i m a,559,crossandean
+149474,paca1245,WHAT,i m a,559,crossandean
+149475,sout2990,WHAT,i m a,559,crossandean
+149476,puno1238,WHAT,i m a,559,crossandean
+149477,inga1252,WHAT,i m a,559,crossandean
+149478,sant1432,WHAT,i m a,559,crossandean
+149479,tena1240,WHAT,i m a,559,crossandean
+149480,coro1247,WHAT,i m a,559,crossandean
+149481,east2551,WHO,p i,565,crossandean
+149482,ayac1239,WHO,p i,565,crossandean
+149483,chac1250,WHO,p i,565,crossandean
+149484,caja1238,WHO,p i,565,crossandean
+149485,chip1262,WHO,h e k,567,crossandean
+149486,cusc1236,WHO,p i,565,crossandean
+149487,hual1241,WHO,p i,565,crossandean
+149488,huay1241,WHO,p i,565,crossandean
+149489,imba1240,WHO,p i,565,crossandean
+149490,lamb1276,WHO,p i,565,crossandean
+149491,jaqa1244,WHO,q a tʃ i,566,crossandean
+149492,cauq1239,WHO,q a tʃ i,566,crossandean
+149493,sanm1289,WHO,p i,565,crossandean
+149494,yauy1235,WHO,p i,565,crossandean
+149495,sout2991,WHO,p i,565,crossandean
+149496,napo1242,WHO,m ai k a n,568,crossandean
+149497,paca1245,WHO,p i,565,crossandean
+149498,sout2990,WHO,p i,565,crossandean
+149499,puno1238,WHO,p i,565,crossandean
+149500,inga1252,WHO,p i,565,crossandean
+149501,sant1432,WHO,p i + t a χ,565,crossandean
+149502,tena1240,WHO,p i,565,crossandean
+149503,coro1247,WHO,p i,565,crossandean
+149504,east2551,THIS,k ai,514,crossandean
+149505,ayac1239,THIS,k ai,514,crossandean
+149506,chac1250,THIS,k ai,514,crossandean
+149507,caja1238,THIS,k ai,514,crossandean
+149508,chip1262,THIS,t i i,515,crossandean
+149509,cusc1236,THIS,k ai,514,crossandean
+149510,hual1241,THIS,k ai,514,crossandean
+149511,huay1241,THIS,k ai,514,crossandean
+149512,imba1240,THIS,k ai,514,crossandean
+149513,lamb1276,THIS,k ai,514,crossandean
+149514,jaqa1244,THIS,a k a,514,crossandean
+149515,cauq1239,THIS,a k a,514,crossandean
+149516,sanm1289,THIS,k ai,514,crossandean
+149517,yauy1235,THIS,k ai,514,crossandean
+149518,sout2991,THIS,k ai,514,crossandean
+149519,napo1242,THIS,k ai,514,crossandean
+149520,paca1245,THIS,k ai,514,crossandean
+149521,sout2990,THIS,k ai,514,crossandean
+149522,puno1238,THIS,k ai,514,crossandean
+149523,inga1252,THIS,k ai,514,crossandean
+149524,sant1432,THIS,k ai,514,crossandean
+149525,tena1240,THIS,k ai,514,crossandean
+149526,coro1247,THIS,k eː,514,crossandean
+149527,east2551,TWO,i s k ai,539,crossandean
+149528,ayac1239,TWO,i s k ai,539,crossandean
+149529,chac1250,TWO,i ç k ai,539,crossandean
+149530,caja1238,TWO,i s k ai,539,crossandean
+149531,chip1262,TWO,p i z k,541,crossandean
+149532,cusc1236,TWO,i s k ai,539,crossandean
+149533,hual1241,TWO,i s k ai,539,crossandean
+149534,huay1241,TWO,i ʃ k ai,539,crossandean
+149535,imba1240,TWO,i ʃ k ai,539,crossandean
+149536,lamb1276,TWO,i s k ai,539,crossandean
+149537,jaqa1244,TWO,p a x a,540,crossandean
+149538,cauq1239,TWO,p a x a,540,crossandean
+149539,sanm1289,TWO,i ç k ai,539,crossandean
+149540,yauy1235,TWO,i ʃ k ai,539,crossandean
+149541,sout2991,TWO,i s k ai,539,crossandean
+149542,napo1242,TWO,i ʃ k ai,539,crossandean
+149543,paca1245,TWO,i ç k ai,539,crossandean
+149544,sout2990,TWO,i ʃ k ai,539,crossandean
+149545,puno1238,TWO,i s k ai,539,crossandean
+149546,inga1252,TWO,i s k ai,539,crossandean
+149547,sant1432,TWO,i ʃ k ai,539,crossandean
+149548,tena1240,TWO,i ʃ k i,539,crossandean
+149549,coro1247,TWO,i ʃ k eː,539,crossandean
+149550,east2551,WITH,w a n,579,crossandean
+149551,ayac1239,WITH,w a ŋ,579,crossandean
+149552,caja1238,WITH,w a n,579,crossandean
+149553,chip1262,WITH,z h t a n,581,crossandean
+149554,chip1262,WITH,a t a n,581,crossandean
+149555,cusc1236,WITH,w a n,579,crossandean
+149556,hual1241,WITH,w a n,579,crossandean
+149557,lamb1276,WITH,w a n,579,crossandean
+149558,jaqa1244,WITH,w ʃ q a,580,crossandean
+149559,cauq1239,WITH,w ʃ q a,580,crossandean
+149560,yauy1235,WITH,w a n,579,crossandean
+149561,sout2991,WITH,w a n,579,crossandean
+149562,puno1238,WITH,w a n,579,crossandean
+149563,sant1432,WITH,a n,579,crossandean
+149564,tena1240,WITH,w a,579,crossandean
+149565,coro1247,WITH,w a n,579,crossandean
+149566,east2551,HEAD,u m a,217,crossandean
+149567,ayac1239,HEAD,u m a,217,crossandean
+149568,chac1250,HEAD,u m a,217,crossandean
+149569,caja1238,HEAD,u m a,217,crossandean
+149570,chip1262,HEAD,a tʃ a,219,crossandean
+149571,cusc1236,HEAD,u m a,217,crossandean
+149572,hual1241,HEAD,u m a,217,crossandean
+149573,huay1241,HEAD,u m a,217,crossandean
+149574,imba1240,HEAD,u m a,217,crossandean
+149575,lamb1276,HEAD,u m a,217,crossandean
+149576,jaqa1244,HEAD,n a m pʼ a,220,crossandean
+149577,cauq1239,HEAD,p a ʈʂ h a,218,crossandean
+149578,sanm1289,HEAD,u m a,217,crossandean
+149579,yauy1235,HEAD,u m a,217,crossandean
+149580,sout2991,HEAD,u m a,217,crossandean
+149581,napo1242,HEAD,u m a,217,crossandean
+149582,paca1245,HEAD,u m a,217,crossandean
+149583,sout2990,HEAD,u m a,217,crossandean
+149584,puno1238,HEAD,u m a,217,crossandean
+149585,inga1252,HEAD,u m a,217,crossandean
+149586,sant1432,HEAD,u m a,217,crossandean
+149587,tena1240,HEAD,u m a,217,crossandean
+149588,coro1247,HEAD,u m a,217,crossandean
+149589,east2551,FACE,u j a,121,crossandean
+149590,ayac1239,FACE,u j a,121,crossandean
+149591,chac1250,FACE,w i j a,121,crossandean
+149592,caja1238,FACE,q a ʁ ʎ a,122,crossandean
+149593,chip1262,FACE,j u k,123,crossandean
+149594,cusc1236,FACE,u j a,121,crossandean
+149595,hual1241,FACE,q a χ ʎ a,122,crossandean
+149596,imba1240,FACE,ɲ a w i,124,crossandean
+149597,lamb1276,FACE,χ a χ dʒ a,122,crossandean
+149598,jaqa1244,FACE,q a x ʎ a,122,crossandean
+149599,cauq1239,FACE,q a x ʎ a,122,crossandean
+149600,sanm1289,FACE,u j a,121,crossandean
+149601,yauy1235,FACE,k a r a,125,crossandean
+149602,sout2991,FACE,u j a,121,crossandean
+149603,napo1242,FACE,ɲ a w i,124,crossandean
+149604,paca1245,FACE,k aː ɾ a,125,crossandean
+149605,sout2990,FACE,u j a,121,crossandean
+149606,puno1238,FACE,u j a,121,crossandean
+149607,inga1252,FACE,ɲ a w i,124,crossandean
+149608,sant1432,FACE,u j a,121,crossandean
+149609,tena1240,FACE,ɲ a β i,124,crossandean
+149610,coro1247,FACE,q a q ʎ a,122,crossandean
+149611,east2551,FOREHEAD,tʃ i n p a,164,crossandean
+149612,east2551,FOREHEAD,m a t i,163,crossandean
+149613,ayac1239,FOREHEAD,u ɾ k u,160,crossandean
+149614,chac1250,FOREHEAD,u r k u,160,crossandean
+149615,caja1238,FOREHEAD,u r k u,160,crossandean
+149616,chip1262,FOREHEAD,a j a,162,crossandean
+149617,cusc1236,FOREHEAD,m a tʼ i,163,crossandean
+149618,hual1241,FOREHEAD,u r k u,160,crossandean
+149619,huay1241,FOREHEAD,u l k u,160,crossandean
+149620,huay1241,FOREHEAD,p a ʔ ʈʂ a,161,crossandean
+149621,imba1240,FOREHEAD,ɲ a w i,165,crossandean
+149622,lamb1276,FOREHEAD,u r k u,160,crossandean
+149623,jaqa1244,FOREHEAD,p a x ʈʂ h a,161,crossandean
+149624,cauq1239,FOREHEAD,p a x ʈʂ h a,161,crossandean
+149625,sanm1289,FOREHEAD,u r k u,160,crossandean
+149626,yauy1235,FOREHEAD,p a q ʈʂ a,161,crossandean
+149627,sout2991,FOREHEAD,f r e n t e,166,crossandean
+149628,napo1242,FOREHEAD,h u r i n t i,166,crossandean
+149629,paca1245,FOREHEAD,s o χ u ʈʂ i,167,crossandean
+149630,sout2990,FOREHEAD,u r i n d i,166,crossandean
+149631,puno1238,FOREHEAD,m a tʼ i,163,crossandean
+149632,sant1432,FOREHEAD,p a χ ɾ a,161,crossandean
+149633,tena1240,FOREHEAD,u r i n t i,166,crossandean
+149634,coro1247,FOREHEAD,u r k u,160,crossandean
+149635,east2551,HAIR (HEAD),tʃ u k tʃ a,210,crossandean
+149636,ayac1239,HAIR (HEAD),tʃ u k tʃ a,210,crossandean
+149637,chac1250,HAIR (HEAD),tʃ u x tʃ a,210,crossandean
+149638,caja1238,HAIR (HEAD),a χ tʃ a,210,crossandean
+149639,chip1262,HAIR (HEAD),tʃ a r a,212,crossandean
+149640,cusc1236,HAIR (HEAD),tʃ u x tʃ a,210,crossandean
+149641,hual1241,HAIR (HEAD),a χ tʃ a,210,crossandean
+149642,huay1241,HAIR (HEAD),a ʔ tʃ a,210,crossandean
+149643,imba1240,HAIR (HEAD),a k tʃ a,210,crossandean
+149644,lamb1276,HAIR (HEAD),a χ tʃ a,210,crossandean
+149645,jaqa1244,HAIR (HEAD),n u kʼ u t a,211,crossandean
+149646,cauq1239,HAIR (HEAD),n u kʼ u ʈʂ a,211,crossandean
+149647,sanm1289,HAIR (HEAD),tʃ u k tʃ a,210,crossandean
+149648,yauy1235,HAIR (HEAD),a χ tʃ a,210,crossandean
+149649,sout2991,HAIR (HEAD),tʃ u x tʃ a,210,crossandean
+149650,napo1242,HAIR (HEAD),a k tʃ a,210,crossandean
+149651,paca1245,HAIR (HEAD),a χ s a,210,crossandean
+149652,sout2990,HAIR (HEAD),tʃ u k tʃ a,210,crossandean
+149653,puno1238,HAIR (HEAD),tʃ u x tʃ a,210,crossandean
+149654,inga1252,HAIR (HEAD),a x tʃ a,210,crossandean
+149655,sant1432,HAIR (HEAD),tʃ u x tʃ a,210,crossandean
+149656,tena1240,HAIR (HEAD),a k tʃ a,210,crossandean
+149657,coro1247,HAIR (HEAD),a q ts a,210,crossandean
+149658,east2551,EYE,ɲ a w i,118,crossandean
+149659,ayac1239,EYE,ɲ a w i,118,crossandean
+149660,chac1250,EYE,ɲ a w i,118,crossandean
+149661,caja1238,EYE,ɲ a w i,118,crossandean
+149662,chip1262,EYE,ʈʂʰ u k i,120,crossandean
+149663,cusc1236,EYE,ɲ a w i,118,crossandean
+149664,hual1241,EYE,ɲ a w i,118,crossandean
+149665,huay1241,EYE,ɲ a w i,118,crossandean
+149666,imba1240,EYE,ɲ a w i + l u l u n,118,crossandean
+149667,lamb1276,EYE,n a w i,118,crossandean
+149668,jaqa1244,EYE,n ai r a,119,crossandean
+149669,cauq1239,EYE,n ai r a,119,crossandean
+149670,sanm1289,EYE,ɲ a w i,118,crossandean
+149671,yauy1235,EYE,ɲ a w i,118,crossandean
+149672,sout2991,EYE,ɲ a w i,118,crossandean
+149673,napo1242,EYE,ɲ a w i,118,crossandean
+149674,paca1245,EYE,ɲ a w i,118,crossandean
+149675,sout2990,EYE,ɲ a v i,118,crossandean
+149676,puno1238,EYE,ɲ a w i,118,crossandean
+149677,inga1252,EYE,ɲ a w i,118,crossandean
+149678,sant1432,EYE,ɲ a w i,118,crossandean
+149679,tena1240,EYE,ɲ a β i,118,crossandean
+149680,tena1240,EYE,ɲ a w i,118,crossandean
+149681,coro1247,EYE,ɲ a w i,118,crossandean
+149682,east2551,NOSE,s e n q a,339,crossandean
+149683,ayac1239,NOSE,s e ŋ χ a,339,crossandean
+149684,chac1250,NOSE,s i n g a,339,crossandean
+149685,caja1238,NOSE,s i n g a,339,crossandean
+149686,chip1262,NOSE,o z a,341,crossandean
+149687,cusc1236,NOSE,s i n q a,339,crossandean
+149688,hual1241,NOSE,s i n q a,339,crossandean
+149689,huay1241,NOSE,s i n ʔ a,339,crossandean
+149690,imba1240,NOSE,s i n g a,339,crossandean
+149691,lamb1276,NOSE,s i n ɢ a,339,crossandean
+149692,jaqa1244,NOSE,n a s a,340,crossandean
+149693,cauq1239,NOSE,n a s a,340,crossandean
+149694,sanm1289,NOSE,s i n g a,339,crossandean
+149695,yauy1235,NOSE,s i n q a,339,crossandean
+149696,sout2991,NOSE,s i n q a,339,crossandean
+149697,napo1242,NOSE,s i n g a,339,crossandean
+149698,paca1245,NOSE,s i ɴ χ a,339,crossandean
+149699,sout2990,NOSE,s i n g a,339,crossandean
+149700,puno1238,NOSE,s i n q a,339,crossandean
+149701,inga1252,NOSE,s i n g a,339,crossandean
+149702,sant1432,NOSE,s e ŋ q a,339,crossandean
+149703,tena1240,NOSE,s i n g a,339,crossandean
+149704,coro1247,NOSE,s i n q a,339,crossandean
+149705,east2551,EAR,r i n r i,91,crossandean
+149706,east2551,EAR,n i n r i,91,crossandean
+149707,ayac1239,EAR,ɾ i ŋ ɾ i,91,crossandean
+149708,chac1250,EAR,r i n r i,91,crossandean
+149709,caja1238,EAR,r i n r i,91,crossandean
+149710,chip1262,EAR,kʰ u ɲ i,93,crossandean
+149711,cusc1236,EAR,n i n r i,91,crossandean
+149712,cusc1236,EAR,r i n r i,91,crossandean
+149713,hual1241,EAR,r i n r i,91,crossandean
+149714,huay1241,EAR,l i n l i,91,crossandean
+149715,imba1240,EAR,ɾ i n ɾ i,91,crossandean
+149716,lamb1276,EAR,!r̝/r i n r i,91,crossandean
+149717,jaqa1244,EAR,h i n tʃ u,92,crossandean
+149718,cauq1239,EAR,h i n tʃ u,92,crossandean
+149719,sanm1289,EAR,r i n r i,91,crossandean
+149720,yauy1235,EAR,l i n r i,91,crossandean
+149721,sout2991,EAR,l i n r i,91,crossandean
+149722,sout2991,EAR,n i n r i,91,crossandean
+149723,sout2991,EAR,n i g r i,91,crossandean
+149724,napo1242,EAR,r i n r i,91,crossandean
+149725,paca1245,EAR,ɾ i ŋ ɾ i,91,crossandean
+149726,sout2990,EAR,ɾ i n r i,91,crossandean
+149727,puno1238,EAR,n i n r i,91,crossandean
+149728,puno1238,EAR,r i n r i,91,crossandean
+149729,inga1252,EAR,r i n r i,91,crossandean
+149730,sant1432,EAR,n i ŋ ɾ i,91,crossandean
+149731,tena1240,EAR,r i ŋ r i,91,crossandean
+149732,coro1247,EAR,r i n r i,91,crossandean
+149733,east2551,MOUTH,s i m i,316,crossandean
+149734,ayac1239,MOUTH,s i m i,316,crossandean
+149735,chac1250,MOUTH,ʃ i m i,316,crossandean
+149736,caja1238,MOUTH,ʃ i m i,316,crossandean
+149737,chip1262,MOUTH,a t a,317,crossandean
+149738,cusc1236,MOUTH,s i m i,316,crossandean
+149739,hual1241,MOUTH,ʃ i m i,316,crossandean
+149740,huay1241,MOUTH,ʃ i m i,316,crossandean
+149741,imba1240,MOUTH,ʃ i m i,316,crossandean
+149742,lamb1276,MOUTH,ʃ i m i,316,crossandean
+149743,jaqa1244,MOUTH,ʃ i m i,316,crossandean
+149744,cauq1239,MOUTH,s i m i,316,crossandean
+149745,sanm1289,MOUTH,ʃ i m i,316,crossandean
+149746,yauy1235,MOUTH,ʃ i m i,316,crossandean
+149747,sout2991,MOUTH,s i m i,316,crossandean
+149748,napo1242,MOUTH,ʃ i m i,316,crossandean
+149749,paca1245,MOUTH,ʃ i m i,316,crossandean
+149750,sout2990,MOUTH,ʃ i m i,316,crossandean
+149751,puno1238,MOUTH,s i m i,316,crossandean
+149752,inga1252,MOUTH,s i m i,316,crossandean
+149753,sant1432,MOUTH,s i m i,316,crossandean
+149754,tena1240,MOUTH,ʃ i m i,316,crossandean
+149755,coro1247,MOUTH,ʃ i m i,316,crossandean
+149756,east2551,LIP,s i r p a,285,crossandean
+149757,east2551,LIP,w i r p a,285,crossandean
+149758,ayac1239,LIP,h i t a,281,crossandean
+149759,caja1238,LIP,ʃ i m i,282,crossandean
+149760,chip1262,LIP,a t p u l u,284,crossandean
+149761,cusc1236,LIP,w i r pʼ a,285,crossandean
+149762,hual1241,LIP,w i r p a,285,crossandean
+149763,huay1241,LIP,w i ʎ p a,285,crossandean
+149764,imba1240,LIP,ʃ i m i,282,crossandean
+149765,lamb1276,LIP,ʃ i m i,282,crossandean
+149766,jaqa1244,LIP,ʃ i m i,282,crossandean
+149767,cauq1239,LIP,ʃ i p i + m p i,283,crossandean
+149768,sanm1289,LIP,h e t a,287,crossandean
+149769,yauy1235,LIP,ʃ i m i,282,crossandean
+149770,sout2991,LIP,s i m i,282,crossandean
+149771,napo1242,LIP,ʃ i m i + k a r a,282,crossandean
+149772,paca1245,LIP,w i ɾ p a,285,crossandean
+149773,sout2990,LIP,ʃ i m i + k a r a,282,crossandean
+149774,puno1238,LIP,l a b i o,286,crossandean
+149775,inga1252,LIP,s i m i + k a r a,282,crossandean
+149776,sant1432,LIP,s i p ɾ iː,282,crossandean
+149777,tena1240,LIP,ʃ i m i + k a r a,282,crossandean
+149778,coro1247,LIP,ʃ i m i,282,crossandean
+149779,east2551,THREE,k i n s a,520,crossandean
+149780,ayac1239,THREE,k i m s a,520,crossandean
+149781,chac1250,THREE,k i m s a,520,crossandean
+149782,caja1238,THREE,k i m s a,520,crossandean
+149783,chip1262,THREE,tʃ h e p,521,crossandean
+149784,cusc1236,THREE,k i n s a,520,crossandean
+149785,hual1241,THREE,k i m s a,520,crossandean
+149786,huay1241,THREE,k i m s a,520,crossandean
+149787,imba1240,THREE,k i m s a,520,crossandean
+149788,lamb1276,THREE,k i m s a,520,crossandean
+149789,jaqa1244,THREE,k i m s a,520,crossandean
+149790,cauq1239,THREE,k i m s a,520,crossandean
+149791,sanm1289,THREE,k i m s a,520,crossandean
+149792,yauy1235,THREE,k i m s a,520,crossandean
+149793,sout2991,THREE,k i n s a,520,crossandean
+149794,napo1242,THREE,k i m s a,520,crossandean
+149795,paca1245,THREE,k i m a,520,crossandean
+149796,sout2990,THREE,k i m s a,520,crossandean
+149797,puno1238,THREE,k i m s a,520,crossandean
+149798,inga1252,THREE,k i m s a,520,crossandean
+149799,sant1432,THREE,k i m s a,520,crossandean
+149800,tena1240,THREE,k i n s a,520,crossandean
+149801,coro1247,THREE,k i n s a,520,crossandean
+149802,east2551,TONGUE,q a ʎ u,522,crossandean
+149803,ayac1239,TONGUE,χ a ʎ u,522,crossandean
+149804,chac1250,TONGUE,k a dʑ u,522,crossandean
+149805,caja1238,TONGUE,q a dʑ u,522,crossandean
+149806,chip1262,TONGUE,l a z,524,crossandean
+149807,cusc1236,TONGUE,q a ʎ u,522,crossandean
+149808,hual1241,TONGUE,q a ʎ u,522,crossandean
+149809,huay1241,TONGUE,h a ʎ u,522,crossandean
+149810,imba1240,TONGUE,x a ʎ u,522,crossandean
+149811,lamb1276,TONGUE,q a dʒ u,522,crossandean
+149812,lamb1276,TONGUE,χ a dʒ u,522,crossandean
+149813,jaqa1244,TONGUE,n a x r a,523,crossandean
+149814,cauq1239,TONGUE,n i x r a,523,crossandean
+149815,sanm1289,TONGUE,k a dʑ u,522,crossandean
+149816,yauy1235,TONGUE,q a ʎ u,522,crossandean
+149817,sout2991,TONGUE,q a ʎ u,522,crossandean
+149818,napo1242,TONGUE,k a ʎ u,522,crossandean
+149819,paca1245,TONGUE,ʁ a ʎ u,522,crossandean
+149820,paca1245,TONGUE,ʁ a l u,522,crossandean
+149821,sout2990,TONGUE,k a ʎ u,522,crossandean
+149822,puno1238,TONGUE,q a ʎ u,522,crossandean
+149823,inga1252,TONGUE,k a ʎ u,522,crossandean
+149824,sant1432,TONGUE,q a ʒ u,522,crossandean
+149825,tena1240,TONGUE,k a ʎ u,522,crossandean
+149826,coro1247,TONGUE,q a ʎ u,522,crossandean
+149827,east2551,TOOTH,k i r u,525,crossandean
+149828,ayac1239,TOOTH,k i ɾ u,525,crossandean
+149829,chac1250,TOOTH,k i r u,525,crossandean
+149830,caja1238,TOOTH,k i r u,525,crossandean
+149831,chip1262,TOOTH,i z h q i,527,crossandean
+149832,cusc1236,TOOTH,k i r u,525,crossandean
+149833,hual1241,TOOTH,k i r u,525,crossandean
+149834,huay1241,TOOTH,k i l u,525,crossandean
+149835,imba1240,TOOTH,k i ɾ u,525,crossandean
+149836,lamb1276,TOOTH,k i r u,525,crossandean
+149837,jaqa1244,TOOTH,ʃ i m i,526,crossandean
+149838,cauq1239,TOOTH,ʃ i m i,526,crossandean
+149839,sanm1289,TOOTH,k i r u,525,crossandean
+149840,yauy1235,TOOTH,k i r u,525,crossandean
+149841,sout2991,TOOTH,k i r u,525,crossandean
+149842,napo1242,TOOTH,k i r u,525,crossandean
+149843,paca1245,TOOTH,k i ɾ u,525,crossandean
+149844,sout2990,TOOTH,k i r u,525,crossandean
+149845,puno1238,TOOTH,k i r u,525,crossandean
+149846,inga1252,TOOTH,x i r u,525,crossandean
+149847,sant1432,TOOTH,k i ɾ u,525,crossandean
+149848,tena1240,TOOTH,k i r u,525,crossandean
+149849,coro1247,TOOTH,k i r u,525,crossandean
+149850,east2551,HAND,m a k i,213,crossandean
+149851,ayac1239,HAND,m a k i,213,crossandean
+149852,chac1250,HAND,m a k i,213,crossandean
+149853,caja1238,HAND,m a k i,213,crossandean
+149854,chip1262,HAND,qʰ a r a,215,crossandean
+149855,cusc1236,HAND,m a k i,213,crossandean
+149856,hual1241,HAND,m a k i,213,crossandean
+149857,huay1241,HAND,m a k i,213,crossandean
+149858,imba1240,HAND,m a k i,213,crossandean
+149859,lamb1276,HAND,m a k i,213,crossandean
+149860,jaqa1244,HAND,a m p a r a,214,crossandean
+149861,cauq1239,HAND,a m p a r a,214,crossandean
+149862,sanm1289,HAND,m a k i,213,crossandean
+149863,yauy1235,HAND,m a k i,213,crossandean
+149864,sout2991,HAND,m a k i,213,crossandean
+149865,napo1242,HAND,m a k i,213,crossandean
+149866,paca1245,HAND,m a k i,213,crossandean
+149867,sout2990,HAND,m a k i,213,crossandean
+149868,puno1238,HAND,m a k i,213,crossandean
+149869,inga1252,HAND,m a x i,213,crossandean
+149870,sant1432,HAND,m a x i,213,crossandean
+149871,tena1240,HAND,m a k i,213,crossandean
+149872,coro1247,HAND,m a k i,213,crossandean
+149873,east2551,ELBOW,k u k u tʃ u,105,crossandean
+149874,ayac1239,ELBOW,k u tʃ u s,105,crossandean
+149875,chac1250,ELBOW,k u ʈʂ u ʃ,105,crossandean
+149876,caja1238,ELBOW,k u k u ʈʂ i,105,crossandean
+149877,chip1262,ELBOW,kʰ u ts,107,crossandean
+149878,cusc1236,ELBOW,k u k u tʃ u,105,crossandean
+149879,hual1241,ELBOW,k u k u ʃ,105,crossandean
+149880,huay1241,ELBOW,k u ʈʂ u ʂ,105,crossandean
+149881,imba1240,ELBOW,ɾ i g ɾ a + m u k u,108,crossandean
+149882,lamb1276,ELBOW,k u k u ʈʂ i,105,crossandean
+149883,jaqa1244,ELBOW,ʃ i n k ai + p i,106,crossandean
+149884,cauq1239,ELBOW,ʃ u n k ai + p i,106,crossandean
+149885,sanm1289,ELBOW,k u ʈʂ u ʃ,105,crossandean
+149886,yauy1235,ELBOW,k u ʈʂ u ʃ,105,crossandean
+149887,sout2991,ELBOW,m a k i + m u q u,110,crossandean
+149888,napo1242,ELBOW,r i g r a,108,crossandean
+149889,paca1245,ELBOW,k u ʈʂ u ʃ,105,crossandean
+149890,sout2990,ELBOW,m ui k u,108,crossandean
+149891,puno1238,ELBOW,m u q u,108,crossandean
+149892,inga1252,ELBOW,ɲ u d u,109,crossandean
+149893,sant1432,ELBOW,m o χ o,108,crossandean
+149894,tena1240,ELBOW,m a k i + m u k u,110,crossandean
+149895,coro1247,ELBOW,k u k u ʈʂ i,105,crossandean
+149896,east2551,NECK,k u n k a,324,crossandean
+149897,ayac1239,NECK,k u n k a,324,crossandean
+149898,chac1250,NECK,k u n g a,324,crossandean
+149899,caja1238,NECK,k u n g a,324,crossandean
+149900,chip1262,NECK,q w a z i,325,crossandean
+149901,chip1262,NECK,q a z i,325,crossandean
+149902,cusc1236,NECK,k u n k a,324,crossandean
+149903,hual1241,NECK,k u n k a,324,crossandean
+149904,huay1241,NECK,k u n k a,324,crossandean
+149905,imba1240,NECK,k u n g a,324,crossandean
+149906,lamb1276,NECK,k u n g a,324,crossandean
+149907,jaqa1244,NECK,k u n k a,324,crossandean
+149908,cauq1239,NECK,k u n k a,324,crossandean
+149909,sanm1289,NECK,k u n g a,324,crossandean
+149910,yauy1235,NECK,k u n k a,324,crossandean
+149911,sout2991,NECK,k u n k a,324,crossandean
+149912,napo1242,NECK,k u n g a,324,crossandean
+149913,paca1245,NECK,k u ŋ k a,324,crossandean
+149914,sout2990,NECK,k u n g a,324,crossandean
+149915,puno1238,NECK,k u n k a,324,crossandean
+149916,inga1252,NECK,k u n g a,324,crossandean
+149917,sant1432,NECK,k u ŋ k a,324,crossandean
+149918,tena1240,NECK,k u n g a,324,crossandean
+149919,coro1247,NECK,k u n k a,324,crossandean
+149920,east2551,BACK,w a s a,4,crossandean
+149921,ayac1239,BACK,w a s a,4,crossandean
+149922,chac1250,BACK,w a ʃ a,4,crossandean
+149923,caja1238,BACK,w a x t a,4,crossandean
+149924,chip1262,BACK,t a j,6,crossandean
+149925,cusc1236,BACK,w a s a,4,crossandean
+149926,hual1241,BACK,w a χ t a,4,crossandean
+149927,huay1241,BACK,w a ʂ a,4,crossandean
+149928,imba1240,BACK,w a ʃ a,4,crossandean
+149929,lamb1276,BACK,w a χ t a,4,crossandean
+149930,jaqa1244,BACK,s aː m a,5,crossandean
+149931,cauq1239,BACK,s a m a,5,crossandean
+149932,sanm1289,BACK,w a ʃ a,4,crossandean
+149933,yauy1235,BACK,w a ʃ a,4,crossandean
+149934,sout2991,BACK,w a s a,4,crossandean
+149935,napo1242,BACK,w a ʃ a,4,crossandean
+149936,paca1245,BACK,w a ʃ a,4,crossandean
+149937,sout2990,BACK,w a ʃ a,4,crossandean
+149938,puno1238,BACK,w a s a,4,crossandean
+149939,inga1252,BACK,w a s a,4,crossandean
+149940,sant1432,BACK,w a s a,4,crossandean
+149941,tena1240,BACK,w a ʃ a,4,crossandean
+149942,coro1247,BACK,w a q t a,4,crossandean
+149943,coro1247,BACK,w a χ t a,4,crossandean
+149944,east2551,FOOT,tʃ a k i,157,crossandean
+149945,ayac1239,FOOT,tʃ a k i,157,crossandean
+149946,chac1250,FOOT,ʈʂ a k i,157,crossandean
+149947,caja1238,FOOT,ʈʂ a k i,157,crossandean
+149948,chip1262,FOOT,qʰ o tʃ a,159,crossandean
+149949,cusc1236,FOOT,tʃ a k i,157,crossandean
+149950,hual1241,FOOT,tʃ a k i,157,crossandean
+149951,huay1241,FOOT,ʈʂ a k i,157,crossandean
+149952,imba1240,FOOT,tʃ a k i,157,crossandean
+149953,lamb1276,FOOT,ʈʂ a k i,157,crossandean
+149954,jaqa1244,FOOT,k a j u,158,crossandean
+149955,cauq1239,FOOT,k a j u,158,crossandean
+149956,sanm1289,FOOT,tʃ a k i,157,crossandean
+149957,yauy1235,FOOT,ʈʂ a k i,157,crossandean
+149958,sout2991,FOOT,tʃ a k i,157,crossandean
+149959,napo1242,FOOT,tʃ a k i,157,crossandean
+149960,paca1245,FOOT,ʈʂ a k i,157,crossandean
+149961,sout2990,FOOT,tʃ a k i,157,crossandean
+149962,puno1238,FOOT,tʃ a k i,157,crossandean
+149963,inga1252,FOOT,tʃ a x i,157,crossandean
+149964,sant1432,FOOT,tʃ a x i,157,crossandean
+149965,tena1240,FOOT,tʃ a k i,157,crossandean
+149966,coro1247,FOOT,ʈʂ a k i,157,crossandean
+149967,east2551,LEG,tʃ a n k a,265,crossandean
+149968,ayac1239,LEG,tʃ a n k a,265,crossandean
+149969,chac1250,LEG,ʈʂ a n g a,265,crossandean
+149970,caja1238,LEG,ʈʂ a n g a,265,crossandean
+149971,chip1262,LEG,l i s,267,crossandean
+149972,cusc1236,LEG,tʃ a k a,265,crossandean
+149973,hual1241,LEG,tʃ a n k a,265,crossandean
+149974,huay1241,LEG,ʈʂ a n k a,265,crossandean
+149975,imba1240,LEG,tʃ a n g a,265,crossandean
+149976,lamb1276,LEG,ʈʂ a n g a,265,crossandean
+149977,jaqa1244,LEG,k a j u,266,crossandean
+149978,cauq1239,LEG,k a j u,266,crossandean
+149979,sanm1289,LEG,tʃ a n g a,265,crossandean
+149980,yauy1235,LEG,ʈʂ a n k a,265,crossandean
+149981,sout2991,LEG,tʃ a k i,265,crossandean
+149982,napo1242,LEG,tʃ a n g a,265,crossandean
+149983,paca1245,LEG,ʈʂ a ŋ k a,265,crossandean
+149984,sout2990,LEG,tʃ a n g a,265,crossandean
+149985,puno1238,LEG,tʃ a k i,265,crossandean
+149986,inga1252,LEG,tʃ a n g a,265,crossandean
+149987,sant1432,LEG,tʃ u ŋ k a,265,crossandean
+149988,tena1240,LEG,tʃ a n g a,265,crossandean
+149989,coro1247,LEG,ʈʂ a n k a,265,crossandean
+149990,east2551,KNEE,m o q o,248,crossandean
+149991,ayac1239,KNEE,m o χ o,248,crossandean
+149992,chac1250,KNEE,k u n g u r i,249,crossandean
+149993,caja1238,KNEE,q u n g u r i,249,crossandean
+149994,chip1262,KNEE,o w a,250,crossandean
+149995,cusc1236,KNEE,m u q u,248,crossandean
+149996,hual1241,KNEE,q u n q u r,249,crossandean
+149997,huay1241,KNEE,ʔ u n ʔ u l,249,crossandean
+149998,jauj1238,KNEE,ʔ u n ʔ u l,249,crossandean
+149999,imba1240,KNEE,k u n g u ɾ i,249,crossandean
+150000,lamb1276,KNEE,q u n ɢ u r i,249,crossandean
+150001,jaqa1244,KNEE,q u n q u r u,249,crossandean
+150002,cauq1239,KNEE,q u n q u r u,249,crossandean
+150003,sanm1289,KNEE,k u n g u r i,249,crossandean
+150004,yauy1235,KNEE,q u n q u r,249,crossandean
+150005,sout2991,KNEE,m u q u,248,crossandean
+150006,napo1242,KNEE,k u n g u r i,249,crossandean
+150007,paca1245,KNEE,χ o ɴ χ u ɾ,249,crossandean
+150008,sout2990,KNEE,k u n g u r i,249,crossandean
+150009,puno1238,KNEE,q u n q u r i,249,crossandean
+150010,inga1252,KNEE,k u n g u r,249,crossandean
+150011,sant1432,KNEE,q o ŋ q o ɾ i,249,crossandean
+150012,tena1240,KNEE,m u k u,248,crossandean
+150013,coro1247,KNEE,q u n q u r i,249,crossandean
+150014,east2551,BLOOD,j a w a r,28,crossandean
+150015,ayac1239,BLOOD,j a w a r,28,crossandean
+150016,chac1250,BLOOD,j a w a r,28,crossandean
+150017,caja1238,BLOOD,j a w a r,28,crossandean
+150018,chip1262,BLOOD,l j o k,30,crossandean
+150019,cusc1236,BLOOD,j a w a r,28,crossandean
+150020,hual1241,BLOOD,j a w a r,28,crossandean
+150021,huay1241,BLOOD,j a w a r,28,crossandean
+150022,imba1240,BLOOD,j a w a r,28,crossandean
+150023,lamb1276,BLOOD,j a w a r,28,crossandean
+150024,jaqa1244,BLOOD,w i l a,29,crossandean
+150025,cauq1239,BLOOD,w i l a,29,crossandean
+150026,sanm1289,BLOOD,j a w a r,28,crossandean
+150027,yauy1235,BLOOD,j a w a r,28,crossandean
+150028,sout2991,BLOOD,j a w a r,28,crossandean
+150029,napo1242,BLOOD,r a w ai,28,crossandean
+150030,paca1245,BLOOD,j a w a r,28,crossandean
+150031,sout2990,BLOOD,j a w a r,28,crossandean
+150032,puno1238,BLOOD,j a w a r,28,crossandean
+150033,inga1252,BLOOD,j a w a r,28,crossandean
+150034,sant1432,BLOOD,j aː ɾ,28,crossandean
+150035,tena1240,BLOOD,j a w a r,28,crossandean
+150036,coro1247,BLOOD,j a w a r,28,crossandean
+150037,east2551,FOUR,t a w a,168,crossandean
+150038,ayac1239,FOUR,t a w a,168,crossandean
+150039,chac1250,FOUR,tʃ u s k u,169,crossandean
+150040,caja1238,FOUR,ʈʂ u s k u,169,crossandean
+150041,chip1262,FOUR,p a q p i k,171,crossandean
+150042,cusc1236,FOUR,t a w a,168,crossandean
+150043,hual1241,FOUR,tʃ u s k u,169,crossandean
+150044,huay1241,FOUR,ʈʂ u s k u,169,crossandean
+150045,huay1241,FOUR,t a w a,168,crossandean
+150046,imba1240,FOUR,tʃ u s k u,169,crossandean
+150047,lamb1276,FOUR,k ua t r o,172,crossandean
+150048,jaqa1244,FOUR,p u ʃ i,170,crossandean
+150049,cauq1239,FOUR,p u ʃ i,170,crossandean
+150050,sanm1289,FOUR,tʃ u s k u,169,crossandean
+150051,yauy1235,FOUR,t a w a,168,crossandean
+150052,sout2991,FOUR,t a w a,168,crossandean
+150053,napo1242,FOUR,tʃ u s k u,169,crossandean
+150054,paca1245,FOUR,ʈʂ u s k u,169,crossandean
+150055,sout2990,FOUR,tʃ u s k u,169,crossandean
+150056,puno1238,FOUR,t a w a,168,crossandean
+150057,inga1252,FOUR,tʃ u s k u,169,crossandean
+150058,sant1432,FOUR,t aː,168,crossandean
+150059,tena1240,FOUR,tʃ u s k u,169,crossandean
+150060,coro1247,FOUR,ʈʂ u s k u,169,crossandean
+150061,east2551,BONE,t u ʎ u,31,crossandean
+150062,ayac1239,BONE,t u ʎ u,31,crossandean
+150063,chac1250,BONE,t u dʑ u,31,crossandean
+150064,caja1238,BONE,t u dʒ u,31,crossandean
+150065,chip1262,BONE,ts i j,33,crossandean
+150066,cusc1236,BONE,t u ʎ u,31,crossandean
+150067,hual1241,BONE,t u ʎ u,31,crossandean
+150068,huay1241,BONE,t u ʎ u,31,crossandean
+150069,imba1240,BONE,t u ʎ u,31,crossandean
+150070,lamb1276,BONE,t u ʒ u,31,crossandean
+150071,jaqa1244,BONE,tsʼ aː k a,32,crossandean
+150072,cauq1239,BONE,tsʼ aː k a,32,crossandean
+150073,sanm1289,BONE,t u dʑ u,31,crossandean
+150074,yauy1235,BONE,t u ʎ u,31,crossandean
+150075,sout2991,BONE,t u ʎ u,31,crossandean
+150076,napo1242,BONE,t u ʎ u,31,crossandean
+150077,paca1245,BONE,t u l u,31,crossandean
+150078,sout2990,BONE,t u ʎ u,31,crossandean
+150079,puno1238,BONE,t u ʎ u,31,crossandean
+150080,inga1252,BONE,t u ʎ u,31,crossandean
+150081,sant1432,BONE,t u ʒ u,31,crossandean
+150082,tena1240,BONE,t u ʎ u,31,crossandean
+150083,coro1247,BONE,t u ʎ u,31,crossandean
+150084,east2551,SKIN,q a r a,447,crossandean
+150085,ayac1239,SKIN,χ a ɾ a,447,crossandean
+150086,chac1250,SKIN,k a r a,447,crossandean
+150087,caja1238,SKIN,q a r a,447,crossandean
+150088,chip1262,SKIN,z q i z i,448,crossandean
+150089,cusc1236,SKIN,q a r a,447,crossandean
+150090,hual1241,SKIN,q a r a,447,crossandean
+150091,huay1241,SKIN,u t a,449,crossandean
+150092,imba1240,SKIN,k a ɾ a,447,crossandean
+150093,lamb1276,SKIN,χ a r a,447,crossandean
+150094,jaqa1244,SKIN,q a r a,447,crossandean
+150095,cauq1239,SKIN,q a r a,447,crossandean
+150096,sanm1289,SKIN,k a r a,447,crossandean
+150097,yauy1235,SKIN,q a r a,447,crossandean
+150098,sout2991,SKIN,q a r a,447,crossandean
+150099,napo1242,SKIN,k a r a,447,crossandean
+150100,paca1245,SKIN,ʁ a ɾ a,447,crossandean
+150101,sout2990,SKIN,k a r a,447,crossandean
+150102,puno1238,SKIN,q a r a,447,crossandean
+150103,inga1252,SKIN,k a r a,447,crossandean
+150104,sant1432,SKIN,q a ɾ a,447,crossandean
+150105,tena1240,SKIN,k a r a,447,crossandean
+150106,coro1247,SKIN,q a r a,447,crossandean
+150107,east2551,FINGERNAIL,s i ʎ u,137,crossandean
+150108,ayac1239,FINGERNAIL,s i ʎ u,137,crossandean
+150109,chac1250,FINGERNAIL,ʃ i dʑ u,137,crossandean
+150110,caja1238,FINGERNAIL,ʃ i dʒ u,137,crossandean
+150111,chip1262,FINGERNAIL,i s ɲ i,138,crossandean
+150112,cusc1236,FINGERNAIL,s i ʎ u,137,crossandean
+150113,hual1241,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150114,huay1241,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150115,imba1240,FINGERNAIL,s i ʎ u,137,crossandean
+150116,lamb1276,FINGERNAIL,s i ʒ u,137,crossandean
+150117,jaqa1244,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150118,cauq1239,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150119,sanm1289,FINGERNAIL,ʃ i dʑ u,137,crossandean
+150120,yauy1235,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150121,sout2991,FINGERNAIL,s i ʎ u,137,crossandean
+150122,napo1242,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150123,paca1245,FINGERNAIL,ʃ i l u,137,crossandean
+150124,sout2990,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150125,puno1238,FINGERNAIL,s i ʎ u,137,crossandean
+150126,inga1252,FINGERNAIL,s i ʎ u,137,crossandean
+150127,sant1432,FINGERNAIL,s i ʒ u,137,crossandean
+150128,tena1240,FINGERNAIL,s i ʎ u,137,crossandean
+150129,coro1247,FINGERNAIL,ʃ i ʎ u,137,crossandean
+150130,east2551,BELLY,w i k s a,10,crossandean
+150131,ayac1239,BELLY,w i k s a,10,crossandean
+150132,chac1250,BELLY,w i k s a,10,crossandean
+150133,caja1238,BELLY,p a ʈʂ a,11,crossandean
+150134,chip1262,BELLY,pʰ u tʃ,12,crossandean
+150135,cusc1236,BELLY,w i x s a,10,crossandean
+150136,hual1241,BELLY,p a tʃ a,11,crossandean
+150137,huay1241,BELLY,p a t a,11,crossandean
+150138,imba1240,BELLY,w i k s a,10,crossandean
+150139,lamb1276,BELLY,p a ʈʂ a,11,crossandean
+150140,jaqa1244,BELLY,pʰ u ʈʂ a + k a,11,crossandean
+150141,cauq1239,BELLY,pʰ u ʈʂ a + k a,11,crossandean
+150142,sanm1289,BELLY,w i k s a,10,crossandean
+150143,yauy1235,BELLY,w i k s a,10,crossandean
+150144,sout2991,BELLY,w i x s a,10,crossandean
+150145,napo1242,BELLY,w i k s a,10,crossandean
+150146,paca1245,BELLY,p a ʈʂ a,11,crossandean
+150147,sout2990,BELLY,w i k s a,10,crossandean
+150148,puno1238,BELLY,w i k s a,10,crossandean
+150149,inga1252,BELLY,w i x s a,10,crossandean
+150150,sant1432,BELLY,w i x s a,10,crossandean
+150151,tena1240,BELLY,i k s a,10,crossandean
+150152,coro1247,BELLY,p a ʈʂ a,11,crossandean
+150153,east2551,NAVEL,p u p u,320,crossandean
+150154,ayac1239,NAVEL,p u p u,320,crossandean
+150155,chac1250,NAVEL,p u p u,320,crossandean
+150156,caja1238,NAVEL,m u n dʒ u,321,crossandean
+150157,chip1262,NAVEL,t o ɲ i,323,crossandean
+150158,cusc1236,NAVEL,p u p u,320,crossandean
+150159,hual1241,NAVEL,p u p u,320,crossandean
+150160,huay1241,NAVEL,p u p u,320,crossandean
+150161,imba1240,NAVEL,p u p u,320,crossandean
+150162,lamb1276,NAVEL,m u n dʒ u,321,crossandean
+150163,jaqa1244,NAVEL,k u r u r u,322,crossandean
+150164,cauq1239,NAVEL,k u r u r u,322,crossandean
+150165,sanm1289,NAVEL,p u p u,320,crossandean
+150166,yauy1235,NAVEL,p u p u,320,crossandean
+150167,sout2991,NAVEL,p u p u,320,crossandean
+150168,napo1242,NAVEL,p u p u,320,crossandean
+150169,paca1245,NAVEL,p u p u,320,crossandean
+150170,sout2990,NAVEL,p u p u,320,crossandean
+150171,puno1238,NAVEL,k u r u r u,322,crossandean
+150172,inga1252,NAVEL,p u p u,320,crossandean
+150173,sant1432,NAVEL,p u p u,320,crossandean
+150174,tena1240,NAVEL,p u p u,320,crossandean
+150175,coro1247,NAVEL,p u p u,320,crossandean
+150176,east2551,BREAST,ɲ u ɲ u,41,crossandean
+150177,ayac1239,BREAST,ɲ u ɲ u,41,crossandean
+150178,chac1250,BREAST,tʃ u tʃ u,42,crossandean
+150179,chac1250,BREAST,ɲ u ɲ u,41,crossandean
+150180,caja1238,BREAST,tʃ u tʃ u,42,crossandean
+150181,chip1262,BREAST,tʃʼ a ɲ a k a,43,crossandean
+150182,chip1262,BREAST,p i z,45,crossandean
+150183,cusc1236,BREAST,ɲ u ɲ u,41,crossandean
+150184,hual1241,BREAST,tʃ u tʃ u,42,crossandean
+150185,hual1241,BREAST,tʃ i tʃ i,42,crossandean
+150186,huay1241,BREAST,ɲ u ɲ u,41,crossandean
+150187,jauj1238,BREAST,tʃ u tʃ u,42,crossandean
+150188,imba1240,BREAST,tʃ u tʃ u,42,crossandean
+150189,lamb1276,BREAST,ɲ u ɲ u,41,crossandean
+150190,jaqa1244,BREAST,ɲ u ɲ u,41,crossandean
+150191,cauq1239,BREAST,ɲ u ɲ u,41,crossandean
+150192,sanm1289,BREAST,tʃ u tʃ u,42,crossandean
+150193,sanm1289,BREAST,ɲ u ɲ u,41,crossandean
+150194,yauy1235,BREAST,ɲ u ɲ u,41,crossandean
+150195,sout2991,BREAST,ɲ u ɲ u,41,crossandean
+150196,napo1242,BREAST,tʃ u tʃ u,42,crossandean
+150197,paca1245,BREAST,tʃ u tʃ u,42,crossandean
+150198,sout2990,BREAST,tʃ u tʃ u,42,crossandean
+150199,puno1238,BREAST,ɲ u ɲ u,41,crossandean
+150200,inga1252,BREAST,tʃ u tʃ u,42,crossandean
+150201,sant1432,BREAST,ɲ u ɲ u,41,crossandean
+150202,tena1240,BREAST,tʃ u tʃ u,42,crossandean
+150203,coro1247,BREAST,s e n o,44,crossandean
+150204,east2551,HEART,s o n q o,225,crossandean
+150205,ayac1239,HEART,s o ŋ χ o,225,crossandean
+150206,chac1250,HEART,ʃ u n g u,225,crossandean
+150207,caja1238,HEART,ʃ o n q o,225,crossandean
+150208,chip1262,HEART,t u z i,226,crossandean
+150209,cusc1236,HEART,s u n q u,225,crossandean
+150210,hual1241,HEART,ʃ u n q u,225,crossandean
+150211,huay1241,HEART,ʂ u n ʔ u,225,crossandean
+150212,imba1240,HEART,ʃ u n g u,225,crossandean
+150213,lamb1276,HEART,k o r a z o n,225,crossandean
+150214,jaqa1244,HEART,k u r a s u n h a,225,crossandean
+150215,cauq1239,HEART,k u r a s u n h a,225,crossandean
+150216,sanm1289,HEART,ʃ u n g u,225,crossandean
+150217,yauy1235,HEART,s u n q u,225,crossandean
+150218,sout2991,HEART,s u n q u,225,crossandean
+150219,napo1242,HEART,ʃ u n g u,225,crossandean
+150220,paca1245,HEART,ʃ u ɴ χ u,225,crossandean
+150221,sout2990,HEART,k u r a s u n,225,crossandean
+150222,puno1238,HEART,s u n q u,225,crossandean
+150223,inga1252,HEART,s u n g u,225,crossandean
+150224,sant1432,HEART,s o ŋ q o,225,crossandean
+150225,tena1240,HEART,ʃ u n g u,225,crossandean
+150226,coro1247,HEART,ʃ u n q u,225,crossandean
+150227,east2551,DOG,a ʎ q o,83,crossandean
+150228,east2551,DOG,a l q o,83,crossandean
+150229,ayac1239,DOG,a ʎ χ o,83,crossandean
+150230,chac1250,DOG,a dʑ k u,83,crossandean
+150231,caja1238,DOG,a tʃ ʁ u,84,crossandean
+150232,chip1262,DOG,p a q w u,85,crossandean
+150233,cusc1236,DOG,a l q u,83,crossandean
+150234,hual1241,DOG,a ʎ q u,83,crossandean
+150235,huay1241,DOG,a ʎ ʔ u,83,crossandean
+150236,imba1240,DOG,a ʎ k u,83,crossandean
+150237,lamb1276,DOG,a ʒ ʁ u,84,crossandean
+150238,jaqa1244,DOG,h a ʎ qʼ u,83,crossandean
+150239,cauq1239,DOG,a ʃ a r a,84,crossandean
+150240,sanm1289,DOG,a dʑ k u,83,crossandean
+150241,yauy1235,DOG,a l q u,83,crossandean
+150242,sout2991,DOG,a l q u,83,crossandean
+150243,napo1242,DOG,a ʎ k u,83,crossandean
+150244,paca1245,DOG,a l χ o,83,crossandean
+150245,sout2990,DOG,a ʎ k u,83,crossandean
+150246,puno1238,DOG,a l q u,83,crossandean
+150247,inga1252,DOG,a l k u,83,crossandean
+150248,sant1432,DOG,a ʒ q o,83,crossandean
+150249,tena1240,DOG,a ʎ k u,83,crossandean
+150250,coro1247,DOG,a ʎ q u,83,crossandean
+150251,east2551,FOX,a t o q,173,crossandean
+150252,ayac1239,FOX,a t o χ,173,crossandean
+150253,chac1250,FOX,a t u k,173,crossandean
+150254,caja1238,FOX,a t o q,173,crossandean
+150255,chip1262,FOX,q i t i,174,crossandean
+150256,cusc1236,FOX,a t u χ,173,crossandean
+150257,hual1241,FOX,a t u χ,173,crossandean
+150258,huay1241,FOX,a t u ʔ,173,crossandean
+150259,imba1240,FOX,a ɲ a s,175,crossandean
+150260,lamb1276,FOX,z o r o,176,crossandean
+150261,jaqa1244,FOX,a t u q u,173,crossandean
+150262,cauq1239,FOX,a t u q u,173,crossandean
+150263,sanm1289,FOX,a t u k,173,crossandean
+150264,yauy1235,FOX,a t u χ,173,crossandean
+150265,sout2991,FOX,a t u χ,173,crossandean
+150266,paca1245,FOX,a tʃ o χ,173,crossandean
+150267,sout2990,FOX,s u r u,176,crossandean
+150268,puno1238,FOX,a t u χ,173,crossandean
+150269,sant1432,FOX,a t o χ,173,crossandean
+150270,tena1240,FOX,s a tʃ a + a ʎ k u,177,crossandean
+150271,coro1247,FOX,a t u q,173,crossandean
+150272,east2551,MOUSE,h u k u + tʃ a,313,crossandean
+150273,east2551,MOUSE,q u k u + tʃ a,313,crossandean
+150274,east2551,MOUSE,u k u + tʃ a,313,crossandean
+150275,ayac1239,MOUSE,u k u + tʃ a,313,crossandean
+150276,chac1250,MOUSE,u + tʃ a,313,crossandean
+150277,caja1238,MOUSE,u k u + tʃ a,313,crossandean
+150278,chip1262,MOUSE,a tʃ u k u,315,crossandean
+150279,chip1262,MOUSE,a tʃ i k u,315,crossandean
+150280,cusc1236,MOUSE,h u kʼ u + tʃ a,313,crossandean
+150281,hual1241,MOUSE,u k u + tʃ a,313,crossandean
+150282,huay1241,MOUSE,u k u + ʂ,313,crossandean
+150283,imba1240,MOUSE,u k u + tʃ a,313,crossandean
+150284,lamb1276,MOUSE,u k u + tʃ a,313,crossandean
+150285,jaqa1244,MOUSE,h u tʃ q a,314,crossandean
+150286,cauq1239,MOUSE,h u tʃ q a,314,crossandean
+150287,sanm1289,MOUSE,u k u + tʃ a,313,crossandean
+150288,yauy1235,MOUSE,u k u + ʃ,313,crossandean
+150289,sout2991,MOUSE,h u kʼ u + tʃ a,313,crossandean
+150290,napo1242,MOUSE,u k u + tʃ a,313,crossandean
+150291,paca1245,MOUSE,u k u + ʃ,313,crossandean
+150292,paca1245,MOUSE,u k u + tʃ a,313,crossandean
+150293,sout2990,MOUSE,u k u + tʃ a,313,crossandean
+150294,puno1238,MOUSE,h u kʼ u + tʃ a,313,crossandean
+150295,inga1252,MOUSE,u k u + tʃ a,313,crossandean
+150296,sant1432,MOUSE,u x u + tʃ a,313,crossandean
+150297,tena1240,MOUSE,u k u + tʃ a,313,crossandean
+150298,coro1247,MOUSE,u k u + ʃ,313,crossandean
+150299,east2551,FIVE,p i s k a,141,crossandean
+150300,east2551,FIVE,p i tʃ q a,141,crossandean
+150301,ayac1239,FIVE,p i tʃ χ a,141,crossandean
+150302,chac1250,FIVE,p i tʃ k a,141,crossandean
+150303,caja1238,FIVE,p i tʃ ʁ a,141,crossandean
+150304,chip1262,FIVE,pʰ i s q a,141,crossandean
+150305,cusc1236,FIVE,p i s q a,141,crossandean
+150306,hual1241,FIVE,p i tʃ q a,141,crossandean
+150307,huay1241,FIVE,p i tʃ ʔ a,141,crossandean
+150308,imba1240,FIVE,p i ʃ k a,141,crossandean
+150309,lamb1276,FIVE,s i n k o,142,crossandean
+150310,jaqa1244,FIVE,p i tʃ q a,141,crossandean
+150311,cauq1239,FIVE,p i tʃ q a,141,crossandean
+150312,sanm1289,FIVE,p i tʃ k a,141,crossandean
+150313,yauy1235,FIVE,p i tʃ q a,141,crossandean
+150314,sout2991,FIVE,p i ʃ q a,141,crossandean
+150315,napo1242,FIVE,p i tʃ k a,141,crossandean
+150316,paca1245,FIVE,p i s ʁ a,141,crossandean
+150317,sout2990,FIVE,p i tʃ k a,141,crossandean
+150318,puno1238,FIVE,p i s q a,141,crossandean
+150319,inga1252,FIVE,p i tʃ k a,141,crossandean
+150320,sant1432,FIVE,p i ʃ q a,141,crossandean
+150321,tena1240,FIVE,p i tʃ k a,141,crossandean
+150322,coro1247,FIVE,p i ts q a,141,crossandean
+150323,east2551,BIRD,p i tʃ i n k o,17,crossandean
+150324,east2551,BIRD,p i s q o,17,crossandean
+150325,east2551,BIRD,u r p i t u,16,crossandean
+150326,ayac1239,BIRD,u ɾ p i t u,16,crossandean
+150327,ayac1239,BIRD,p i s χ o,17,crossandean
+150328,chac1250,BIRD,p i ʃ k u,17,crossandean
+150329,caja1238,BIRD,p i ʃ ʁ u,17,crossandean
+150330,chip1262,BIRD,w e z l a,19,crossandean
+150331,cusc1236,BIRD,p i tʃ i n k u,17,crossandean
+150332,cusc1236,BIRD,p i tʃ i n kʰ u,17,crossandean
+150333,hual1241,BIRD,p i ʃ q u,17,crossandean
+150334,huay1241,BIRD,p i ʃ ʔ u,17,crossandean
+150335,imba1240,BIRD,p i ʃ k u,17,crossandean
+150336,lamb1276,BIRD,k u r u,20,crossandean
+150337,jaqa1244,BIRD,tʃʼ i p i,18,crossandean
+150338,cauq1239,BIRD,tʃʼ i p i,18,crossandean
+150339,sanm1289,BIRD,p i ʃ k u,17,crossandean
+150340,yauy1235,BIRD,p i ʃ q u,17,crossandean
+150341,sout2991,BIRD,pʼ i s q u,17,crossandean
+150342,napo1242,BIRD,p i ʃ k u,17,crossandean
+150343,paca1245,BIRD,p i ʃ χ o,17,crossandean
+150344,sout2990,BIRD,p i ʃ k u,17,crossandean
+150345,puno1238,BIRD,pʼ i s q u,17,crossandean
+150346,inga1252,BIRD,p i s k u,17,crossandean
+150347,sant1432,BIRD,p i ʃ q o,17,crossandean
+150348,tena1240,BIRD,p i ʃ k u,17,crossandean
+150349,coro1247,BIRD,p i ʃ q u,17,crossandean
+150350,east2551,WORM,u r u,584,crossandean
+150351,ayac1239,WORM,u ɾ u,584,crossandean
+150352,chac1250,WORM,k u r u,584,crossandean
+150353,caja1238,WORM,k u r u,584,crossandean
+150354,chip1262,WORM,l a qʼ u,586,crossandean
+150355,cusc1236,WORM,k u r u,584,crossandean
+150356,hual1241,WORM,k u r u,584,crossandean
+150357,huay1241,WORM,k u l u,584,crossandean
+150358,imba1240,WORM,k ui k a,584,crossandean
+150359,lamb1276,WORM,ɲ u ʃ i,587,crossandean
+150360,jaqa1244,WORM,ɲ i qʼ u,585,crossandean
+150361,cauq1239,WORM,ɲ i qʼ u,585,crossandean
+150362,sanm1289,WORM,k u r u,584,crossandean
+150363,yauy1235,WORM,k u r u,584,crossandean
+150364,sout2991,WORM,kʰ u r u,584,crossandean
+150365,napo1242,WORM,k u r u,584,crossandean
+150366,paca1245,WORM,k u ɾ u,584,crossandean
+150367,sout2990,WORM,k u r u,584,crossandean
+150368,puno1238,WORM,k u r u,584,crossandean
+150369,inga1252,WORM,k u r u,584,crossandean
+150370,sant1432,WORM,k u ɾ u,584,crossandean
+150371,tena1240,WORM,k u r u,584,crossandean
+150372,coro1247,WORM,k u r u,584,crossandean
+150373,east2551,LOUSE,u s a,288,crossandean
+150374,ayac1239,LOUSE,u s a,288,crossandean
+150375,chac1250,LOUSE,u s a,288,crossandean
+150376,caja1238,LOUSE,u s a,288,crossandean
+150377,chip1262,LOUSE,s a m i,290,crossandean
+150378,cusc1236,LOUSE,u s a,288,crossandean
+150379,hual1241,LOUSE,u s a,288,crossandean
+150380,huay1241,LOUSE,u s a,288,crossandean
+150381,imba1240,LOUSE,u s a,288,crossandean
+150382,lamb1276,LOUSE,l i s u,291,crossandean
+150383,lamb1276,LOUSE,l i ʃ u,291,crossandean
+150384,jaqa1244,LOUSE,n a pʼ a,289,crossandean
+150385,cauq1239,LOUSE,n a pʼ a,289,crossandean
+150386,sanm1289,LOUSE,u s a,288,crossandean
+150387,yauy1235,LOUSE,u s a,288,crossandean
+150388,sout2991,LOUSE,u s a,288,crossandean
+150389,napo1242,LOUSE,u s a,288,crossandean
+150390,paca1245,LOUSE,u w a,288,crossandean
+150391,sout2990,LOUSE,u s a,288,crossandean
+150392,puno1238,LOUSE,u s a,288,crossandean
+150393,inga1252,LOUSE,u s a,288,crossandean
+150394,sant1432,LOUSE,u s a,288,crossandean
+150395,tena1240,LOUSE,u s a,288,crossandean
+150396,coro1247,LOUSE,u s a,288,crossandean
+150397,east2551,EGG,r u n t u,98,crossandean
+150398,ayac1239,EGG,ɾ u n t u,98,crossandean
+150399,chac1250,EGG,r u n d u,98,crossandean
+150400,caja1238,EGG,r u r u,99,crossandean
+150401,chip1262,EGG,z i ɲ i,101,crossandean
+150402,cusc1236,EGG,r u n t u,98,crossandean
+150403,hual1241,EGG,r u n t u,98,crossandean
+150404,huay1241,EGG,l u n t u,98,crossandean
+150405,imba1240,EGG,l u l u n,99,crossandean
+150406,lamb1276,EGG,!r̝/r u n d u,98,crossandean
+150407,jaqa1244,EGG,n u r u,99,crossandean
+150408,cauq1239,EGG,kʼ a w n a,100,crossandean
+150409,sanm1289,EGG,r u n d u,98,crossandean
+150410,yauy1235,EGG,r u n t u,98,crossandean
+150411,sout2991,EGG,!r̝/r u n t u,98,crossandean
+150412,napo1242,EGG,l u l u n,99,crossandean
+150413,paca1245,EGG,ɾ u ɾ u,99,crossandean
+150414,sout2990,EGG,l u l u n,99,crossandean
+150415,puno1238,EGG,r u n t u,98,crossandean
+150416,sant1432,EGG,ɾ u n t u,98,crossandean
+150417,tena1240,EGG,l u l u n,99,crossandean
+150418,coro1247,EGG,r u n t u,98,crossandean
+150419,east2551,HORN (ANATOMY),w a q r a,234,crossandean
+150420,ayac1239,HORN (ANATOMY),w a χ ɾ a,234,crossandean
+150421,chac1250,HORN (ANATOMY),w a k r a,234,crossandean
+150422,caja1238,HORN (ANATOMY),w a q r a,234,crossandean
+150423,chip1262,HORN (ANATOMY),t o tʰ i,235,crossandean
+150424,chip1262,HORN (ANATOMY),i r q i,238,crossandean
+150425,cusc1236,HORN (ANATOMY),w a χ r a,234,crossandean
+150426,hual1241,HORN (ANATOMY),w a χ r a,234,crossandean
+150427,huay1241,HORN (ANATOMY),w a ʔ l a,234,crossandean
+150428,imba1240,HORN (ANATOMY),k a tʃ u,236,crossandean
+150429,lamb1276,HORN (ANATOMY),w a χ r a,234,crossandean
+150430,jaqa1244,HORN (ANATOMY),w a x r a,234,crossandean
+150431,cauq1239,HORN (ANATOMY),w a x r a,234,crossandean
+150432,sanm1289,HORN (ANATOMY),w a k r a,234,crossandean
+150433,yauy1235,HORN (ANATOMY),w a χ r a,234,crossandean
+150434,sout2991,HORN (ANATOMY),w a χ r a,234,crossandean
+150435,napo1242,HORN (ANATOMY),k a tʃ u,236,crossandean
+150436,paca1245,HORN (ANATOMY),w a χ ɾ a,234,crossandean
+150437,sout2990,HORN (ANATOMY),k a tʃ u,236,crossandean
+150438,sout2990,HORN (ANATOMY),k u r m i + t a,239,crossandean
+150439,puno1238,HORN (ANATOMY),w a χ r a,234,crossandean
+150440,inga1252,HORN (ANATOMY),k a tʃ u,236,crossandean
+150441,sant1432,HORN (ANATOMY),w a χ ɾ a,234,crossandean
+150442,tena1240,HORN (ANATOMY),k u r n u s,237,crossandean
+150443,coro1247,HORN (ANATOMY),w a q r a,234,crossandean
+150444,east2551,TAIL,tʃ u p a,503,crossandean
+150445,ayac1239,TAIL,tʃ u p a,503,crossandean
+150446,chac1250,TAIL,ʈʂ u p a,503,crossandean
+150447,caja1238,TAIL,ʈʂ u p a,503,crossandean
+150448,chip1262,TAIL,kʰ u r z,505,crossandean
+150449,cusc1236,TAIL,tʃ u p a,503,crossandean
+150450,hual1241,TAIL,tʃ u p a,503,crossandean
+150451,huay1241,TAIL,ʈʂ u p a,503,crossandean
+150452,imba1240,TAIL,tʃ u p a,503,crossandean
+150453,lamb1276,TAIL,ʈʂ u p a,503,crossandean
+150454,jaqa1244,TAIL,w i tʃʼ a n k u,504,crossandean
+150455,cauq1239,TAIL,w i ʈʂʼ i n g a,504,crossandean
+150456,sanm1289,TAIL,tʃ u p a,503,crossandean
+150457,yauy1235,TAIL,ʈʂ u p a,503,crossandean
+150458,sout2991,TAIL,tʃ u p a,503,crossandean
+150459,napo1242,TAIL,tʃ u p a,503,crossandean
+150460,paca1245,TAIL,ʈʂ u p a,503,crossandean
+150461,sout2990,TAIL,tʃ u p a,503,crossandean
+150462,puno1238,TAIL,tʃ u p a,503,crossandean
+150463,inga1252,TAIL,tʃ u p a,503,crossandean
+150464,sant1432,TAIL,tʃ u p a,503,crossandean
+150465,tena1240,TAIL,tʃ u p a,503,crossandean
+150466,coro1247,TAIL,ʈʂ u p a,503,crossandean
+150467,east2551,WING,r a p r a,572,crossandean
+150468,east2551,WING,p a r p a,578,crossandean
+150469,ayac1239,WING,ɾ a p ɾ a,572,crossandean
+150470,chac1250,WING,r i k r a,572,crossandean
+150471,caja1238,WING,a l a,573,crossandean
+150472,chip1262,WING,qʰ a r a,574,crossandean
+150473,cusc1236,WING,r a ɸ r a,572,crossandean
+150474,hual1241,WING,k a p a,575,crossandean
+150475,huay1241,WING,l a p l a,572,crossandean
+150476,jauj1238,WING,l a p l a,572,crossandean
+150477,imba1240,WING,a l a s,573,crossandean
+150478,lamb1276,WING,a l a,573,crossandean
+150479,jaqa1244,WING,k aː k a,574,crossandean
+150480,cauq1239,WING,k aː k a,574,crossandean
+150481,sanm1289,WING,r i k r a,572,crossandean
+150482,yauy1235,WING,l i k r a,572,crossandean
+150483,sout2991,WING,l i x r a,572,crossandean
+150484,napo1242,WING,r i g r a,572,crossandean
+150485,sout2990,WING,ɾ i g r a,572,crossandean
+150486,puno1238,WING,r i x r a,572,crossandean
+150487,inga1252,WING,u g ʎ a + r i s k a,576,crossandean
+150488,sant1432,WING,l i x ɾ a,572,crossandean
+150489,tena1240,WING,r i ʁ r a + p a n g a,577,crossandean
+150490,coro1247,WING,a l a,573,crossandean
+150491,east2551,PERSON,r u n a,359,crossandean
+150492,ayac1239,PERSON,ɾ u n a,359,crossandean
+150493,chac1250,PERSON,r u n a,359,crossandean
+150494,caja1238,PERSON,r u n a,359,crossandean
+150495,chip1262,PERSON,z h o ɲ i,361,crossandean
+150496,cusc1236,PERSON,r u n a,359,crossandean
+150497,hual1241,PERSON,r u n a,359,crossandean
+150498,huay1241,PERSON,n u n a,359,crossandean
+150499,imba1240,PERSON,x i n t i,362,crossandean
+150500,lamb1276,PERSON,r u n a,359,crossandean
+150501,jaqa1244,PERSON,h a q i,360,crossandean
+150502,cauq1239,PERSON,h a q i,360,crossandean
+150503,sanm1289,PERSON,r u n a,359,crossandean
+150504,yauy1235,PERSON,r u n a,359,crossandean
+150505,sout2991,PERSON,r u n a,359,crossandean
+150506,sout2991,PERSON,!r̝/r u n a,359,crossandean
+150507,napo1242,PERSON,r u n a,359,crossandean
+150508,paca1245,PERSON,ɾ u n a,359,crossandean
+150509,sout2990,PERSON,ɾ u n a,359,crossandean
+150510,puno1238,PERSON,r u n a,359,crossandean
+150511,inga1252,PERSON,r u n a,359,crossandean
+150512,tena1240,PERSON,r u n a,359,crossandean
+150513,coro1247,PERSON,r u n a,359,crossandean
+150514,east2551,MAN,q a r i,292,crossandean
+150515,ayac1239,MAN,χ a ɾ i,292,crossandean
+150516,chac1250,MAN,u dʑ k u,295,crossandean
+150517,caja1238,MAN,u ʎ ʁ u,293,crossandean
+150518,chip1262,MAN,k e r o,292,crossandean
+150519,cusc1236,MAN,qʰ a r i,292,crossandean
+150520,hual1241,MAN,u ʎ q u,295,crossandean
+150521,huay1241,MAN,k a ɾ i,292,crossandean
+150522,imba1240,MAN,k a ɾ i,292,crossandean
+150523,lamb1276,MAN,u ʒ ɢ u,296,crossandean
+150524,jaqa1244,MAN,k a r m a,294,crossandean
+150525,cauq1239,MAN,k a r m a,294,crossandean
+150526,sanm1289,MAN,u dʑ k u,295,crossandean
+150527,yauy1235,MAN,q a r i,292,crossandean
+150528,sout2991,MAN,qʰ a r i,292,crossandean
+150529,napo1242,MAN,k a r i,292,crossandean
+150530,paca1245,MAN,u l χ o,295,crossandean
+150531,sout2990,MAN,k a r i,292,crossandean
+150532,puno1238,MAN,qʰ a r i,292,crossandean
+150533,inga1252,MAN,k a r i,292,crossandean
+150534,sant1432,MAN,q a ɾ i,292,crossandean
+150535,tena1240,MAN,k a r i,292,crossandean
+150536,coro1247,MAN,u ʎ q u,295,crossandean
+150537,east2551,WOMAN,w a r m i,582,crossandean
+150538,ayac1239,WOMAN,w a ɾ m i,582,crossandean
+150539,chac1250,WOMAN,w a r m i,582,crossandean
+150540,caja1238,WOMAN,w a r m i,582,crossandean
+150541,chip1262,WOMAN,tʰ u n a,583,crossandean
+150542,cusc1236,WOMAN,w a r m i,582,crossandean
+150543,hual1241,WOMAN,w a r m i,582,crossandean
+150544,huay1241,WOMAN,w a l m i,582,crossandean
+150545,imba1240,WOMAN,w a ɾ m i,582,crossandean
+150546,lamb1276,WOMAN,w a r m i,582,crossandean
+150547,jaqa1244,WOMAN,w a r m i,582,crossandean
+150548,cauq1239,WOMAN,w a r m i,582,crossandean
+150549,sanm1289,WOMAN,w a r m i,582,crossandean
+150550,yauy1235,WOMAN,w a r m i,582,crossandean
+150551,sout2991,WOMAN,w a r m i,582,crossandean
+150552,napo1242,WOMAN,w a r m i,582,crossandean
+150553,paca1245,WOMAN,w a ɾ m i,582,crossandean
+150554,sout2990,WOMAN,w a r m i,582,crossandean
+150555,puno1238,WOMAN,w a r m i,582,crossandean
+150556,inga1252,WOMAN,w a r m i,582,crossandean
+150557,sant1432,WOMAN,w a ɾ m i,582,crossandean
+150558,tena1240,WOMAN,w a r m i,582,crossandean
+150559,coro1247,WOMAN,w a r m i,582,crossandean
+150560,east2551,SIX,s o q t a,445,crossandean
+150561,ayac1239,SIX,s o χ t a,445,crossandean
+150562,chac1250,SIX,s u k t a,445,crossandean
+150563,caja1238,SIX,s u x t a,445,crossandean
+150564,chip1262,SIX,s u x t a,445,crossandean
+150565,cusc1236,SIX,s u χ t a,445,crossandean
+150566,hual1241,SIX,s u χ t a,445,crossandean
+150567,huay1241,SIX,s u ʔ t a,445,crossandean
+150568,imba1240,SIX,s u k t a,445,crossandean
+150569,lamb1276,SIX,s e i s,446,crossandean
+150570,jaqa1244,SIX,s u x t a,445,crossandean
+150571,cauq1239,SIX,s u s t a,445,crossandean
+150572,sanm1289,SIX,s u k t a,445,crossandean
+150573,yauy1235,SIX,s u χ t a,445,crossandean
+150574,sout2991,SIX,s u x t a,445,crossandean
+150575,napo1242,SIX,s u k t a,445,crossandean
+150576,paca1245,SIX,x o χ t a,445,crossandean
+150577,paca1245,SIX,χ o χ t a,445,crossandean
+150578,sout2990,SIX,s u k t a,445,crossandean
+150579,puno1238,SIX,s u χ t a,445,crossandean
+150580,inga1252,SIX,s u x t a,445,crossandean
+150581,sant1432,SIX,ʃ o χ t a,445,crossandean
+150582,tena1240,SIX,s u k t a,445,crossandean
+150583,coro1247,SIX,s u q t a,445,crossandean
+150584,east2551,NAME,s u t i,318,crossandean
+150585,ayac1239,NAME,s u t i,318,crossandean
+150586,chac1250,NAME,ʃ u t i,318,crossandean
+150587,caja1238,NAME,ʃ u t i,318,crossandean
+150588,chip1262,NAME,tʰ uː,319,crossandean
+150589,cusc1236,NAME,s u t i,318,crossandean
+150590,hual1241,NAME,h u t i,318,crossandean
+150591,huay1241,NAME,s u t i,318,crossandean
+150592,imba1240,NAME,ʃ u t i,318,crossandean
+150593,lamb1276,NAME,ʃ u t i,318,crossandean
+150594,jaqa1244,NAME,ʃ u t j i,318,crossandean
+150595,cauq1239,NAME,ʃ u t j i,318,crossandean
+150596,sanm1289,NAME,ʃ u t i,318,crossandean
+150597,yauy1235,NAME,s u t i,318,crossandean
+150598,sout2991,NAME,s u t i,318,crossandean
+150599,napo1242,NAME,ʃ u t i,318,crossandean
+150600,paca1245,NAME,x u t i,318,crossandean
+150601,sout2990,NAME,ʃ u t i,318,crossandean
+150602,puno1238,NAME,s u t i,318,crossandean
+150603,inga1252,NAME,s u t i,318,crossandean
+150604,sant1432,NAME,s u t i,318,crossandean
+150605,tena1240,NAME,ʃ u t i,318,crossandean
+150606,coro1247,NAME,ʃ u t i,318,crossandean
+150607,east2551,BROTHER (OF MAN),w au q e,46,crossandean
+150608,ayac1239,BROTHER (OF MAN),w au χ e,46,crossandean
+150609,chac1250,BROTHER (OF MAN),w au k i,46,crossandean
+150610,caja1238,BROTHER (OF MAN),m a s a,47,crossandean
+150611,chip1262,BROTHER (OF MAN),h i l a,49,crossandean
+150612,cusc1236,BROTHER (OF MAN),w ai q i,46,crossandean
+150613,hual1241,BROTHER (OF MAN),w au q i,46,crossandean
+150614,huay1241,BROTHER (OF MAN),w au ʔ i,46,crossandean
+150615,imba1240,BROTHER (OF MAN),w au k i,46,crossandean
+150616,lamb1276,BROTHER (OF MAN),u k n i,50,crossandean
+150617,jaqa1244,BROTHER (OF MAN),q u n ts a,48,crossandean
+150618,cauq1239,BROTHER (OF MAN),q u n ts a,48,crossandean
+150619,sanm1289,BROTHER (OF MAN),w au k i,46,crossandean
+150620,yauy1235,BROTHER (OF MAN),w au q i,46,crossandean
+150621,sout2991,BROTHER (OF MAN),ɲ a ɲ a,52,crossandean
+150622,napo1242,BROTHER (OF MAN),w au k i,46,crossandean
+150623,paca1245,BROTHER (OF MAN),w au χ e,46,crossandean
+150624,sout2990,BROTHER (OF MAN),w au k i,46,crossandean
+150625,puno1238,BROTHER (OF MAN),t u r a,51,crossandean
+150626,inga1252,BROTHER (OF MAN),w au x i,46,crossandean
+150627,sant1432,BROTHER (OF MAN),w au q ɪ,46,crossandean
+150628,tena1240,BROTHER (OF MAN),w au k i,46,crossandean
+150629,coro1247,BROTHER (OF MAN),ɢ oː q i,50,crossandean
+150630,east2551,BROTHER (OF WOMAN),t o r ai,53,crossandean
+150631,ayac1239,BROTHER (OF WOMAN),t u ɾ i,53,crossandean
+150632,chac1250,BROTHER (OF WOMAN),t u r i,53,crossandean
+150633,caja1238,BROTHER (OF WOMAN),t u r i,53,crossandean
+150634,chip1262,BROTHER (OF WOMAN),h i l a,55,crossandean
+150635,cusc1236,BROTHER (OF WOMAN),t u r a,53,crossandean
+150636,hual1241,BROTHER (OF WOMAN),t u r i,53,crossandean
+150637,huay1241,BROTHER (OF WOMAN),t u l i,53,crossandean
+150638,imba1240,BROTHER (OF WOMAN),w au k i,56,crossandean
+150639,lamb1276,BROTHER (OF WOMAN),u k n i,57,crossandean
+150640,jaqa1244,BROTHER (OF WOMAN),a l u,54,crossandean
+150641,cauq1239,BROTHER (OF WOMAN),a l u,54,crossandean
+150642,sanm1289,BROTHER (OF WOMAN),t u r i,53,crossandean
+150643,yauy1235,BROTHER (OF WOMAN),t u r i,53,crossandean
+150644,sout2991,BROTHER (OF WOMAN),ɲ a ɲ a,58,crossandean
+150645,napo1242,BROTHER (OF WOMAN),t u r i,53,crossandean
+150646,paca1245,BROTHER (OF WOMAN),t u ɾ i,53,crossandean
+150647,sout2990,BROTHER (OF WOMAN),t u r i,53,crossandean
+150648,puno1238,BROTHER (OF WOMAN),t u r a,53,crossandean
+150649,inga1252,BROTHER (OF WOMAN),t u r i,53,crossandean
+150650,sant1432,BROTHER (OF WOMAN),t u ɾ a,53,crossandean
+150651,tena1240,BROTHER (OF WOMAN),t u r i,53,crossandean
+150652,coro1247,BROTHER (OF WOMAN),t u r i,53,crossandean
+150653,east2551,SISTER (OF MAN),p a n a,428,crossandean
+150654,ayac1239,SISTER (OF MAN),p a n i,428,crossandean
+150655,chac1250,SISTER (OF MAN),p a n i,428,crossandean
+150656,caja1238,SISTER (OF MAN),p a n i,428,crossandean
+150657,chip1262,SISTER (OF MAN),k u ʎ a k a,430,crossandean
+150658,cusc1236,SISTER (OF MAN),p a n a,428,crossandean
+150659,hual1241,SISTER (OF MAN),p a ɲ i,428,crossandean
+150660,huay1241,SISTER (OF MAN),p a n i,428,crossandean
+150661,imba1240,SISTER (OF MAN),ɲ a ɲ a,428,crossandean
+150662,lamb1276,SISTER (OF MAN),u k n i,431,crossandean
+150663,jaqa1244,SISTER (OF MAN),tʃ i n k i,429,crossandean
+150664,cauq1239,SISTER (OF MAN),tʃ i n k i,429,crossandean
+150665,sanm1289,SISTER (OF MAN),p a n i,428,crossandean
+150666,yauy1235,SISTER (OF MAN),p a n i,428,crossandean
+150667,sout2991,SISTER (OF MAN),ɲ a ɲ a,428,crossandean
+150668,napo1242,SISTER (OF MAN),p a n i,428,crossandean
+150669,paca1245,SISTER (OF MAN),p a n i,428,crossandean
+150670,sout2990,SISTER (OF MAN),p a n i,428,crossandean
+150671,puno1238,SISTER (OF MAN),p a n a,428,crossandean
+150672,inga1252,SISTER (OF MAN),p a n i,428,crossandean
+150673,sant1432,SISTER (OF MAN),p a n a,428,crossandean
+150674,tena1240,SISTER (OF MAN),p a ɲ i,428,crossandean
+150675,coro1247,SISTER (OF MAN),p a n i,428,crossandean
+150676,east2551,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150677,ayac1239,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150678,chac1250,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150679,caja1238,SISTER (OF WOMAN),m a s a,433,crossandean
+150680,chip1262,SISTER (OF WOMAN),k u ʎ a k a,435,crossandean
+150681,cusc1236,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150682,hual1241,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150683,huay1241,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150684,imba1240,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150685,lamb1276,SISTER (OF WOMAN),u k n i,436,crossandean
+150686,jaqa1244,SISTER (OF WOMAN),tʃ i n k i,434,crossandean
+150687,cauq1239,SISTER (OF WOMAN),tʃ i n k i,434,crossandean
+150688,sanm1289,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150689,yauy1235,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150690,sout2991,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150691,napo1242,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150692,paca1245,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150693,sout2990,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150694,puno1238,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150695,inga1252,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150696,sant1432,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150697,tena1240,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150698,coro1247,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+150699,east2551,HUSBAND,w o s a,244,crossandean
+150700,ayac1239,HUSBAND,χ o s a,244,crossandean
+150701,chac1250,HUSBAND,k u s a,244,crossandean
+150702,caja1238,HUSBAND,q u s a,244,crossandean
+150703,chip1262,HUSBAND,l u k u,246,crossandean
+150704,cusc1236,HUSBAND,q u s a,244,crossandean
+150705,hual1241,HUSBAND,q u s a,244,crossandean
+150706,huay1241,HUSBAND,ʔ u s a,244,crossandean
+150707,jauj1238,HUSBAND,ʔ u s a,244,crossandean
+150708,imba1240,HUSBAND,k u s a,244,crossandean
+150709,lamb1276,HUSBAND,χ u s a,244,crossandean
+150710,jaqa1244,HUSBAND,h ai n u,245,crossandean
+150711,cauq1239,HUSBAND,h ai n u,245,crossandean
+150712,sanm1289,HUSBAND,k u s a,244,crossandean
+150713,yauy1235,HUSBAND,q u s a,244,crossandean
+150714,sout2991,HUSBAND,q u s a,244,crossandean
+150715,napo1242,HUSBAND,k au s a,244,crossandean
+150716,paca1245,HUSBAND,χ o w a,244,crossandean
+150717,sout2990,HUSBAND,k u s a,244,crossandean
+150718,puno1238,HUSBAND,q u s a,244,crossandean
+150719,inga1252,HUSBAND,k u s a,244,crossandean
+150720,sant1432,HUSBAND,q o s a,244,crossandean
+150721,tena1240,HUSBAND,k a r i,247,crossandean
+150722,coro1247,HUSBAND,q u s a,244,crossandean
+150723,east2551,DAY (NOT NIGHT),p u tʃ au,74,crossandean
+150724,ayac1239,DAY (NOT NIGHT),p u n tʃ au,74,crossandean
+150725,chac1250,DAY (NOT NIGHT),p u n tʃ au,74,crossandean
+150726,caja1238,DAY (NOT NIGHT),p u n dʒ au,74,crossandean
+150727,chip1262,DAY (NOT NIGHT),n o j,76,crossandean
+150728,cusc1236,DAY (NOT NIGHT),pʼ u n tʃ ai,74,crossandean
+150729,hual1241,DAY (NOT NIGHT),h u n a χ,77,crossandean
+150730,huay1241,DAY (NOT NIGHT),p u n,74,crossandean
+150731,imba1240,DAY (NOT NIGHT),p u n tʃ a,74,crossandean
+150732,lamb1276,DAY (NOT NIGHT),u n a χ,77,crossandean
+150733,jaqa1244,DAY (NOT NIGHT),u r u,75,crossandean
+150734,cauq1239,DAY (NOT NIGHT),u r u,75,crossandean
+150735,sanm1289,DAY (NOT NIGHT),p u n tʃ au,74,crossandean
+150736,yauy1235,DAY (NOT NIGHT),m u j u n,78,crossandean
+150737,sout2991,DAY (NOT NIGHT),pʼ u n tʃ ai,74,crossandean
+150738,napo1242,DAY (NOT NIGHT),p u n dʒ a,74,crossandean
+150739,paca1245,DAY (NOT NIGHT),x u n a χ,77,crossandean
+150740,sout2990,DAY (NOT NIGHT),p u n tʃ a,74,crossandean
+150741,puno1238,DAY (NOT NIGHT),pʼ u n tʃ ai,74,crossandean
+150742,inga1252,DAY (NOT NIGHT),p u n tʃ a,74,crossandean
+150743,sant1432,DAY (NOT NIGHT),p u n tʃ au,74,crossandean
+150744,tena1240,DAY (NOT NIGHT),p u n dʒ a,74,crossandean
+150745,coro1247,DAY (NOT NIGHT),u n a q,77,crossandean
+150746,east2551,NIGHT,t u t a,329,crossandean
+150747,ayac1239,NIGHT,t u t a,329,crossandean
+150748,chac1250,NIGHT,t u t a,329,crossandean
+150749,caja1238,NIGHT,t u t a,329,crossandean
+150750,chip1262,NIGHT,w e e n,331,crossandean
+150751,cusc1236,NIGHT,t u t a,329,crossandean
+150752,hual1241,NIGHT,tʃ a k ai,333,crossandean
+150753,huay1241,NIGHT,t u t a,329,crossandean
+150754,imba1240,NIGHT,t u t a,329,crossandean
+150755,lamb1276,NIGHT,t u t a,329,crossandean
+150756,jaqa1244,NIGHT,a r u m a,330,crossandean
+150757,cauq1239,NIGHT,a r u m a,330,crossandean
+150758,sanm1289,NIGHT,t u t a,329,crossandean
+150759,yauy1235,NIGHT,t u t a,329,crossandean
+150760,sout2991,NIGHT,t u t a,329,crossandean
+150761,napo1242,NIGHT,t u t a,329,crossandean
+150762,paca1245,NIGHT,w a ɾ ai,334,crossandean
+150763,puno1238,NIGHT,t u t a,329,crossandean
+150764,inga1252,NIGHT,t u t a,329,crossandean
+150765,sant1432,NIGHT,t u t a,329,crossandean
+150766,tena1240,NIGHT,t u t a,329,crossandean
+150767,coro1247,NIGHT,p a ɢ a s,332,crossandean
+150768,east2551,SUN,i n t i,492,crossandean
+150769,ayac1239,SUN,i n t i,492,crossandean
+150770,chac1250,SUN,i n d i,492,crossandean
+150771,caja1238,SUN,r u p ai,493,crossandean
+150772,chip1262,SUN,tʰ u ɲ i,494,crossandean
+150773,cusc1236,SUN,i n t i,492,crossandean
+150774,hual1241,SUN,i n t i,492,crossandean
+150775,huay1241,SUN,i n t i,492,crossandean
+150776,imba1240,SUN,i n t i,492,crossandean
+150777,lamb1276,SUN,r u p ai,493,crossandean
+150778,jaqa1244,SUN,i n t i,492,crossandean
+150779,cauq1239,SUN,i n t j i,492,crossandean
+150780,sanm1289,SUN,i n d i,492,crossandean
+150781,yauy1235,SUN,i n t i,492,crossandean
+150782,sout2991,SUN,i n t i,492,crossandean
+150783,napo1242,SUN,i n d i,492,crossandean
+150784,paca1245,SUN,w i l k a,495,crossandean
+150785,sout2990,SUN,i n d i,492,crossandean
+150786,puno1238,SUN,i n t i,492,crossandean
+150787,inga1252,SUN,i n d i,492,crossandean
+150788,sant1432,SUN,i n t i,492,crossandean
+150789,tena1240,SUN,i n d i,492,crossandean
+150790,coro1247,SUN,r u p eː,493,crossandean
+150791,east2551,MOON,k i ʎ a,305,crossandean
+150792,ayac1239,MOON,k i ʎ a,305,crossandean
+150793,chac1250,MOON,k i dʑ a,305,crossandean
+150794,caja1238,MOON,k i dʑ a,305,crossandean
+150795,chip1262,MOON,h iː z,307,crossandean
+150796,cusc1236,MOON,k i ʎ a,305,crossandean
+150797,hual1241,MOON,k i ʎ a,305,crossandean
+150798,huay1241,MOON,k i ʎ a,305,crossandean
+150799,imba1240,MOON,k i ʎ a,305,crossandean
+150800,lamb1276,MOON,k i ʒ a,305,crossandean
+150801,jaqa1244,MOON,p a x ʃ i,306,crossandean
+150802,cauq1239,MOON,p a x ʃ i,306,crossandean
+150803,sanm1289,MOON,k i dʑ a,305,crossandean
+150804,yauy1235,MOON,k i ʎ a,305,crossandean
+150805,sout2991,MOON,k i ʎ a,305,crossandean
+150806,napo1242,MOON,k i ʎ a,305,crossandean
+150807,paca1245,MOON,k i l a,305,crossandean
+150808,sout2990,MOON,k i ʎ a,305,crossandean
+150809,puno1238,MOON,k i ʎ a,305,crossandean
+150810,inga1252,MOON,x i ʎ a,305,crossandean
+150811,sant1432,MOON,k i ʒ a,305,crossandean
+150812,tena1240,MOON,k i ʎ a,305,crossandean
+150813,coro1247,MOON,k i ʎ a,305,crossandean
+150814,east2551,SEVEN,q a n tʃ i s,413,crossandean
+150815,ayac1239,SEVEN,χ a n tʃ i s,413,crossandean
+150816,chac1250,SEVEN,k a n ʈʂ i s,413,crossandean
+150817,caja1238,SEVEN,q a n tʃ i s,413,crossandean
+150818,chip1262,SEVEN,p a q a ʎ a q u,414,crossandean
+150819,cusc1236,SEVEN,q a n tʃ i s,413,crossandean
+150820,hual1241,SEVEN,q a n tʃ i s,413,crossandean
+150821,huay1241,SEVEN,h a n ʈʂ i ʃ,413,crossandean
+150822,huay1241,SEVEN,h a n ʈʂ i ʃ,413,crossandean
+150823,imba1240,SEVEN,k a n tʃ i s,413,crossandean
+150824,lamb1276,SEVEN,s i e t e,415,crossandean
+150825,jaqa1244,SEVEN,q a n ʈʂ i s i,413,crossandean
+150826,cauq1239,SEVEN,q a n ʈʂ i s i,413,crossandean
+150827,cauq1239,SEVEN,q a n tʃ i s i,413,crossandean
+150828,sanm1289,SEVEN,k a n tʃ i s,413,crossandean
+150829,yauy1235,SEVEN,q a n ʈʂ i s,413,crossandean
+150830,sout2991,SEVEN,q a n tʃ i s,413,crossandean
+150831,napo1242,SEVEN,k a n dʒ i s,413,crossandean
+150832,paca1245,SEVEN,ʁ a ɳ ʈʂ i s,413,crossandean
+150833,sout2990,SEVEN,k a n tʃ i s,413,crossandean
+150834,puno1238,SEVEN,q a n tʃ i s,413,crossandean
+150835,inga1252,SEVEN,k a n tʃ i s,413,crossandean
+150836,sant1432,SEVEN,q a n tʃ i s,413,crossandean
+150837,tena1240,SEVEN,k a n dʒ i s,413,crossandean
+150838,coro1247,SEVEN,q a n tʃ i s,413,crossandean
+150839,ayac1239,STAR,χ oi ʎ u ɾ,472,crossandean
+150840,caja1238,STAR,l u z e r u,473,crossandean
+150841,chip1262,STAR,w a r a + w a r a,475,crossandean
+150842,cusc1236,STAR,tʃʼ a s k a,476,crossandean
+150843,hual1241,STAR,q ui ʎ a r,472,crossandean
+150844,hual1241,STAR,q ui ʎ u r,472,crossandean
+150845,huay1241,STAR,h ui ʎ u r,472,crossandean
+150846,jauj1238,STAR,h ui ʎ u r,472,crossandean
+150847,imba1240,STAR,l u z i ɾ u,473,crossandean
+150848,lamb1276,STAR,χ u j a r,472,crossandean
+150849,jaqa1244,STAR,w a r a + x a,474,crossandean
+150850,cauq1239,STAR,w a r a + x a,474,crossandean
+150851,sanm1289,STAR,l u s e r o,477,crossandean
+150852,yauy1235,STAR,q ui ʎ u r,472,crossandean
+150853,sout2991,STAR,tʃʼ a s k a,476,crossandean
+150854,paca1245,STAR,l oː s e ɾ o,473,crossandean
+150855,sout2990,STAR,i s t i r i ʎ a,478,crossandean
+150856,puno1238,STAR,tʃʼ a s k a,476,crossandean
+150857,sant1432,STAR,q o ʒ u ɾ,472,crossandean
+150858,tena1240,STAR,e s t r e ʎ a,478,crossandean
+150859,coro1247,STAR,l o s eː r o,473,crossandean
+150860,east2551,SHADE,ʎ a n t u,419,crossandean
+150861,ayac1239,SHADE,ʎ a n t u,419,crossandean
+150862,chac1250,SHADE,dʑ a n d u,419,crossandean
+150863,caja1238,SHADE,ʎ a n d u,419,crossandean
+150864,chip1262,SHADE,z i w z,421,crossandean
+150865,cusc1236,SHADE,ʎ a n tʰ u,419,crossandean
+150866,hual1241,SHADE,ʎ a n t u,419,crossandean
+150867,hual1241,SHADE,ʎ a n t ui,419,crossandean
+150868,huay1241,SHADE,ʎ a n t u,419,crossandean
+150869,jauj1238,SHADE,ʎ a n t u,419,crossandean
+150870,imba1240,SHADE,ʎ a n t u,419,crossandean
+150871,lamb1276,SHADE,ʒ a n d u,419,crossandean
+150872,jaqa1244,SHADE,h u n kʼ a,420,crossandean
+150873,cauq1239,SHADE,h u n kʼ i,420,crossandean
+150874,sanm1289,SHADE,dʑ a n d u,419,crossandean
+150875,yauy1235,SHADE,ʎ a n t u,419,crossandean
+150876,sout2991,SHADE,ʎ a n tʰ u,419,crossandean
+150877,napo1242,SHADE,ʎ a n d u,419,crossandean
+150878,paca1245,SHADE,l a n t u,419,crossandean
+150879,sout2990,SHADE,ʎ a n d u,419,crossandean
+150880,puno1238,SHADE,ʎ a n tʰ u,419,crossandean
+150881,inga1252,SHADE,t u t a,422,crossandean
+150882,sant1432,SHADE,ʒ a n t u,419,crossandean
+150883,tena1240,SHADE,ʎ a n d u,419,crossandean
+150884,coro1247,SHADE,ʎ a n t u,419,crossandean
+150885,east2551,WATER,j a k u,552,crossandean
+150886,east2551,WATER,u n u,555,crossandean
+150887,ayac1239,WATER,j a k u,552,crossandean
+150888,chac1250,WATER,j a k u,552,crossandean
+150889,caja1238,WATER,j a k u,552,crossandean
+150890,chip1262,WATER,qʰ w a z,554,crossandean
+150891,cusc1236,WATER,u n u,555,crossandean
+150892,hual1241,WATER,j a k u,552,crossandean
+150893,huay1241,WATER,j a k u,552,crossandean
+150894,imba1240,WATER,j a k u,552,crossandean
+150895,lamb1276,WATER,j a k u,552,crossandean
+150896,jaqa1244,WATER,u m a,553,crossandean
+150897,cauq1239,WATER,u m a,553,crossandean
+150898,sanm1289,WATER,j a k u,552,crossandean
+150899,yauy1235,WATER,j a k u,552,crossandean
+150900,sout2991,WATER,j a k u,552,crossandean
+150901,napo1242,WATER,j a k u,552,crossandean
+150902,paca1245,WATER,j a k u,552,crossandean
+150903,sout2990,WATER,j a k u,552,crossandean
+150904,puno1238,WATER,u n u,555,crossandean
+150905,inga1252,WATER,j a k u,552,crossandean
+150906,sant1432,WATER,j a x u,552,crossandean
+150907,tena1240,WATER,j a k u,552,crossandean
+150908,coro1247,WATER,j a k u,552,crossandean
+150909,east2551,RIVER,m a j u,380,crossandean
+150910,ayac1239,RIVER,m a j u,380,crossandean
+150911,chac1250,RIVER,m a j u,380,crossandean
+150912,caja1238,RIVER,r i u,381,crossandean
+150913,chip1262,RIVER,p u j u,380,crossandean
+150914,chip1262,RIVER,w i w i,383,crossandean
+150915,cusc1236,RIVER,m a j u,380,crossandean
+150916,hual1241,RIVER,m a j u,380,crossandean
+150917,huay1241,RIVER,m a j u,380,crossandean
+150918,imba1240,RIVER,m a j u,380,crossandean
+150919,lamb1276,RIVER,r i o,381,crossandean
+150920,jaqa1244,RIVER,m a j u,380,crossandean
+150921,cauq1239,RIVER,m a j u,380,crossandean
+150922,sanm1289,RIVER,m a j u,380,crossandean
+150923,yauy1235,RIVER,m a j u,380,crossandean
+150924,sout2991,RIVER,m a j u,380,crossandean
+150925,napo1242,RIVER,j a k u,382,crossandean
+150926,paca1245,RIVER,r i o,381,crossandean
+150927,sout2990,RIVER,j a k u,382,crossandean
+150928,puno1238,RIVER,m a j u,380,crossandean
+150929,inga1252,RIVER,j a k u,382,crossandean
+150930,sant1432,RIVER,m a j u,380,crossandean
+150931,tena1240,RIVER,j a k u,382,crossandean
+150932,coro1247,RIVER,m a j u,380,crossandean
+150933,east2551,MOUNTAIN,o r q o,308,crossandean
+150934,east2551,MOUNTAIN,q i r k a,309,crossandean
+150935,ayac1239,MOUNTAIN,o ɾ χ o,308,crossandean
+150936,chac1250,MOUNTAIN,u r k u,308,crossandean
+150937,caja1238,MOUNTAIN,u r q u,308,crossandean
+150938,chip1262,MOUNTAIN,k u r u,310,crossandean
+150939,cusc1236,MOUNTAIN,u r q u,308,crossandean
+150940,hual1241,MOUNTAIN,h i r k a,311,crossandean
+150941,huay1241,MOUNTAIN,u l ʔ u,308,crossandean
+150942,imba1240,MOUNTAIN,u ɾ k u,308,crossandean
+150943,lamb1276,MOUNTAIN,χ a ʁ a,309,crossandean
+150944,jaqa1244,MOUNTAIN,q aː q a,309,crossandean
+150945,cauq1239,MOUNTAIN,q a q a,309,crossandean
+150946,sanm1289,MOUNTAIN,u r k u,308,crossandean
+150947,yauy1235,MOUNTAIN,u r q u,308,crossandean
+150948,sout2991,MOUNTAIN,u r q u,308,crossandean
+150949,napo1242,MOUNTAIN,u r k u,308,crossandean
+150950,paca1245,MOUNTAIN,x i ɾ k a,311,crossandean
+150951,sout2990,MOUNTAIN,u r k u,308,crossandean
+150952,puno1238,MOUNTAIN,u r q u,308,crossandean
+150953,inga1252,MOUNTAIN,s a tʃ u k u,312,crossandean
+150954,sant1432,MOUNTAIN,o ɾ q o,308,crossandean
+150955,tena1240,MOUNTAIN,u r k u,308,crossandean
+150956,coro1247,MOUNTAIN,q a q a,309,crossandean
+150957,east2551,FIRE,n i n a,139,crossandean
+150958,ayac1239,FIRE,n i n a,139,crossandean
+150959,chac1250,FIRE,n i n a,139,crossandean
+150960,caja1238,FIRE,n i n a,139,crossandean
+150961,chip1262,FIRE,z h q e t i,140,crossandean
+150962,cusc1236,FIRE,n i n a,139,crossandean
+150963,hual1241,FIRE,n i n a,139,crossandean
+150964,huay1241,FIRE,n i n a,139,crossandean
+150965,imba1240,FIRE,n i n a,139,crossandean
+150966,lamb1276,FIRE,n i n a,139,crossandean
+150967,jaqa1244,FIRE,n i n a,139,crossandean
+150968,cauq1239,FIRE,n i n a,139,crossandean
+150969,sanm1289,FIRE,n i n a,139,crossandean
+150970,yauy1235,FIRE,n i n a,139,crossandean
+150971,sout2991,FIRE,n i n a,139,crossandean
+150972,napo1242,FIRE,n i n a,139,crossandean
+150973,paca1245,FIRE,n i n a,139,crossandean
+150974,sout2990,FIRE,n i n a,139,crossandean
+150975,puno1238,FIRE,n i n a,139,crossandean
+150976,inga1252,FIRE,n i n a,139,crossandean
+150977,sant1432,FIRE,n i n a,139,crossandean
+150978,tena1240,FIRE,n i n a,139,crossandean
+150979,coro1247,FIRE,n i n a,139,crossandean
+150980,east2551,SMOKE (EXHAUST),q o s ɲ i,459,crossandean
+150981,ayac1239,SMOKE (EXHAUST),χ o s n i,459,crossandean
+150982,chac1250,SMOKE (EXHAUST),k u s n i,459,crossandean
+150983,caja1238,SMOKE (EXHAUST),q u n d ai,460,crossandean
+150984,chip1262,SMOKE (EXHAUST),z h q e t i,462,crossandean
+150985,cusc1236,SMOKE (EXHAUST),qʼ u s ɲ i,459,crossandean
+150986,hual1241,SMOKE (EXHAUST),q u ʃ t ai,460,crossandean
+150987,jauj1238,SMOKE (EXHAUST),h u n t ai,460,crossandean
+150988,huay1241,SMOKE (EXHAUST),h u n t ai,460,crossandean
+150989,imba1240,SMOKE (EXHAUST),k u ʃ n i,459,crossandean
+150990,lamb1276,SMOKE (EXHAUST),χ u n d ai,460,crossandean
+150991,jaqa1244,SMOKE (EXHAUST),tsʼ u s q i,461,crossandean
+150992,jaqa1244,SMOKE (EXHAUST),tsʼ u s q i,461,crossandean
+150993,cauq1239,SMOKE (EXHAUST),ʈʂʼ u s q i,461,crossandean
+150994,cauq1239,SMOKE (EXHAUST),tsʼ u s q i,461,crossandean
+150995,sanm1289,SMOKE (EXHAUST),k u s n i,459,crossandean
+150996,yauy1235,SMOKE (EXHAUST),q u ʃ n i,459,crossandean
+150997,sout2991,SMOKE (EXHAUST),qʼ u s ɲ i,459,crossandean
+150998,napo1242,SMOKE (EXHAUST),k u ʃ n i,459,crossandean
+150999,paca1245,SMOKE (EXHAUST),χ o j ai,463,crossandean
+151000,sout2990,SMOKE (EXHAUST),k u ʃ n i,459,crossandean
+151001,puno1238,SMOKE (EXHAUST),qʼ u ʃ ɲ i,459,crossandean
+151002,inga1252,SMOKE (EXHAUST),k u s n i,459,crossandean
+151003,sant1432,SMOKE (EXHAUST),q o s n i,459,crossandean
+151004,tena1240,SMOKE (EXHAUST),k u ʃ ɲ i,459,crossandean
+151005,coro1247,SMOKE (EXHAUST),q u n t e,460,crossandean
+151006,east2551,ASH,u s p a,1,crossandean
+151007,ayac1239,ASH,u tʃ p a,1,crossandean
+151008,chac1250,ASH,u ʈʂ p a,1,crossandean
+151009,caja1238,ASH,u ʂ p a,1,crossandean
+151010,chip1262,ASH,qʰ u p,3,crossandean
+151011,cusc1236,ASH,u s pʰ a,1,crossandean
+151012,hual1241,ASH,u tʃ p a,1,crossandean
+151013,huay1241,ASH,u ʈʂ p a,1,crossandean
+151014,imba1240,ASH,u tʃ u f a,1,crossandean
+151015,lamb1276,ASH,u ʈʂ p a,1,crossandean
+151016,jaqa1244,ASH,qʰ i ʎ p i,2,crossandean
+151017,cauq1239,ASH,qʰ i ʎ p i,2,crossandean
+151018,sanm1289,ASH,u tʃ p a,1,crossandean
+151019,yauy1235,ASH,u ʈʂ p a,1,crossandean
+151020,sout2991,ASH,u ʃ pʰ a,1,crossandean
+151021,napo1242,ASH,u ʃ p a,1,crossandean
+151022,paca1245,ASH,u ʈʂ p a,1,crossandean
+151023,sout2990,ASH,u tʃ p a,1,crossandean
+151024,puno1238,ASH,u s pʰ a,1,crossandean
+151025,inga1252,ASH,u tʃ p a,1,crossandean
+151026,sant1432,ASH,u ʃ p a,1,crossandean
+151027,tena1240,ASH,u ʃ p a,1,crossandean
+151028,coro1247,ASH,u tʃ p a,1,crossandean
+151029,east2551,STONE,r u m i,479,crossandean
+151030,ayac1239,STONE,ɾ u m i,479,crossandean
+151031,chac1250,STONE,r u m i,479,crossandean
+151032,caja1238,STONE,r u m i,479,crossandean
+151033,chip1262,STONE,m a z,481,crossandean
+151034,cusc1236,STONE,r u m i,479,crossandean
+151035,hual1241,STONE,r u m i,479,crossandean
+151036,huay1241,STONE,l u m i,479,crossandean
+151037,imba1240,STONE,ɾ u m i,479,crossandean
+151038,lamb1276,STONE,!r̝/r u m i,479,crossandean
+151039,jaqa1244,STONE,q a l a,480,crossandean
+151040,cauq1239,STONE,q a l a,480,crossandean
+151041,sanm1289,STONE,r u m i,479,crossandean
+151042,yauy1235,STONE,r u m i,479,crossandean
+151043,sout2991,STONE,!r̝/r u m i,479,crossandean
+151044,napo1242,STONE,r u m i,479,crossandean
+151045,paca1245,STONE,r u m !ai/i,479,crossandean
+151046,paca1245,STONE,r u m i,479,crossandean
+151047,sout2990,STONE,ɾ u m i,479,crossandean
+151048,puno1238,STONE,r u m i,479,crossandean
+151049,inga1252,STONE,r u m i,479,crossandean
+151050,sant1432,STONE,ɾ u m i,479,crossandean
+151051,tena1240,STONE,r u m i,479,crossandean
+151052,coro1247,STONE,r u m i,479,crossandean
+151053,east2551,SAND,a q o,401,crossandean
+151054,ayac1239,SAND,a χ o,401,crossandean
+151055,chac1250,SAND,t i j u,402,crossandean
+151056,caja1238,SAND,a ʁ u,401,crossandean
+151057,chip1262,SAND,pʰ i l a,403,crossandean
+151058,cusc1236,SAND,a q u,401,crossandean
+151059,hual1241,SAND,a q u ʃ,401,crossandean
+151060,huay1241,SAND,a ʔ u,401,crossandean
+151061,imba1240,SAND,t i j u,402,crossandean
+151062,lamb1276,SAND,a ʁ u,401,crossandean
+151063,jaqa1244,SAND,a q u,401,crossandean
+151064,cauq1239,SAND,a q u,401,crossandean
+151065,sanm1289,SAND,t i j u,402,crossandean
+151066,yauy1235,SAND,a q u,401,crossandean
+151067,sout2991,SAND,tʼ i j u,402,crossandean
+151068,sout2990,SAND,t i j u,402,crossandean
+151069,puno1238,SAND,a q u,401,crossandean
+151070,sant1432,SAND,t i j u,402,crossandean
+151071,tena1240,SAND,ts a ts a,404,crossandean
+151072,coro1247,SAND,a q u,401,crossandean
+151073,east2551,EIGHT,m u s a q,102,crossandean
+151074,ayac1239,EIGHT,p u s a χ,102,crossandean
+151075,chac1250,EIGHT,p u s a k,102,crossandean
+151076,caja1238,EIGHT,p u s a χ,102,crossandean
+151077,chip1262,EIGHT,k i m s a q a ʎ a q u,103,crossandean
+151078,cusc1236,EIGHT,p u s a χ,102,crossandean
+151079,hual1241,EIGHT,p u s a χ,102,crossandean
+151080,huay1241,EIGHT,p u s a ʔ,102,crossandean
+151081,imba1240,EIGHT,p u s a k,102,crossandean
+151082,lamb1276,EIGHT,o tʃ o,104,crossandean
+151083,jaqa1244,EIGHT,p u s a q a,102,crossandean
+151084,cauq1239,EIGHT,p u s a q a,102,crossandean
+151085,sanm1289,EIGHT,p u s a k,102,crossandean
+151086,yauy1235,EIGHT,p u s a χ,102,crossandean
+151087,sout2991,EIGHT,p u s a χ,102,crossandean
+151088,napo1242,EIGHT,p u s a χ,102,crossandean
+151089,paca1245,EIGHT,p u w a χ,102,crossandean
+151090,sout2990,EIGHT,p u s a k,102,crossandean
+151091,puno1238,EIGHT,p u s a χ,102,crossandean
+151092,inga1252,EIGHT,p u s a g,102,crossandean
+151093,sant1432,EIGHT,p u s a χ,102,crossandean
+151094,tena1240,EIGHT,p u s a x,102,crossandean
+151095,coro1247,EIGHT,p u s a q,102,crossandean
+151096,east2551,GOLD,q o r i,195,crossandean
+151097,ayac1239,GOLD,χ o ɾ i,195,crossandean
+151098,chac1250,GOLD,k u r i,195,crossandean
+151099,caja1238,GOLD,q u r i,195,crossandean
+151100,chip1262,GOLD,qʰ u r i,195,crossandean
+151101,cusc1236,GOLD,q u r i,195,crossandean
+151102,hual1241,GOLD,q u r i,195,crossandean
+151103,huay1241,GOLD,h u l i,195,crossandean
+151104,imba1240,GOLD,k u ɾ i,195,crossandean
+151105,lamb1276,GOLD,o r o,196,crossandean
+151106,jaqa1244,GOLD,q u r i,195,crossandean
+151107,cauq1239,GOLD,o r o,196,crossandean
+151108,sanm1289,GOLD,k u r i,195,crossandean
+151109,yauy1235,GOLD,o r o,196,crossandean
+151110,sout2991,GOLD,q u r i,195,crossandean
+151111,napo1242,GOLD,k u r i,195,crossandean
+151112,sout2990,GOLD,k u r i,195,crossandean
+151113,puno1238,GOLD,q u r i,195,crossandean
+151114,inga1252,GOLD,k u r i,195,crossandean
+151115,sant1432,GOLD,q o ɾ i,195,crossandean
+151116,tena1240,GOLD,k u r i,195,crossandean
+151117,coro1247,GOLD,q u r i,195,crossandean
+151118,east2551,RAINING OR RAIN,p a r a,367,crossandean
+151119,ayac1239,RAINING OR RAIN,p a ɾ a,367,crossandean
+151120,chac1250,RAINING OR RAIN,t a m j a,368,crossandean
+151121,caja1238,RAINING OR RAIN,t a m j a,368,crossandean
+151122,chip1262,RAINING OR RAIN,tʃ i j ɲ i,368,crossandean
+151123,cusc1236,RAINING OR RAIN,p a r a,367,crossandean
+151124,hual1241,RAINING OR RAIN,t a m j a,368,crossandean
+151125,huay1241,RAINING OR RAIN,t a m j a,368,crossandean
+151126,imba1240,RAINING OR RAIN,t a m j a,368,crossandean
+151127,lamb1276,RAINING OR RAIN,t a m j a,368,crossandean
+151128,jaqa1244,RAINING OR RAIN,h a ʎ u,369,crossandean
+151129,cauq1239,RAINING OR RAIN,h a ʎ u,369,crossandean
+151130,sanm1289,RAINING OR RAIN,t a m j a,368,crossandean
+151131,yauy1235,RAINING OR RAIN,t a m j a,368,crossandean
+151132,sout2991,RAINING OR RAIN,p a r a,367,crossandean
+151133,napo1242,RAINING OR RAIN,t a m j a,368,crossandean
+151134,paca1245,RAINING OR RAIN,t a m j a,368,crossandean
+151135,sout2990,RAINING OR RAIN,t a m j a,368,crossandean
+151136,puno1238,RAINING OR RAIN,p a r a,367,crossandean
+151137,inga1252,RAINING OR RAIN,t a m j a,368,crossandean
+151138,sant1432,RAINING OR RAIN,p a ɾ a,367,crossandean
+151139,tena1240,RAINING OR RAIN,t a m j a,368,crossandean
+151140,coro1247,RAINING OR RAIN,t a m j a,368,crossandean
+151141,east2551,CLOUD,p u j u,59,crossandean
+151142,east2551,CLOUD,f u j u,59,crossandean
+151143,ayac1239,CLOUD,p u j u,59,crossandean
+151144,chac1250,CLOUD,p u j u,59,crossandean
+151145,caja1238,CLOUD,p u k u t ai,60,crossandean
+151146,chip1262,CLOUD,ts h i r i,62,crossandean
+151147,cusc1236,CLOUD,pʰ u j u,59,crossandean
+151148,hual1241,CLOUD,p u k u t ai,60,crossandean
+151149,huay1241,CLOUD,p u k u t ai,60,crossandean
+151150,imba1240,CLOUD,f u j u,59,crossandean
+151151,lamb1276,CLOUD,p u k t ai,60,crossandean
+151152,jaqa1244,CLOUD,u r p i,61,crossandean
+151153,cauq1239,CLOUD,u r p i,61,crossandean
+151154,sanm1289,CLOUD,p u j u,59,crossandean
+151155,yauy1235,CLOUD,p u k u t ai,60,crossandean
+151156,sout2991,CLOUD,pʰ u j u,59,crossandean
+151157,napo1242,CLOUD,p u j u,59,crossandean
+151158,paca1245,CLOUD,p u k u t ai,60,crossandean
+151159,sout2990,CLOUD,p u j u,59,crossandean
+151160,puno1238,CLOUD,pʰ u j u,59,crossandean
+151161,inga1252,CLOUD,p u j u,59,crossandean
+151162,sant1432,CLOUD,p u j u,59,crossandean
+151163,tena1240,CLOUD,p u j u,59,crossandean
+151164,coro1247,CLOUD,p u k u t eː,60,crossandean
+151165,east2551,WIND,w ai r a,569,crossandean
+151166,ayac1239,WIND,w ai ɾ a,569,crossandean
+151167,chac1250,WIND,w ai r a,569,crossandean
+151168,caja1238,WIND,w ai r a,569,crossandean
+151169,chip1262,WIND,w ai w a r a,569,crossandean
+151170,cusc1236,WIND,w ai r a,569,crossandean
+151171,hual1241,WIND,v ie n t o,570,crossandean
+151172,huay1241,WIND,w ai w a,569,crossandean
+151173,imba1240,WIND,w ai ɾ a,569,crossandean
+151174,lamb1276,WIND,w ai r a,569,crossandean
+151175,jaqa1244,WIND,w au j a,569,crossandean
+151176,cauq1239,WIND,w au j a,569,crossandean
+151177,sanm1289,WIND,w ai r a,569,crossandean
+151178,yauy1235,WIND,w ai r a,569,crossandean
+151179,sout2991,WIND,w ai r a,569,crossandean
+151180,napo1242,WIND,w ai r a,569,crossandean
+151181,paca1245,WIND,b i n t u,571,crossandean
+151182,sout2990,WIND,w ai r a,569,crossandean
+151183,puno1238,WIND,w ai r a,569,crossandean
+151184,inga1252,WIND,w ai r a,569,crossandean
+151185,sant1432,WIND,w ai ɾ a,569,crossandean
+151186,tena1240,WIND,w ai r a,569,crossandean
+151187,coro1247,WIND,w eː r a,569,crossandean
+151188,east2551,BREAD,t a n t a,40,crossandean
+151189,ayac1239,BREAD,t a n t a,40,crossandean
+151190,chac1250,BREAD,t a n d a,40,crossandean
+151191,caja1238,BREAD,t a n d a,40,crossandean
+151192,chip1262,BREAD,tʼ a n t a,40,crossandean
+151193,cusc1236,BREAD,tʼ a n t a,40,crossandean
+151194,hual1241,BREAD,t a n t a,40,crossandean
+151195,huay1241,BREAD,t a n t a,40,crossandean
+151196,imba1240,BREAD,t a n d a,40,crossandean
+151197,lamb1276,BREAD,t a n d a,40,crossandean
+151198,jaqa1244,BREAD,tʼ a n t i,40,crossandean
+151199,cauq1239,BREAD,tʼ a n t i,40,crossandean
+151200,sanm1289,BREAD,t a n d a,40,crossandean
+151201,yauy1235,BREAD,t a n t a,40,crossandean
+151202,sout2991,BREAD,tʼ a n t a,40,crossandean
+151203,napo1242,BREAD,t a n d a,40,crossandean
+151204,paca1245,BREAD,t a n t a,40,crossandean
+151205,puno1238,BREAD,tʼ a n t a,40,crossandean
+151206,inga1252,BREAD,t a n d a,40,crossandean
+151207,sant1432,BREAD,t a n t a,40,crossandean
+151208,tena1240,BREAD,t a n d a,40,crossandean
+151209,coro1247,BREAD,t a n t a,40,crossandean
+151210,east2551,FLESH OR MEAT,ai tʃ a,143,crossandean
+151211,ayac1239,FLESH OR MEAT,ai tʃ a,143,crossandean
+151212,chac1250,FLESH OR MEAT,ai tʃ a,143,crossandean
+151213,caja1238,FLESH OR MEAT,ai tʃ a,143,crossandean
+151214,chip1262,FLESH OR MEAT,tʃ h i ʃ w i,145,crossandean
+151215,cusc1236,FLESH OR MEAT,ai tʃ a,143,crossandean
+151216,hual1241,FLESH OR MEAT,ai tʃ a,143,crossandean
+151217,huay1241,FLESH OR MEAT,ai tʃ a,143,crossandean
+151218,imba1240,FLESH OR MEAT,ai tʃ a,143,crossandean
+151219,lamb1276,FLESH OR MEAT,ai tʃ a,143,crossandean
+151220,jaqa1244,FLESH OR MEAT,h a n tʃ i,144,crossandean
+151221,cauq1239,FLESH OR MEAT,h a n tʃ i,144,crossandean
+151222,sanm1289,FLESH OR MEAT,ai tʃ a,143,crossandean
+151223,yauy1235,FLESH OR MEAT,ai tʃ a,143,crossandean
+151224,sout2991,FLESH OR MEAT,ai tʃ a,143,crossandean
+151225,napo1242,FLESH OR MEAT,ai tʃ a,143,crossandean
+151226,paca1245,FLESH OR MEAT,ai s a,143,crossandean
+151227,sout2990,FLESH OR MEAT,ai tʃ a,143,crossandean
+151228,puno1238,FLESH OR MEAT,ai tʃ a,143,crossandean
+151229,inga1252,FLESH OR MEAT,ai tʃ a,143,crossandean
+151230,sant1432,FLESH OR MEAT,ai tʃ a,143,crossandean
+151231,tena1240,FLESH OR MEAT,ai tʃ a,143,crossandean
+151232,coro1247,FLESH OR MEAT,eː ts a,143,crossandean
+151233,east2551,SALT,k a tʃ i,399,crossandean
+151234,ayac1239,SALT,k a tʃ i,399,crossandean
+151235,chac1250,SALT,k a ʈʂ i,399,crossandean
+151236,caja1238,SALT,k a ʈʂ i,399,crossandean
+151237,chip1262,SALT,j a k w u,400,crossandean
+151238,cusc1236,SALT,k a tʃ i,399,crossandean
+151239,hual1241,SALT,k a tʃ i,399,crossandean
+151240,huay1241,SALT,k a ʈʂ i,399,crossandean
+151241,imba1240,SALT,k a tʃ i,399,crossandean
+151242,lamb1276,SALT,k a ʈʂ i,399,crossandean
+151243,jaqa1244,SALT,k a t j i,399,crossandean
+151244,cauq1239,SALT,k a t j i,399,crossandean
+151245,sanm1289,SALT,k a tʃ i,399,crossandean
+151246,yauy1235,SALT,k a ʈʂ i,399,crossandean
+151247,sout2991,SALT,k a tʃ i,399,crossandean
+151248,napo1242,SALT,k a tʃ i,399,crossandean
+151249,paca1245,SALT,k a ʈʂ i,399,crossandean
+151250,sout2990,SALT,k a tʃ i,399,crossandean
+151251,puno1238,SALT,k a tʃ i,399,crossandean
+151252,inga1252,SALT,k a tʃ i,399,crossandean
+151253,sant1432,SALT,k a tʃ i,399,crossandean
+151254,tena1240,SALT,k a tʃ i,399,crossandean
+151255,coro1247,SALT,k a ʈʂ i,399,crossandean
+151256,east2551,FAT (ORGANIC SUBSTANCE),u n t u,135,crossandean
+151257,east2551,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151258,ayac1239,FAT (ORGANIC SUBSTANCE),w i ɾ a,132,crossandean
+151259,chac1250,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151260,caja1238,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151261,chip1262,FAT (ORGANIC SUBSTANCE),kʰ e w a,134,crossandean
+151262,cusc1236,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151263,hual1241,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151264,huay1241,FAT (ORGANIC SUBSTANCE),w i l a,132,crossandean
+151265,imba1240,FAT (ORGANIC SUBSTANCE),ɸ i ɾ a,132,crossandean
+151266,lamb1276,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151267,jaqa1244,FAT (ORGANIC SUBSTANCE),n i kʼ i,133,crossandean
+151268,cauq1239,FAT (ORGANIC SUBSTANCE),ɲ i kʼ i,133,crossandean
+151269,sanm1289,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151270,yauy1235,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151271,sout2991,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151272,paca1245,FAT (ORGANIC SUBSTANCE),w i ɾ a,132,crossandean
+151273,sout2990,FAT (ORGANIC SUBSTANCE),g r a s a,136,crossandean
+151274,puno1238,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151275,inga1252,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151276,sant1432,FAT (ORGANIC SUBSTANCE),w i ɾ a,132,crossandean
+151277,tena1240,FAT (ORGANIC SUBSTANCE),i r a,132,crossandean
+151278,coro1247,FAT (ORGANIC SUBSTANCE),w i r a,132,crossandean
+151279,east2551,SEED,m u χ u,409,crossandean
+151280,east2551,SEED,m u h u,409,crossandean
+151281,east2551,SEED,m u q u,409,crossandean
+151282,ayac1239,SEED,m u ɾ u,409,crossandean
+151283,ayac1239,SEED,m u j a,409,crossandean
+151284,chac1250,SEED,m u r u,409,crossandean
+151285,caja1238,SEED,m u r u,409,crossandean
+151286,cusc1236,SEED,m u x u,409,crossandean
+151287,hual1241,SEED,m u r u,409,crossandean
+151288,huay1241,SEED,m u h u,409,crossandean
+151289,jauj1238,SEED,m u h u,409,crossandean
+151290,imba1240,SEED,m u j u,409,crossandean
+151291,lamb1276,SEED,s e m i ʎ a,411,crossandean
+151292,jaqa1244,SEED,a tʰ a,410,crossandean
+151293,cauq1239,SEED,a ʈʂ a,410,crossandean
+151294,sanm1289,SEED,m u r u,409,crossandean
+151295,yauy1235,SEED,m u n i,412,crossandean
+151296,sout2991,SEED,m u h u,409,crossandean
+151297,napo1242,SEED,m u j u,409,crossandean
+151298,paca1245,SEED,m u ɾ u,409,crossandean
+151299,sout2990,SEED,m u j u,409,crossandean
+151300,puno1238,SEED,m u x u,409,crossandean
+151301,inga1252,SEED,m u j u,409,crossandean
+151302,tena1240,SEED,m u j u,409,crossandean
+151303,coro1247,SEED,m u r u,409,crossandean
+151304,east2551,TREE,p i s o n a,533,crossandean
+151305,east2551,TREE,s a tʃ a,528,crossandean
+151306,ayac1239,TREE,s a tʃ a,528,crossandean
+151307,chac1250,TREE,j u r a,531,crossandean
+151308,caja1238,TREE,q i r u,529,crossandean
+151309,cusc1236,TREE,m a ʎ k i,532,crossandean
+151310,hual1241,TREE,q i r u,529,crossandean
+151311,huay1241,TREE,h a ʈʂ a,528,crossandean
+151312,imba1240,TREE,j u ɾ a,531,crossandean
+151313,lamb1276,TREE,χ i r u,529,crossandean
+151314,jaqa1244,TREE,a r b u l i,530,crossandean
+151315,cauq1239,TREE,a r b u l i,530,crossandean
+151316,sanm1289,TREE,j u r a,531,crossandean
+151317,yauy1235,TREE,m u n t i,538,crossandean
+151318,sout2991,TREE,s a tʃʼ a,528,crossandean
+151319,napo1242,TREE,r u j a,534,crossandean
+151320,paca1245,TREE,χ e ɾ u,529,crossandean
+151321,sout2990,TREE,k a s p i,537,crossandean
+151322,puno1238,TREE,q u q a,535,crossandean
+151323,inga1252,TREE,s a tʃ a,528,crossandean
+151324,sant1432,TREE,t a χ o,536,crossandean
+151325,tena1240,TREE,j u r a,531,crossandean
+151326,coro1247,TREE,a ʈʂ a,528,crossandean
+151327,east2551,NINE,i s q o n,335,crossandean
+151328,ayac1239,NINE,i s χ o ŋ,335,crossandean
+151329,chac1250,NINE,i s k u n,335,crossandean
+151330,caja1238,NINE,i s ʁ u n,335,crossandean
+151331,chip1262,NINE,ʎ a ʎ a t u n k a,337,crossandean
+151332,cusc1236,NINE,i s q u n,335,crossandean
+151333,hual1241,NINE,i s q u n,335,crossandean
+151334,huay1241,NINE,i s ʔ u n,335,crossandean
+151335,imba1240,NINE,i s k u n,335,crossandean
+151336,lamb1276,NINE,n u e v e,338,crossandean
+151337,jaqa1244,NINE,i s q u ɲ a,336,crossandean
+151338,cauq1239,NINE,i s q u ɲ a,336,crossandean
+151339,sanm1289,NINE,i s k u n,335,crossandean
+151340,yauy1235,NINE,i s q u n,335,crossandean
+151341,sout2991,NINE,i ʃ q u n,335,crossandean
+151342,napo1242,NINE,i s k u n,335,crossandean
+151343,paca1245,NINE,i s χ o ŋ,335,crossandean
+151344,sout2990,NINE,i s k u n,335,crossandean
+151345,puno1238,NINE,i s q u n,335,crossandean
+151346,inga1252,NINE,i s k u n,335,crossandean
+151347,sant1432,NINE,e ʃ q o n,335,crossandean
+151348,tena1240,NINE,i s k u n,335,crossandean
+151349,coro1247,NINE,i s q u n,335,crossandean
+151350,east2551,ROOT,s a p i,389,crossandean
+151351,ayac1239,ROOT,s a p i,389,crossandean
+151352,chac1250,ROOT,s a p i,389,crossandean
+151353,caja1238,ROOT,ʈʂ u p a,389,crossandean
+151354,chip1262,ROOT,z e pʼ a,389,crossandean
+151355,cusc1236,ROOT,s a pʰ i,389,crossandean
+151356,hual1241,ROOT,s a p i,389,crossandean
+151357,jauj1238,ROOT,s i p i,389,crossandean
+151358,huay1241,ROOT,s i p i,389,crossandean
+151359,imba1240,ROOT,s a p i,389,crossandean
+151360,lamb1276,ROOT,ʈʂ u p a,389,crossandean
+151361,jaqa1244,ROOT,a s u,390,crossandean
+151362,cauq1239,ROOT,a s u,390,crossandean
+151363,sanm1289,ROOT,s a p i,389,crossandean
+151364,yauy1235,ROOT,r a i z,392,crossandean
+151365,sout2991,ROOT,s a pʰ i,389,crossandean
+151366,napo1242,ROOT,a n g u,391,crossandean
+151367,paca1245,ROOT,s a p i,389,crossandean
+151368,sout2990,ROOT,a n g u,391,crossandean
+151369,puno1238,ROOT,s a pʰ i,389,crossandean
+151370,inga1252,ROOT,a n g u,391,crossandean
+151371,sant1432,ROOT,s a p i,389,crossandean
+151372,tena1240,ROOT,a n g u,391,crossandean
+151373,coro1247,ROOT,ʈʂ a p a,389,crossandean
+151374,east2551,BRANCH,p a ʎ q a,38,crossandean
+151375,ayac1239,BRANCH,k a ʎ m a,34,crossandean
+151376,caja1238,BRANCH,r i k r a,35,crossandean
+151377,cusc1236,BRANCH,kʼ a ʎ m a,34,crossandean
+151378,hual1241,BRANCH,tʃ a p s a,39,crossandean
+151379,huay1241,BRANCH,tʃ a p l a,39,crossandean
+151380,imba1240,BRANCH,m a l k i,38,crossandean
+151381,lamb1276,BRANCH,r i k r a,35,crossandean
+151382,jaqa1244,BRANCH,r a m a,36,crossandean
+151383,cauq1239,BRANCH,r a m a,36,crossandean
+151384,yauy1235,BRANCH,r a m a,36,crossandean
+151385,sout2991,BRANCH,tʃʼ a χ r a,39,crossandean
+151386,napo1242,BRANCH,p a ʎ k a,38,crossandean
+151387,sout2990,BRANCH,ɾ a m a,36,crossandean
+151388,puno1238,BRANCH,r a m a,36,crossandean
+151389,inga1252,BRANCH,m a l x i,38,crossandean
+151390,tena1240,BRANCH,p a ʎ k a,38,crossandean
+151391,coro1247,BRANCH,a ʈʂ a,37,crossandean
+151392,east2551,LEAF,r a p i,257,crossandean
+151393,ayac1239,LEAF,ʎ a χ e,256,crossandean
+151394,ayac1239,LEAF,ɾ a p i,257,crossandean
+151395,chac1250,LEAF,r a p r a,257,crossandean
+151396,caja1238,LEAF,r a p r a,257,crossandean
+151397,chip1262,LEAF,tʃ h a ɲ i,258,crossandean
+151398,cusc1236,LEAF,r a pʼ i,257,crossandean
+151399,cusc1236,LEAF,r a pʰ a,257,crossandean
+151400,cusc1236,LEAF,r a pʼ a,257,crossandean
+151401,cusc1236,LEAF,r a pʰ i,257,crossandean
+151402,hual1241,LEAF,r a p r a,257,crossandean
+151403,huay1241,LEAF,l a p l a,257,crossandean
+151404,imba1240,LEAF,f a n g a,259,crossandean
+151405,lamb1276,LEAF,!r̝/r a p r a,257,crossandean
+151406,jaqa1244,LEAF,n a pʰ r a,257,crossandean
+151407,cauq1239,LEAF,n a pʰ r a,257,crossandean
+151408,sanm1289,LEAF,r a p r a,257,crossandean
+151409,yauy1235,LEAF,l a p r a,257,crossandean
+151410,sout2991,LEAF,l a qʰ i,256,crossandean
+151411,napo1242,LEAF,p a n g a,259,crossandean
+151412,paca1245,LEAF,ɾ a p ɾ a,257,crossandean
+151413,sout2990,LEAF,p a n g a,259,crossandean
+151414,puno1238,LEAF,l a pʰ i,257,crossandean
+151415,inga1252,LEAF,p a n g a,259,crossandean
+151416,tena1240,LEAF,p a n g a,259,crossandean
+151417,coro1247,LEAF,r a p r a,257,crossandean
+151418,east2551,GRASS,q o r a,197,crossandean
+151419,ayac1239,GRASS,χ o ɾ a,197,crossandean
+151420,chac1250,GRASS,k i w a,198,crossandean
+151421,chac1250,GRASS,w ai dʑ a,204,crossandean
+151422,caja1238,GRASS,q i w a,198,crossandean
+151423,chip1262,GRASS,tʃʼ oi ɲ a,199,crossandean
+151424,cusc1236,GRASS,q u r a,197,crossandean
+151425,hual1241,GRASS,tʃ u q u,200,crossandean
+151426,huay1241,GRASS,q u l a,197,crossandean
+151427,huay1241,GRASS,h i w a,198,crossandean
+151428,imba1240,GRASS,x i w a,198,crossandean
+151429,lamb1276,GRASS,χ i w a,198,crossandean
+151430,jaqa1244,GRASS,j e r b a,202,crossandean
+151431,cauq1239,GRASS,q i w a,198,crossandean
+151432,sanm1289,GRASS,k i w a,198,crossandean
+151433,sanm1289,GRASS,w ai dʑ a,204,crossandean
+151434,yauy1235,GRASS,q i w a,198,crossandean
+151435,sout2991,GRASS,q u r a,197,crossandean
+151436,napo1242,GRASS,k i w a,198,crossandean
+151437,paca1245,GRASS,χ e w a,198,crossandean
+151438,sout2990,GRASS,k i w a,198,crossandean
+151439,puno1238,GRASS,q u r a,197,crossandean
+151440,inga1252,GRASS,u x s a,201,crossandean
+151441,sant1432,GRASS,j u j u,203,crossandean
+151442,tena1240,GRASS,k i w a,198,crossandean
+151443,coro1247,GRASS,q u r a,197,crossandean
+151444,east2551,FLOWER,t i k a,149,crossandean
+151445,east2551,FLOWER,w ai t a,146,crossandean
+151446,ayac1239,FLOWER,w ai t a,146,crossandean
+151447,chac1250,FLOWER,w ai t a,146,crossandean
+151448,caja1238,FLOWER,t u k t u,147,crossandean
+151449,chip1262,FLOWER,p a qʰ a ʎ a,148,crossandean
+151450,cusc1236,FLOWER,tʼ i k a,149,crossandean
+151451,hual1241,FLOWER,t u k t u,147,crossandean
+151452,huay1241,FLOWER,w ai t a,146,crossandean
+151453,huay1241,FLOWER,s i s a,150,crossandean
+151454,imba1240,FLOWER,s i s a,150,crossandean
+151455,lamb1276,FLOWER,t u k t u,147,crossandean
+151456,jaqa1244,FLOWER,w ai t a,146,crossandean
+151457,cauq1239,FLOWER,w ai t j a,146,crossandean
+151458,sanm1289,FLOWER,s i s a,150,crossandean
+151459,yauy1235,FLOWER,w ai t a,146,crossandean
+151460,sout2991,FLOWER,tʼ i k a,149,crossandean
+151461,napo1242,FLOWER,s i s a,150,crossandean
+151462,paca1245,FLOWER,w ai tʃ a,146,crossandean
+151463,sout2990,FLOWER,s i s a,150,crossandean
+151464,puno1238,FLOWER,tʼ i k a,149,crossandean
+151465,inga1252,FLOWER,t u x t u,147,crossandean
+151466,sant1432,FLOWER,s i s a,150,crossandean
+151467,tena1240,FLOWER,s i s a,150,crossandean
+151468,coro1247,FLOWER,w eː t a,146,crossandean
+151469,east2551,ROPE,w a s k a,393,crossandean
+151470,ayac1239,ROPE,w a s k a,393,crossandean
+151471,chac1250,ROPE,w a s k a,393,crossandean
+151472,caja1238,ROPE,w a s k a,393,crossandean
+151473,chip1262,ROPE,q u tʃ,395,crossandean
+151474,chip1262,ROPE,tʃ i k i,397,crossandean
+151475,chip1262,ROPE,m o l o qʼ o,398,crossandean
+151476,cusc1236,ROPE,w a s kʰ a,393,crossandean
+151477,hual1241,ROPE,w a s k a,393,crossandean
+151478,huay1241,ROPE,w a s k a,393,crossandean
+151479,imba1240,ROPE,w a s k a,393,crossandean
+151480,lamb1276,ROPE,w a s k a,393,crossandean
+151481,jaqa1244,ROPE,tʃ a w a r a,396,crossandean
+151482,cauq1239,ROPE,ɲ a q a j a,394,crossandean
+151483,sanm1289,ROPE,w a s k a,393,crossandean
+151484,yauy1235,ROPE,w a s k a,393,crossandean
+151485,sout2991,ROPE,w a ʃ kʰ a,393,crossandean
+151486,napo1242,ROPE,w a s k a,393,crossandean
+151487,paca1245,ROPE,w a s k a,393,crossandean
+151488,sout2990,ROPE,w a s k a,393,crossandean
+151489,puno1238,ROPE,w i s kʰ a,393,crossandean
+151490,inga1252,ROPE,w a s k a,393,crossandean
+151491,sant1432,ROPE,w a s k a,393,crossandean
+151492,tena1240,ROPE,w a s k a,393,crossandean
+151493,coro1247,ROPE,w a s k a,393,crossandean
+151494,east2551,ROAD,ɲ a n,384,crossandean
+151495,ayac1239,ROAD,ɲ a ŋ,384,crossandean
+151496,chac1250,ROAD,ɲ a n,384,crossandean
+151497,caja1238,ROAD,ɲ a n,384,crossandean
+151498,chip1262,ROAD,h i k z,385,crossandean
+151499,cusc1236,ROAD,ɲ a n,384,crossandean
+151500,hual1241,ROAD,n aː n i,384,crossandean
+151501,huay1241,ROAD,p u l i + n a,386,crossandean
+151502,imba1240,ROAD,ɲ a n,384,crossandean
+151503,jaqa1244,ROAD,tʰ a k i,385,crossandean
+151504,cauq1239,ROAD,ʈʂ a k i,385,crossandean
+151505,sanm1289,ROAD,ɲ a n,384,crossandean
+151506,yauy1235,ROAD,k a m i n u,387,crossandean
+151507,sout2991,ROAD,j a n,384,crossandean
+151508,napo1242,ROAD,ɲ a m + b i,384,crossandean
+151509,sout2990,ROAD,ɲ a m + b i,384,crossandean
+151510,sout2990,ROAD,ʈʂ u tʃ a,388,crossandean
+151511,puno1238,ROAD,ɲ a n,384,crossandean
+151512,inga1252,ROAD,ɲ a m + b i,384,crossandean
+151513,sant1432,ROAD,ɲ a n,384,crossandean
+151514,tena1240,ROAD,ɲ a n,384,crossandean
+151515,coro1247,ROAD,n aː n i,384,crossandean
+151516,east2551,BLACK,j a n a,25,crossandean
+151517,ayac1239,BLACK,j a n a,25,crossandean
+151518,chac1250,BLACK,j a n a,25,crossandean
+151519,caja1238,BLACK,j a n a,25,crossandean
+151520,chip1262,BLACK,ts o k,27,crossandean
+151521,cusc1236,BLACK,j a n a,25,crossandean
+151522,hual1241,BLACK,j a n a,25,crossandean
+151523,huay1241,BLACK,j a n a,25,crossandean
+151524,imba1240,BLACK,j a n a,25,crossandean
+151525,lamb1276,BLACK,j a n a,25,crossandean
+151526,jaqa1244,BLACK,tsʼ i r a r a,26,crossandean
+151527,cauq1239,BLACK,ʈʂʼ i r a r a,26,crossandean
+151528,sanm1289,BLACK,j a n a,25,crossandean
+151529,yauy1235,BLACK,j a n a,25,crossandean
+151530,sout2991,BLACK,j a n a,25,crossandean
+151531,napo1242,BLACK,j a n a,25,crossandean
+151532,paca1245,BLACK,j a n a,25,crossandean
+151533,sout2990,BLACK,j a n a,25,crossandean
+151534,puno1238,BLACK,j a n a,25,crossandean
+151535,inga1252,BLACK,j a n a,25,crossandean
+151536,sant1432,BLACK,j a n a,25,crossandean
+151537,tena1240,BLACK,j a n a,25,crossandean
+151538,coro1247,BLACK,j a n a,25,crossandean
+151539,east2551,WHITE,j u r a q,562,crossandean
+151540,ayac1239,WHITE,j u ɾ a χ,562,crossandean
+151541,chac1250,WHITE,j u r a k,562,crossandean
+151542,caja1238,WHITE,j u r a q,562,crossandean
+151543,chip1262,WHITE,tʃ i w i,564,crossandean
+151544,cusc1236,WHITE,j u r a χ,562,crossandean
+151545,hual1241,WHITE,j u r a χ,562,crossandean
+151546,huay1241,WHITE,j u l a ʔ,562,crossandean
+151547,imba1240,WHITE,j u ɾ a x,562,crossandean
+151548,lamb1276,WHITE,j u r a q,562,crossandean
+151549,jaqa1244,WHITE,h a n qʼ u,563,crossandean
+151550,cauq1239,WHITE,h a n qʼ u,563,crossandean
+151551,sanm1289,WHITE,j u r a k,562,crossandean
+151552,yauy1235,WHITE,j u r a χ,562,crossandean
+151553,sout2991,WHITE,j u r a χ,562,crossandean
+151554,napo1242,WHITE,r u j a χ,562,crossandean
+151555,paca1245,WHITE,j u ɾ a χ,562,crossandean
+151556,sout2990,WHITE,j u r a,562,crossandean
+151557,puno1238,WHITE,j u r a χ,562,crossandean
+151558,inga1252,WHITE,j u r a,562,crossandean
+151559,sant1432,WHITE,j u ɾ a χ,562,crossandean
+151560,tena1240,WHITE,j u r a x,562,crossandean
+151561,coro1247,WHITE,j u r a q,562,crossandean
+151562,east2551,RED,p u k a,370,crossandean
+151563,ayac1239,RED,p u k a,370,crossandean
+151564,chac1250,RED,p u k a,370,crossandean
+151565,caja1238,RED,tʃ u p i k a,370,crossandean
+151566,chip1262,RED,l j o k,372,crossandean
+151567,cusc1236,RED,p u k a,370,crossandean
+151568,hual1241,RED,p u k a,370,crossandean
+151569,huay1241,RED,p u k a,370,crossandean
+151570,imba1240,RED,p u k a,370,crossandean
+151571,lamb1276,RED,tʃ u p i k a,370,crossandean
+151572,jaqa1244,RED,tʃ u k a p a,371,crossandean
+151573,cauq1239,RED,tʃ u k i p i,371,crossandean
+151574,sanm1289,RED,p u k a,370,crossandean
+151575,yauy1235,RED,p u k a,370,crossandean
+151576,sout2991,RED,p u k a,370,crossandean
+151577,napo1242,RED,p u k a,370,crossandean
+151578,paca1245,RED,p u k a,370,crossandean
+151579,sout2990,RED,p u k a,370,crossandean
+151580,puno1238,RED,p u k a,370,crossandean
+151581,inga1252,RED,p i tʃ i,373,crossandean
+151582,inga1252,RED,p u k a,370,crossandean
+151583,sant1432,RED,p u x a,370,crossandean
+151584,tena1240,RED,p u k a,370,crossandean
+151585,coro1247,RED,p u k a,370,crossandean
+151586,chip1262,ROAD,h i k z a,385,crossandean
+151587,caja1238,SUCK,ɲ u ɲ u,489,crossandean
+151588,jauj1238,ASH,u ʈʂ p a,1,crossandean
+151589,jauj1238,BACK,w a ʂ a,4,crossandean
+151590,jauj1238,SICK,h i ʃ j a,424,crossandean
+151591,jauj1238,WATER,j a k u,552,crossandean
+151592,jauj1238,YEAR,w a t a,588,crossandean
+151593,jauj1238,TREE,s a ʈʂ a,528,crossandean
+151594,jauj1238,SAND,a ʔ u,401,crossandean
+151595,jauj1238,UP,s a n a,542,crossandean
+151596,jauj1238,BELLY,p a t a,11,crossandean
+151597,jauj1238,BIG,h a t u n,13,crossandean
+151598,jauj1238,BIRD,p i ʃ ʔ u,17,crossandean
+151599,jauj1238,BITE,k a n i,21,crossandean
+151600,jauj1238,BLACK,j a n a,25,crossandean
+151601,jauj1238,BLOOD,j a w a r,28,crossandean
+151602,jauj1238,BONE,t u ʎ u,31,crossandean
+151603,jauj1238,BRANCH,tʃ a p l a,39,crossandean
+151604,jauj1238,BREAD,t a n t a,40,crossandean
+151605,jauj1238,BROTHER (OF MAN),w au ʔ i,46,crossandean
+151606,jauj1238,BROTHER (OF WOMAN),t u l i,53,crossandean
+151607,jauj1238,CLOUD,p u k u t ai,60,crossandean
+151608,jauj1238,COLD,a l a l a ʔ,65,crossandean
+151609,jauj1238,COME,ai w a + m u,70,crossandean
+151610,jauj1238,CRY,w a ʔ ai,71,crossandean
+151611,jauj1238,DAY (NOT NIGHT),p u n,74,crossandean
+151612,jauj1238,DIE,w a ɲ u,79,crossandean
+151613,jauj1238,DOG,a ʎ ʔ u,83,crossandean
+151614,jauj1238,DRINK,u p j a,86,crossandean
+151615,jauj1238,DRY,tʃ a k i,89,crossandean
+151616,jauj1238,EAR,l i n l i,91,crossandean
+151617,jauj1238,EAT,m i k u,94,crossandean
+151618,jauj1238,EGG,l u l u,99,crossandean
+151619,jauj1238,EIGHT,p u s a ʔ,102,crossandean
+151620,jauj1238,ELBOW,k u ʈʂ u ʂ,105,crossandean
+151621,jauj1238,EMPTY,h a l k u + ʂ a,116,crossandean
+151622,jauj1238,EYE,ɲ a w i,118,crossandean
+151623,jauj1238,FAR,k a l u,126,crossandean
+151624,jauj1238,FAT (ORGANIC SUBSTANCE),w i l a,132,crossandean
+151625,jauj1238,FINGERNAIL,ʃ i ʎ u,137,crossandean
+151626,jauj1238,FIRE,n i n a,139,crossandean
+151627,jauj1238,FIVE,p i tʃ ʔ a,141,crossandean
+151628,jauj1238,FLOWER,s i s a,150,crossandean
+151629,jauj1238,FLOWER,w ai t a,146,crossandean
+151630,jauj1238,FLY (MOVE THROUGH AIR),p aː l i,152,crossandean
+151631,jauj1238,FOOT,ʈʂ a k i,157,crossandean
+151632,jauj1238,FOREHEAD,u l k u,160,crossandean
+151633,jauj1238,FOREHEAD,p a ʔ ʈʂ a,161,crossandean
+151634,jauj1238,FOUR,ʈʂ u s k u,169,crossandean
+151635,jauj1238,FOUR,t a w a,168,crossandean
+151636,jauj1238,FOX,a t u ʔ,173,crossandean
+151637,jauj1238,FULL,h u n t a,178,crossandean
+151638,jauj1238,GIVE,ʔ u,188,crossandean
+151639,jauj1238,HAIR (HEAD),a ʔ tʃ a,210,crossandean
+151640,jauj1238,HAND,m a k i,213,crossandean
+151641,jauj1238,HAPPY,k u ʃ i + ʎ a,216,crossandean
+151642,jauj1238,HEAD,u m a,217,crossandean
+151643,jauj1238,HEAR,u j a,221,crossandean
+151644,jauj1238,HEART,ʂ u n ʔ u,225,crossandean
+151645,jauj1238,HEAVY,ʎ a s a ʔ,227,crossandean
+151646,jauj1238,HIDE (CONCEAL),p a k a,231,crossandean
+151647,jauj1238,STRIKE,m a ʔ a,483,crossandean
+151648,jauj1238,HORN (ANATOMY),w a ʔ l a,234,crossandean
+151649,jauj1238,KNOW (SOMETHING),j a ʈʂ a,251,crossandean
+151650,jauj1238,LEAF,l a p l a,257,crossandean
+151651,jauj1238,LEG,ʈʂ a n k a,265,crossandean
+151652,jauj1238,LICK,ʎ a ʔ w a,268,crossandean
+151653,jauj1238,LIP,w i ʎ p a,285,crossandean
+151654,jauj1238,BE ALIVE,k au s a,7,crossandean
+151655,jauj1238,LOUSE,u s a,288,crossandean
+151656,jauj1238,PERSON,n u n a,359,crossandean
+151657,jauj1238,MAN,u ʎ ʔ u,295,crossandean
+151658,jauj1238,MANY,a tʃ k a,297,crossandean
+151659,jauj1238,FLESH OR MEAT,ai tʃ a,143,crossandean
+151660,jauj1238,MOON,k i ʎ a,305,crossandean
+151661,jauj1238,MOUNTAIN,u l ʔ u,308,crossandean
+151662,jauj1238,MOUSE,u k u + ʂ,313,crossandean
+151663,jauj1238,MOUTH,ʃ i m i,316,crossandean
+151664,jauj1238,NAME,s u t i,318,crossandean
+151665,jauj1238,NAVEL,p u p u,320,crossandean
+151666,jauj1238,NECK,k u n k a,324,crossandean
+151667,jauj1238,NEW,m u ʂ u ʔ,326,crossandean
+151668,jauj1238,NIGHT,t u t a,329,crossandean
+151669,jauj1238,NINE,i s ʔ u n,335,crossandean
+151670,jauj1238,NOSE,s i n ʔ a,339,crossandean
+151671,jauj1238,NOT,m a n a,342,crossandean
+151672,jauj1238,OLD (OF MAN),au k i ʃ,348,crossandean
+151673,jauj1238,OLD (OF WOMAN),tʃ a k w a ʂ,353,crossandean
+151674,jauj1238,PUSH,k u m s a,364,crossandean
+151675,jauj1238,PUSH,t a n ʔ a,363,crossandean
+151676,jauj1238,RAINING OR RAIN,t a m j a,368,crossandean
+151677,jauj1238,RED,p u k a,370,crossandean
+151678,jauj1238,RIVER,m a j u,380,crossandean
+151679,jauj1238,ROPE,w a s k a,393,crossandean
+151680,jauj1238,SALT,k a ʈʂ i,399,crossandean
+151681,jauj1238,SEE,l i k a,406,crossandean
+151682,jauj1238,SISTER (OF MAN),p a n i,428,crossandean
+151683,jauj1238,SISTER (OF WOMAN),ɲ a ɲ a,432,crossandean
+151684,jauj1238,SIX,s u ʔ t a,445,crossandean
+151685,jauj1238,SLEEP,p u ɲ u,450,crossandean
+151686,jauj1238,SMALL,t a k ʂ a,453,crossandean
+151687,jauj1238,SMALL,u tʃ u k,455,crossandean
+151688,jauj1238,SPEAK,l i m a,464,crossandean
+151689,jauj1238,SPIT,t u ʔ a,468,crossandean
+151690,jauj1238,STONE,l u m i,479,crossandean
+151691,jauj1238,SUCK,ɲ u ɲ u,489,crossandean
+151692,jauj1238,SUN,i n t i,492,crossandean
+151693,jauj1238,SWEET,m i ʃ k i,496,crossandean
+151694,jauj1238,TAIL,ʈʂ u p a,503,crossandean
+151695,jauj1238,TEN,ʈʂ u n k a,506,crossandean
+151696,jauj1238,THIS,k ai,514,crossandean
+151697,jauj1238,THOU,q a m,516,crossandean
+151698,jauj1238,THREE,k i m s a,520,crossandean
+151699,jauj1238,GET TIRED,u t i k a,187,crossandean
+151700,jauj1238,TONGUE,h a ʎ u,522,crossandean
+151701,jauj1238,TOOTH,k i l u,525,crossandean
+151702,jauj1238,TWO,i ʃ k ai,539,crossandean
+151703,jauj1238,WALK,p u l i,549,crossandean
+151704,jauj1238,HOT OR WARM,a k a ʈʂ a q,242,crossandean
+151705,jauj1238,WHAT,i m a,559,crossandean
+151706,jauj1238,WHITE,j u l a ʔ,562,crossandean
+151707,jauj1238,WHO,p i,565,crossandean
+151708,jauj1238,WIND,w ai w a,569,crossandean
+151709,jauj1238,WOMAN,w a l m i,582,crossandean
+151710,jauj1238,YOUNG (OF WOMAN),w a m l a,607,crossandean
+151711,jauj1238,YOUNG (OF MAN),w a l a ʂ,595,crossandean
+151712,huay1241,SUCK,ʃ o q u,488,crossandean
+151713,jauj1238,SUCK,ʃ o q u,488,crossandean
+151714,huay1241,BREAST,tʃ i tʃ i,42,crossandean
+151715,jauj1238,GRASS,q u l a,197,crossandean
+151716,jauj1238,GRASS,q i w a,198,crossandean
+151717,jauj1238,UP,w i tʃ a n,546,crossandean
+151718,jauj1238,GOLD,q u r i,195,crossandean
+151719,jauj1238,THINK (REFLECT),j a l p a,510,crossandean
+151720,jauj1238,WORM,k u l u,584,crossandean
+151721,tena1240,KNEE,k u n g u r i,249,crossandean
+151722,east2551,YELLOW,q i ʎ u,590,crossandean
+151723,paca1245,SUN,r u p ai,493,crossandean
+151724,caja1238,STRIKE,m a q a,483,crossandean
+151725,sanm1289,NOT,m a n a,342,crossandean
+151726,jauj1238,SKIN,u t a,449,crossandean
+151727,hual1241,GRASS,q e w a,198,crossandean
+151728,hual1241,STRIKE,m a q a,483,crossandean
+151729,east2551,GET TIRED,s ai kʼ u,184,crossandean
